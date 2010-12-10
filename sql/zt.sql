@@ -471,6 +471,7 @@ CREATE TABLE `CHARTEST` (
 
 /*!40000 ALTER TABLE `CHARTEST` DISABLE KEYS */;
 LOCK TABLES `CHARTEST` WRITE;
+INSERT INTO `CHARTEST` VALUES ('single',100,0,0,0,0,0,0,0,0,0,0,0,0,1000);
 UNLOCK TABLES;
 /*!40000 ALTER TABLE `CHARTEST` ENABLE KEYS */;
 
@@ -739,6 +740,7 @@ CREATE TABLE `EMPERORFORBID` (
 
 /*!40000 ALTER TABLE `EMPERORFORBID` DISABLE KEYS */;
 LOCK TABLES `EMPERORFORBID` WRITE;
+INSERT INTO `EMPERORFORBID` VALUES ('');
 UNLOCK TABLES;
 /*!40000 ALTER TABLE `EMPERORFORBID` ENABLE KEYS */;
 
@@ -815,6 +817,7 @@ CREATE TABLE `GAMETIME` (
 
 /*!40000 ALTER TABLE `GAMETIME` DISABLE KEYS */;
 LOCK TABLES `GAMETIME` WRITE;
+INSERT INTO `GAMETIME` VALUES (877200);
 UNLOCK TABLES;
 /*!40000 ALTER TABLE `GAMETIME` ENABLE KEYS */;
 
@@ -1439,6 +1442,7 @@ CREATE TABLE `TECH` (
 
 /*!40000 ALTER TABLE `TECH` DISABLE KEYS */;
 LOCK TABLES `TECH` WRITE;
+INSERT INTO `TECH` VALUES (1,2,2,'Æ¤¼×Àà·þ×°',0,0,'',1,0),(2,2,3,'îø¼×Àà·þ×°',0,0,'',1,0),(3,2,4,'µ¶¶ÜÀà',0,0,'',1,0),(4,2,5,'¹­Àà',0,0,'',1,0),(5,2,6,'¹÷Àà',0,0,'',1,0),(6,2,7,'ÕÈÀà',0,0,'',1,0),(7,2,8,'ÉÈÀà',0,0,'',1,0),(8,2,9,'ÏîÁ´Àà',0,0,'',1,0),(9,2,10,'½äÖ¸Àà',0,0,'',1,0),(10,2,11,'»¤ÍóÀà',0,0,'',1,0),(11,2,12,'Ñü´øÀà',0,0,'',1,0),(12,2,13,'Ð¬×ÓÀà',0,0,'',1,0),(13,2,14,'Í·¿øÀà',0,0,'',1,0),(14,3,1,'²¼ÁÏÀà·þ×°',0,0,'',1,0),(15,3,2,'Æ¤¼×Àà·þ×°',0,0,'',1,0),(16,3,3,'îø¼×Àà·þ×°',0,0,'',1,0),(17,3,4,'µ¶¶ÜÀà',0,0,'',1,0),(18,3,5,'¹­Àà',0,0,'',1,0),(19,3,6,'¹÷Àà',0,0,'',1,0),(20,3,7,'ÕÈÀà',0,0,'',1,0),(21,3,8,'ÉÈÀà',0,0,'',1,0),(22,3,9,'ÏîÁ´Àà',0,0,'',1,0),(23,3,10,'½äÖ¸Àà',0,0,'',1,0),(24,3,11,'»¤ÍóÀà',0,0,'',1,0),(25,3,12,'Ñü´øÀà',0,0,'',1,0),(26,3,13,'Ð¬×ÓÀà',0,0,'',1,0),(27,3,14,'Í·¿øÀà',0,0,'',1,0),(28,4,1,'²¼ÁÏÀà·þ×°',0,0,'',1,0),(29,4,2,'Æ¤¼×Àà·þ×°',0,0,'',1,0),(30,4,3,'îø¼×Àà·þ×°',0,0,'',1,0),(31,4,4,'µ¶¶ÜÀà',0,0,'',1,0),(32,4,5,'¹­Àà',0,0,'',1,0),(33,4,6,'¹÷Àà',0,0,'',1,0),(34,4,7,'ÕÈÀà',0,0,'',1,0),(35,4,8,'ÉÈÀà',0,0,'',1,0),(36,4,9,'ÏîÁ´Àà',0,0,'',1,0),(37,4,10,'½äÖ¸Àà',0,0,'',1,0),(38,4,11,'»¤ÍóÀà',0,0,'',1,0),(39,4,12,'Ñü´øÀà',0,0,'',1,0),(40,4,13,'Ð¬×ÓÀà',0,0,'',1,0),(41,4,14,'Í·¿øÀà',0,0,'',1,0);
 UNLOCK TABLES;
 /*!40000 ALTER TABLE `TECH` ENABLE KEYS */;
 
@@ -1584,6 +1588,7 @@ CREATE TABLE `ZONEINFO` (
 
 /*!40000 ALTER TABLE `ZONEINFO` DISABLE KEYS */;
 LOCK TABLES `ZONEINFO` WRITE;
+INSERT INTO `ZONEINFO` VALUES (1182538766);
 UNLOCK TABLES;
 /*!40000 ALTER TABLE `ZONEINFO` ENABLE KEYS */;
 
