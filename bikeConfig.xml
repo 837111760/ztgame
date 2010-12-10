@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="GB2312"?>
+<biketournament>
+	<global>
+		<!--24点请配置成0点-->
+		<starttime>11:00:01-12:00:01</starttime>
+		<starttime>19:40:01-21:40:01</starttime>
+		<!--endtime>21:40:01</endtime-->
+		<!--要与config.xml中bikemapname一致-->
+		<bikemapname>中立区·世外桃源</bikemapname>
+		<round>2</round>
+	</global>
+	<!--the number of npcs -->
+	<npc num="8">
+                <addnpc no="1" npcid="5203" ltpos="143,299" rbpos="145,301"  talk="我是1号赛车女郎，小样，加油哦"/>
+                <addnpc no="2" npcid="5204" ltpos="260,390" rbpos="262,392"  talk="我是2号赛车女郎，小样，加油哦"/>
+                <addnpc no="3" npcid="5205" ltpos="306,179" rbpos="308,181"  talk="我是3号赛车女郎，小样，加油哦"/>
+                <addnpc no="4" npcid="5206" ltpos="265,64" rbpos="267,66"  talk="我是4号赛车女郎，小样，加油哦"/>
+                <addnpc no="5" npcid="5207" ltpos="173,79" rbpos="175,81"  talk="我是5号赛车女郎，小样，加油哦"/>
+                <addnpc no="6" npcid="5208" ltpos="107,131" rbpos="109,133"  talk="我是6号赛车女郎，小样，加油哦"/>
+                <addnpc no="7" npcid="5209" ltpos="42,193" rbpos="44,195"  talk="我是7号赛车女郎，小样，加油哦"/>
+                <addnpc no="8" npcid="5210" ltpos="114,255" rbpos="116,257"  talk="我是8号赛车女郎，小样，加油哦"/>
+        </npc>
+	<objects>
+		<!--按id升序排列，这里是为了配置清晰,percent: 获得的百分比, scope: 影响的玩家数, lasttime: 持续影响时间-->
+		<object id="944" name="找不着北" percent="10" scope="10" lasttime="3"/>
+		<object id="945" name="摔倒" percent="30" scope="10" lasttime="3"/>
+		<object id="946" name="失明" percent="10" scope="10" lasttime="5"/>
+		<object id="947" name="混乱" percent="10" scope="10" lasttime="3"/>
+		<object id="948" name="加速" percent="50" scope="10" lasttime="8"/>
+		<object id="949" name="定身" percent="30" scope="10" lasttime="3"/>
+	</objects>
+	<!--默认的经验系数-->
+	<addexp default="200">
+		<exp place="1-1" value="500"/>
+		<exp place="2-2" value="450"/>
+		<exp place="3-3" value="400"/>
+		<exp place="4-10" value="300"/>
+		<exp place="11-50" value="250"/>
+	</addexp>
+	<!--根据名次给道具-->
+	<reward id="957" upgrade="2">
+		<obj id="957" upgrade="4" place="1-1"/>
+		<obj id="957" upgrade="3" place="2-3"/>
+	</reward>
+</biketournament>

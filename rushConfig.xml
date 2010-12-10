@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="GB2312"?>
+<!--怪物攻城参数-->
+<Config>
+	<Rush rushID="9">
+		<timer startTime="20060821 19:45:00" interval="10080" time="0"/>
+		<broadcast time="60" str="怪物攻城还有1小时开始"/>
+		<broadcast time="30" str="怪物攻城还有30分钟开始"/>
+		<broadcast time="10" str="怪物攻城还有10分钟开始"/>
+		<broadcast time="1" str="怪物攻城还有1分钟开始"/>
+		<map mapID="102"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+	</Rush>
+	<Rush rushID="11">
+		<timer startTime="20060821 21:45:00" interval="10080" time="0"/>
+		<broadcast time="30" str="怪物攻城还有30分钟就结束了"/>
+		<broadcast time="1" str="怪物攻城马上就要结束了，下周同一时间勇士们请继续为家园而战吧"/>
+		<map mapID="102"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+	</Rush>
+	<Rush rushID="9">
+		<timer startTime="20060825 19:45:00" interval="10080" time="0"/>
+		<broadcast time="60" str="怪物攻城还有1小时开始"/>
+		<broadcast time="30" str="怪物攻城还有30分钟开始"/>
+		<broadcast time="10" str="怪物攻城还有10分钟开始"/>
+		<broadcast time="1" str="怪物攻城还有1分钟开始"/>
+		<map mapID="102"/>
+		<country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+	</Rush>
+	<Rush rushID="11">
+		<timer startTime="20060825 21:45:00" interval="10080" time="0"/>
+		<broadcast time="30" str="怪物攻城还有30分钟就结束了"/>
+		<broadcast time="1" str="怪物攻城马上就要结束了，下周同一时间勇士们请继续为家园而战吧"/>
+		<map mapID="102"/>
+		<country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+	</Rush>
+	<Rush rushID="10">
+		<timer startTime="20060821 19:45:00" interval="10080" time="0"/>
+		<broadcast time="60" str="怪物攻城还有1小时开始"/>
+		<broadcast time="30" str="怪物攻城还有30分钟开始"/>
+		<broadcast time="10" str="怪物攻城还有10分钟开始"/>
+		<broadcast time="1" str="怪物攻城还有1分钟开始"/>
+		<map mapID="139"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+	</Rush>
+	<Rush rushID="12">
+		<timer startTime="20060821 21:45:00" interval="10080" time="0"/>
+		<broadcast time="30" str="怪物攻城还有30分钟就结束了"/>
+		<broadcast time="1" str="怪物攻城马上就要结束了，下周同一时间勇士们请继续为家园而战吧"/>
+		<map mapID="139"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+	</Rush>
+	<Rush rushID="10">
+		<timer startTime="20060825 19:45:00" interval="10080" time="0"/>
+		<broadcast time="60" str="怪物攻城还有1小时开始"/>
+		<broadcast time="30" str="怪物攻城还有30分钟开始"/>
+		<broadcast time="10" str="怪物攻城还有10分钟开始"/>
+		<broadcast time="1" str="怪物攻城还有1分钟开始"/>
+		<map mapID="139"/>
+		<country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+	</Rush>
+	<Rush rushID="12">
+		<timer startTime="20060825 21:45:00" interval="10080" time="0"/>
+		<broadcast time="30" str="怪物攻城还有30分钟就结束了"/>
+		<broadcast time="1" str="怪物攻城马上就要结束了，下周同一时间勇士们请继续为家园而战吧"/>
+		<map mapID="139"/>
+		<country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+	</Rush>
+	<Rush rushID="13">
+		<timer startTime="20061001 19:40:05" interval="1440" time="0"/>
+		<broadcast time="30" str="自行车越野大赛还有30分钟开始，MMORPG里真正的竟速比赛！"/>
+		<broadcast time="20" str="自行车越野大赛还有20分钟开始，好玩，精彩，刺激，你心动了吗"/>
+		<broadcast time="10" str="自行车越野大赛还有10分钟开始，请各位新老玩家做好准备"/>
+		<broadcast time="1" str="自行车越野大赛还有1分钟开始，找自行车赛发令员参加哦"/>
+		<map mapID="101"/>
+	</Rush>
+	<!--Rush rushID="31">
+		<timer startTime="20061001 18:00:00" interval="6000000" time="1"/>
+		<broadcast time="30" str="国庆嫦娥活动活动还有30分钟开始，丰厚经验奖励等你来拿！"/>
+		<broadcast time="20" str="国庆嫦娥活动还有20分钟开始，想疯狂升级的玩家赶快啊"/>
+		<broadcast time="10" str="国庆嫦娥活动还有10分钟开始，请各位新老玩家做好准备"/>
+		<broadcast time="1" str="国庆嫦娥活动还有1分钟开始，还是老地方哦"/>
+		<map mapID="101"/>
+	</Rush>
+	<Rush rushID="16">
+		<timer startTime="20061001 18:00:00" interval="1440000" time="5"/>
+		<map mapID="101"/>
+		<country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+	</Rush>
+	<Rush rushID="17">
+		<timer startTime="20061001 18:00:00" interval="1440000" time="5"/>
+		<map mapID="102"/>
+		<country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+	</Rush>
+	<Rush rushID="18">
+		<timer startTime="20061001 18:00:00" interval="1440000" time="5"/>
+		<map mapID="139"/>
+		<country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+	</Rush>
+	<Rush rushID="19">
+		<timer startTime="20061001 18:00:00" interval="1440000" time="5"/>
+		<map mapID="134"/>
+		<country countryID="6"/>
+	</Rush>
+	<Rush rushID="23">
+		<timer startTime="20061006 00:00:01" interval="1200000" time="24"/>
+		<map mapID="101"/>
+		<country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+	</Rush>
+	<Rush rushID="24">
+		<timer startTime="20061006 00:00:01" interval="1200000" time="24"/>
+		<map mapID="102"/>
+		<country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+	</Rush>
+	<Rush rushID="25">
+		<timer startTime="20061006 00:00:01" interval="1200000" time="24"/>
+		<map mapID="139"/>
+		<country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+	</Rush>
+	<Rush rushID="26">
+		<timer startTime="20061006 00:00:01" interval="1200000" time="24"/>
+		<map mapID="134"/>
+		<country countryID="6"/>
+	</Rush>
+	<Rush rushID="34">
+		<timer startTime="20061006 00:00:01" interval="1200000" time="24"/>
+		<broadcast time="5" str="金怪玉兔还有5分钟就出现了，大家做好准备，就在玉兔出现的老地方哦"/>
+		<map mapID="101"/>
+	</Rush>
+	<Rush rushID="27">
+		<timer startTime="20061006 00:00:01" interval="1200000" time="24"/>
+		<map mapID="101"/>
+		<country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+	</Rush>
+	<Rush rushID="28">
+		<timer startTime="20061006 00:00:01" interval="1200000" time="24"/>
+		<map mapID="102"/>
+		<country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+	</Rush>
+	<Rush rushID="29">
+		<timer startTime="20061006 00:00:01" interval="1200000" time="24"/>
+		<map mapID="139"/>
+		<country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+	</Rush>
+	<Rush rushID="30">
+		<timer startTime="20061006 00:00:01" interval="1200000" time="24"/>
+		<map mapID="134"/>
+		<country countryID="6"/>
+	</Rush>
+	<Rush rushID="20">
+		<timer startTime="20061001 00:00:01" interval="36000000" time="28"/>
+		<map mapID="101"/>
+		<country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+	</Rush>
+	<Rush rushID="21">
+		<timer startTime="20061001 00:00:01" interval="36000000" time="28"/>
+		<map mapID="102"/>
+		<country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+	</Rush>
+	<Rush rushID="22">
+		<timer startTime="20061001 00:00:01" interval="36000000" time="28"/>
+		<map mapID="139"/>
+		<country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+	</Rush>
+	<Rush rushID="33">
+		<timer startTime="20061012 17:00:01" interval="60000" time="1"/>
+		<broadcast time="30" str="神五航天安全采集活动活动还有30分钟开始，安全采集等待您的参与！"/>
+		<broadcast time="20" str="神五航天安全采集活动还有20分钟开始，装备，技能书，经验，任务任你拿"/>
+		<broadcast time="10" str="神五航天安全采集活动还有10分钟开始，请各位新老玩家做好准备"/>
+		<broadcast time="1" str="神五航天安全采集活动还有1分钟开始，还是老地方哦"/>
+		<map mapID="101"/>
+	</Rush>
+	<Rush rushID="40">
+		<timer startTime="20061012 17:00:01" interval="60" time="79"/>
+		<map mapID="101"/>
+		<country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+	</Rush>
+	<Rush rushID="41">
+		<timer startTime="20061012 17:00:01" interval="60" time="79"/>
+		<map mapID="102"/>
+		<country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+	</Rush>
+	<Rush rushID="42">
+		<timer startTime="20061012 17:00:01" interval="60" time="79"/>
+		<map mapID="139"/>
+		<country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+	</Rush>
+	<Rush rushID="43">
+		<timer startTime="20061012 17:00:01" interval="60" time="79"/>
+		<map mapID="101"/>
+		<country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+	</Rush>
+	<Rush rushID="44">
+		<timer startTime="20061012 17:00:01" interval="60" time="79"/>
+		<map mapID="102"/>
+		<country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+	</Rush>
+	<Rush rushID="45">
+		<timer startTime="20061012 17:00:01" interval="60" time="79"/>
+		<map mapID="139"/>
+		<country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+	</Rush>
+	<Rush rushID="46">
+		<timer startTime="20061012 18:00:01" interval="120" time="39"/>
+		<map mapID="101"/>
+		<country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+	</Rush>
+	<Rush rushID="47">
+		<timer startTime="20061012 18:00:01" interval="120" time="39"/>
+		<map mapID="102"/>
+		<country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+	</Rush>
+	<Rush rushID="48">
+		<timer startTime="20061012 18:00:01" interval="120" time="39"/>
+		<map mapID="139"/>
+		<country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+	</Rush>
+	<Rush rushID="49">
+		<timer startTime="20061012 17:00:01" interval="60" time="79"/>
+		<map mapID="101"/>
+        <country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+	</Rush>
+	<Rush rushID="50">
+		<timer startTime="20061012 17:00:01" interval="60" time="79"/>
+		<map mapID="102"/>
+        <country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+	</Rush>
+	<Rush rushID="51">
+		<timer startTime="20061012 17:00:01" interval="60" time="79"/>
+		<map mapID="139"/>
+        <country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+	</Rush>
+	<Rush rushID="52">
+		<timer startTime="20061012 17:00:01" interval="60" time="79"/>
+		<map mapID="134"/>
+        <country countryID="6"/>
+	</Rush>
+	<Rush rushID="32">
+		<timer startTime="20061016 00:02:00" interval="60000" time="1"/>
+		<broadcast time="1" str="神五航天安全采集活动现已圆满结束，下星期将有更精彩的线上活动等待大家参与！"/>
+		<map mapID="101"/>
+	</Rush-->
+</Config>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="GB2312"?>
+<biketournament>
+        <global>
+                <!--要与config.xml中bikemapname一致-->
+                <bikemapname>宋国·凤凰城</bikemapname>
+                <bikemapname>魏国·凤凰城</bikemapname>
+                <bikemapname>齐国·凤凰城</bikemapname>
+                <bikemapname>燕国·凤凰城</bikemapname>
+                <bikemapname>唐国·凤凰城</bikemapname>
+                <bikemapname>汉国·凤凰城</bikemapname>
+                <bikemapname>吴国·凤凰城</bikemapname>
+                <bikemapname>赵国·凤凰城</bikemapname>
+                <bikemapname>周国·凤凰城</bikemapname>
+                <bikemapname>楚国·凤凰城</bikemapname>
+                <!--分钟-->
+                <interval>30</interval>
+                <round>1</round>
+        </global>
+	<!--the number of npcs -->
+	<npc num="8">
+                <addnpc no="1" npcid="934" ltpos="438,301" rbpos="440,303"  talk="我是1号赛车女郎，小样，加油哦"/>
+                <addnpc no="2" npcid="935" ltpos="290,177" rbpos="292,179"  talk="我是2号赛车女郎，小样，加油哦"/>
+                <addnpc no="3" npcid="936" ltpos="102,358" rbpos="104,360"  talk="我是3号赛车女郎，小样，加油哦"/>
+                <addnpc no="4" npcid="937" ltpos="299,649" rbpos="301,651"  talk="我是4号赛车女郎，小样，加油哦"/>
+                <addnpc no="5" npcid="938" ltpos="533,423" rbpos="535,425"  talk="我是5号赛车女郎，小样，加油哦"/>
+                <addnpc no="6" npcid="939" ltpos="205,196" rbpos="207,198"  talk="我是6号赛车女郎，小样，加油哦"/>
+                <addnpc no="7" npcid="940" ltpos="154,525" rbpos="156,527"  talk="我是7号赛车女郎，小样，加油哦"/>
+                <addnpc no="8" npcid="941" ltpos="359,405" rbpos="361,407"  talk="我是8号赛车女郎，小样，加油哦"/>
+        </npc>
+	<objects>
+		<!--按id升序排列，这里是为了配置清晰,percent: 获得的百分比, scope: 影响的玩家数, lasttime: 持续影响时间-->
+		<object id="944" name="找不着北" percent="10" scope="10" lasttime="3"/>
+		<object id="945" name="摔倒" percent="30" scope="10" lasttime="3"/>
+		<object id="946" name="失明" percent="10" scope="10" lasttime="5"/>
+		<object id="947" name="混乱" percent="10" scope="10" lasttime="3"/>
+		<object id="948" name="加速" percent="50" scope="10" lasttime="8"/>
+		<object id="949" name="定身" percent="30" scope="10" lasttime="3"/>
+	</objects>
+
+</biketournament>

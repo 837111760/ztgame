@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="GB2312"?>
+<!--争霸赛参数-->
+<Config>
+	<PKGame id="1">
+		<!--mnLevel 要求等级下限 maxLevel 要求等级上限 maxUser 报名人数上限 -->
+		<register minLevel="0" maxLevel="99" maxUser="500" />
+		<!--askTime 第一局比赛前准备时间 prepareTime 中场休息时间 battleTime 每局比赛时间-->
+		<time askTime="10" prepareTime="10" battleTime="20" />
+		<!--team teamNum 参赛队伍数量 memberNum 队伍人数-->
+		<team teamNum="10" memberNum="40"/>
+		<!--timer startTime 第一次比赛时间 interval 每次比赛间隔时间 regEndTime 结束报名时间 time 比赛次数/-->
+		<timer startTime="20060809 20:00:00" interval="10080" regEndTime="5" time="999"/>
+		<!--Place mapName 显示的地图名称 mapID 地图文件ID-->
+		<battleMap mapName="中立区·初级角斗场" mapID="216"/>
+		<!--Place 名次范围 Level 等级范围 expRate 经验比率%-->
+		<reward minPlace="9" maxPlace="10" minLevel="0" maxLevel="99" expRate="10000" money="0" itemID="0" itemNum="0" itemLevel="0" itemType="0" itemBind="0"/>
+		<reward minPlace="5" maxPlace="8" minLevel="0" maxLevel="99" expRate="20000" money="0" itemID="0" itemNum="0" itemLevel="0" itemType="0" itemBind="0"/>
+		<reward minPlace="3" maxPlace="4" minLevel="0" maxLevel="99" expRate="40000" money="0" itemID="0" itemNum="0" itemLevel="0" itemType="0" itemBind="0"/>
+		<reward minPlace="2" maxPlace="2" minLevel="0" maxLevel="99" expRate="60000" money="0" itemID="0" itemNum="0" itemLevel="0" itemType="0" itemBind="0"/>
+		<reward minPlace="1" maxPlace="1" minLevel="0" maxLevel="99" expRate="80000" money="0" itemID="0" itemNum="0" itemLevel="0" itemType="0" itemBind="0"/>
+		<broadcast time="20" str="征途精英争霸赛还有20分钟开始"/>
+		<broadcast time="10" str="征途精英争霸赛还有10分钟开始"/>
+		<broadcast time="5" str="征途精英争霸赛还有5分钟开始"/>
+		<broadcast time="1" str="征途精英争霸赛还有1分钟开始"/>
+		<broadcast time="0" str="征途精英争霸赛参赛队员开始入场"/>
+		<relive x="50" y="57"/>
+		<relive x="120" y="62"/>
+		<relive x="191" y="62"/>
+		<relive x="243" y="61"/>
+		<relive x="45" y="184"/>
+		<relive x="242" y="185"/>
+		<relive x="48" y="319"/>
+		<relive x="119" y="309"/>
+		<relive x="187" y="302"/>
+		<relive x="241" y="312"/>
+	</PKGame>
+	<PKGame id="2">
+		<register minLevel="100" maxLevel="119" maxUser="500" />
+		<time askTime="10" prepareTime="10" battleTime="20" />
+		<team teamNum="10" memberNum="40"/>
+		<timer startTime="20060809 20:00:00" interval="10080" regEndTime="5" time="999"/>
+		<battleMap mapName="中立区·中级角斗场" mapID="219"/>
+		<!--Place 名次范围 Level 等级范围 expRate 经验比率%-->
+		<reward minPlace="9" maxPlace="10" minLevel="100" maxLevel="119" expRate="10000" money="0" itemID="0" itemNum="0" itemLevel="0" itemType="0" itemBind="0"/>
+		<reward minPlace="5" maxPlace="8" minLevel="100" maxLevel="119" expRate="20000" money="0" itemID="0" itemNum="0" itemLevel="0" itemType="0" itemBind="0"/>
+		<reward minPlace="3" maxPlace="4" minLevel="100" maxLevel="119" expRate="40000" money="0" itemID="0" itemNum="0" itemLevel="0" itemType="0" itemBind="0"/>
+		<reward minPlace="2" maxPlace="2" minLevel="100" maxLevel="119" expRate="60000" money="0" itemID="0" itemNum="0" itemLevel="0" itemType="0" itemBind="0"/>
+		<reward minPlace="1" maxPlace="1" minLevel="100" maxLevel="119" expRate="80000" money="0" itemID="0" itemNum="0" itemLevel="0" itemType="0" itemBind="0"/>
+		<relive x="50" y="57"/>
+		<relive x="120" y="62"/>
+		<relive x="191" y="62"/>
+		<relive x="243" y="61"/>
+		<relive x="45" y="184"/>
+		<relive x="242" y="185"/>
+		<relive x="48" y="319"/>
+		<relive x="119" y="309"/>
+		<relive x="187" y="302"/>
+		<relive x="241" y="312"/>
+	</PKGame>
+	<PKGame id="3">
+		<register minLevel="120" maxLevel="160" maxUser="500" />
+		<time askTime="10" prepareTime="10" battleTime="20" />
+		<team teamNum="10" memberNum="40"/>
+		<timer startTime="20060809 20:00:00" interval="10080" regEndTime="5" time="999"/>
+		<battleMap mapName="中立区·高级角斗场" mapID="220"/>
+		<!--Place 名次范围 Level 等级范围 expRate 经验比率%-->
+		<reward minPlace="9" maxPlace="10" minLevel="120" maxLevel="160" expRate="10000" money="0" itemID="0" itemNum="0" itemLevel="0" itemType="0" itemBind="0"/>
+		<reward minPlace="5" maxPlace="8" minLevel="120" maxLevel="160" expRate="20000" money="0" itemID="0" itemNum="0" itemLevel="0" itemType="0" itemBind="0"/>
+		<reward minPlace="3" maxPlace="4" minLevel="120" maxLevel="160" expRate="40000" money="0" itemID="0" itemNum="0" itemLevel="0" itemType="0" itemBind="0"/>
+		<reward minPlace="2" maxPlace="2" minLevel="120" maxLevel="160" expRate="60000" money="0" itemID="0" itemNum="0" itemLevel="0" itemType="0" itemBind="0"/>
+		<reward minPlace="1" maxPlace="1" minLevel="120" maxLevel="160" expRate="80000" money="0" itemID="0" itemNum="0" itemLevel="0" itemType="0" itemBind="0"/>
+		<relive x="50" y="57"/>
+		<relive x="120" y="62"/>
+		<relive x="191" y="62"/>
+		<relive x="243" y="61"/>
+		<relive x="45" y="184"/>
+		<relive x="242" y="185"/>
+		<relive x="48" y="319"/>
+		<relive x="119" y="309"/>
+		<relive x="187" y="302"/>
+		<relive x="241" y="312"/>
+	</PKGame>
+</Config>

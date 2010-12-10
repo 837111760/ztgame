@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="GB2312"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by 1 (1) -->
+<event id="887" name="清源村-福利姐姐">
+	<!--new means new quest, default is quest on user-->
+	<quest id="901605">
+		<embranchment id="85">
+			<conditions>
+				<innation/>
+				<extentimer start="2007-2-11-0:0:05" end="2007-2-18-23:59:59"/>
+				<timeouts long="8640000" id="101605" less="1"/>
+			</conditions>
+			<actions>
+				<menu>
+function TaskDialog()
+this:AddDialogItem("领取压岁钱(0)", "Dialog15")
+this:AddCloseItem("离开")
+end
+function Dialog15()
+this:AddTalk("  2007年2月11日0点-2月18日24点，每人都能领取压岁钱，发放标准如下：\n  1、每人只可领取一次，领取的压岁钱放入个人“工资”帐户内\n  2、1-69级可领到5两金子\n  3、70-79级可领到10两金子\n  4、80-89级可领到15两金子\n  5、90-99级可领到20两金子\n  6、100-109级可领到50两金子\n  7、110-119级可领到60两金子\n  8、120-129级可领到70两金子\n  9、130-139级可领到80两金子\n  10、140-149级可领到90两金子\n  11、150-160级可领到100两金子")
+this:AddDialogItem("领取(0)", "Dialog16")
+this:AddCloseItem("离开")
+end
+function Dialog16()
+this:AddTalk("  (GetName)，你已经领过压岁钱啦.")
+this:AddDialogItem("返回","Dialog15")
+this:AddCloseItem("离开")
+end
+				</menu>
+			</actions>
+		</embranchment>
+		<embranchment id="18">
+			<conditions>
+				<innation/>
+				<extentimer start="2007-2-11-0:0:05" end="2007-2-18-23:59:59"/>
+				<timeouts long="8640000" id="101605" less="0"/>
+				<uservar type="Differ" name="r_get_g_wt" value="1"/>
+			</conditions>
+			<actions>
+				<menu>
+function TaskDialog()
+this:AddDialogItem("领取压岁钱(0)", "Dialog25")
+this:AddCloseItem("离开")
+end
+function Dialog25()
+this:AddTalk("  2007年2月11日0点-2月18日24点，每人都能领取压岁钱，发放标准如下：\n  1、每人只可领取一次，领取的压岁钱放入个人“工资”帐户内\n  2、1-69级可领到5两金子\n  3、70-79级可领到10两金子\n  4、80-89级可领到15两金子\n  5、90-99级可领到20两金子\n  6、100-109级可领到50两金子\n  7、110-119级可领到60两金子\n  8、120-129级可领到70两金子\n  9、130-139级可领到80两金子\n  10、140-149级可领到90两金子\n  11、150-160级可领到100两金子")
+this:AddTaskCmdItem("领取(0)", "v887", 101605, 11)
+this:AddCloseItem("离开")
+end
+				</menu>
+			</actions>
+		</embranchment>
+	</quest>
+	<quest id="101605" new="1">
+		<embranchment id="11" active="1">
+			<conditions>
+				<innation/>
+				<extentimer start="2007-2-11-0:0:05" end="2007-2-18-23:59:59"/>
+				<timeouts long="8640000" id="101605" less="0"/>
+				<uservar type="Differ" name="r_get_g_wt" value="1"/>
+			</conditions>
+			<actions>
+				<uservar type="Set" name="r_get_g_wt" value="1"/>
+				<timeouts/>
+				<newyearmoney/>
+			</actions>
+		</embranchment>
+	</quest>
+</event>

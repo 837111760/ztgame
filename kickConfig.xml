@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="GB2312"?>
+<!--清人参数-->
+<Config>
+    <!--Kick kickID="1">
+        <timer startTime="20060821 19:45:00" last="60" interval="120" time="0"/>
+        <dest dest="凤凰城 pos=391,430"/>
+        <map mapID="251"/>
+        <map mapID="252"/>
+        <map mapID="253"/>
+        <map mapID="254"/>
+        <map mapID="255"/>
+        <map mapID="256"/>
+        <map mapID="257"/>
+        <map mapID="258"/>
+        <map mapID="259"/>
+        <map mapID="260"/>
+        <map mapID="261"/>
+        <map mapID="262"/>
+        <map mapID="263"/>
+        <map mapID="264"/>
+        <map mapID="265"/>
+        <map mapID="266"/>
+        <map mapID="267"/>
+        <map mapID="268"/>
+        <map mapID="269"/>
+        <map mapID="270"/>
+        <map mapID="271"/>
+        <map mapID="272"/>
+        <map mapID="273"/>
+        <map mapID="274"/>
+        <map mapID="275"/>
+        <map mapID="276"/>
+        <map mapID="277"/>
+        <country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+    </Kick-->
+    <Kick kickID="1">
+        <timer startTime="20061229 23:57:55" last="120" interval="86400" time="0"/>
+        <dest dest="凤凰城 pos=391,430"/>
+        <map mapID="223"/>
+        <map mapID="224"/>
+        <map mapID="225"/>
+        <map mapID="226"/>
+        <map mapID="227"/>
+        <map mapID="228"/>
+        <map mapID="229"/>
+        <map mapID="230"/>
+        <map mapID="231"/>
+        <map mapID="232"/>
+        <map mapID="233"/>
+        <map mapID="234"/>
+        <map mapID="235"/>
+        <map mapID="236"/>
+        <map mapID="237"/>
+        <map mapID="238"/>
+        <map mapID="239"/>
+        <map mapID="240"/>
+        <map mapID="241"/>
+        <map mapID="242"/>
+        <map mapID="243"/>
+        <map mapID="244"/>
+        <map mapID="245"/>
+        <map mapID="246"/>
+        <map mapID="247"/>
+        
+        <map mapID="251"/>
+        <map mapID="252"/>
+        <map mapID="253"/>
+        <map mapID="254"/>
+        <map mapID="255"/>
+        <map mapID="256"/>
+        <map mapID="257"/>
+        <map mapID="258"/>
+        <map mapID="259"/>
+        <map mapID="260"/>
+        <map mapID="261"/>
+        <map mapID="262"/>
+        <map mapID="263"/>
+        <map mapID="264"/>
+        <map mapID="265"/>
+        <map mapID="266"/>
+        <map mapID="267"/>
+        <map mapID="268"/>
+        <map mapID="269"/>
+        <map mapID="270"/>
+        <map mapID="271"/>
+        <map mapID="272"/>
+        <map mapID="273"/>
+        <map mapID="274"/>
+        <map mapID="275"/>
+        <map mapID="276"/>
+        <map mapID="277"/>
+        <country countryID="12"/>
+		<country countryID="3"/>
+		<country countryID="10"/>
+		<country countryID="4"/>
+		<country countryID="5"/>
+		<country countryID="8"/>
+		<country countryID="7"/>
+		<country countryID="9"/>
+		<country countryID="2"/>
+		<country countryID="11"/>
+    </Kick>
+    <OffLine mapID="223" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="224" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="225" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="226" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="227" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="228" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="229" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="230" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="231" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="232" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="233" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="234" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="235" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="236" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="237" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="238" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="239" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="240" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="241" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="242" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="243" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="244" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="245" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="246" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="247" destMapName="凤凰城" x="391" y="430"/>
+    
+    <OffLine mapID="251" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="252" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="253" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="254" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="255" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="256" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="257" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="258" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="259" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="260" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="261" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="262" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="263" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="264" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="265" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="266" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="267" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="268" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="269" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="270" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="271" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="272" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="273" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="274" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="275" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="276" destMapName="凤凰城" x="391" y="430"/>
+    <OffLine mapID="277" destMapName="凤凰城" x="391" y="430"/>
+    
+    
+    
+    <!--OffLine mapID="139" destMapName="中立区·皇城" x="100" y="100"/-->
+</Config>

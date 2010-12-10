@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="GB2312"?>
+<!--所有各种服务器参数-->
+<Zebra>
+	<global>
+		<!-- Specify the log level[debug,info,warning,error,fatal,always]. -->
+		<log>debug</log>
+		<!--MySQL database connection[mysql://user:passwd@host:port/dbName]-->
+		<mysql>mysql://ztgame:123456@255.255.255.255:3306/unify00</mysql>
+		<!-- 如果要编码mysql连接字符串请使用工具，配置如下面的例子
+		<mysql encode="yes">lmOf.1kySwS0a09j11xyCdI1ySujl1hnCvT0hDitT0hjzv00gzSv00gDSw91tS9fE1</mysql>
+		-->
+	</global>
+	<DBAccessServer>
+		<!-- 服务绑定端口 -->
+		<dbaccess_port>9999</dbaccess_port>
+		<!-- http服务绑定端口 -->
+		<http_port>8080</http_port>
+		<!-- 数据库连接的总数量 -->
+		<dbCount>8</dbCount>
+		<!-- 拆分数据表的数量 -->
+		<tableCount>256</tableCount>
+		<!-- 表的最大容量 -->
+		<tableSize>1000000</tableSize>
+		<!-- log文件路径 -->
+		<logfilename>/raid5/ztgame/log/dbaccessserver.log</logfilename>
+		<!--MySQL database connection[mysql://user:passwd@host:port/dbName]-->
+		<!--
+		如果要编码mysql连接字符串请使用工具，配置如下面的例子
+		<mysql encode="yes">lmOf.1kySwS0a09j11xyCdI1ySujl1hnCvT0hDitT0hjzv00gzSv00gDSw91tS9fE1</mysql>
+		-->
+		<mysql hashcode="0">mysql://ztgame:123456@255.255.255.255:3306/unify00</mysql>
+		<mysql hashcode="1">mysql://ztgame:123456@255.255.255.255:3306/unify01</mysql>
+		<mysql hashcode="2">mysql://ztgame:123456@255.255.255.255:3306/unify02</mysql>
+		<mysql hashcode="3">mysql://ztgame:123456@255.255.255.255:3306/unify03</mysql>
+		<mysql hashcode="4">mysql://ztgame:123456@255.255.255.255:3306/unify04</mysql>
+		<mysql hashcode="5">mysql://ztgame:123456@255.255.255.255:3306/unify05</mysql>
+		<mysql hashcode="6">mysql://ztgame:123456@255.255.255.255:3306/unify06</mysql>
+		<mysql hashcode="7">mysql://ztgame:123456@255.255.255.255:3306/unify07</mysql>
+		<!--
+		<mysql hashcode="8">mysql://ztgame:123456@255.255.255.255:3306/unify08</mysql>
+		<mysql hashcode="9">mysql://ztgame:123456@255.255.255.255:3306/unify09</mysql>
+		<mysql hashcode="10">mysql://ztgame:123456@255.255.255.255:3306/unify10</mysql>
+		<mysql hashcode="11">mysql://ztgame:123456@255.255.255.255:3306/unify11</mysql>
+		<mysql hashcode="12">mysql://ztgame:123456@255.255.255.255:3306/unify12</mysql>
+		<mysql hashcode="13">mysql://ztgame:123456@255.255.255.255:3306/unify13</mysql>
+		<mysql hashcode="14">mysql://ztgame:123456@255.255.255.255:3306/unify14</mysql>
+		<mysql hashcode="15">mysql://ztgame:123456@255.255.255.255:3306/unify15</mysql>
+		-->
+	</DBAccessServer>
+</Zebra>

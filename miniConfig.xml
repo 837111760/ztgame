@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="GB2312"?>
+<!--小游戏大厅参数-->
+<Mini>
+
+	<game type="1" roomNum="1" gameNum="50" userNum="3" />
+
+</Mini>

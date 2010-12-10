@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="GB2312"?>
+<!--年兽参数-->
+<Config>
+    <!--NianShou nianShouID="1">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="宋国·清源村" destPos="165,217" minLevel="30" maxLevel="50"/>
+		<reward minPlace="1" maxPlace="3" exp="1500"/>
+		<reward minPlace="4" maxPlace="10" exp="1300"/>
+		<reward minPlace="11" maxPlace="20" exp="1200"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou>
+    <NianShou nianShouID="2">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="宋国·凤凰城" destPos="432,460" minLevel="51" maxLevel="100"/>
+		<reward minPlace="1" maxPlace="3" exp="2000"/>
+		<reward minPlace="4" maxPlace="10" exp="1500"/>
+		<reward minPlace="11" maxPlace="20" exp="1300"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou>
+    <NianShou nianShouID="3">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="宋国·王城" destPos="536,736" minLevel="101" maxLevel="160"/>
+		<reward minPlace="1" maxPlace="3" exp="2500"/>
+		<reward minPlace="4" maxPlace="10" exp="1800"/>
+		<reward minPlace="11" maxPlace="20" exp="1300"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou>
+    <NianShou nianShouID="4">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="魏国·清源村" destPos="165,217" minLevel="30" maxLevel="50"/>
+		<reward minPlace="1" maxPlace="3" exp="1500"/>
+		<reward minPlace="4" maxPlace="10" exp="1300"/>
+		<reward minPlace="11" maxPlace="20" exp="1200"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou>
+    <NianShou nianShouID="5">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="魏国·凤凰城" destPos="432,460" minLevel="51" maxLevel="100"/>
+		<reward minPlace="1" maxPlace="3" exp="2000"/>
+		<reward minPlace="4" maxPlace="10" exp="1500"/>
+		<reward minPlace="11" maxPlace="20" exp="1300"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou>
+    <NianShou nianShouID="6">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="魏国·王城" destPos="536,736" minLevel="101" maxLevel="160"/>
+		<reward minPlace="1" maxPlace="3" exp="2500"/>
+		<reward minPlace="4" maxPlace="10" exp="1800"/>
+		<reward minPlace="11" maxPlace="20" exp="1300"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou>
+    <NianShou nianShouID="7">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="齐国·清源村" destPos="165,217" minLevel="30" maxLevel="50"/>
+		<reward minPlace="1" maxPlace="3" exp="1500"/>
+		<reward minPlace="4" maxPlace="10" exp="1300"/>
+		<reward minPlace="11" maxPlace="20" exp="1200"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou>
+    <NianShou nianShouID="8">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="齐国·凤凰城" destPos="432,460" minLevel="51" maxLevel="100"/>
+		<reward minPlace="1" maxPlace="3" exp="2000"/>
+		<reward minPlace="4" maxPlace="10" exp="1500"/>
+		<reward minPlace="11" maxPlace="20" exp="1300"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou>
+    <NianShou nianShouID="9">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="齐国·王城" destPos="536,736" minLevel="101" maxLevel="160"/>
+		<reward minPlace="1" maxPlace="3" exp="2500"/>
+		<reward minPlace="4" maxPlace="10" exp="1800"/>
+		<reward minPlace="11" maxPlace="20" exp="1300"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou>
+    <NianShou nianShouID="10">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="燕国·清源村" destPos="165,217" minLevel="30" maxLevel="50"/>
+		<reward minPlace="1" maxPlace="3" exp="1500"/>
+		<reward minPlace="4" maxPlace="10" exp="1300"/>
+		<reward minPlace="11" maxPlace="20" exp="1200"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou>
+    <NianShou nianShouID="11">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="燕国·凤凰城" destPos="432,460" minLevel="51" maxLevel="100"/>
+		<reward minPlace="1" maxPlace="3" exp="2000"/>
+		<reward minPlace="4" maxPlace="10" exp="1500"/>
+		<reward minPlace="11" maxPlace="20" exp="1300"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou>
+    <NianShou nianShouID="12">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="燕国·王城" destPos="536,736" minLevel="101" maxLevel="160"/>
+		<reward minPlace="1" maxPlace="3" exp="2500"/>
+		<reward minPlace="4" maxPlace="10" exp="1800"/>
+		<reward minPlace="11" maxPlace="20" exp="1300"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou>
+    <NianShou nianShouID="13">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="唐国·清源村" destPos="165,217" minLevel="30" maxLevel="50"/>
+		<reward minPlace="1" maxPlace="3" exp="1500"/>
+		<reward minPlace="4" maxPlace="10" exp="1300"/>
+		<reward minPlace="11" maxPlace="20" exp="1200"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou>
+    <NianShou nianShouID="14">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="唐国·凤凰城" destPos="432,460" minLevel="51" maxLevel="100"/>
+		<reward minPlace="1" maxPlace="3" exp="2000"/>
+		<reward minPlace="4" maxPlace="10" exp="1500"/>
+		<reward minPlace="11" maxPlace="20" exp="1300"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou>
+    <NianShou nianShouID="15">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="唐国·王城" destPos="536,736" minLevel="101" maxLevel="160"/>
+		<reward minPlace="1" maxPlace="3" exp="2500"/>
+		<reward minPlace="4" maxPlace="10" exp="1800"/>
+		<reward minPlace="11" maxPlace="20" exp="1300"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou>
+    <NianShou nianShouID="16">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="汉国·清源村" destPos="165,217" minLevel="30" maxLevel="50"/>
+		<reward minPlace="1" maxPlace="3" exp="1500"/>
+		<reward minPlace="4" maxPlace="10" exp="1300"/>
+		<reward minPlace="11" maxPlace="20" exp="1200"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou>
+    <NianShou nianShouID="17">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="汉国·凤凰城" destPos="432,460" minLevel="51" maxLevel="100"/>
+		<reward minPlace="1" maxPlace="3" exp="2000"/>
+		<reward minPlace="4" maxPlace="10" exp="1500"/>
+		<reward minPlace="11" maxPlace="20" exp="1300"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou>
+    <NianShou nianShouID="18">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="汉国·王城" destPos="536,736" minLevel="101" maxLevel="160"/>
+		<reward minPlace="1" maxPlace="3" exp="2500"/>
+		<reward minPlace="4" maxPlace="10" exp="1800"/>
+		<reward minPlace="11" maxPlace="20" exp="1300"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou>
+    <NianShou nianShouID="19">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="吴国·清源村" destPos="165,217" minLevel="30" maxLevel="50"/>
+		<reward minPlace="1" maxPlace="3" exp="1500"/>
+		<reward minPlace="4" maxPlace="10" exp="1300"/>
+		<reward minPlace="11" maxPlace="20" exp="1200"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou>
+    <NianShou nianShouID="20">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="吴国·凤凰城" destPos="432,460" minLevel="51" maxLevel="100"/>
+		<reward minPlace="1" maxPlace="3" exp="2000"/>
+		<reward minPlace="4" maxPlace="10" exp="1500"/>
+		<reward minPlace="11" maxPlace="20" exp="1300"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou>
+    <NianShou nianShouID="21">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="吴国·王城" destPos="536,736" minLevel="101" maxLevel="160"/>
+		<reward minPlace="1" maxPlace="3" exp="2500"/>
+		<reward minPlace="4" maxPlace="10" exp="1800"/>
+		<reward minPlace="11" maxPlace="20" exp="1300"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou>
+    <NianShou nianShouID="22">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="赵国·清源村" destPos="165,217" minLevel="30" maxLevel="50"/>
+		<reward minPlace="1" maxPlace="3" exp="1500"/>
+		<reward minPlace="4" maxPlace="10" exp="1300"/>
+		<reward minPlace="11" maxPlace="20" exp="1200"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou>
+    <NianShou nianShouID="23">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="赵国·凤凰城" destPos="432,460" minLevel="51" maxLevel="100"/>
+		<reward minPlace="1" maxPlace="3" exp="2000"/>
+		<reward minPlace="4" maxPlace="10" exp="1500"/>
+		<reward minPlace="11" maxPlace="20" exp="1300"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou>
+    <NianShou nianShouID="24">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="赵国·王城" destPos="536,736" minLevel="101" maxLevel="160"/>
+		<reward minPlace="1" maxPlace="3" exp="2500"/>
+		<reward minPlace="4" maxPlace="10" exp="1800"/>
+		<reward minPlace="11" maxPlace="20" exp="1300"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou>
+    <NianShou nianShouID="25">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="周国·清源村" destPos="165,217" minLevel="30" maxLevel="50"/>
+		<reward minPlace="1" maxPlace="3" exp="1500"/>
+		<reward minPlace="4" maxPlace="10" exp="1300"/>
+		<reward minPlace="11" maxPlace="20" exp="1200"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou>
+    <NianShou nianShouID="26">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="周国·凤凰城" destPos="432,460" minLevel="51" maxLevel="100"/>
+		<reward minPlace="1" maxPlace="3" exp="2000"/>
+		<reward minPlace="4" maxPlace="10" exp="1500"/>
+		<reward minPlace="11" maxPlace="20" exp="1300"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou>
+    <NianShou nianShouID="27">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="周国·王城" destPos="536,736" minLevel="101" maxLevel="160"/>
+		<reward minPlace="1" maxPlace="3" exp="2500"/>
+		<reward minPlace="4" maxPlace="10" exp="1800"/>
+		<reward minPlace="11" maxPlace="20" exp="1300"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou>
+    <NianShou nianShouID="28">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="楚国·清源村" destPos="165,217" minLevel="30" maxLevel="50"/>
+		<reward minPlace="1" maxPlace="3" exp="1500"/>
+		<reward minPlace="4" maxPlace="10" exp="1300"/>
+		<reward minPlace="11" maxPlace="20" exp="1200"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou>
+    <NianShou nianShouID="29">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="楚国·凤凰城" destPos="432,460" minLevel="51" maxLevel="100"/>
+		<reward minPlace="1" maxPlace="3" exp="2000"/>
+		<reward minPlace="4" maxPlace="10" exp="1500"/>
+		<reward minPlace="11" maxPlace="20" exp="1300"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou>
+    <NianShou nianShouID="30">
+        <timer startTime="20070217 19:00:01" last="18000" interval="86400" time="0"/>
+        <define npcID="10038" map="楚国·王城" destPos="536,736" minLevel="101" maxLevel="160"/>
+		<reward minPlace="1" maxPlace="3" exp="2500"/>
+		<reward minPlace="4" maxPlace="10" exp="1800"/>
+		<reward minPlace="11" maxPlace="20" exp="1300"/>
+		<reward minPlace="21" maxPlace="" exp="1100"/>
+    </NianShou-->
+</Config>
