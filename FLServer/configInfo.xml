@@ -6,14 +6,14 @@
 	</global>
 	<InfoServer>
 <!-- 区信息列表数据库 -->
-                <zoneInfo_mysql hashcode="10">mysql://ztgame:123456@255.255.255.255:3306/LoginServer</zoneInfo_mysql>
+                <zoneInfo_mysql hashcode="10">mysql://ztgame:ztgame@127.0.0.1:3306/LoginServer</zoneInfo_mysql>
        
 		<bindport>9903</bindport>
 		<gmToolPort>9904</gmToolPort>
 		<zonePort>9905</zonePort>		
-		<mysql>mysql://ztgame:123456@255.255.255.255:3306/GMTool</mysql>
-		<gm_mysql>mysql://ztgame:123456@255.255.255.255:3306/GMTool</gm_mysql>
-	        <dbaccess_server_ip>255.255.255.255</dbaccess_server_ip>
+		<mysql>mysql://ztgame:ztgame@127.0.0.1:3306/GMTool</mysql>
+		<gm_mysql>mysql://ztgame:ztgame@127.0.0.1:3306/GMTool</gm_mysql>
+	        <dbaccess_server_ip>127.0.0.1</dbaccess_server_ip>
 		<dbaccess_server_port>8080</dbaccess_server_port> 
 		<!-- 每个连接允许的最大发送缓冲（单位为M字节）-->
 		<send_size>10</send_size>

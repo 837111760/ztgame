@@ -5,15 +5,15 @@
 		<!-- Specify the log level[debug,info,warning,error,fatal,always]. -->
 		<log>debug</log>
 		<!--MySQL database connection[mysql://user:passwd@host:port/dbName]-->
-		<mysql>mysql://ztgame:ztgame0001@192.168.1.130:3306/zt4</mysql>
+		<mysql>mysql://ztgame:ztgame@127.0.0.1:3306/zt</mysql>
 		<!-- 如果要编码mysql连接字符串请使用工具，配置如下面的例子
 		<mysql encode="yes">lmOf.1kySwS0a09j11xyCdI1ySujl1hnCvT0hDitT0hjzv00gzSv00gDSw91tS9fE1</mysql>
 		-->
 		<!-- Use the specified local network device. -->
 		<ifname>eth0</ifname>
 		<!-- Connected to the specified supserserver, property 'port' default value is 10000. -->
-		<superserver port="10000">192.168.1.130</superserver>
-		<gm_mode>true</gm_mode>
+		<superserver port="10000">127.0.0.1</superserver>
+		<gm_mode>false</gm_mode>
 		<sn>false</sn>
 		<!--指令统计开关-->
 		<cmdswitch>true</cmdswitch>
@@ -38,7 +38,7 @@
 		<!-- 统一用户平台服务器列表文件 -->
 		<loginServerListFile>loginServerList.xml</loginServerListFile>
 		<!--MySQL database connection[mysql://user:passwd@host:port/dbName]-->
-		<mysql>mysql://ztgame:ztgame0001@192.168.1.130:3306/zt4</mysql>
+		<mysql>mysql://ztgame:ztgame@127.0.0.1:3306/zt</mysql>
 		<!-- 如果要编码mysql连接字符串请使用工具，配置如下面的例子
 		<mysql encode="yes">lmOf.1kySwS0a09j11xyCdI1ySujl1hnCvT0hDitT0hjzv00gzSv00gDSw91tS9fE1</mysql>
 		-->
@@ -53,9 +53,9 @@
 		<!-- 统一用户平台用户管理服务器的列表文件 -->
 		<dbAccessServerListFile>FLServer/dbAccessServerList.xml</dbAccessServerListFile>
 		<!-- 服务器信息采集的服务器地址 -->
-		<InfoServer port="9903">192.168.1.130</InfoServer>
+		<InfoServer port="9903">127.0.0.1</InfoServer>
 		<!--MySQL database connection[mysql://user:passwd@host:port/dbName]-->
-		<mysql>mysql://ztgame:ztgame0001@192.168.1.130:3306/zt4</mysql>
+		<mysql>mysql://ztgame:ztgame@127.0.0.1:3306/zt</mysql>
 		<!-- 如果要编码mysql连接字符串请使用工具，配置如下面的例子
 		<mysql encode="yes">lmOf.1kySwS0a09j11xyCdI1ySujl1hnCvT0hDitT0hjzv00gzSv00gDSw91tS9fE1</mysql>
 		-->
@@ -74,7 +74,7 @@
 		<!-- Specify the log filename. -->
 		<logfilename>/tmp/recordserver.log</logfilename>
 		<!--MySQL database connection[mysql://user:passwd@host:port/dbName]-->
-		<mysql>mysql://ztgame:ztgame0001@192.168.1.130:3306/zt4</mysql>
+		<mysql>mysql://ztgame:ztgame@127.0.0.1:3306/zt</mysql>
 		<!-- 如果要编码mysql连接字符串请使用工具，配置如下面的例子
 		<mysql encode="yes">lmOf.1kySwS0a09j11xyCdI1ySujl1hnCvT0hDitT0hjzv00gzSv00gDSw91tS9fE1</mysql>
 		-->
@@ -87,7 +87,7 @@
 		<tradelogfilename>/tmp/billtrade.log</tradelogfilename>
 		<billServerList>billServerList.xml</billServerList>
 		<!--MySQL database connection[mysql://user:passwd@host:port/dbName]-->
-		<mysql>mysql://ztgame:ztgame0001@192.168.1.130:3306/zt4</mysql>
+		<mysql>mysql://ztgame:ztgame@127.0.0.1:3306/zt</mysql>
 		<!-- 如果要编码mysql连接字符串请使用工具，配置如下面的例子
 		<mysql encode="yes">lmOf.1kySwS0a09j11xyCdI1ySujl1hnCvT0hDitT0hjzv00gzSv00gDSw91tS9fE1</mysql>
 		-->
@@ -102,9 +102,9 @@
 	<SessionServer>
 		<!-- Specify the log filename. -->
 		<logfilename>/tmp/sessionserver.log</logfilename>
-		<objlogfilename>/log/objsessionserver.log</objlogfilename>
+		<objlogfilename>/tmp/objsessionserver.log</objlogfilename>
 		<!--MySQL database connection[mysql://user:passwd@host:port/dbName]-->
-		<mysql>mysql://ztgame:ztgame0001@192.168.1.130:3306/zt4</mysql>
+		<mysql>mysql://ztgame:ztgame@127.0.0.1:3306/zt</mysql>
 		<!-- 如果要编码mysql连接字符串请使用工具，配置如下面的例子
 		<mysql encode="yes">lmOf.1kySwS0a09j11xyCdI1ySujl1hnCvT0hDitT0hjzv00gzSv00gDSw91tS9fE1</mysql>
 		-->
@@ -127,8 +127,8 @@
 		<objlogfilename>/tmp/objscenesserver.log</objlogfilename>
 		<gm_logfile>/tmp/gm_log.log</gm_logfile>
 		<wg_logfile>/tmp/wg_log.log</wg_logfile>
-		<double_exp>false</double_exp>
-		<double_drop>false</double_drop>
+		<double_exp>true</double_exp>
+		<double_drop>true</double_drop>
 		<level_double_drop>0</level_double_drop>
 		<sceneinfofile>scenesinfo.xml</sceneinfofile>
 		<npctradefile>npctrade.xml</npctradefile>
@@ -148,7 +148,7 @@
 	</ScenesServer>
 	<GatewayServer>
 		<!-- 国家排序方式 0:不排序 , 1:在线人数排序 , 2:注册人数排序 -->
-		<countryorder>2</countryorder>
+		<countryorder>1</countryorder>
 		<!-- Specify the log filename. -->
 		<logfilename>/tmp/gatewayserver.log</logfilename>
 		<!-- 是否启用角色名称唯一性验证服务器来保证角色名称的唯一性 -->
@@ -162,20 +162,20 @@
 	</GatewayServer>
 	<MiniServer>
 		<!-- Specify the log filename. -->
-		<logfilename>/home/xwl/log/miniserver.log</logfilename>
+		<logfilename>/tmp/miniserver.log</logfilename>
 		<!--MySQL database connection[mysql://user:passwd@host:port/dbName]-->
-		<mysql>mysql://ztgame:ztgame0001@192.168.1.130:3306/zt4</mysql>
+		<mysql>mysql://ztgame:ztgame@127.0.0.1:3306/zt</mysql>
 		<!-- 如果要编码mysql连接字符串请使用工具，配置如下面的例子
 		<mysql encode="yes">lmOf.1kySwS0a09j11xyCdI1ySujl1hnCvT0hDitT0hjzv00gzSv00gDSw91tS9fE1</mysql>
 		-->
 	</MiniServer>
 	<ShowCharbase>
-		<mysqlbegin>mysql://ztgame:ztgame0001@192.168.1.130:3306/zt4</mysqlbegin>
-		<mysqlend>mysql://ztgame:ztgame0001@192.168.1.130:3306/zt4</mysqlend>
-		<logfilename>/home/whj/tmp/charbaseserver.log</logfilename>
-		<outuserobjfile>/home/whj/tmp/outuserobjfile.log</outuserobjfile>
-		<outuserfile>/home/whj/tmp/outuserfile.log</outuserfile>
-		<outallfile>/home/whj/tmp/outallfile.log</outallfile>
+		<mysqlbegin>mysql://ztgame:ztgame@127.0.0.1:3306/zt</mysqlbegin>
+		<mysqlend>mysql://ztgame:ztgame@127.0.0.1:3306/zt</mysqlend>
+		<logfilename>/tmp/charbaseserver.log</logfilename>
+		<outuserobjfile>/tmp/outuserobjfile.log</outuserobjfile>
+		<outuserfile>/tmp/outuserfile.log</outuserfile>
+		<outallfile>/tmp/outallfile.log</outallfile>
 		<tablenamebegin>CHARBASE</tablenamebegin>
 		<tablenameend>CHARBASE</tablenameend>
 		<resultuser>true</resultuser>
@@ -185,12 +185,12 @@
 		<outall>true</outall>
 	</ShowCharbase>
 	<LoadLogServer>
-		<mysql>mysql://ztgame:ztgame0001@192.168.1.130:3306/zt4</mysql>
-		<logfilename>/home/whj/tmp/charbaseserver.log</logfilename>
+		<mysql>mysql://ztgame:ztgame@127.0.0.1:3306/zt</mysql>
+		<logfilename>/tmp/charbaseserver.log</logfilename>
 		<tablename>logtmp</tablename>
-		<columnnum>14</columnnum>
+		<columnnum>15</columnnum>
 		<objdir>tmplog/</objdir>
-		<logall>/home/whj/tmp/logall.log</logall>
+		<logall>/tmp/logall.log</logall>
 		<logtime>true</logtime>
 		<buildid>true</buildid>
 		<tempid>true</tempid>

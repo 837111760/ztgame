@@ -8,6 +8,6 @@
 		<client_port>9901</client_port>
 		<dbCount>1</dbCount>
 		<tableCount>4</tableCount>
-		<mysql hashcode="0">mysql://ztgame:123456@255.255.255.255:3306/roleregServer</mysql>
+		<mysql hashcode="0">mysql://ztgame:ztgame@127.0.0.1:3306/roleregServer</mysql>
 	</roleRegServer>
 </Zebra>

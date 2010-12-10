@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="GB2312"?>
 <zoneInfo>
-<zone game="0" zone="300" ip="60.191.196.48" port="10000" name="测试版" desc="Bacer zone testerver"/>
+<zone game="0" zone="1" ip="127.0.0.1" port="10000" name="征途" desc="第1区描述，外部服务器"/>
 </zoneInfo>

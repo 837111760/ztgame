@@ -3,7 +3,7 @@
 <Zebra>
 	<FLServer>
 		<if_CTC>eth0</if_CTC> <!-- 走电信路由的网卡 -->
-    <if_CNC>eth1</if_CNC> <!-- 走网通路由的网卡 -->
+        <if_CNC>eth0</if_CNC> <!-- 走网通路由的网卡 -->
 	
 		<!-- Specify the log level[debug,info,warning,error,fatal,always]. -->
 		<log>info</log>
@@ -15,18 +15,18 @@
 		<!-- 统一用户平台用户管理服务器的列表文件 -->
 		<dbAccessServerListFile>dbAccessServerList.xml</dbAccessServerListFile>
 		<!-- 服务器信息采集的服务器地址 -->
-		<InfoServer port="9903">255.255.255.255</InfoServer>
+		<InfoServer port="9903">127.0.0.1</InfoServer>
 		<!--MySQL database connection[mysql://user:passwd@host:port/dbName]-->
-		<mysql>mysql://ztgame:123456@255.255.255.255:3306/FLServer</mysql>
+		<mysql>mysql://ztgame:ztgame@127.0.0.1:3306/FLServer</mysql>
 		<!-- 如果要编码mysql连接字符串请使用工具，配置如下面的例子
 		<mysql encode="yes">lmOf.1kySwS0a09j11xyCdI1ySujl1hnCvT0hDitT0hjzv00gzSv00gDSw91tS9fE1</mysql>
 		-->
 		<!-- 区信息列表文件 -->
 		<zoneInfoFile>zoneInfo.xml</zoneInfoFile>
 		<!-- 区信息列表数据库 -->
-		<zoneInfo_mysql hashcode="20">mysql://ztgame:123456@255.255.255.255:3306/LoginServer</zoneInfo_mysql>
+		<zoneInfo_mysql hashcode="20">mysql://ztgame:ztgame@127.0.0.1:3306/LoginServer</zoneInfo_mysql>
 		<!-- 跨服登陆数据库 -->
-		<roleChange_mysql hashcode="21">mysql://ztgame:123456@255.255.255.255:3306/roleChangeServer</roleChange_mysql>
+		<roleChange_mysql hashcode="21">mysql://ztgame:ztgame@127.0.0.1:3306/roleChangeServer</roleChange_mysql>
 		<!-- 客户端登陆端口，外部使用 -->
 		<login_port>7000</login_port>
 		<!-- 内部使用端口，用于服务器之间数据传输 -->
@@ -41,7 +41,7 @@
 		<master_bind_port>7009</master_bind_port>
 		<!--本机作为从服务器，配置主服务器的IP和端口-->
 		<!--
-		<master port="7009">255.255.255.255</master>
+		<master port="7009">127.0.0.1</master>
 		-->	
 
 		<!--返回给客户端的图形码配置 -->
