@@ -59,13 +59,73 @@
 			<map mapID="187"/><!--王城民宅-->
 			<map mapID="188"/><!--王城百货休息室-->
 		</country>
+		<country id="3">
+			<map mapID="218"/><!--王城宅屋-->
+			<map mapID="101"/><!--清源村-->
+			<map mapID="102"/><!--凤凰城-->
+			<map mapID="104"/><!--凤尾村-->
+			<map mapID="103"/><!--北郊-->
+			<map mapID="108"/><!--白骨洞一层-->
+			<map mapID="135"/><!--南郊-->
+			<map mapID="136"/><!--东郊-->
+			<map mapID="137"/><!--边境-->
+			<map mapID="139"/><!--王城-->
+			<map mapID="141"/><!--精怪洞穴一层-->
+			<map mapID="1041"/><!--凤尾村密室-->
+			<map mapID="1042"/><!--凤尾村密道-->
+			<map mapID="1022"/><!--凤凰城密道-->
+			<map mapID="1021"/><!--凤凰城密室-->
+			<map mapID="1392"/><!--王城密道-->
+			<map mapID="1391"/><!--王城密室-->
+			<map mapID="1081"/><!--白骨洞密室-->
+			<map mapID="1082"/><!--白骨洞密道-->
+			<map mapID="1411"/><!--精怪洞穴密室-->
+			<map mapID="1412"/><!--精怪洞穴密道-->
+			<map mapID="1031"/><!--北郊密室-->
+			<map mapID="1032"/><!--北郊密道-->
+			<map mapID="118"/><!--活动室-->
+			<map mapID="138"/><!--下水道-->
+			<map mapID="186"/><!--王城宅子-->
+			<map mapID="187"/><!--王城民宅-->
+			<map mapID="188"/><!--王城百货休息室-->
+		</country>
+		<country id="4">
+			<map mapID="218"/><!--王城宅屋-->
+			<map mapID="101"/><!--清源村-->
+			<map mapID="102"/><!--凤凰城-->
+			<map mapID="104"/><!--凤尾村-->
+			<map mapID="103"/><!--北郊-->
+			<map mapID="108"/><!--白骨洞一层-->
+			<map mapID="135"/><!--南郊-->
+			<map mapID="136"/><!--东郊-->
+			<map mapID="137"/><!--边境-->
+			<map mapID="139"/><!--王城-->
+			<map mapID="141"/><!--精怪洞穴一层-->
+			<map mapID="1041"/><!--凤尾村密室-->
+			<map mapID="1042"/><!--凤尾村密道-->
+			<map mapID="1022"/><!--凤凰城密道-->
+			<map mapID="1021"/><!--凤凰城密室-->
+			<map mapID="1392"/><!--王城密道-->
+			<map mapID="1391"/><!--王城密室-->
+			<map mapID="1081"/><!--白骨洞密室-->
+			<map mapID="1082"/><!--白骨洞密道-->
+			<map mapID="1411"/><!--精怪洞穴密室-->
+			<map mapID="1412"/><!--精怪洞穴密道-->
+			<map mapID="1031"/><!--北郊密室-->
+			<map mapID="1032"/><!--北郊密道-->
+			<map mapID="118"/><!--活动室-->
+			<map mapID="138"/><!--下水道-->
+			<map mapID="186"/><!--王城宅子-->
+			<map mapID="187"/><!--王城民宅-->
+			<map mapID="188"/><!--王城百货休息室-->
+		</country>
 	</server>
 	<!--id:国家编号,name:国家名称,mapID:该国家主城(新手出生等);国家名称不能有特殊字符"·"function:0表示可以注册，1表示不可以注册。-->
 	<countryinfo>
 		<country id="2" name="宋国" mapID="101" function="0"/>
-		<!--country id="3" name="魏国" mapID="101" function="0"/>
+		<country id="3" name="魏国" mapID="101" function="0"/>
 		<country id="4" name="齐国" mapID="101" function="0"/>
-		<country id="5" name="燕国" mapID="101" function="0"/>
+		<!--country id="5" name="燕国" mapID="101" function="0"/>
 		<country id="7" name="唐国" mapID="101" function="0"/>
 		<country id="8" name="汉国" mapID="101" function="0"/>
 		<country id="9" name="吴国" mapID="101" function="0"/>
