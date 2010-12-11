@@ -3832,7 +3832,7 @@ TaskDialog()
 end
 this:AddDialog("MainDialog")</menu>
 	</npc>
-	<npc name="善财童子" id="906">
+	<!--npc name="善财童子" id="906">
 		<menu>function MainDialog()                                             
 TaskDialog()
 this:AddTalk("理财，找我善财童子就对了！")
@@ -3845,7 +3845,7 @@ this:AddDialogItem("返回","MainDialog")
 this:AddCloseItem("离开")
 end                                                                            
 this:AddDialog("MainDialog")         </menu>
-	</npc>
+	</npc-->
 	<npc name="孔圣人" id="902">
 		<menu>
 function MainDialog()
