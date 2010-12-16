@@ -1039,7 +1039,7 @@
     <npc id="887" name="福利姐姐" width="1" height="1" x="880" y="480" num="1" interval="3600" color="0,255,0,0"/>
     <npc id="5107" name="天姑" width="1" height="1" x="885" y="485" num="1" interval="1800" color="0,255,0,0"/>
     <npc id="5014" name="判国者" width="1" height="1" x="890" y="490" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="5019" name="高级锻造师" width="1" height="1" x="888" y="448" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="5019" name="高级锻造师" width="1" height="1" x="888" y="450" num="1" interval="1800" color="0,255,0,0"/>
 	<septnpc id="112"/>
 	<septnpc id="113"/>
 	<septnpc id="116"/>
