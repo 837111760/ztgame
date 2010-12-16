@@ -3,7 +3,7 @@
 <Zebra>
 	<FLServer>
 		<if_CTC>eth0</if_CTC> <!-- 走电信路由的网卡 -->
-        <if_CNC>eth0</if_CNC> <!-- 走网通路由的网卡 -->
+                <if_CNC>eth0</if_CNC> <!-- 走网通路由的网卡 -->
 	
 		<!-- Specify the log level[debug,info,warning,error,fatal,always]. -->
 		<log>info</log>
