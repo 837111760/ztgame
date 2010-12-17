@@ -3,13 +3,13 @@
 <event id="3" name="µÈ¼¶">
 	<!--new means new quest, default is quest on user-->
 	<quest id="150000">
-                <embranchment id="1">
+		<embranchment id="1">
 			<conditions>
 				<level type="Great" value="1"/>
 				<level type="Less" value="201"/>
 			</conditions>
 			<actions>
-                                <gold type="Add" value="10000"/>
+				<gold type="Add" value="10000"/>
 			</actions>
 		</embranchment>
 		<embranchment id="2">
