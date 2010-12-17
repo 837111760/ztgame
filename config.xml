@@ -127,8 +127,8 @@
 		<objlogfilename>/tmp/objscenesserver.log</objlogfilename>
 		<gm_logfile>/tmp/gm_log.log</gm_logfile>
 		<wg_logfile>/tmp/wg_log.log</wg_logfile>
-		<double_exp>true</double_exp>
-		<double_drop>true</double_drop>
+		<double_exp>false</double_exp>
+		<double_drop>false</double_drop>
 		<level_double_drop>0</level_double_drop>
 		<sceneinfofile>scenesinfo.xml</sceneinfofile>
 		<npctradefile>npctrade.xml</npctradefile>
