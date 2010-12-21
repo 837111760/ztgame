@@ -15546,9 +15546,14 @@ this:AddDialog("MainDialog")</menu>
 	</npc>
 	<npc name="高级杂货商" id="884">
 		<menu>
-function MainDialog()	                                                              id=this:AddTradeItem("高级杂货(1)","杂货{id[666,926,734,795,797,755,760,761,655,685,686,881,882,929,930,942,502,512,522,532,542,507*1*1,507*1*3,517*1*1,517*1*3,527*1*1,527*1*3,537*1*1,537*1*3,547*1*1,547*1*3,679*1*4,678*1*4,771,772,920,921,776,777]}|高级材料{id[1507*1*5,1517*1*5,1527*1*5,1537*1*5,1547*1*5]}|时装一{id[15402-15445]}|时装二{id[15446-15489]}","type[101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,16,17,18,19,20,21,22,23,25,26,27,28,29,30,31,32,33,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,52,53,119,51]","杂货买卖")             
-TaskDialog()                                                                   this:AddSeptAttackNpc("家族争夺NPC(0)")
-this:AddSeptNpcCustom("管理费(0)") 	                                           this:AddWarOperator("控制NPC家族查询(0)","4")                                  this:AddWarOperator("下场NPC争夺战查询(0)","5")
+function MainDialog()	                                                              
+id=this:AddTradeItem("高级杂货(1)","杂货{id[666,926,734,795,797,755,760,761,655,685,686,881,882,929,930,942,502,512,522,532,542,507*1*1,507*1*3,517*1*1,517*1*3,527*1*1,527*1*3,537*1*1,537*1*3,547*1*1,547*1*3,679*1*4,678*1*4,771,772,920,921,776,777]}|高级材料{id[1507*1*5,1517*1*5,1527*1*5,1537*1*5,1547*1*5]}|时装一{id[15402-15445]}|时装二{id[15446-15489]}","type[101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,16,17,18,19,20,21,22,23,25,26,27,28,29,30,31,32,33,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,52,53,119,51]","杂货买卖")             
+id=this:AddTradeItem("完美宝石(1)","衣服{id[50001-50025]}|武器{id[50101-50126]}|盾牌{id[50201-50225]}|头盔{id[50301-50326]}|腰带{id[50401-50426]}|护腕{id[50501-50526]}|鞋子{id[50601-50626]}|项链{id[50701-50726]}|戒指{id[50801-50826]}","type[101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,16,17,18,19,20,21,22,23,25,26,27,28,29,30,31,32,33,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,52,53,119,51]","杂货买卖")             
+TaskDialog()                                                                   
+this:AddSeptAttackNpc("家族争夺NPC(0)")
+this:AddSeptNpcCustom("管理费(0)") 	                                           
+this:AddWarOperator("控制NPC家族查询(0)","4")                                  
+this:AddWarOperator("下场NPC争夺战查询(0)","5")
 this:SeptGiveupOccupy("族长放弃当前占领(0)")
 this:AddSeptMPBuff("领取家族BUFF(0)")
 this:AddDialogItem("关于家族争夺NPC和管理费(3)","Dialog1")
@@ -15569,6 +15574,238 @@ this:AddDialog("MainDialog")
 
 
 </menu>
+		<item id="50001" action="3"/>
+		<item id="50002" action="3"/>
+		<item id="50003" action="3"/>
+		<item id="50004" action="3"/>
+		<item id="50005" action="3"/>
+		<item id="50006" action="3"/>
+		<item id="50007" action="3"/>
+		<item id="50008" action="3"/>
+		<item id="50009" action="3"/>
+		<item id="50010" action="3"/>
+		<item id="50011" action="3"/>
+		<item id="50012" action="3"/>
+		<item id="50013" action="3"/>
+		<item id="50014" action="3"/>
+		<item id="50015" action="3"/>
+		<item id="50016" action="3"/>
+		<item id="50017" action="3"/>
+		<item id="50018" action="3"/>
+		<item id="50019" action="3"/>
+		<item id="50020" action="3"/>
+		<item id="50021" action="3"/>
+		<item id="50022" action="3"/>
+		<item id="50023" action="3"/>
+		<item id="50024" action="3"/>
+		<item id="50025" action="3"/>
+		<item id="50101" action="3"/>
+		<item id="50102" action="3"/>
+		<item id="50103" action="3"/>
+		<item id="50104" action="3"/>
+		<item id="50105" action="3"/>
+		<item id="50106" action="3"/>
+		<item id="50107" action="3"/>
+		<item id="50108" action="3"/>
+		<item id="50109" action="3"/>
+		<item id="50110" action="3"/>
+		<item id="50111" action="3"/>
+		<item id="50112" action="3"/>
+		<item id="50113" action="3"/>
+		<item id="50114" action="3"/>
+		<item id="50115" action="3"/>
+		<item id="50116" action="3"/>
+		<item id="50117" action="3"/>
+		<item id="50118" action="3"/>
+		<item id="50119" action="3"/>
+		<item id="50120" action="3"/>
+		<item id="50121" action="3"/>
+		<item id="50122" action="3"/>
+		<item id="50123" action="3"/>
+		<item id="50124" action="3"/>
+		<item id="50125" action="3"/>
+		<item id="50126" action="3"/>
+		<item id="50201" action="3"/>
+		<item id="50202" action="3"/>
+		<item id="50203" action="3"/>
+		<item id="50204" action="3"/>
+		<item id="50205" action="3"/>
+		<item id="50206" action="3"/>
+		<item id="50207" action="3"/>
+		<item id="50208" action="3"/>
+		<item id="50209" action="3"/>
+		<item id="50210" action="3"/>
+		<item id="50211" action="3"/>
+		<item id="50212" action="3"/>
+		<item id="50213" action="3"/>
+		<item id="50214" action="3"/>
+		<item id="50215" action="3"/>
+		<item id="50216" action="3"/>
+		<item id="50217" action="3"/>
+		<item id="50218" action="3"/>
+		<item id="50219" action="3"/>
+		<item id="50220" action="3"/>
+		<item id="50221" action="3"/>
+		<item id="50222" action="3"/>
+		<item id="50223" action="3"/>
+		<item id="50224" action="3"/>
+		<item id="50225" action="3"/>
+		<item id="50301" action="3"/>
+		<item id="50302" action="3"/>
+		<item id="50303" action="3"/>
+		<item id="50304" action="3"/>
+		<item id="50305" action="3"/>
+		<item id="50306" action="3"/>
+		<item id="50307" action="3"/>
+		<item id="50308" action="3"/>
+		<item id="50309" action="3"/>
+		<item id="50310" action="3"/>
+		<item id="50311" action="3"/>
+		<item id="50312" action="3"/>
+		<item id="50313" action="3"/>
+		<item id="50314" action="3"/>
+		<item id="50315" action="3"/>
+		<item id="50316" action="3"/>
+		<item id="50317" action="3"/>
+		<item id="50318" action="3"/>
+		<item id="50319" action="3"/>
+		<item id="50320" action="3"/>
+		<item id="50321" action="3"/>
+		<item id="50322" action="3"/>
+		<item id="50323" action="3"/>
+		<item id="50324" action="3"/>
+		<item id="50325" action="3"/>
+		<item id="50326" action="3"/>
+		<item id="50401" action="3"/>
+		<item id="50402" action="3"/>
+		<item id="50403" action="3"/>
+		<item id="50404" action="3"/>
+		<item id="50405" action="3"/>
+		<item id="50406" action="3"/>
+		<item id="50407" action="3"/>
+		<item id="50408" action="3"/>
+		<item id="50409" action="3"/>
+		<item id="50410" action="3"/>
+		<item id="50411" action="3"/>
+		<item id="50412" action="3"/>
+		<item id="50413" action="3"/>
+		<item id="50414" action="3"/>
+		<item id="50415" action="3"/>
+		<item id="50416" action="3"/>
+		<item id="50417" action="3"/>
+		<item id="50418" action="3"/>
+		<item id="50419" action="3"/>
+		<item id="50420" action="3"/>
+		<item id="50421" action="3"/>
+		<item id="50422" action="3"/>
+		<item id="50423" action="3"/>
+		<item id="50424" action="3"/>
+		<item id="50425" action="3"/>
+		<item id="50426" action="3"/>
+		<item id="50501" action="3"/>
+		<item id="50502" action="3"/>
+		<item id="50503" action="3"/>
+		<item id="50504" action="3"/>
+		<item id="50505" action="3"/>
+		<item id="50506" action="3"/>
+		<item id="50507" action="3"/>
+		<item id="50508" action="3"/>
+		<item id="50509" action="3"/>
+		<item id="50510" action="3"/>
+		<item id="50511" action="3"/>
+		<item id="50512" action="3"/>
+		<item id="50513" action="3"/>
+		<item id="50514" action="3"/>
+		<item id="50515" action="3"/>
+		<item id="50516" action="3"/>
+		<item id="50517" action="3"/>
+		<item id="50518" action="3"/>
+		<item id="50519" action="3"/>
+		<item id="50520" action="3"/>
+		<item id="50521" action="3"/>
+		<item id="50522" action="3"/>
+		<item id="50523" action="3"/>
+		<item id="50524" action="3"/>
+		<item id="50525" action="3"/>
+		<item id="50526" action="3"/>
+		<item id="50601" action="3"/>
+		<item id="50602" action="3"/>
+		<item id="50603" action="3"/>
+		<item id="50604" action="3"/>
+		<item id="50605" action="3"/>
+		<item id="50606" action="3"/>
+		<item id="50607" action="3"/>
+		<item id="50608" action="3"/>
+		<item id="50609" action="3"/>
+		<item id="50610" action="3"/>
+		<item id="50611" action="3"/>
+		<item id="50612" action="3"/>
+		<item id="50613" action="3"/>
+		<item id="50614" action="3"/>
+		<item id="50615" action="3"/>
+		<item id="50616" action="3"/>
+		<item id="50617" action="3"/>
+		<item id="50618" action="3"/>
+		<item id="50619" action="3"/>
+		<item id="50620" action="3"/>
+		<item id="50621" action="3"/>
+		<item id="50622" action="3"/>
+		<item id="50623" action="3"/>
+		<item id="50624" action="3"/>
+		<item id="50625" action="3"/>
+		<item id="50626" action="3"/>
+		<item id="50701" action="3"/>
+		<item id="50702" action="3"/>
+		<item id="50703" action="3"/>
+		<item id="50704" action="3"/>
+		<item id="50705" action="3"/>
+		<item id="50706" action="3"/>
+		<item id="50707" action="3"/>
+		<item id="50708" action="3"/>
+		<item id="50709" action="3"/>
+		<item id="50710" action="3"/>
+		<item id="50711" action="3"/>
+		<item id="50712" action="3"/>
+		<item id="50713" action="3"/>
+		<item id="50714" action="3"/>
+		<item id="50715" action="3"/>
+		<item id="50716" action="3"/>
+		<item id="50717" action="3"/>
+		<item id="50718" action="3"/>
+		<item id="50719" action="3"/>
+		<item id="50720" action="3"/>
+		<item id="50721" action="3"/>
+		<item id="50722" action="3"/>
+		<item id="50723" action="3"/>
+		<item id="50724" action="3"/>
+		<item id="50725" action="3"/>
+		<item id="50726" action="3"/>
+		<item id="50801" action="3"/>
+		<item id="50802" action="3"/>
+		<item id="50803" action="3"/>
+		<item id="50804" action="3"/>
+		<item id="50805" action="3"/>
+		<item id="50806" action="3"/>
+		<item id="50807" action="3"/>
+		<item id="50808" action="3"/>
+		<item id="50809" action="3"/>
+		<item id="50810" action="3"/>
+		<item id="50811" action="3"/>
+		<item id="50812" action="3"/>
+		<item id="50813" action="3"/>
+		<item id="50814" action="3"/>
+		<item id="50815" action="3"/>
+		<item id="50816" action="3"/>
+		<item id="50817" action="3"/>
+		<item id="50818" action="3"/>
+		<item id="50819" action="3"/>
+		<item id="50820" action="3"/>
+		<item id="50821" action="3"/>
+		<item id="50822" action="3"/>
+		<item id="50823" action="3"/>
+		<item id="50824" action="3"/>
+		<item id="50825" action="3"/>
+		<item id="50826" action="3"/>
 		<item id="926" action="3"/>
 		<item id="797" action="3"/>
 		<item id="1507" action="3"/>
