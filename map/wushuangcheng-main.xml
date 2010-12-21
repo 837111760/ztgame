@@ -858,7 +858,7 @@
 	<npc id="932" name="大胆哥哥" width="1" height="1" x="536" y="736" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="902" name="孔圣人" width="1" height="1" x="831" y="418" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="867" name="托运官" width="1" height="1" x="848" y="548" num="1" interval="3600" color="0,255,0,0"/>
-	<npc id="864" name="改造宗师" width="1" height="1" x="885" y="446" num="1" interval="3600" color="0,255,0,0"/>
+	<npc id="5078" name="改造宗师" width="1" height="1" x="885" y="446" num="1" interval="3600" color="0,255,0,0"/>
 	<npc id="860" name="龙镖头" width="1" height="1" x="795" y="488" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="858" name="竞技岛传送者" width="1" height="1" x="816" y="416" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="856" name="葫铁花" width="1" height="1" x="816" y="431" num="1" interval="1800" color="0,255,0,0"/>
