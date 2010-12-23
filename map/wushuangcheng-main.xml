@@ -858,7 +858,7 @@
 	<npc id="932" name="大胆哥哥" width="1" height="1" x="536" y="736" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="902" name="孔圣人" width="1" height="1" x="831" y="418" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="867" name="托运官" width="1" height="1" x="848" y="548" num="1" interval="3600" color="0,255,0,0"/>
-	<npc id="5078" name="改造宗师" width="1" height="1" x="885" y="446" num="1" interval="3600" color="0,255,0,0"/>
+	<!--npc id="864" name="改造宗师" width="1" height="1" x="885" y="446" num="1" interval="3600" color="0,255,0,0"/-->
 	<npc id="860" name="龙镖头" width="1" height="1" x="795" y="488" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="858" name="竞技岛传送者" width="1" height="1" x="816" y="416" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="856" name="葫铁花" width="1" height="1" x="816" y="431" num="1" interval="1800" color="0,255,0,0"/>
@@ -963,10 +963,10 @@
 	<npc id="825" name="环式任务使者（11０级）" width="1" height="1" x="851" y="514" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="497" name="环式任务使者（60级）" width="1" height="1" x="842" y="525" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="56065" name="衙役" width="1" height="1" x="392" y="197" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="211" name="锻造" width="1" height="1" x="891" y="454" num="1" interval="1800" color="0,255,0,0"/>
+	<!--npc id="211" name="锻造" width="1" height="1" x="891" y="454" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="213" name="锻造" width="1" height="1" x="896" y="460" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="214" name="锻造" width="1" height="1" x="894" y="458" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="217" name="锻造" width="1" height="1" x="893" y="456" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="217" name="锻造" width="1" height="1" x="893" y="456" num="1" interval="1800" color="0,255,0,0"/-->
 	<npc id="803" name="杂货店伙计" width="1" height="1" x="858" y="441" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="805" name="武器店伙计" width="1" height="1" x="867" y="451" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="806" name="防具店伙计" width="1" height="1" x="870" y="453" num="1" interval="1800" color="0,255,0,0"/>
@@ -1020,8 +1020,8 @@
 	<npc id="915" name="国战防守者" width="1" height="1" x="590" y="402" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="277" name="王城守卫" width="3" height="2" x="877" y="498" num="1" interval="2" color="0,255,0,0"/>
 	<npc id="278" name="王城守卫(魔)" width="3" height="3" x="886" y="495" num="1" interval="2" color="0,255,0,0"/>
-	<npc id="906" name="善财童子" width="1" height="1" x="888" y="474" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="905" name="天工神匠" width="1" height="1" x="899" y="462" num="1" interval="1800" color="0,255,0,0"/>
+	<!--npc id="906" name="善财童子" width="1" height="1" x="888" y="474" num="1" interval="1800" color="0,255,0,0"/-->
+	<!--npc id="905" name="天工神匠" width="1" height="1" x="899" y="462" num="1" interval="1800" color="0,255,0,0"/-->
 	<npc id="907" name="天工巧匠" width="1" height="1" x="901" y="464" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="900" name="战场" width="1" height="1" x="818" y="415" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="903" name="国运官" width="1" height="1" x="836" y="529" num="1" interval="1200" color="0,255,0,0"/>
@@ -1039,7 +1039,8 @@
 	<npc id="887" name="福利姐姐" width="1" height="1" x="880" y="480" num="1" interval="3600" color="0,255,0,0"/>
 	<npc id="5107" name="天姑" width="1" height="1" x="885" y="485" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5014" name="判国者" width="1" height="1" x="890" y="490" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="5019" name="高级锻造师" width="1" height="1" x="888" y="450" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="5078" name="改造宗师(中立)" width="1" height="1" x="896" y="460" num="1" interval="3600" color="0,255,0,0"/>
+	<npc id="5019" name="高级锻造师(中立)" width="1" height="1" x="899" y="462" num="1" interval="1800" color="0,255,0,0"/>
 	<septnpc id="112"/>
 	<septnpc id="113"/>
 	<septnpc id="116"/>
