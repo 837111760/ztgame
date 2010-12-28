@@ -108,7 +108,7 @@
 		<!-- 如果要编码mysql连接字符串请使用工具，配置如下面的例子
 		<mysql encode="yes">lmOf.1kySwS0a09j11xyCdI1ySujl1hnCvT0hDitT0hjzv00gzSv00gDSw91tS9fE1</mysql>
 		-->
-		<offlineMsgPath>/tmp/offlineMessages</offlineMsgPath>
+		<offlineMsgPath>/home/ztgame/offlineMessages</offlineMsgPath>
 		<!-- 对战默认时间 -->
 		<dare_active_time>3600</dare_active_time>
 		<!-- 题库题目总数(ID必须是连续的) -->
