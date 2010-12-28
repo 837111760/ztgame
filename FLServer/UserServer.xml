@@ -24,7 +24,7 @@
 		<!-- 表的最大容量 -->
 		<tableSize>1000000</tableSize>
 		<!-- log文件路径 -->
-		<logfilename>/tmp/userserver.log</logfilename>
+		<logfilename>/home/ztgame/log/userserver.log</logfilename>
 		<!--MySQL database connection[mysql://user:passwd@host:port/dbName]-->
 		<!--
 		如果要编码mysql连接字符串请使用工具，配置如下面的例子

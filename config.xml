@@ -34,7 +34,7 @@
 	</global>
 	<SuperServer>
 		<!-- Specify the log filename. -->
-		<logfilename>/tmp/superserver.log</logfilename>
+		<logfilename>/home/ztgame/log/superserver.log</logfilename>
 		<!-- 统一用户平台服务器列表文件 -->
 		<loginServerListFile>loginServerList.xml</loginServerListFile>
 		<!--MySQL database connection[mysql://user:passwd@host:port/dbName]-->
@@ -49,7 +49,7 @@
 		<!-- 网关最大连接数量 0表示无限制 -->
 		<maxGatewayUser>2000</maxGatewayUser>
 		<!-- Specify the log filename. -->
-		<logfilename>/tmp/flserver.log</logfilename>
+		<logfilename>/home/ztgame/log/flserver.log</logfilename>
 		<!-- 统一用户平台用户管理服务器的列表文件 -->
 		<dbAccessServerListFile>FLServer/dbAccessServerList.xml</dbAccessServerListFile>
 		<!-- 服务器信息采集的服务器地址 -->
@@ -72,7 +72,7 @@
 	</FLServer>
 	<RecordServer>
 		<!-- Specify the log filename. -->
-		<logfilename>/tmp/recordserver.log</logfilename>
+		<logfilename>/home/ztgame/log/recordserver.log</logfilename>
 		<!--MySQL database connection[mysql://user:passwd@host:port/dbName]-->
 		<mysql>mysql://ztgame:ztgame@127.0.0.1:3306/zt</mysql>
 		<!-- 如果要编码mysql连接字符串请使用工具，配置如下面的例子
@@ -83,25 +83,25 @@
 	</RecordServer>
 	<BillServer>
 		<!-- Specify the log filename. -->
-		<logfilename>/tmp/billserver.log</logfilename>
-		<tradelogfilename>/tmp/billtrade.log</tradelogfilename>
+		<logfilename>/home/ztgame/log/billserver.log</logfilename>
+		<tradelogfilename>/home/ztgame/log/billtrade.log</tradelogfilename>
 		<billServerList>billServerList.xml</billServerList>
 		<!--MySQL database connection[mysql://user:passwd@host:port/dbName]-->
 		<mysql>mysql://ztgame:ztgame@127.0.0.1:3306/zt</mysql>
 		<!-- 如果要编码mysql连接字符串请使用工具，配置如下面的例子
 		<mysql encode="yes">lmOf.1kySwS0a09j11xyCdI1ySujl1hnCvT0hDitT0hjzv00gzSv00gDSw91tS9fE1</mysql>
 		-->
-		<gold_tradelog>/tmp/goldtrade.log</gold_tradelog>
+		<gold_tradelog>/home/ztgame/log/goldtrade.log</gold_tradelog>
 		<!--指令统计开关-->
 		<cmdswitch>true</cmdswitch>
 	</BillServer>
 	<BillClient>
 		<!-- 交易记录log文件路径 -->
-		<tradelogfilename>/tmp/clienttrade.log</tradelogfilename>
+		<tradelogfilename>/home/ztgame/log/clienttrade.log</tradelogfilename>
 	</BillClient>
 	<SessionServer>
 		<!-- Specify the log filename. -->
-		<logfilename>/tmp/sessionserver.log</logfilename>
+		<logfilename>/home/ztgame/log/sessionserver.log</logfilename>
 		<objlogfilename>/home/ztgame/log/objsessionserver.log</objlogfilename>
 		<!--MySQL database connection[mysql://user:passwd@host:port/dbName]-->
 		<mysql>mysql://ztgame:ztgame@127.0.0.1:3306/zt</mysql>
@@ -123,10 +123,10 @@
 	</SessionServer>
 	<ScenesServer>
 		<!-- Specify the log filename. -->
-		<logfilename>/tmp/scenesserver.log</logfilename>
-		<objlogfilename>/tmp/objscenesserver.log</objlogfilename>
-		<gm_logfile>/tmp/gm_log.log</gm_logfile>
-		<wg_logfile>/tmp/wg_log.log</wg_logfile>
+		<logfilename>/home/ztgame/log/scenesserver.log</logfilename>
+		<objlogfilename>/home/ztgame/log/objscenesserver.log</objlogfilename>
+		<gm_logfile>/home/ztgame/log/gm_log.log</gm_logfile>
+		<wg_logfile>/home/ztgame/log/wg_log.log</wg_logfile>
 		<double_exp>false</double_exp>
 		<double_drop>false</double_drop>
 		<level_double_drop>0</level_double_drop>
@@ -139,7 +139,7 @@
 		<writebacktimer>600</writebacktimer>
 		<mapdir>map/</mapdir>
 		<tbldir>map/</tbldir>
-		<ossdir>/tmp/</ossdir>
+		<ossdir>/home/ztgame/log/</ossdir>
 		<world_quiz>false</world_quiz>
 		<country_dare_jump>false</country_dare_jump>
 		<!--指令统计开关-->
@@ -150,7 +150,7 @@
 		<!-- 国家排序方式 0:不排序 , 1:在线人数排序 , 2:注册人数排序 -->
 		<countryorder>1</countryorder>
 		<!-- Specify the log filename. -->
-		<logfilename>/tmp/gatewayserver.log</logfilename>
+		<logfilename>/home/ztgame/log/gatewayserver.log</logfilename>
 		<!-- 是否启用角色名称唯一性验证服务器来保证角色名称的唯一性 -->
 		<rolereg_verify>0</rolereg_verify>
 		<forbidWordsFile>forbidWords</forbidWordsFile>

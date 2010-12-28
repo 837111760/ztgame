@@ -11,7 +11,7 @@
 		<!-- 网关最大连接数量 0表示无限制 -->
 		<maxGatewayUser>8000</maxGatewayUser>
 		<!-- Specify the log filename. -->
-		<logfilename>/tmp/flserver.log</logfilename>
+		<logfilename>/home/ztgame/log/flserver.log</logfilename>
 		<!-- 统一用户平台用户管理服务器的列表文件 -->
 		<dbAccessServerListFile>dbAccessServerList.xml</dbAccessServerListFile>
 		<!-- 服务器信息采集的服务器地址 -->
@@ -51,6 +51,6 @@
                 <!--是否要检查机器UUID被锁0 不检查， 1 检查-->
                 <check_uuid>1</check_uuid>
                 <!-- 记录UUID log文件路径 -->
-                <uuidlogfilename>/tmp/uuid.log</uuidlogfilename>
+                <uuidlogfilename>/home/ztgame/log/uuid.log</uuidlogfilename>
 	</FLServer>
 </Zebra>
