@@ -102,7 +102,7 @@
 	<SessionServer>
 		<!-- Specify the log filename. -->
 		<logfilename>/tmp/sessionserver.log</logfilename>
-		<objlogfilename>/tmp/objsessionserver.log</objlogfilename>
+		<objlogfilename>/home/ztgame/log/objsessionserver.log</objlogfilename>
 		<!--MySQL database connection[mysql://user:passwd@host:port/dbName]-->
 		<mysql>mysql://ztgame:ztgame@127.0.0.1:3306/zt</mysql>
 		<!-- 如果要编码mysql连接字符串请使用工具，配置如下面的例子
@@ -162,7 +162,7 @@
 	</GatewayServer>
 	<MiniServer>
 		<!-- Specify the log filename. -->
-		<logfilename>/tmp/miniserver.log</logfilename>
+		<logfilename>/home/ztgame/log/miniserver.log</logfilename>
 		<!--MySQL database connection[mysql://user:passwd@host:port/dbName]-->
 		<mysql>mysql://ztgame:ztgame@127.0.0.1:3306/zt</mysql>
 		<!-- 如果要编码mysql连接字符串请使用工具，配置如下面的例子
@@ -172,10 +172,10 @@
 	<ShowCharbase>
 		<mysqlbegin>mysql://ztgame:ztgame@127.0.0.1:3306/zt</mysqlbegin>
 		<mysqlend>mysql://ztgame:ztgame@127.0.0.1:3306/zt</mysqlend>
-		<logfilename>/tmp/charbaseserver.log</logfilename>
-		<outuserobjfile>/tmp/outuserobjfile.log</outuserobjfile>
-		<outuserfile>/tmp/outuserfile.log</outuserfile>
-		<outallfile>/tmp/outallfile.log</outallfile>
+		<logfilename>/home/ztgame/log/charbaseserver.log</logfilename>
+		<outuserobjfile>/home/ztgame/log/outuserobjfile.log</outuserobjfile>
+		<outuserfile>/home/ztgame/log/outuserfile.log</outuserfile>
+		<outallfile>/home/ztgame/log/outallfile.log</outallfile>
 		<tablenamebegin>CHARBASE</tablenamebegin>
 		<tablenameend>CHARBASE</tablenameend>
 		<resultuser>true</resultuser>
@@ -186,11 +186,11 @@
 	</ShowCharbase>
 	<LoadLogServer>
 		<mysql>mysql://ztgame:ztgame@127.0.0.1:3306/zt</mysql>
-		<logfilename>/tmp/charbaseserver.log</logfilename>
+		<logfilename>/home/ztgame/log/charbaseserver.log</logfilename>
 		<tablename>logtmp</tablename>
 		<columnnum>15</columnnum>
 		<objdir>tmplog/</objdir>
-		<logall>/tmp/logall.log</logall>
+		<logall>/home/ztgame/log/logall.log</logall>
 		<logtime>true</logtime>
 		<buildid>true</buildid>
 		<tempid>true</tempid>
