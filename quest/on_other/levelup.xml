@@ -9,7 +9,7 @@
 				<level type="Less" value="201"/>
 			</conditions>
 			<actions>
-				<gold type="Add" value="10000"/>
+				<gold type="Add" value="50000"/>
 			</actions>
 		</embranchment>
 		<embranchment id="2">
