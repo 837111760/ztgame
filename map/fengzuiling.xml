@@ -689,6 +689,10 @@
 	<npc id="219" name="ËÇÑøÔ±" width="1" height="1" x="113" y="254" num="1" interval="3600"/>
 	<npc id="872" name="ÃØ¼®" width="1" height="1" x="88" y="251" num="1" interval="5400"/>
 	<npc id="5095" name="³µ·ò" width="1" height="1" x="111" y="154" num="1" interval="3600"/>
+	<npc id="11010" name="ÖìÈ¸" width="10" height="10" x="111" y="154" num="3" interval="100"/>
+	<npc id="11011" name="ÐþÎä" width="10" height="10" x="111" y="154" num="3" interval="100"/>
+	<npc id="11009" name="°×»¢" width="10" height="10" x="111" y="154" num="3" interval="100"/>
+	<npc id="11008" name="ÇàÁú" width="10" height="10" x="111" y="154" num="3" interval="100"/>
 	<!--npc id="196" name="¿ÍÕ»ÀÏ°å" width="1" height="1" x="105" y="219" num="1" interval="3600"/-->
 	<npc id="869" name="ÔÓ»õµêÀÏ°å" width="1" height="1" x="118" y="226" num="1" interval="5400"/>
 	<npc id="870" name="Ò©µêÀÏ°å" width="1" height="1" x="84" y="218" num="1" interval="5400"/>
