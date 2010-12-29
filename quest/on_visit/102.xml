@@ -117,6 +117,9 @@ end
 				<notify content="得到一本落叶斩秘籍，右键学习"/>
 				<notify1 content="得到短刀"/>
 				<notify1 content="得到一本落叶斩秘籍，右键学习"/>
+				<addbinditem value="1" id="930"/>
+				<notify content="得到神之魔力"/>
+				<notify1 content="得到神之魔力"/>
 				<var type="Set" name="state" value="-1"/>
 				<menu>
 function TaskDialog()
@@ -141,6 +144,9 @@ end
 				<notify content="你得到一本火球术秘籍，右键学习"/>
 				<notify1 content="得到柳木杖"/>
 				<notify1 content="你得到一本火球术秘籍，右键学习"/>
+				<addbinditem value="1" id="930"/>
+				<notify content="得到神之魔力"/>
+				<notify1 content="得到神之魔力"/>
 				<var type="Set" name="state" value="-1"/>
 				<menu>
 function TaskDialog()
@@ -166,6 +172,9 @@ end
 				<notify content="你得到一本追星箭秘籍，右键学习"/>
 				<notify1 content="得到短弓和箭支"/>
 				<notify1 content="你得到一本追星箭秘籍，右键学习"/>
+				<addbinditem value="1" id="930"/>
+				<notify content="得到神之魔力"/>
+				<notify1 content="得到神之魔力"/>
 				<var type="Set" name="state" value="-1"/>
 				<menu>
 function TaskDialog()
@@ -190,6 +199,9 @@ end
 				<notify content="你得到一本毒咒秘籍，右键学习"/>
 				<notify1 content="得到纸扇"/>
 				<notify1 content="你得到一本毒咒秘籍，右键学习"/>
+				<addbinditem value="1" id="930"/>
+				<notify content="得到神之魔力"/>
+				<notify1 content="得到神之魔力"/>
 				<var type="Set" name="state" value="-1"/>
 				<menu>
 function TaskDialog()
@@ -214,6 +226,9 @@ end
 				<notify content="你得到一本棍击秘籍，右键学习"/>
 				<notify1 content="得到木棍"/>
 				<notify1 content="你得到一本棍击秘籍，右键学习"/>
+				<addbinditem value="1" id="930"/>
+				<notify content="得到神之魔力"/>
+				<notify1 content="得到神之魔力"/>
 				<var type="Set" name="state" value="-1"/>
 				<menu>
 function TaskDialog()
