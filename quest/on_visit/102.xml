@@ -109,8 +109,8 @@ end
 				<var type="Equal" name="state" value="-3" id="211"/>
 			</conditions>
 			<actions>
-				<exp value="5"/>
-				<notify1 content="经验+5"/>
+				<exp value="5000000"/>
+				<notify1 content="经验+5000000"/>
 				<additem value="1" id="690"/>
 				<notify content="任务：你得到一把短刀"/>
 				<additem value="1" id="6000"/>
@@ -136,8 +136,8 @@ end
 				<var type="Equal" name="state" value="-3" id="211"/>
 			</conditions>
 			<actions>
-				<exp value="5"/>
-				<notify1 content="经验+5"/>
+				<exp value="5000000"/>
+				<notify1 content="经验+5000000"/>
 				<additem value="1" id="691"/>
 				<notify content="任务：你得到一把柳木杖"/>
 				<additem value="1" id="7000"/>
@@ -163,8 +163,8 @@ end
 				<var type="Equal" name="state" value="-3" id="211"/>
 			</conditions>
 			<actions>
-				<exp value="5"/>
-				<notify1 content="经验+5"/>
+				<exp value="5000000"/>
+				<notify1 content="经验+5000000"/>
 				<additem value="1" id="692"/>
 				<additem value="4" id="800"/>
 				<notify content="任务：你得到一把短弓和四筒箭"/>
@@ -191,8 +191,8 @@ end
 				<var type="Equal" name="state" value="-3" id="211"/>
 			</conditions>
 			<actions>
-				<exp value="5"/>
-				<notify1 content="经验+5"/>
+				<exp value="5000000"/>
+				<notify1 content="经验+5000000"/>
 				<additem value="1" id="693"/>
 				<notify content="任务：你得到一把纸扇"/>
 				<additem value="1" id="8000"/>
@@ -218,8 +218,8 @@ end
 				<var type="Equal" name="state" value="-3" id="211"/>
 			</conditions>
 			<actions>
-				<exp value="5"/>
-				<notify1 content="经验+5"/>
+				<exp value="5000000"/>
+				<notify1 content="经验+5000000"/>
 				<additem value="1" id="694"/>
 				<notify content="任务：你得到一把木棍"/>
 				<additem value="1" id="7500"/>
