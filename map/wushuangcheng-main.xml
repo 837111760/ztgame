@@ -1035,6 +1035,7 @@
 	<npc id="891" name="环式任务使者(150级)" width="1" height="1" x="869" y="485" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="865" name="争霸赛联系员" width="1" height="1" x="824" y="424" num="1" interval="3600"/>
 	<npc id="16641" name="馅饼怪怪" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
+	<npc id="16641" name="馅饼怪怪" width="20" height="20" x="840" y="460" num="50" interval="5" color="0,255,0,0"/>
 	<npc id="16742" name="吉祥三宝" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
 	<npc id="887" name="福利姐姐" width="1" height="1" x="880" y="480" num="1" interval="3600" color="0,255,0,0"/>
 	<npc id="5107" name="天姑" width="1" height="1" x="885" y="485" num="1" interval="1800" color="0,255,0,0"/>
