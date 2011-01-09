@@ -4563,13 +4563,13 @@ this:AddDialog("MainDialog")</menu>
 this:AddTalk("70级以上的天然且绿色绑定装备可改造。")
 this:AddDialogItem("关于装备改造系统说明(3)","Dialog1")
 this:AddDialogItem("装备升级系统(3)","Dialog2")
-this:AddModifyAttri("改造属性(0)","id[10007-10019,10057-10069,10107-10119,10157-10169,10207-10219,10257-10269,10308-10320,10408-10420,10508-10520,10558-10570,10608-10620,10658-10670,10707-10719,10765-10790,10815-10840,10865-10890,10913-10938,10965-10990,11015-11040,20007-20019,20057-20069,20107-20119,20157-20169,20207-20219,20257-20269,20308-20320,20408-20420,20508-20520,20558-20570,20608-20620,20658-20670,20707-20719,20765-20790,20815-20840,20865-20890,20913-20938,20965-20990,21015-21040]","改造属性")
-this:AddReBind("重新绑定(0)","id[10007-10019,10057-10069,10107-10119,10157-10169,10207-10219,10257-10269,10308-10320,10408-10420,10508-10520,10558-10570,10608-10620,10658-10670,10707-10719,10765-10790,10815-10840,10865-10890,10913-10938,10965-10990,11015-11040,20007-20019,20057-20069,20107-20119,20157-20169,20207-20219,20257-20269,20308-20320,20408-20420,20508-20520,20558-20570,20608-20620,20658-20670,20707-20719,20765-20790,20815-20840,20865-20890,20913-20938,20965-20990,21015-21040]","重新绑定")
-this:AddReMaker("修改签名(0)","id[10007-10019,10057-10069,10107-10119,10157-10169,10207-10219,10257-10269,10308-10320,10408-10420,10508-10520,10558-10570,10608-10620,10658-10670,10707-10719,10765-10790,10815-10840,10865-10890,10913-10938,10965-10990,11015-11040,20007-20019,20057-20069,20107-20119,20157-20169,20207-20219,20257-20269,20308-20320,20408-20420,20508-20520,20558-20570,20608-20620,20658-20670,20707-20719,20765-20790,20815-20840,20865-20890,20913-20938,20965-20990,21015-21040]","修改签名")
-this:AddAddMaker("装备签名(0)","id[10007-10019,10057-10069,10107-10119,10157-10169,10207-10219,10257-10269,10308-10320,10408-10420,10508-10520,10558-10570,10608-10620,10658-10670,10707-10719,10765-10790,10815-10840,10865-10890,10913-10938,10965-10990,11015-11040,20007-20019,20057-20069,20107-20119,20157-20169,20207-20219,20257-20269,20308-20320,20408-20420,20508-20520,20558-20570,20608-20620,20658-20670,20707-20719,20765-20790,20815-20840,20865-20890,20913-20938,20965-20990,21015-21040]","装备签名")
-this:AddModifySoulA("修改灵魂属性(0)","id[10007-10019,10057-10069,10107-10119,10157-10169,10207-10219,10257-10269,10308-10320,10408-10420,10508-10520,10558-10570,10608-10620,10658-10670,10707-10719,10765-10790,10815-10840,10865-10890,10913-10938,10965-10990,11015-11040,20007-20019,20057-20069,20107-20119,20157-20169,20207-20219,20257-20269,20308-20320,20408-20420,20508-20520,20558-20570,20608-20620,20658-20670,20707-20719,20765-20790,20815-20840,20865-20890,20913-20938,20965-20990,21015-21040]","修改灵魂属性")
-this:AddLVSoullineMD("保留灵魂锁链改造(0)","id[10007-10019,10057-10069,10107-10119,10157-10169,10207-10219,10257-10269,10308-10320,10408-10420,10508-10520,10558-10570,10608-10620,10658-10670,10707-10719,10765-10790,10815-10840,10865-10890,10913-10938,10965-10990,11015-11040,20007-20019,20057-20069,20107-20119,20157-20169,20207-20219,20257-20269,20308-20320,20408-20420,20508-20520,20558-20570,20608-20620,20658-20670,20707-20719,20765-20790,20815-20840,20865-20890,20913-20938,20965-20990,21015-21040]","保留灵魂锁链")
-this:AddMDSkillA("修改技能属性(0)","id[10308-10320,10408-10420,10508-10520,10558-10570,10608-10620,10658-10670,10965-10990,11015-11040,20308-20320,20408-20420,20508-20520,20558-20570,20608-20620,20658-20670,20965-20990,21015-21040]","修改技能属性")
+this:AddModifyAttri("改造属性(0)","id[10007-10024,10057-10074,10107-10124,10157-10174,10207-10224,10257-10274,10308-10325,10408-10425,10508-10525,10558-10575,10608-10625,10658-10675,10707-10724,10765-10800,10815-10850,10865-10900,10913-10948,10965-11000,11015-11050,30001-30024,30051-30074,30101-30124,30151-30174,30201-30224,30251-30274,30301-30325,30401-30425,30501-30525,30551-30575,30601-30625,30651-30675,30701-30724,30751-30800,30801-30850,30851-30900,30901-30948,30951-31000,31001-31050]","改造属性")
+this:AddReBind("重新绑定(0)","id[10007-10024,10057-10074,10107-10124,10157-10174,10207-10224,10257-10274,10308-10325,10408-10425,10508-10525,10558-10575,10608-10625,10658-10675,10707-10724,10765-10800,10815-10850,10865-10900,10913-10948,10965-11000,11015-11050,30001-30024,30051-30074,30101-30124,30151-30174,30201-30224,30251-30274,30301-30325,30401-30425,30501-30525,30551-30575,30601-30625,30651-30675,30701-30724,30751-30800,30801-30850,30851-30900,30901-30948,30951-31000,31001-31050]","重新绑定")
+this:AddReMaker("修改签名(0)","id[10007-10024,10057-10074,10107-10124,10157-10174,10207-10224,10257-10274,10308-10325,10408-10425,10508-10525,10558-10575,10608-10625,10658-10675,10707-10724,10765-10800,10815-10850,10865-10900,10913-10948,10965-11000,11015-11050,30001-30024,30051-30074,30101-30124,30151-30174,30201-30224,30251-30274,30301-30325,30401-30425,30501-30525,30551-30575,30601-30625,30651-30675,30701-30724,30751-30800,30801-30850,30851-30900,30901-30948,30951-31000,31001-31050]","修改签名")
+this:AddAddMaker("装备签名(0)","id[10007-10024,10057-10074,10107-10124,10157-10174,10207-10224,10257-10274,10308-10325,10408-10425,10508-10525,10558-10575,10608-10625,10658-10675,10707-10724,10765-10800,10815-10850,10865-10900,10913-10948,10965-11000,11015-11050,30001-30024,30051-30074,30101-30124,30151-30174,30201-30224,30251-30274,30301-30325,30401-30425,30501-30525,30551-30575,30601-30625,30651-30675,30701-30724,30751-30800,30801-30850,30851-30900,30901-30948,30951-31000,31001-31050]","装备签名")
+this:AddModifySoulA("修改灵魂属性(0)","id[10007-10024,10057-10074,10107-10124,10157-10174,10207-10224,10257-10274,10308-10325,10408-10425,10508-10525,10558-10575,10608-10625,10658-10675,10707-10724,10765-10800,10815-10850,10865-10900,10913-10948,10965-11000,11015-11050,30001-30024,30051-30074,30101-30124,30151-30174,30201-30224,30251-30274,30301-30325,30401-30425,30501-30525,30551-30575,30601-30625,30651-30675,30701-30724,30751-30800,30801-30850,30851-30900,30901-30948,30951-31000,31001-31050]","修改灵魂属性")
+this:AddLVSoullineMD("保留灵魂锁链改造(0)","id[10007-10024,10057-10074,10107-10124,10157-10174,10207-10224,10257-10274,10308-10325,10408-10425,10508-10525,10558-10575,10608-10625,10658-10675,10707-10724,10765-10800,10815-10850,10865-10900,10913-10948,10965-11000,11015-11050,30001-30024,30051-30074,30101-30124,30151-30174,30201-30224,30251-30274,30301-30325,30401-30425,30501-30525,30551-30575,30601-30625,30651-30675,30701-30724,30751-30800,30801-30850,30851-30900,30901-30948,30951-31000,31001-31050]","保留灵魂锁链")
+this:AddMDSkillA("修改技能属性(0)","id[10308-10325,10408-10425,10508-10525,10558-10575,10608-10625,10658-10675,10965-11000,11015-11050,30308-30325,30408-30425,30508-30525,30558-30575,30608-30625,30658-30675,30965-31000,31015-31050]","修改技能属性")
 end
 
 function Dialog1()                                           
@@ -4579,42 +4579,12 @@ end
 
 function Dialog2()                                           
 this:AddTalk("装备升级的说明：\n    升级装备可以把当前装备升级成高10级（121级以上高5级）同类装备.\n    所有可升级装备必须是70级以上神圣绑定签名装备，每次升级需要一定数量的4级或更高等级打造本装备所需原材料，全5等材料100%出现完美装备，6等材料能够得到更好属性；同时需要一定银子。\n    必须是本人签名的绑定神圣装备。\n    装备升级保留原有的星星")
-this:AddEquipLV("装备升级(0)","id[10007-10018,10057-10068,10107-10118,10157-10168,10207-10218,10257-10268,10308-10319,10408-10419,10508-10519,10558-10569,10608-10619,10658-10669,10707-10718,10765-10788,10815-10838,10865-10888,10913-10936,10965-10988,11015-11038,20007-20018,20057-20068,20107-20118,20157-20168,20207-20218,20257-20268,20308-20319,20408-20419,20508-20519,20558-20569,20608-20619,20658-20669,20707-20718,20765-20788,20815-20838,20865-20888,20913-20936,20965-20988,21015-21038]","装备升级")
+this:AddEquipLV("装备升级(0)","id[10007-10018,10057-10068,10107-10118,10157-10168,10207-10218,10257-10268,10308-10319,10408-10419,10508-10519,10558-10569,10608-10619,10658-10669,10707-10718,10765-10788,10815-10838,10865-10888,10913-10936,10965-10988,11015-11038]","装备升级")
 this:AddDialogItem("离开","MainDialog")
 end
                                                                              
 this:AddDialog("MainDialog")
 </menu>
-		<item id="10320" action="16"/>
-		<item id="20320" action="16"/>
-		<item id="20420" action="16"/>
-		<item id="20520" action="16"/>
-		<item id="20570" action="16"/>
-		<item id="20620" action="16"/>
-		<item id="20670" action="16"/>
-		<item id="20789" action="16"/>
-		<item id="20790" action="16"/>
-		<item id="20889" action="16"/>
-		<item id="20890" action="16"/>
-		<item id="21039" action="16"/>
-		<item id="21040" action="16"/>
-		<item id="10420" action="16"/>
-		<item id="10520" action="16"/>
-		<item id="10570" action="16"/>
-		<item id="10620" action="16"/>
-		<item id="10670" action="16"/>
-		<item id="10789" action="16"/>
-		<item id="10790" action="16"/>
-		<item id="10889" action="16"/>
-		<item id="10890" action="16"/>
-		<item id="11039" action="16"/>
-		<item id="11040" action="16"/>
-		<item id="10001" action="16"/>
-		<item id="10002" action="16"/>
-		<item id="10003" action="16"/>
-		<item id="10004" action="16"/>
-		<item id="10005" action="16"/>
-		<item id="10006" action="16"/>
 		<item id="10007" action="16"/>
 		<item id="10008" action="16"/>
 		<item id="10009" action="16"/>
@@ -4628,12 +4598,11 @@ this:AddDialog("MainDialog")
 		<item id="10017" action="16"/>
 		<item id="10018" action="16"/>
 		<item id="10019" action="16"/>
-		<item id="10051" action="16"/>
-		<item id="10052" action="16"/>
-		<item id="10053" action="16"/>
-		<item id="10054" action="16"/>
-		<item id="10055" action="16"/>
-		<item id="10056" action="16"/>
+		<item id="10020" action="16"/>
+		<item id="10021" action="16"/>
+		<item id="10022" action="16"/>
+		<item id="10023" action="16"/>
+		<item id="10024" action="16"/>
 		<item id="10057" action="16"/>
 		<item id="10058" action="16"/>
 		<item id="10059" action="16"/>
@@ -4647,12 +4616,11 @@ this:AddDialog("MainDialog")
 		<item id="10067" action="16"/>
 		<item id="10068" action="16"/>
 		<item id="10069" action="16"/>
-		<item id="10101" action="16"/>
-		<item id="10102" action="16"/>
-		<item id="10103" action="16"/>
-		<item id="10104" action="16"/>
-		<item id="10105" action="16"/>
-		<item id="10106" action="16"/>
+		<item id="10070" action="16"/>
+		<item id="10071" action="16"/>
+		<item id="10072" action="16"/>
+		<item id="10073" action="16"/>
+		<item id="10074" action="16"/>
 		<item id="10107" action="16"/>
 		<item id="10108" action="16"/>
 		<item id="10109" action="16"/>
@@ -4666,12 +4634,11 @@ this:AddDialog("MainDialog")
 		<item id="10117" action="16"/>
 		<item id="10118" action="16"/>
 		<item id="10119" action="16"/>
-		<item id="10151" action="16"/>
-		<item id="10152" action="16"/>
-		<item id="10153" action="16"/>
-		<item id="10154" action="16"/>
-		<item id="10155" action="16"/>
-		<item id="10156" action="16"/>
+		<item id="10120" action="16"/>
+		<item id="10121" action="16"/>
+		<item id="10122" action="16"/>
+		<item id="10123" action="16"/>
+		<item id="10124" action="16"/>
 		<item id="10157" action="16"/>
 		<item id="10158" action="16"/>
 		<item id="10159" action="16"/>
@@ -4685,12 +4652,11 @@ this:AddDialog("MainDialog")
 		<item id="10167" action="16"/>
 		<item id="10168" action="16"/>
 		<item id="10169" action="16"/>
-		<item id="10201" action="16"/>
-		<item id="10202" action="16"/>
-		<item id="10203" action="16"/>
-		<item id="10204" action="16"/>
-		<item id="10205" action="16"/>
-		<item id="10206" action="16"/>
+		<item id="10170" action="16"/>
+		<item id="10171" action="16"/>
+		<item id="10172" action="16"/>
+		<item id="10173" action="16"/>
+		<item id="10174" action="16"/>
 		<item id="10207" action="16"/>
 		<item id="10208" action="16"/>
 		<item id="10209" action="16"/>
@@ -4704,12 +4670,11 @@ this:AddDialog("MainDialog")
 		<item id="10217" action="16"/>
 		<item id="10218" action="16"/>
 		<item id="10219" action="16"/>
-		<item id="10251" action="16"/>
-		<item id="10252" action="16"/>
-		<item id="10253" action="16"/>
-		<item id="10254" action="16"/>
-		<item id="10255" action="16"/>
-		<item id="10256" action="16"/>
+		<item id="10220" action="16"/>
+		<item id="10221" action="16"/>
+		<item id="10222" action="16"/>
+		<item id="10223" action="16"/>
+		<item id="10224" action="16"/>
 		<item id="10257" action="16"/>
 		<item id="10258" action="16"/>
 		<item id="10259" action="16"/>
@@ -4723,13 +4688,11 @@ this:AddDialog("MainDialog")
 		<item id="10267" action="16"/>
 		<item id="10268" action="16"/>
 		<item id="10269" action="16"/>
-		<item id="10301" action="16"/>
-		<item id="10302" action="16"/>
-		<item id="10303" action="16"/>
-		<item id="10304" action="16"/>
-		<item id="10305" action="16"/>
-		<item id="10306" action="16"/>
-		<item id="10307" action="16"/>
+		<item id="10270" action="16"/>
+		<item id="10271" action="16"/>
+		<item id="10272" action="16"/>
+		<item id="10273" action="16"/>
+		<item id="10274" action="16"/>
 		<item id="10308" action="16"/>
 		<item id="10309" action="16"/>
 		<item id="10310" action="16"/>
@@ -4742,13 +4705,12 @@ this:AddDialog("MainDialog")
 		<item id="10317" action="16"/>
 		<item id="10318" action="16"/>
 		<item id="10319" action="16"/>
-		<item id="10401" action="16"/>
-		<item id="10402" action="16"/>
-		<item id="10403" action="16"/>
-		<item id="10404" action="16"/>
-		<item id="10405" action="16"/>
-		<item id="10406" action="16"/>
-		<item id="10407" action="16"/>
+		<item id="10320" action="16"/>
+		<item id="10321" action="16"/>
+		<item id="10322" action="16"/>
+		<item id="10323" action="16"/>
+		<item id="10324" action="16"/>
+		<item id="10325" action="16"/>
 		<item id="10408" action="16"/>
 		<item id="10409" action="16"/>
 		<item id="10410" action="16"/>
@@ -4761,13 +4723,12 @@ this:AddDialog("MainDialog")
 		<item id="10417" action="16"/>
 		<item id="10418" action="16"/>
 		<item id="10419" action="16"/>
-		<item id="10501" action="16"/>
-		<item id="10502" action="16"/>
-		<item id="10503" action="16"/>
-		<item id="10504" action="16"/>
-		<item id="10505" action="16"/>
-		<item id="10506" action="16"/>
-		<item id="10507" action="16"/>
+		<item id="10420" action="16"/>
+		<item id="10421" action="16"/>
+		<item id="10422" action="16"/>
+		<item id="10423" action="16"/>
+		<item id="10424" action="16"/>
+		<item id="10425" action="16"/>
 		<item id="10508" action="16"/>
 		<item id="10509" action="16"/>
 		<item id="10510" action="16"/>
@@ -4780,13 +4741,12 @@ this:AddDialog("MainDialog")
 		<item id="10517" action="16"/>
 		<item id="10518" action="16"/>
 		<item id="10519" action="16"/>
-		<item id="10551" action="16"/>
-		<item id="10552" action="16"/>
-		<item id="10553" action="16"/>
-		<item id="10554" action="16"/>
-		<item id="10555" action="16"/>
-		<item id="10556" action="16"/>
-		<item id="10557" action="16"/>
+		<item id="10520" action="16"/>
+		<item id="10521" action="16"/>
+		<item id="10522" action="16"/>
+		<item id="10523" action="16"/>
+		<item id="10524" action="16"/>
+		<item id="10525" action="16"/>
 		<item id="10558" action="16"/>
 		<item id="10559" action="16"/>
 		<item id="10560" action="16"/>
@@ -4799,13 +4759,12 @@ this:AddDialog("MainDialog")
 		<item id="10567" action="16"/>
 		<item id="10568" action="16"/>
 		<item id="10569" action="16"/>
-		<item id="10601" action="16"/>
-		<item id="10602" action="16"/>
-		<item id="10603" action="16"/>
-		<item id="10604" action="16"/>
-		<item id="10605" action="16"/>
-		<item id="10606" action="16"/>
-		<item id="10607" action="16"/>
+		<item id="10570" action="16"/>
+		<item id="10571" action="16"/>
+		<item id="10572" action="16"/>
+		<item id="10573" action="16"/>
+		<item id="10574" action="16"/>
+		<item id="10575" action="16"/>
 		<item id="10608" action="16"/>
 		<item id="10609" action="16"/>
 		<item id="10610" action="16"/>
@@ -4818,13 +4777,12 @@ this:AddDialog("MainDialog")
 		<item id="10617" action="16"/>
 		<item id="10618" action="16"/>
 		<item id="10619" action="16"/>
-		<item id="10651" action="16"/>
-		<item id="10652" action="16"/>
-		<item id="10653" action="16"/>
-		<item id="10654" action="16"/>
-		<item id="10655" action="16"/>
-		<item id="10656" action="16"/>
-		<item id="10657" action="16"/>
+		<item id="10620" action="16"/>
+		<item id="10621" action="16"/>
+		<item id="10622" action="16"/>
+		<item id="10623" action="16"/>
+		<item id="10624" action="16"/>
+		<item id="10625" action="16"/>
 		<item id="10658" action="16"/>
 		<item id="10659" action="16"/>
 		<item id="10660" action="16"/>
@@ -4837,12 +4795,12 @@ this:AddDialog("MainDialog")
 		<item id="10667" action="16"/>
 		<item id="10668" action="16"/>
 		<item id="10669" action="16"/>
-		<item id="10701" action="16"/>
-		<item id="10702" action="16"/>
-		<item id="10703" action="16"/>
-		<item id="10704" action="16"/>
-		<item id="10705" action="16"/>
-		<item id="10706" action="16"/>
+		<item id="10670" action="16"/>
+		<item id="10671" action="16"/>
+		<item id="10672" action="16"/>
+		<item id="10673" action="16"/>
+		<item id="10674" action="16"/>
+		<item id="10675" action="16"/>
 		<item id="10707" action="16"/>
 		<item id="10708" action="16"/>
 		<item id="10709" action="16"/>
@@ -4856,20 +4814,11 @@ this:AddDialog("MainDialog")
 		<item id="10717" action="16"/>
 		<item id="10718" action="16"/>
 		<item id="10719" action="16"/>
-		<item id="10751" action="16"/>
-		<item id="10752" action="16"/>
-		<item id="10753" action="16"/>
-		<item id="10754" action="16"/>
-		<item id="10755" action="16"/>
-		<item id="10756" action="16"/>
-		<item id="10757" action="16"/>
-		<item id="10758" action="16"/>
-		<item id="10759" action="16"/>
-		<item id="10760" action="16"/>
-		<item id="10761" action="16"/>
-		<item id="10762" action="16"/>
-		<item id="10763" action="16"/>
-		<item id="10764" action="16"/>
+		<item id="10720" action="16"/>
+		<item id="10721" action="16"/>
+		<item id="10722" action="16"/>
+		<item id="10723" action="16"/>
+		<item id="10724" action="16"/>
 		<item id="10765" action="16"/>
 		<item id="10766" action="16"/>
 		<item id="10767" action="16"/>
@@ -4894,20 +4843,18 @@ this:AddDialog("MainDialog")
 		<item id="10786" action="16"/>
 		<item id="10787" action="16"/>
 		<item id="10788" action="16"/>
-		<item id="10801" action="16"/>
-		<item id="10802" action="16"/>
-		<item id="10803" action="16"/>
-		<item id="10804" action="16"/>
-		<item id="10805" action="16"/>
-		<item id="10806" action="16"/>
-		<item id="10807" action="16"/>
-		<item id="10808" action="16"/>
-		<item id="10809" action="16"/>
-		<item id="10810" action="16"/>
-		<item id="10811" action="16"/>
-		<item id="10812" action="16"/>
-		<item id="10813" action="16"/>
-		<item id="10814" action="16"/>
+		<item id="10789" action="16"/>
+		<item id="10790" action="16"/>
+		<item id="10791" action="16"/>
+		<item id="10792" action="16"/>
+		<item id="10793" action="16"/>
+		<item id="10794" action="16"/>
+		<item id="10795" action="16"/>
+		<item id="10796" action="16"/>
+		<item id="10797" action="16"/>
+		<item id="10798" action="16"/>
+		<item id="10799" action="16"/>
+		<item id="10800" action="16"/>
 		<item id="10815" action="16"/>
 		<item id="10816" action="16"/>
 		<item id="10817" action="16"/>
@@ -4934,20 +4881,16 @@ this:AddDialog("MainDialog")
 		<item id="10838" action="16"/>
 		<item id="10839" action="16"/>
 		<item id="10840" action="16"/>
-		<item id="10851" action="16"/>
-		<item id="10852" action="16"/>
-		<item id="10853" action="16"/>
-		<item id="10854" action="16"/>
-		<item id="10855" action="16"/>
-		<item id="10856" action="16"/>
-		<item id="10857" action="16"/>
-		<item id="10858" action="16"/>
-		<item id="10859" action="16"/>
-		<item id="10860" action="16"/>
-		<item id="10861" action="16"/>
-		<item id="10862" action="16"/>
-		<item id="10863" action="16"/>
-		<item id="10864" action="16"/>
+		<item id="10841" action="16"/>
+		<item id="10842" action="16"/>
+		<item id="10843" action="16"/>
+		<item id="10844" action="16"/>
+		<item id="10845" action="16"/>
+		<item id="10846" action="16"/>
+		<item id="10847" action="16"/>
+		<item id="10848" action="16"/>
+		<item id="10849" action="16"/>
+		<item id="10850" action="16"/>
 		<item id="10865" action="16"/>
 		<item id="10866" action="16"/>
 		<item id="10867" action="16"/>
@@ -4972,18 +4915,18 @@ this:AddDialog("MainDialog")
 		<item id="10886" action="16"/>
 		<item id="10887" action="16"/>
 		<item id="10888" action="16"/>
-		<item id="10901" action="16"/>
-		<item id="10902" action="16"/>
-		<item id="10903" action="16"/>
-		<item id="10904" action="16"/>
-		<item id="10905" action="16"/>
-		<item id="10906" action="16"/>
-		<item id="10907" action="16"/>
-		<item id="10908" action="16"/>
-		<item id="10909" action="16"/>
-		<item id="10910" action="16"/>
-		<item id="10911" action="16"/>
-		<item id="10912" action="16"/>
+		<item id="10889" action="16"/>
+		<item id="10890" action="16"/>
+		<item id="10891" action="16"/>
+		<item id="10892" action="16"/>
+		<item id="10893" action="16"/>
+		<item id="10894" action="16"/>
+		<item id="10895" action="16"/>
+		<item id="10896" action="16"/>
+		<item id="10897" action="16"/>
+		<item id="10898" action="16"/>
+		<item id="10899" action="16"/>
+		<item id="10900" action="16"/>
 		<item id="10913" action="16"/>
 		<item id="10914" action="16"/>
 		<item id="10915" action="16"/>
@@ -5010,20 +4953,16 @@ this:AddDialog("MainDialog")
 		<item id="10936" action="16"/>
 		<item id="10937" action="16"/>
 		<item id="10938" action="16"/>
-		<item id="10951" action="16"/>
-		<item id="10952" action="16"/>
-		<item id="10953" action="16"/>
-		<item id="10954" action="16"/>
-		<item id="10955" action="16"/>
-		<item id="10956" action="16"/>
-		<item id="10957" action="16"/>
-		<item id="10958" action="16"/>
-		<item id="10959" action="16"/>
-		<item id="10960" action="16"/>
-		<item id="10961" action="16"/>
-		<item id="10962" action="16"/>
-		<item id="10963" action="16"/>
-		<item id="10964" action="16"/>
+		<item id="10939" action="16"/>
+		<item id="10940" action="16"/>
+		<item id="10941" action="16"/>
+		<item id="10942" action="16"/>
+		<item id="10943" action="16"/>
+		<item id="10944" action="16"/>
+		<item id="10945" action="16"/>
+		<item id="10946" action="16"/>
+		<item id="10947" action="16"/>
+		<item id="10948" action="16"/>
 		<item id="10965" action="16"/>
 		<item id="10966" action="16"/>
 		<item id="10967" action="16"/>
@@ -5050,20 +4989,16 @@ this:AddDialog("MainDialog")
 		<item id="10988" action="16"/>
 		<item id="10989" action="16"/>
 		<item id="10990" action="16"/>
-		<item id="11001" action="16"/>
-		<item id="11002" action="16"/>
-		<item id="11003" action="16"/>
-		<item id="11004" action="16"/>
-		<item id="11005" action="16"/>
-		<item id="11006" action="16"/>
-		<item id="11007" action="16"/>
-		<item id="11008" action="16"/>
-		<item id="11009" action="16"/>
-		<item id="11010" action="16"/>
-		<item id="11011" action="16"/>
-		<item id="11012" action="16"/>
-		<item id="11013" action="16"/>
-		<item id="11014" action="16"/>
+		<item id="10991" action="16"/>
+		<item id="10992" action="16"/>
+		<item id="10993" action="16"/>
+		<item id="10994" action="16"/>
+		<item id="10995" action="16"/>
+		<item id="10996" action="16"/>
+		<item id="10997" action="16"/>
+		<item id="10998" action="16"/>
+		<item id="10999" action="16"/>
+		<item id="11000" action="16"/>
 		<item id="11015" action="16"/>
 		<item id="11016" action="16"/>
 		<item id="11017" action="16"/>
@@ -5088,498 +5023,647 @@ this:AddDialog("MainDialog")
 		<item id="11036" action="16"/>
 		<item id="11037" action="16"/>
 		<item id="11038" action="16"/>
-		<item id="20001" action="16"/>
-		<item id="20002" action="16"/>
-		<item id="20003" action="16"/>
-		<item id="20004" action="16"/>
-		<item id="20005" action="16"/>
-		<item id="20006" action="16"/>
-		<item id="20007" action="16"/>
-		<item id="20008" action="16"/>
-		<item id="20009" action="16"/>
-		<item id="20010" action="16"/>
-		<item id="20011" action="16"/>
-		<item id="20012" action="16"/>
-		<item id="20013" action="16"/>
-		<item id="20014" action="16"/>
-		<item id="20015" action="16"/>
-		<item id="20016" action="16"/>
-		<item id="20017" action="16"/>
-		<item id="20018" action="16"/>
-		<item id="20019" action="16"/>
-		<item id="20051" action="16"/>
-		<item id="20052" action="16"/>
-		<item id="20053" action="16"/>
-		<item id="20054" action="16"/>
-		<item id="20055" action="16"/>
-		<item id="20056" action="16"/>
-		<item id="20057" action="16"/>
-		<item id="20058" action="16"/>
-		<item id="20059" action="16"/>
-		<item id="20060" action="16"/>
-		<item id="20061" action="16"/>
-		<item id="20062" action="16"/>
-		<item id="20063" action="16"/>
-		<item id="20064" action="16"/>
-		<item id="20065" action="16"/>
-		<item id="20066" action="16"/>
-		<item id="20067" action="16"/>
-		<item id="20068" action="16"/>
-		<item id="20069" action="16"/>
-		<item id="20101" action="16"/>
-		<item id="20102" action="16"/>
-		<item id="20103" action="16"/>
-		<item id="20104" action="16"/>
-		<item id="20105" action="16"/>
-		<item id="20106" action="16"/>
-		<item id="20107" action="16"/>
-		<item id="20108" action="16"/>
-		<item id="20109" action="16"/>
-		<item id="20110" action="16"/>
-		<item id="20111" action="16"/>
-		<item id="20112" action="16"/>
-		<item id="20113" action="16"/>
-		<item id="20114" action="16"/>
-		<item id="20115" action="16"/>
-		<item id="20116" action="16"/>
-		<item id="20117" action="16"/>
-		<item id="20118" action="16"/>
-		<item id="20119" action="16"/>
-		<item id="20151" action="16"/>
-		<item id="20152" action="16"/>
-		<item id="20153" action="16"/>
-		<item id="20154" action="16"/>
-		<item id="20155" action="16"/>
-		<item id="20156" action="16"/>
-		<item id="20157" action="16"/>
-		<item id="20158" action="16"/>
-		<item id="20159" action="16"/>
-		<item id="20160" action="16"/>
-		<item id="20161" action="16"/>
-		<item id="20162" action="16"/>
-		<item id="20163" action="16"/>
-		<item id="20164" action="16"/>
-		<item id="20165" action="16"/>
-		<item id="20166" action="16"/>
-		<item id="20167" action="16"/>
-		<item id="20168" action="16"/>
-		<item id="20169" action="16"/>
-		<item id="20201" action="16"/>
-		<item id="20202" action="16"/>
-		<item id="20203" action="16"/>
-		<item id="20204" action="16"/>
-		<item id="20205" action="16"/>
-		<item id="20206" action="16"/>
-		<item id="20207" action="16"/>
-		<item id="20208" action="16"/>
-		<item id="20209" action="16"/>
-		<item id="20210" action="16"/>
-		<item id="20211" action="16"/>
-		<item id="20212" action="16"/>
-		<item id="20213" action="16"/>
-		<item id="20214" action="16"/>
-		<item id="20215" action="16"/>
-		<item id="20216" action="16"/>
-		<item id="20217" action="16"/>
-		<item id="20218" action="16"/>
-		<item id="20219" action="16"/>
-		<item id="20251" action="16"/>
-		<item id="20252" action="16"/>
-		<item id="20253" action="16"/>
-		<item id="20254" action="16"/>
-		<item id="20255" action="16"/>
-		<item id="20256" action="16"/>
-		<item id="20257" action="16"/>
-		<item id="20258" action="16"/>
-		<item id="20259" action="16"/>
-		<item id="20260" action="16"/>
-		<item id="20261" action="16"/>
-		<item id="20262" action="16"/>
-		<item id="20263" action="16"/>
-		<item id="20264" action="16"/>
-		<item id="20265" action="16"/>
-		<item id="20266" action="16"/>
-		<item id="20267" action="16"/>
-		<item id="20268" action="16"/>
-		<item id="20269" action="16"/>
-		<item id="20301" action="16"/>
-		<item id="20302" action="16"/>
-		<item id="20303" action="16"/>
-		<item id="20304" action="16"/>
-		<item id="20305" action="16"/>
-		<item id="20306" action="16"/>
-		<item id="20307" action="16"/>
-		<item id="20308" action="16"/>
-		<item id="20309" action="16"/>
-		<item id="20310" action="16"/>
-		<item id="20311" action="16"/>
-		<item id="20312" action="16"/>
-		<item id="20313" action="16"/>
-		<item id="20314" action="16"/>
-		<item id="20315" action="16"/>
-		<item id="20316" action="16"/>
-		<item id="20317" action="16"/>
-		<item id="20318" action="16"/>
-		<item id="20319" action="16"/>
-		<item id="20401" action="16"/>
-		<item id="20402" action="16"/>
-		<item id="20403" action="16"/>
-		<item id="20404" action="16"/>
-		<item id="20405" action="16"/>
-		<item id="20406" action="16"/>
-		<item id="20407" action="16"/>
-		<item id="20408" action="16"/>
-		<item id="20409" action="16"/>
-		<item id="20410" action="16"/>
-		<item id="20411" action="16"/>
-		<item id="20412" action="16"/>
-		<item id="20413" action="16"/>
-		<item id="20414" action="16"/>
-		<item id="20415" action="16"/>
-		<item id="20416" action="16"/>
-		<item id="20417" action="16"/>
-		<item id="20418" action="16"/>
-		<item id="20419" action="16"/>
-		<item id="20501" action="16"/>
-		<item id="20502" action="16"/>
-		<item id="20503" action="16"/>
-		<item id="20504" action="16"/>
-		<item id="20505" action="16"/>
-		<item id="20506" action="16"/>
-		<item id="20507" action="16"/>
-		<item id="20508" action="16"/>
-		<item id="20509" action="16"/>
-		<item id="20510" action="16"/>
-		<item id="20511" action="16"/>
-		<item id="20512" action="16"/>
-		<item id="20513" action="16"/>
-		<item id="20514" action="16"/>
-		<item id="20515" action="16"/>
-		<item id="20516" action="16"/>
-		<item id="20517" action="16"/>
-		<item id="20518" action="16"/>
-		<item id="20519" action="16"/>
-		<item id="20551" action="16"/>
-		<item id="20552" action="16"/>
-		<item id="20553" action="16"/>
-		<item id="20554" action="16"/>
-		<item id="20555" action="16"/>
-		<item id="20556" action="16"/>
-		<item id="20557" action="16"/>
-		<item id="20558" action="16"/>
-		<item id="20559" action="16"/>
-		<item id="20560" action="16"/>
-		<item id="20561" action="16"/>
-		<item id="20562" action="16"/>
-		<item id="20563" action="16"/>
-		<item id="20564" action="16"/>
-		<item id="20565" action="16"/>
-		<item id="20566" action="16"/>
-		<item id="20567" action="16"/>
-		<item id="20568" action="16"/>
-		<item id="20569" action="16"/>
-		<item id="20601" action="16"/>
-		<item id="20602" action="16"/>
-		<item id="20603" action="16"/>
-		<item id="20604" action="16"/>
-		<item id="20605" action="16"/>
-		<item id="20606" action="16"/>
-		<item id="20607" action="16"/>
-		<item id="20608" action="16"/>
-		<item id="20609" action="16"/>
-		<item id="20610" action="16"/>
-		<item id="20611" action="16"/>
-		<item id="20612" action="16"/>
-		<item id="20613" action="16"/>
-		<item id="20614" action="16"/>
-		<item id="20615" action="16"/>
-		<item id="20616" action="16"/>
-		<item id="20617" action="16"/>
-		<item id="20618" action="16"/>
-		<item id="20619" action="16"/>
-		<item id="20651" action="16"/>
-		<item id="20652" action="16"/>
-		<item id="20653" action="16"/>
-		<item id="20654" action="16"/>
-		<item id="20655" action="16"/>
-		<item id="20656" action="16"/>
-		<item id="20657" action="16"/>
-		<item id="20658" action="16"/>
-		<item id="20659" action="16"/>
-		<item id="20660" action="16"/>
-		<item id="20661" action="16"/>
-		<item id="20662" action="16"/>
-		<item id="20663" action="16"/>
-		<item id="20664" action="16"/>
-		<item id="20665" action="16"/>
-		<item id="20666" action="16"/>
-		<item id="20667" action="16"/>
-		<item id="20668" action="16"/>
-		<item id="20669" action="16"/>
-		<item id="20701" action="16"/>
-		<item id="20702" action="16"/>
-		<item id="20703" action="16"/>
-		<item id="20704" action="16"/>
-		<item id="20705" action="16"/>
-		<item id="20706" action="16"/>
-		<item id="20707" action="16"/>
-		<item id="20708" action="16"/>
-		<item id="20709" action="16"/>
-		<item id="20710" action="16"/>
-		<item id="20711" action="16"/>
-		<item id="20712" action="16"/>
-		<item id="20713" action="16"/>
-		<item id="20714" action="16"/>
-		<item id="20715" action="16"/>
-		<item id="20716" action="16"/>
-		<item id="20717" action="16"/>
-		<item id="20718" action="16"/>
-		<item id="20719" action="16"/>
-		<item id="20751" action="16"/>
-		<item id="20752" action="16"/>
-		<item id="20753" action="16"/>
-		<item id="20754" action="16"/>
-		<item id="20755" action="16"/>
-		<item id="20756" action="16"/>
-		<item id="20757" action="16"/>
-		<item id="20758" action="16"/>
-		<item id="20759" action="16"/>
-		<item id="20760" action="16"/>
-		<item id="20761" action="16"/>
-		<item id="20762" action="16"/>
-		<item id="20763" action="16"/>
-		<item id="20764" action="16"/>
-		<item id="20765" action="16"/>
-		<item id="20766" action="16"/>
-		<item id="20767" action="16"/>
-		<item id="20768" action="16"/>
-		<item id="20769" action="16"/>
-		<item id="20770" action="16"/>
-		<item id="20771" action="16"/>
-		<item id="20772" action="16"/>
-		<item id="20773" action="16"/>
-		<item id="20774" action="16"/>
-		<item id="20775" action="16"/>
-		<item id="20776" action="16"/>
-		<item id="20777" action="16"/>
-		<item id="20778" action="16"/>
-		<item id="20779" action="16"/>
-		<item id="20780" action="16"/>
-		<item id="20781" action="16"/>
-		<item id="20782" action="16"/>
-		<item id="20783" action="16"/>
-		<item id="20784" action="16"/>
-		<item id="20785" action="16"/>
-		<item id="20786" action="16"/>
-		<item id="20787" action="16"/>
-		<item id="20788" action="16"/>
-		<item id="20801" action="16"/>
-		<item id="20802" action="16"/>
-		<item id="20803" action="16"/>
-		<item id="20804" action="16"/>
-		<item id="20805" action="16"/>
-		<item id="20806" action="16"/>
-		<item id="20807" action="16"/>
-		<item id="20808" action="16"/>
-		<item id="20809" action="16"/>
-		<item id="20810" action="16"/>
-		<item id="20811" action="16"/>
-		<item id="20812" action="16"/>
-		<item id="20813" action="16"/>
-		<item id="20814" action="16"/>
-		<item id="20815" action="16"/>
-		<item id="20816" action="16"/>
-		<item id="20817" action="16"/>
-		<item id="20818" action="16"/>
-		<item id="20819" action="16"/>
-		<item id="20820" action="16"/>
-		<item id="20821" action="16"/>
-		<item id="20822" action="16"/>
-		<item id="20823" action="16"/>
-		<item id="20824" action="16"/>
-		<item id="20825" action="16"/>
-		<item id="20826" action="16"/>
-		<item id="20827" action="16"/>
-		<item id="20828" action="16"/>
-		<item id="20829" action="16"/>
-		<item id="20830" action="16"/>
-		<item id="20831" action="16"/>
-		<item id="20832" action="16"/>
-		<item id="20833" action="16"/>
-		<item id="20834" action="16"/>
-		<item id="20835" action="16"/>
-		<item id="20836" action="16"/>
-		<item id="20837" action="16"/>
-		<item id="20838" action="16"/>
-		<item id="20839" action="16"/>
-		<item id="20840" action="16"/>
-		<item id="20851" action="16"/>
-		<item id="20852" action="16"/>
-		<item id="20853" action="16"/>
-		<item id="20854" action="16"/>
-		<item id="20855" action="16"/>
-		<item id="20856" action="16"/>
-		<item id="20857" action="16"/>
-		<item id="20858" action="16"/>
-		<item id="20859" action="16"/>
-		<item id="20860" action="16"/>
-		<item id="20861" action="16"/>
-		<item id="20862" action="16"/>
-		<item id="20863" action="16"/>
-		<item id="20864" action="16"/>
-		<item id="20865" action="16"/>
-		<item id="20866" action="16"/>
-		<item id="20867" action="16"/>
-		<item id="20868" action="16"/>
-		<item id="20869" action="16"/>
-		<item id="20870" action="16"/>
-		<item id="20871" action="16"/>
-		<item id="20872" action="16"/>
-		<item id="20873" action="16"/>
-		<item id="20874" action="16"/>
-		<item id="20875" action="16"/>
-		<item id="20876" action="16"/>
-		<item id="20877" action="16"/>
-		<item id="20878" action="16"/>
-		<item id="20879" action="16"/>
-		<item id="20880" action="16"/>
-		<item id="20881" action="16"/>
-		<item id="20882" action="16"/>
-		<item id="20883" action="16"/>
-		<item id="20884" action="16"/>
-		<item id="20885" action="16"/>
-		<item id="20886" action="16"/>
-		<item id="20887" action="16"/>
-		<item id="20888" action="16"/>
-		<item id="20901" action="16"/>
-		<item id="20902" action="16"/>
-		<item id="20903" action="16"/>
-		<item id="20904" action="16"/>
-		<item id="20905" action="16"/>
-		<item id="20906" action="16"/>
-		<item id="20907" action="16"/>
-		<item id="20908" action="16"/>
-		<item id="20909" action="16"/>
-		<item id="20910" action="16"/>
-		<item id="20911" action="16"/>
-		<item id="20912" action="16"/>
-		<item id="20913" action="16"/>
-		<item id="20914" action="16"/>
-		<item id="20915" action="16"/>
-		<item id="20916" action="16"/>
-		<item id="20917" action="16"/>
-		<item id="20918" action="16"/>
-		<item id="20919" action="16"/>
-		<item id="20920" action="16"/>
-		<item id="20921" action="16"/>
-		<item id="20922" action="16"/>
-		<item id="20923" action="16"/>
-		<item id="20924" action="16"/>
-		<item id="20925" action="16"/>
-		<item id="20926" action="16"/>
-		<item id="20927" action="16"/>
-		<item id="20928" action="16"/>
-		<item id="20929" action="16"/>
-		<item id="20930" action="16"/>
-		<item id="20931" action="16"/>
-		<item id="20932" action="16"/>
-		<item id="20933" action="16"/>
-		<item id="20934" action="16"/>
-		<item id="20935" action="16"/>
-		<item id="20936" action="16"/>
-		<item id="20937" action="16"/>
-		<item id="20938" action="16"/>
-		<item id="20951" action="16"/>
-		<item id="20952" action="16"/>
-		<item id="20953" action="16"/>
-		<item id="20954" action="16"/>
-		<item id="20955" action="16"/>
-		<item id="20956" action="16"/>
-		<item id="20957" action="16"/>
-		<item id="20958" action="16"/>
-		<item id="20959" action="16"/>
-		<item id="20960" action="16"/>
-		<item id="20961" action="16"/>
-		<item id="20962" action="16"/>
-		<item id="20963" action="16"/>
-		<item id="20964" action="16"/>
-		<item id="20965" action="16"/>
-		<item id="20966" action="16"/>
-		<item id="20967" action="16"/>
-		<item id="20968" action="16"/>
-		<item id="20969" action="16"/>
-		<item id="20970" action="16"/>
-		<item id="20971" action="16"/>
-		<item id="20972" action="16"/>
-		<item id="20973" action="16"/>
-		<item id="20974" action="16"/>
-		<item id="20975" action="16"/>
-		<item id="20976" action="16"/>
-		<item id="20977" action="16"/>
-		<item id="20978" action="16"/>
-		<item id="20979" action="16"/>
-		<item id="20980" action="16"/>
-		<item id="20981" action="16"/>
-		<item id="20982" action="16"/>
-		<item id="20983" action="16"/>
-		<item id="20984" action="16"/>
-		<item id="20985" action="16"/>
-		<item id="20986" action="16"/>
-		<item id="20987" action="16"/>
-		<item id="20988" action="16"/>
-		<item id="20989" action="16"/>
-		<item id="20990" action="16"/>
-		<item id="21001" action="16"/>
-		<item id="21002" action="16"/>
-		<item id="21003" action="16"/>
-		<item id="21004" action="16"/>
-		<item id="21005" action="16"/>
-		<item id="21006" action="16"/>
-		<item id="21007" action="16"/>
-		<item id="21008" action="16"/>
-		<item id="21009" action="16"/>
-		<item id="21010" action="16"/>
-		<item id="21011" action="16"/>
-		<item id="21012" action="16"/>
-		<item id="21013" action="16"/>
-		<item id="21014" action="16"/>
-		<item id="21015" action="16"/>
-		<item id="21016" action="16"/>
-		<item id="21017" action="16"/>
-		<item id="21018" action="16"/>
-		<item id="21019" action="16"/>
-		<item id="21020" action="16"/>
-		<item id="21021" action="16"/>
-		<item id="21022" action="16"/>
-		<item id="21023" action="16"/>
-		<item id="21024" action="16"/>
-		<item id="21025" action="16"/>
-		<item id="21026" action="16"/>
-		<item id="21027" action="16"/>
-		<item id="21028" action="16"/>
-		<item id="21029" action="16"/>
-		<item id="21030" action="16"/>
-		<item id="21031" action="16"/>
-		<item id="21032" action="16"/>
-		<item id="21033" action="16"/>
-		<item id="21034" action="16"/>
-		<item id="21035" action="16"/>
-		<item id="21036" action="16"/>
-		<item id="21037" action="16"/>
-		<item id="21038" action="16"/>
+		<item id="11039" action="16"/>
+		<item id="11040" action="16"/>
+		<item id="11041" action="16"/>
+		<item id="11042" action="16"/>
+		<item id="11043" action="16"/>
+		<item id="11044" action="16"/>
+		<item id="11045" action="16"/>
+		<item id="11046" action="16"/>
+		<item id="11047" action="16"/>
+		<item id="11048" action="16"/>
+		<item id="11049" action="16"/>
+		<item id="11050" action="16"/>
+		<item id="30001" action="16"/>
+		<item id="30002" action="16"/>
+		<item id="30003" action="16"/>
+		<item id="30004" action="16"/>
+		<item id="30005" action="16"/>
+		<item id="30006" action="16"/>
+		<item id="30007" action="16"/>
+		<item id="30008" action="16"/>
+		<item id="30009" action="16"/>
+		<item id="30010" action="16"/>
+		<item id="30011" action="16"/>
+		<item id="30012" action="16"/>
+		<item id="30013" action="16"/>
+		<item id="30014" action="16"/>
+		<item id="30015" action="16"/>
+		<item id="30016" action="16"/>
+		<item id="30017" action="16"/>
+		<item id="30018" action="16"/>
+		<item id="30019" action="16"/>
+		<item id="30020" action="16"/>
+		<item id="30021" action="16"/>
+		<item id="30022" action="16"/>
+		<item id="30023" action="16"/>
+		<item id="30024" action="16"/>
+		<item id="30051" action="16"/>
+		<item id="30052" action="16"/>
+		<item id="30053" action="16"/>
+		<item id="30054" action="16"/>
+		<item id="30055" action="16"/>
+		<item id="30056" action="16"/>
+		<item id="30057" action="16"/>
+		<item id="30058" action="16"/>
+		<item id="30059" action="16"/>
+		<item id="30060" action="16"/>
+		<item id="30061" action="16"/>
+		<item id="30062" action="16"/>
+		<item id="30063" action="16"/>
+		<item id="30064" action="16"/>
+		<item id="30065" action="16"/>
+		<item id="30066" action="16"/>
+		<item id="30067" action="16"/>
+		<item id="30068" action="16"/>
+		<item id="30069" action="16"/>
+		<item id="30070" action="16"/>
+		<item id="30071" action="16"/>
+		<item id="30072" action="16"/>
+		<item id="30073" action="16"/>
+		<item id="30074" action="16"/>
+		<item id="30101" action="16"/>
+		<item id="30102" action="16"/>
+		<item id="30103" action="16"/>
+		<item id="30104" action="16"/>
+		<item id="30105" action="16"/>
+		<item id="30106" action="16"/>
+		<item id="30107" action="16"/>
+		<item id="30108" action="16"/>
+		<item id="30109" action="16"/>
+		<item id="30110" action="16"/>
+		<item id="30111" action="16"/>
+		<item id="30112" action="16"/>
+		<item id="30113" action="16"/>
+		<item id="30114" action="16"/>
+		<item id="30115" action="16"/>
+		<item id="30116" action="16"/>
+		<item id="30117" action="16"/>
+		<item id="30118" action="16"/>
+		<item id="30119" action="16"/>
+		<item id="30120" action="16"/>
+		<item id="30121" action="16"/>
+		<item id="30122" action="16"/>
+		<item id="30123" action="16"/>
+		<item id="30124" action="16"/>
+		<item id="30151" action="16"/>
+		<item id="30152" action="16"/>
+		<item id="30153" action="16"/>
+		<item id="30154" action="16"/>
+		<item id="30155" action="16"/>
+		<item id="30156" action="16"/>
+		<item id="30157" action="16"/>
+		<item id="30158" action="16"/>
+		<item id="30159" action="16"/>
+		<item id="30160" action="16"/>
+		<item id="30161" action="16"/>
+		<item id="30162" action="16"/>
+		<item id="30163" action="16"/>
+		<item id="30164" action="16"/>
+		<item id="30165" action="16"/>
+		<item id="30166" action="16"/>
+		<item id="30167" action="16"/>
+		<item id="30168" action="16"/>
+		<item id="30169" action="16"/>
+		<item id="30170" action="16"/>
+		<item id="30171" action="16"/>
+		<item id="30172" action="16"/>
+		<item id="30173" action="16"/>
+		<item id="30174" action="16"/>
+		<item id="30201" action="16"/>
+		<item id="30202" action="16"/>
+		<item id="30203" action="16"/>
+		<item id="30204" action="16"/>
+		<item id="30205" action="16"/>
+		<item id="30206" action="16"/>
+		<item id="30207" action="16"/>
+		<item id="30208" action="16"/>
+		<item id="30209" action="16"/>
+		<item id="30210" action="16"/>
+		<item id="30211" action="16"/>
+		<item id="30212" action="16"/>
+		<item id="30213" action="16"/>
+		<item id="30214" action="16"/>
+		<item id="30215" action="16"/>
+		<item id="30216" action="16"/>
+		<item id="30217" action="16"/>
+		<item id="30218" action="16"/>
+		<item id="30219" action="16"/>
+		<item id="30220" action="16"/>
+		<item id="30221" action="16"/>
+		<item id="30222" action="16"/>
+		<item id="30223" action="16"/>
+		<item id="30224" action="16"/>
+		<item id="30251" action="16"/>
+		<item id="30252" action="16"/>
+		<item id="30253" action="16"/>
+		<item id="30254" action="16"/>
+		<item id="30255" action="16"/>
+		<item id="30256" action="16"/>
+		<item id="30257" action="16"/>
+		<item id="30258" action="16"/>
+		<item id="30259" action="16"/>
+		<item id="30260" action="16"/>
+		<item id="30261" action="16"/>
+		<item id="30262" action="16"/>
+		<item id="30263" action="16"/>
+		<item id="30264" action="16"/>
+		<item id="30265" action="16"/>
+		<item id="30266" action="16"/>
+		<item id="30267" action="16"/>
+		<item id="30268" action="16"/>
+		<item id="30269" action="16"/>
+		<item id="30270" action="16"/>
+		<item id="30271" action="16"/>
+		<item id="30272" action="16"/>
+		<item id="30273" action="16"/>
+		<item id="30274" action="16"/>
+		<item id="30301" action="16"/>
+		<item id="30302" action="16"/>
+		<item id="30303" action="16"/>
+		<item id="30304" action="16"/>
+		<item id="30305" action="16"/>
+		<item id="30306" action="16"/>
+		<item id="30307" action="16"/>
+		<item id="30308" action="16"/>
+		<item id="30309" action="16"/>
+		<item id="30310" action="16"/>
+		<item id="30311" action="16"/>
+		<item id="30312" action="16"/>
+		<item id="30313" action="16"/>
+		<item id="30314" action="16"/>
+		<item id="30315" action="16"/>
+		<item id="30316" action="16"/>
+		<item id="30317" action="16"/>
+		<item id="30318" action="16"/>
+		<item id="30319" action="16"/>
+		<item id="30320" action="16"/>
+		<item id="30321" action="16"/>
+		<item id="30322" action="16"/>
+		<item id="30323" action="16"/>
+		<item id="30324" action="16"/>
+		<item id="30325" action="16"/>
+		<item id="30401" action="16"/>
+		<item id="30402" action="16"/>
+		<item id="30403" action="16"/>
+		<item id="30404" action="16"/>
+		<item id="30405" action="16"/>
+		<item id="30406" action="16"/>
+		<item id="30407" action="16"/>
+		<item id="30408" action="16"/>
+		<item id="30409" action="16"/>
+		<item id="30410" action="16"/>
+		<item id="30411" action="16"/>
+		<item id="30412" action="16"/>
+		<item id="30413" action="16"/>
+		<item id="30414" action="16"/>
+		<item id="30415" action="16"/>
+		<item id="30416" action="16"/>
+		<item id="30417" action="16"/>
+		<item id="30418" action="16"/>
+		<item id="30419" action="16"/>
+		<item id="30420" action="16"/>
+		<item id="30421" action="16"/>
+		<item id="30422" action="16"/>
+		<item id="30423" action="16"/>
+		<item id="30424" action="16"/>
+		<item id="30425" action="16"/>
+		<item id="30501" action="16"/>
+		<item id="30502" action="16"/>
+		<item id="30503" action="16"/>
+		<item id="30504" action="16"/>
+		<item id="30505" action="16"/>
+		<item id="30506" action="16"/>
+		<item id="30507" action="16"/>
+		<item id="30508" action="16"/>
+		<item id="30509" action="16"/>
+		<item id="30510" action="16"/>
+		<item id="30511" action="16"/>
+		<item id="30512" action="16"/>
+		<item id="30513" action="16"/>
+		<item id="30514" action="16"/>
+		<item id="30515" action="16"/>
+		<item id="30516" action="16"/>
+		<item id="30517" action="16"/>
+		<item id="30518" action="16"/>
+		<item id="30519" action="16"/>
+		<item id="30520" action="16"/>
+		<item id="30521" action="16"/>
+		<item id="30522" action="16"/>
+		<item id="30523" action="16"/>
+		<item id="30524" action="16"/>
+		<item id="30525" action="16"/>
+		<item id="30551" action="16"/>
+		<item id="30552" action="16"/>
+		<item id="30553" action="16"/>
+		<item id="30554" action="16"/>
+		<item id="30555" action="16"/>
+		<item id="30556" action="16"/>
+		<item id="30557" action="16"/>
+		<item id="30558" action="16"/>
+		<item id="30559" action="16"/>
+		<item id="30560" action="16"/>
+		<item id="30561" action="16"/>
+		<item id="30562" action="16"/>
+		<item id="30563" action="16"/>
+		<item id="30564" action="16"/>
+		<item id="30565" action="16"/>
+		<item id="30566" action="16"/>
+		<item id="30567" action="16"/>
+		<item id="30568" action="16"/>
+		<item id="30569" action="16"/>
+		<item id="30570" action="16"/>
+		<item id="30571" action="16"/>
+		<item id="30572" action="16"/>
+		<item id="30573" action="16"/>
+		<item id="30574" action="16"/>
+		<item id="30575" action="16"/>
+		<item id="30601" action="16"/>
+		<item id="30602" action="16"/>
+		<item id="30603" action="16"/>
+		<item id="30604" action="16"/>
+		<item id="30605" action="16"/>
+		<item id="30606" action="16"/>
+		<item id="30607" action="16"/>
+		<item id="30608" action="16"/>
+		<item id="30609" action="16"/>
+		<item id="30610" action="16"/>
+		<item id="30611" action="16"/>
+		<item id="30612" action="16"/>
+		<item id="30613" action="16"/>
+		<item id="30614" action="16"/>
+		<item id="30615" action="16"/>
+		<item id="30616" action="16"/>
+		<item id="30617" action="16"/>
+		<item id="30618" action="16"/>
+		<item id="30619" action="16"/>
+		<item id="30620" action="16"/>
+		<item id="30621" action="16"/>
+		<item id="30622" action="16"/>
+		<item id="30623" action="16"/>
+		<item id="30624" action="16"/>
+		<item id="30625" action="16"/>
+		<item id="30651" action="16"/>
+		<item id="30652" action="16"/>
+		<item id="30653" action="16"/>
+		<item id="30654" action="16"/>
+		<item id="30655" action="16"/>
+		<item id="30656" action="16"/>
+		<item id="30657" action="16"/>
+		<item id="30658" action="16"/>
+		<item id="30659" action="16"/>
+		<item id="30660" action="16"/>
+		<item id="30661" action="16"/>
+		<item id="30662" action="16"/>
+		<item id="30663" action="16"/>
+		<item id="30664" action="16"/>
+		<item id="30665" action="16"/>
+		<item id="30666" action="16"/>
+		<item id="30667" action="16"/>
+		<item id="30668" action="16"/>
+		<item id="30669" action="16"/>
+		<item id="30670" action="16"/>
+		<item id="30671" action="16"/>
+		<item id="30672" action="16"/>
+		<item id="30673" action="16"/>
+		<item id="30674" action="16"/>
+		<item id="30675" action="16"/>
+		<item id="30701" action="16"/>
+		<item id="30702" action="16"/>
+		<item id="30703" action="16"/>
+		<item id="30704" action="16"/>
+		<item id="30705" action="16"/>
+		<item id="30706" action="16"/>
+		<item id="30707" action="16"/>
+		<item id="30708" action="16"/>
+		<item id="30709" action="16"/>
+		<item id="30710" action="16"/>
+		<item id="30711" action="16"/>
+		<item id="30712" action="16"/>
+		<item id="30713" action="16"/>
+		<item id="30714" action="16"/>
+		<item id="30715" action="16"/>
+		<item id="30716" action="16"/>
+		<item id="30717" action="16"/>
+		<item id="30718" action="16"/>
+		<item id="30719" action="16"/>
+		<item id="30720" action="16"/>
+		<item id="30721" action="16"/>
+		<item id="30722" action="16"/>
+		<item id="30723" action="16"/>
+		<item id="30724" action="16"/>
+		<item id="30751" action="16"/>
+		<item id="30752" action="16"/>
+		<item id="30753" action="16"/>
+		<item id="30754" action="16"/>
+		<item id="30755" action="16"/>
+		<item id="30756" action="16"/>
+		<item id="30757" action="16"/>
+		<item id="30758" action="16"/>
+		<item id="30759" action="16"/>
+		<item id="30760" action="16"/>
+		<item id="30761" action="16"/>
+		<item id="30762" action="16"/>
+		<item id="30763" action="16"/>
+		<item id="30764" action="16"/>
+		<item id="30765" action="16"/>
+		<item id="30766" action="16"/>
+		<item id="30767" action="16"/>
+		<item id="30768" action="16"/>
+		<item id="30769" action="16"/>
+		<item id="30770" action="16"/>
+		<item id="30771" action="16"/>
+		<item id="30772" action="16"/>
+		<item id="30773" action="16"/>
+		<item id="30774" action="16"/>
+		<item id="30775" action="16"/>
+		<item id="30776" action="16"/>
+		<item id="30777" action="16"/>
+		<item id="30778" action="16"/>
+		<item id="30779" action="16"/>
+		<item id="30780" action="16"/>
+		<item id="30781" action="16"/>
+		<item id="30782" action="16"/>
+		<item id="30783" action="16"/>
+		<item id="30784" action="16"/>
+		<item id="30785" action="16"/>
+		<item id="30786" action="16"/>
+		<item id="30787" action="16"/>
+		<item id="30788" action="16"/>
+		<item id="30789" action="16"/>
+		<item id="30790" action="16"/>
+		<item id="30791" action="16"/>
+		<item id="30792" action="16"/>
+		<item id="30793" action="16"/>
+		<item id="30794" action="16"/>
+		<item id="30795" action="16"/>
+		<item id="30796" action="16"/>
+		<item id="30797" action="16"/>
+		<item id="30798" action="16"/>
+		<item id="30799" action="16"/>
+		<item id="30800" action="16"/>
+		<item id="30801" action="16"/>
+		<item id="30802" action="16"/>
+		<item id="30803" action="16"/>
+		<item id="30804" action="16"/>
+		<item id="30805" action="16"/>
+		<item id="30806" action="16"/>
+		<item id="30807" action="16"/>
+		<item id="30808" action="16"/>
+		<item id="30809" action="16"/>
+		<item id="30810" action="16"/>
+		<item id="30811" action="16"/>
+		<item id="30812" action="16"/>
+		<item id="30813" action="16"/>
+		<item id="30814" action="16"/>
+		<item id="30815" action="16"/>
+		<item id="30816" action="16"/>
+		<item id="30817" action="16"/>
+		<item id="30818" action="16"/>
+		<item id="30819" action="16"/>
+		<item id="30820" action="16"/>
+		<item id="30821" action="16"/>
+		<item id="30822" action="16"/>
+		<item id="30823" action="16"/>
+		<item id="30824" action="16"/>
+		<item id="30825" action="16"/>
+		<item id="30826" action="16"/>
+		<item id="30827" action="16"/>
+		<item id="30828" action="16"/>
+		<item id="30829" action="16"/>
+		<item id="30830" action="16"/>
+		<item id="30831" action="16"/>
+		<item id="30832" action="16"/>
+		<item id="30833" action="16"/>
+		<item id="30834" action="16"/>
+		<item id="30835" action="16"/>
+		<item id="30836" action="16"/>
+		<item id="30837" action="16"/>
+		<item id="30838" action="16"/>
+		<item id="30839" action="16"/>
+		<item id="30840" action="16"/>
+		<item id="30841" action="16"/>
+		<item id="30842" action="16"/>
+		<item id="30843" action="16"/>
+		<item id="30844" action="16"/>
+		<item id="30845" action="16"/>
+		<item id="30846" action="16"/>
+		<item id="30847" action="16"/>
+		<item id="30848" action="16"/>
+		<item id="30849" action="16"/>
+		<item id="30850" action="16"/>
+		<item id="30851" action="16"/>
+		<item id="30852" action="16"/>
+		<item id="30853" action="16"/>
+		<item id="30854" action="16"/>
+		<item id="30855" action="16"/>
+		<item id="30856" action="16"/>
+		<item id="30857" action="16"/>
+		<item id="30858" action="16"/>
+		<item id="30859" action="16"/>
+		<item id="30860" action="16"/>
+		<item id="30861" action="16"/>
+		<item id="30862" action="16"/>
+		<item id="30863" action="16"/>
+		<item id="30864" action="16"/>
+		<item id="30865" action="16"/>
+		<item id="30866" action="16"/>
+		<item id="30867" action="16"/>
+		<item id="30868" action="16"/>
+		<item id="30869" action="16"/>
+		<item id="30870" action="16"/>
+		<item id="30871" action="16"/>
+		<item id="30872" action="16"/>
+		<item id="30873" action="16"/>
+		<item id="30874" action="16"/>
+		<item id="30875" action="16"/>
+		<item id="30876" action="16"/>
+		<item id="30877" action="16"/>
+		<item id="30878" action="16"/>
+		<item id="30879" action="16"/>
+		<item id="30880" action="16"/>
+		<item id="30881" action="16"/>
+		<item id="30882" action="16"/>
+		<item id="30883" action="16"/>
+		<item id="30884" action="16"/>
+		<item id="30885" action="16"/>
+		<item id="30886" action="16"/>
+		<item id="30887" action="16"/>
+		<item id="30888" action="16"/>
+		<item id="30889" action="16"/>
+		<item id="30890" action="16"/>
+		<item id="30891" action="16"/>
+		<item id="30892" action="16"/>
+		<item id="30893" action="16"/>
+		<item id="30894" action="16"/>
+		<item id="30895" action="16"/>
+		<item id="30896" action="16"/>
+		<item id="30897" action="16"/>
+		<item id="30898" action="16"/>
+		<item id="30899" action="16"/>
+		<item id="30900" action="16"/>
+		<item id="30901" action="16"/>
+		<item id="30902" action="16"/>
+		<item id="30903" action="16"/>
+		<item id="30904" action="16"/>
+		<item id="30905" action="16"/>
+		<item id="30906" action="16"/>
+		<item id="30907" action="16"/>
+		<item id="30908" action="16"/>
+		<item id="30909" action="16"/>
+		<item id="30910" action="16"/>
+		<item id="30911" action="16"/>
+		<item id="30912" action="16"/>
+		<item id="30913" action="16"/>
+		<item id="30914" action="16"/>
+		<item id="30915" action="16"/>
+		<item id="30916" action="16"/>
+		<item id="30917" action="16"/>
+		<item id="30918" action="16"/>
+		<item id="30919" action="16"/>
+		<item id="30920" action="16"/>
+		<item id="30921" action="16"/>
+		<item id="30922" action="16"/>
+		<item id="30923" action="16"/>
+		<item id="30924" action="16"/>
+		<item id="30925" action="16"/>
+		<item id="30926" action="16"/>
+		<item id="30927" action="16"/>
+		<item id="30928" action="16"/>
+		<item id="30929" action="16"/>
+		<item id="30930" action="16"/>
+		<item id="30931" action="16"/>
+		<item id="30932" action="16"/>
+		<item id="30933" action="16"/>
+		<item id="30934" action="16"/>
+		<item id="30935" action="16"/>
+		<item id="30936" action="16"/>
+		<item id="30937" action="16"/>
+		<item id="30938" action="16"/>
+		<item id="30939" action="16"/>
+		<item id="30940" action="16"/>
+		<item id="30941" action="16"/>
+		<item id="30942" action="16"/>
+		<item id="30943" action="16"/>
+		<item id="30944" action="16"/>
+		<item id="30945" action="16"/>
+		<item id="30946" action="16"/>
+		<item id="30947" action="16"/>
+		<item id="30948" action="16"/>
+		<item id="30951" action="16"/>
+		<item id="30952" action="16"/>
+		<item id="30953" action="16"/>
+		<item id="30954" action="16"/>
+		<item id="30955" action="16"/>
+		<item id="30956" action="16"/>
+		<item id="30957" action="16"/>
+		<item id="30958" action="16"/>
+		<item id="30959" action="16"/>
+		<item id="30960" action="16"/>
+		<item id="30961" action="16"/>
+		<item id="30962" action="16"/>
+		<item id="30963" action="16"/>
+		<item id="30964" action="16"/>
+		<item id="30965" action="16"/>
+		<item id="30966" action="16"/>
+		<item id="30967" action="16"/>
+		<item id="30968" action="16"/>
+		<item id="30969" action="16"/>
+		<item id="30970" action="16"/>
+		<item id="30971" action="16"/>
+		<item id="30972" action="16"/>
+		<item id="30973" action="16"/>
+		<item id="30974" action="16"/>
+		<item id="30975" action="16"/>
+		<item id="30976" action="16"/>
+		<item id="30977" action="16"/>
+		<item id="30978" action="16"/>
+		<item id="30979" action="16"/>
+		<item id="30980" action="16"/>
+		<item id="30981" action="16"/>
+		<item id="30982" action="16"/>
+		<item id="30983" action="16"/>
+		<item id="30984" action="16"/>
+		<item id="30985" action="16"/>
+		<item id="30986" action="16"/>
+		<item id="30987" action="16"/>
+		<item id="30988" action="16"/>
+		<item id="30989" action="16"/>
+		<item id="30990" action="16"/>
+		<item id="30991" action="16"/>
+		<item id="30992" action="16"/>
+		<item id="30993" action="16"/>
+		<item id="30994" action="16"/>
+		<item id="30995" action="16"/>
+		<item id="30996" action="16"/>
+		<item id="30997" action="16"/>
+		<item id="30998" action="16"/>
+		<item id="30999" action="16"/>
+		<item id="31000" action="16"/>
+		<item id="31001" action="16"/>
+		<item id="31002" action="16"/>
+		<item id="31003" action="16"/>
+		<item id="31004" action="16"/>
+		<item id="31005" action="16"/>
+		<item id="31006" action="16"/>
+		<item id="31007" action="16"/>
+		<item id="31008" action="16"/>
+		<item id="31009" action="16"/>
+		<item id="31010" action="16"/>
+		<item id="31011" action="16"/>
+		<item id="31012" action="16"/>
+		<item id="31013" action="16"/>
+		<item id="31014" action="16"/>
+		<item id="31015" action="16"/>
+		<item id="31016" action="16"/>
+		<item id="31017" action="16"/>
+		<item id="31018" action="16"/>
+		<item id="31019" action="16"/>
+		<item id="31020" action="16"/>
+		<item id="31021" action="16"/>
+		<item id="31022" action="16"/>
+		<item id="31023" action="16"/>
+		<item id="31024" action="16"/>
+		<item id="31025" action="16"/>
+		<item id="31026" action="16"/>
+		<item id="31027" action="16"/>
+		<item id="31028" action="16"/>
+		<item id="31029" action="16"/>
+		<item id="31030" action="16"/>
+		<item id="31031" action="16"/>
+		<item id="31032" action="16"/>
+		<item id="31033" action="16"/>
+		<item id="31034" action="16"/>
+		<item id="31035" action="16"/>
+		<item id="31036" action="16"/>
+		<item id="31037" action="16"/>
+		<item id="31038" action="16"/>
+		<item id="31039" action="16"/>
+		<item id="31040" action="16"/>
+		<item id="31041" action="16"/>
+		<item id="31042" action="16"/>
+		<item id="31043" action="16"/>
+		<item id="31044" action="16"/>
+		<item id="31045" action="16"/>
+		<item id="31046" action="16"/>
+		<item id="31047" action="16"/>
+		<item id="31048" action="16"/>
+		<item id="31049" action="16"/>
+		<item id="31050" action="16"/>
 	</npc>
 	<npc name="改造宗师" id="5078">
 		<menu>function MainDialog()
 this:AddTalk("70级以上的天然且绿色绑定装备可改造。")
 this:AddDialogItem("关于装备改造系统说明(3)","Dialog1")
 this:AddDialogItem("装备升级系统(3)","Dialog2")
-this:AddModifyAttri("改造属性(0)","id[10007-10019,10057-10069,10107-10119,10157-10169,10207-10219,10257-10269,10308-10320,10408-10420,10508-10520,10558-10570,10608-10620,10658-10670,10707-10719,10765-10790,10815-10840,10865-10890,10913-10938,10965-10990,11015-11040,20007-20019,20057-20069,20107-20119,20157-20169,20207-20219,20257-20269,20308-20320,20408-20420,20508-20520,20558-20570,20608-20620,20658-20670,20707-20719,20765-20790,20815-20840,20865-20890,20913-20938,20965-20990,21015-21040]","改造属性")
-this:AddReBind("重新绑定(0)","id[10007-10019,10057-10069,10107-10119,10157-10169,10207-10219,10257-10269,10308-10320,10408-10420,10508-10520,10558-10570,10608-10620,10658-10670,10707-10719,10765-10790,10815-10840,10865-10890,10913-10938,10965-10990,11015-11040,20007-20019,20057-20069,20107-20119,20157-20169,20207-20219,20257-20269,20308-20320,20408-20420,20508-20520,20558-20570,20608-20620,20658-20670,20707-20719,20765-20790,20815-20840,20865-20890,20913-20938,20965-20990,21015-21040]","重新绑定")
-this:AddReMaker("修改签名(0)","id[10007-10019,10057-10069,10107-10119,10157-10169,10207-10219,10257-10269,10308-10320,10408-10420,10508-10520,10558-10570,10608-10620,10658-10670,10707-10719,10765-10790,10815-10840,10865-10890,10913-10938,10965-10990,11015-11040,20007-20019,20057-20069,20107-20119,20157-20169,20207-20219,20257-20269,20308-20320,20408-20420,20508-20520,20558-20570,20608-20620,20658-20670,20707-20719,20765-20790,20815-20840,20865-20890,20913-20938,20965-20990,21015-21040]","修改签名")
-this:AddAddMaker("装备签名(0)","id[10007-10019,10057-10069,10107-10119,10157-10169,10207-10219,10257-10269,10308-10320,10408-10420,10508-10520,10558-10570,10608-10620,10658-10670,10707-10719,10765-10790,10815-10840,10865-10890,10913-10938,10965-10990,11015-11040,20007-20019,20057-20069,20107-20119,20157-20169,20207-20219,20257-20269,20308-20320,20408-20420,20508-20520,20558-20570,20608-20620,20658-20670,20707-20719,20765-20790,20815-20840,20865-20890,20913-20938,20965-20990,21015-21040]","装备签名")
-this:AddModifySoulA("修改灵魂属性(0)","id[10007-10019,10057-10069,10107-10119,10157-10169,10207-10219,10257-10269,10308-10320,10408-10420,10508-10520,10558-10570,10608-10620,10658-10670,10707-10719,10765-10790,10815-10840,10865-10890,10913-10938,10965-10990,11015-11040,20007-20019,20057-20069,20107-20119,20157-20169,20207-20219,20257-20269,20308-20320,20408-20420,20508-20520,20558-20570,20608-20620,20658-20670,20707-20719,20765-20790,20815-20840,20865-20890,20913-20938,20965-20990,21015-21040]","修改灵魂属性")
-this:AddLVSoullineMD("保留灵魂锁链改造(0)","id[10007-10019,10057-10069,10107-10119,10157-10169,10207-10219,10257-10269,10308-10320,10408-10420,10508-10520,10558-10570,10608-10620,10658-10670,10707-10719,10765-10790,10815-10840,10865-10890,10913-10938,10965-10990,11015-11040,20007-20019,20057-20069,20107-20119,20157-20169,20207-20219,20257-20269,20308-20320,20408-20420,20508-20520,20558-20570,20608-20620,20658-20670,20707-20719,20765-20790,20815-20840,20865-20890,20913-20938,20965-20990,21015-21040]","保留灵魂锁链")
-this:AddMDSkillA("修改技能属性(0)","id[10308-10320,10408-10420,10508-10520,10558-10570,10608-10620,10658-10670,10965-10990,11015-11040,20308-20320,20408-20420,20508-20520,20558-20570,20608-20620,20658-20670,20965-20990,21015-21040]","修改技能属性")
+this:AddModifyAttri("改造属性(0)","id[10007-10024,10057-10074,10107-10124,10157-10174,10207-10224,10257-10274,10308-10325,10408-10425,10508-10525,10558-10575,10608-10625,10658-10675,10707-10724,10765-10800,10815-10850,10865-10900,10913-10948,10965-11000,11015-11050,30001-30024,30051-30074,30101-30124,30151-30174,30201-30224,30251-30274,30301-30325,30401-30425,30501-30525,30551-30575,30601-30625,30651-30675,30701-30724,30751-30800,30801-30850,30851-30900,30901-30948,30951-31000,31001-31050]","改造属性")
+this:AddReBind("重新绑定(0)","id[10007-10024,10057-10074,10107-10124,10157-10174,10207-10224,10257-10274,10308-10325,10408-10425,10508-10525,10558-10575,10608-10625,10658-10675,10707-10724,10765-10800,10815-10850,10865-10900,10913-10948,10965-11000,11015-11050,30001-30024,30051-30074,30101-30124,30151-30174,30201-30224,30251-30274,30301-30325,30401-30425,30501-30525,30551-30575,30601-30625,30651-30675,30701-30724,30751-30800,30801-30850,30851-30900,30901-30948,30951-31000,31001-31050]","重新绑定")
+this:AddReMaker("修改签名(0)","id[10007-10024,10057-10074,10107-10124,10157-10174,10207-10224,10257-10274,10308-10325,10408-10425,10508-10525,10558-10575,10608-10625,10658-10675,10707-10724,10765-10800,10815-10850,10865-10900,10913-10948,10965-11000,11015-11050,30001-30024,30051-30074,30101-30124,30151-30174,30201-30224,30251-30274,30301-30325,30401-30425,30501-30525,30551-30575,30601-30625,30651-30675,30701-30724,30751-30800,30801-30850,30851-30900,30901-30948,30951-31000,31001-31050]","修改签名")
+this:AddAddMaker("装备签名(0)","id[10007-10024,10057-10074,10107-10124,10157-10174,10207-10224,10257-10274,10308-10325,10408-10425,10508-10525,10558-10575,10608-10625,10658-10675,10707-10724,10765-10800,10815-10850,10865-10900,10913-10948,10965-11000,11015-11050,30001-30024,30051-30074,30101-30124,30151-30174,30201-30224,30251-30274,30301-30325,30401-30425,30501-30525,30551-30575,30601-30625,30651-30675,30701-30724,30751-30800,30801-30850,30851-30900,30901-30948,30951-31000,31001-31050]","装备签名")
+this:AddModifySoulA("修改灵魂属性(0)","id[10007-10024,10057-10074,10107-10124,10157-10174,10207-10224,10257-10274,10308-10325,10408-10425,10508-10525,10558-10575,10608-10625,10658-10675,10707-10724,10765-10800,10815-10850,10865-10900,10913-10948,10965-11000,11015-11050,30001-30024,30051-30074,30101-30124,30151-30174,30201-30224,30251-30274,30301-30325,30401-30425,30501-30525,30551-30575,30601-30625,30651-30675,30701-30724,30751-30800,30801-30850,30851-30900,30901-30948,30951-31000,31001-31050]","修改灵魂属性")
+this:AddLVSoullineMD("保留灵魂锁链改造(0)","id[10007-10024,10057-10074,10107-10124,10157-10174,10207-10224,10257-10274,10308-10325,10408-10425,10508-10525,10558-10575,10608-10625,10658-10675,10707-10724,10765-10800,10815-10850,10865-10900,10913-10948,10965-11000,11015-11050,30001-30024,30051-30074,30101-30124,30151-30174,30201-30224,30251-30274,30301-30325,30401-30425,30501-30525,30551-30575,30601-30625,30651-30675,30701-30724,30751-30800,30801-30850,30851-30900,30901-30948,30951-31000,31001-31050]","保留灵魂锁链")
+this:AddMDSkillA("修改技能属性(0)","id[10308-10325,10408-10425,10508-10525,10558-10575,10608-10625,10658-10675,10965-11000,11015-11050,30308-30325,30408-30425,30508-30525,30558-30575,30608-30625,30658-30675,30965-31000,31015-31050]","修改技能属性")
 end
 
 function Dialog1()                                           
@@ -5589,42 +5673,12 @@ end
 
 function Dialog2()                                           
 this:AddTalk("装备升级的说明：\n    升级装备可以把当前装备升级成高10级（121级以上高5级）同类装备.\n    所有可升级装备必须是70级以上神圣绑定签名装备，每次升级需要一定数量的4级或更高等级打造本装备所需原材料，全5等材料100%出现完美装备，6等材料能够得到更好属性；同时需要一定银子。\n    必须是本人签名的绑定神圣装备。\n    装备升级保留原有的星星")
-this:AddEquipLV("装备升级(0)","id[10007-10018,10057-10068,10107-10118,10157-10168,10207-10218,10257-10268,10308-10319,10408-10419,10508-10519,10558-10569,10608-10619,10658-10669,10707-10718,10765-10788,10815-10838,10865-10888,10913-10936,10965-10988,11015-11038,20007-20018,20057-20068,20107-20118,20157-20168,20207-20218,20257-20268,20308-20319,20408-20419,20508-20519,20558-20569,20608-20619,20658-20669,20707-20718,20765-20788,20815-20838,20865-20888,20913-20936,20965-20988,21015-21038]","装备升级")
+this:AddEquipLV("装备升级(0)","id[10007-10018,10057-10068,10107-10118,10157-10168,10207-10218,10257-10268,10308-10319,10408-10419,10508-10519,10558-10569,10608-10619,10658-10669,10707-10718,10765-10788,10815-10838,10865-10888,10913-10936,10965-10988,11015-11038]","装备升级")
 this:AddDialogItem("离开","MainDialog")
 end
                                                                              
 this:AddDialog("MainDialog")
 </menu>
-		<item id="20320" action="16"/>
-		<item id="20420" action="16"/>
-		<item id="20520" action="16"/>
-		<item id="20570" action="16"/>
-		<item id="20620" action="16"/>
-		<item id="20670" action="16"/>
-		<item id="20789" action="16"/>
-		<item id="20790" action="16"/>
-		<item id="20889" action="16"/>
-		<item id="20890" action="16"/>
-		<item id="21039" action="16"/>
-		<item id="21040" action="16"/>
-		<item id="10320" action="16"/>
-		<item id="10420" action="16"/>
-		<item id="10520" action="16"/>
-		<item id="10570" action="16"/>
-		<item id="10620" action="16"/>
-		<item id="10670" action="16"/>
-		<item id="10789" action="16"/>
-		<item id="10790" action="16"/>
-		<item id="10889" action="16"/>
-		<item id="10890" action="16"/>
-		<item id="11039" action="16"/>
-		<item id="11040" action="16"/>
-		<item id="10001" action="16"/>
-		<item id="10002" action="16"/>
-		<item id="10003" action="16"/>
-		<item id="10004" action="16"/>
-		<item id="10005" action="16"/>
-		<item id="10006" action="16"/>
 		<item id="10007" action="16"/>
 		<item id="10008" action="16"/>
 		<item id="10009" action="16"/>
@@ -5638,12 +5692,11 @@ this:AddDialog("MainDialog")
 		<item id="10017" action="16"/>
 		<item id="10018" action="16"/>
 		<item id="10019" action="16"/>
-		<item id="10051" action="16"/>
-		<item id="10052" action="16"/>
-		<item id="10053" action="16"/>
-		<item id="10054" action="16"/>
-		<item id="10055" action="16"/>
-		<item id="10056" action="16"/>
+		<item id="10020" action="16"/>
+		<item id="10021" action="16"/>
+		<item id="10022" action="16"/>
+		<item id="10023" action="16"/>
+		<item id="10024" action="16"/>
 		<item id="10057" action="16"/>
 		<item id="10058" action="16"/>
 		<item id="10059" action="16"/>
@@ -5657,12 +5710,11 @@ this:AddDialog("MainDialog")
 		<item id="10067" action="16"/>
 		<item id="10068" action="16"/>
 		<item id="10069" action="16"/>
-		<item id="10101" action="16"/>
-		<item id="10102" action="16"/>
-		<item id="10103" action="16"/>
-		<item id="10104" action="16"/>
-		<item id="10105" action="16"/>
-		<item id="10106" action="16"/>
+		<item id="10070" action="16"/>
+		<item id="10071" action="16"/>
+		<item id="10072" action="16"/>
+		<item id="10073" action="16"/>
+		<item id="10074" action="16"/>
 		<item id="10107" action="16"/>
 		<item id="10108" action="16"/>
 		<item id="10109" action="16"/>
@@ -5676,12 +5728,11 @@ this:AddDialog("MainDialog")
 		<item id="10117" action="16"/>
 		<item id="10118" action="16"/>
 		<item id="10119" action="16"/>
-		<item id="10151" action="16"/>
-		<item id="10152" action="16"/>
-		<item id="10153" action="16"/>
-		<item id="10154" action="16"/>
-		<item id="10155" action="16"/>
-		<item id="10156" action="16"/>
+		<item id="10120" action="16"/>
+		<item id="10121" action="16"/>
+		<item id="10122" action="16"/>
+		<item id="10123" action="16"/>
+		<item id="10124" action="16"/>
 		<item id="10157" action="16"/>
 		<item id="10158" action="16"/>
 		<item id="10159" action="16"/>
@@ -5695,12 +5746,11 @@ this:AddDialog("MainDialog")
 		<item id="10167" action="16"/>
 		<item id="10168" action="16"/>
 		<item id="10169" action="16"/>
-		<item id="10201" action="16"/>
-		<item id="10202" action="16"/>
-		<item id="10203" action="16"/>
-		<item id="10204" action="16"/>
-		<item id="10205" action="16"/>
-		<item id="10206" action="16"/>
+		<item id="10170" action="16"/>
+		<item id="10171" action="16"/>
+		<item id="10172" action="16"/>
+		<item id="10173" action="16"/>
+		<item id="10174" action="16"/>
 		<item id="10207" action="16"/>
 		<item id="10208" action="16"/>
 		<item id="10209" action="16"/>
@@ -5714,12 +5764,11 @@ this:AddDialog("MainDialog")
 		<item id="10217" action="16"/>
 		<item id="10218" action="16"/>
 		<item id="10219" action="16"/>
-		<item id="10251" action="16"/>
-		<item id="10252" action="16"/>
-		<item id="10253" action="16"/>
-		<item id="10254" action="16"/>
-		<item id="10255" action="16"/>
-		<item id="10256" action="16"/>
+		<item id="10220" action="16"/>
+		<item id="10221" action="16"/>
+		<item id="10222" action="16"/>
+		<item id="10223" action="16"/>
+		<item id="10224" action="16"/>
 		<item id="10257" action="16"/>
 		<item id="10258" action="16"/>
 		<item id="10259" action="16"/>
@@ -5733,13 +5782,11 @@ this:AddDialog("MainDialog")
 		<item id="10267" action="16"/>
 		<item id="10268" action="16"/>
 		<item id="10269" action="16"/>
-		<item id="10301" action="16"/>
-		<item id="10302" action="16"/>
-		<item id="10303" action="16"/>
-		<item id="10304" action="16"/>
-		<item id="10305" action="16"/>
-		<item id="10306" action="16"/>
-		<item id="10307" action="16"/>
+		<item id="10270" action="16"/>
+		<item id="10271" action="16"/>
+		<item id="10272" action="16"/>
+		<item id="10273" action="16"/>
+		<item id="10274" action="16"/>
 		<item id="10308" action="16"/>
 		<item id="10309" action="16"/>
 		<item id="10310" action="16"/>
@@ -5752,13 +5799,12 @@ this:AddDialog("MainDialog")
 		<item id="10317" action="16"/>
 		<item id="10318" action="16"/>
 		<item id="10319" action="16"/>
-		<item id="10401" action="16"/>
-		<item id="10402" action="16"/>
-		<item id="10403" action="16"/>
-		<item id="10404" action="16"/>
-		<item id="10405" action="16"/>
-		<item id="10406" action="16"/>
-		<item id="10407" action="16"/>
+		<item id="10320" action="16"/>
+		<item id="10321" action="16"/>
+		<item id="10322" action="16"/>
+		<item id="10323" action="16"/>
+		<item id="10324" action="16"/>
+		<item id="10325" action="16"/>
 		<item id="10408" action="16"/>
 		<item id="10409" action="16"/>
 		<item id="10410" action="16"/>
@@ -5771,13 +5817,12 @@ this:AddDialog("MainDialog")
 		<item id="10417" action="16"/>
 		<item id="10418" action="16"/>
 		<item id="10419" action="16"/>
-		<item id="10501" action="16"/>
-		<item id="10502" action="16"/>
-		<item id="10503" action="16"/>
-		<item id="10504" action="16"/>
-		<item id="10505" action="16"/>
-		<item id="10506" action="16"/>
-		<item id="10507" action="16"/>
+		<item id="10420" action="16"/>
+		<item id="10421" action="16"/>
+		<item id="10422" action="16"/>
+		<item id="10423" action="16"/>
+		<item id="10424" action="16"/>
+		<item id="10425" action="16"/>
 		<item id="10508" action="16"/>
 		<item id="10509" action="16"/>
 		<item id="10510" action="16"/>
@@ -5790,13 +5835,12 @@ this:AddDialog("MainDialog")
 		<item id="10517" action="16"/>
 		<item id="10518" action="16"/>
 		<item id="10519" action="16"/>
-		<item id="10551" action="16"/>
-		<item id="10552" action="16"/>
-		<item id="10553" action="16"/>
-		<item id="10554" action="16"/>
-		<item id="10555" action="16"/>
-		<item id="10556" action="16"/>
-		<item id="10557" action="16"/>
+		<item id="10520" action="16"/>
+		<item id="10521" action="16"/>
+		<item id="10522" action="16"/>
+		<item id="10523" action="16"/>
+		<item id="10524" action="16"/>
+		<item id="10525" action="16"/>
 		<item id="10558" action="16"/>
 		<item id="10559" action="16"/>
 		<item id="10560" action="16"/>
@@ -5809,13 +5853,12 @@ this:AddDialog("MainDialog")
 		<item id="10567" action="16"/>
 		<item id="10568" action="16"/>
 		<item id="10569" action="16"/>
-		<item id="10601" action="16"/>
-		<item id="10602" action="16"/>
-		<item id="10603" action="16"/>
-		<item id="10604" action="16"/>
-		<item id="10605" action="16"/>
-		<item id="10606" action="16"/>
-		<item id="10607" action="16"/>
+		<item id="10570" action="16"/>
+		<item id="10571" action="16"/>
+		<item id="10572" action="16"/>
+		<item id="10573" action="16"/>
+		<item id="10574" action="16"/>
+		<item id="10575" action="16"/>
 		<item id="10608" action="16"/>
 		<item id="10609" action="16"/>
 		<item id="10610" action="16"/>
@@ -5828,13 +5871,12 @@ this:AddDialog("MainDialog")
 		<item id="10617" action="16"/>
 		<item id="10618" action="16"/>
 		<item id="10619" action="16"/>
-		<item id="10651" action="16"/>
-		<item id="10652" action="16"/>
-		<item id="10653" action="16"/>
-		<item id="10654" action="16"/>
-		<item id="10655" action="16"/>
-		<item id="10656" action="16"/>
-		<item id="10657" action="16"/>
+		<item id="10620" action="16"/>
+		<item id="10621" action="16"/>
+		<item id="10622" action="16"/>
+		<item id="10623" action="16"/>
+		<item id="10624" action="16"/>
+		<item id="10625" action="16"/>
 		<item id="10658" action="16"/>
 		<item id="10659" action="16"/>
 		<item id="10660" action="16"/>
@@ -5847,12 +5889,12 @@ this:AddDialog("MainDialog")
 		<item id="10667" action="16"/>
 		<item id="10668" action="16"/>
 		<item id="10669" action="16"/>
-		<item id="10701" action="16"/>
-		<item id="10702" action="16"/>
-		<item id="10703" action="16"/>
-		<item id="10704" action="16"/>
-		<item id="10705" action="16"/>
-		<item id="10706" action="16"/>
+		<item id="10670" action="16"/>
+		<item id="10671" action="16"/>
+		<item id="10672" action="16"/>
+		<item id="10673" action="16"/>
+		<item id="10674" action="16"/>
+		<item id="10675" action="16"/>
 		<item id="10707" action="16"/>
 		<item id="10708" action="16"/>
 		<item id="10709" action="16"/>
@@ -5866,20 +5908,11 @@ this:AddDialog("MainDialog")
 		<item id="10717" action="16"/>
 		<item id="10718" action="16"/>
 		<item id="10719" action="16"/>
-		<item id="10751" action="16"/>
-		<item id="10752" action="16"/>
-		<item id="10753" action="16"/>
-		<item id="10754" action="16"/>
-		<item id="10755" action="16"/>
-		<item id="10756" action="16"/>
-		<item id="10757" action="16"/>
-		<item id="10758" action="16"/>
-		<item id="10759" action="16"/>
-		<item id="10760" action="16"/>
-		<item id="10761" action="16"/>
-		<item id="10762" action="16"/>
-		<item id="10763" action="16"/>
-		<item id="10764" action="16"/>
+		<item id="10720" action="16"/>
+		<item id="10721" action="16"/>
+		<item id="10722" action="16"/>
+		<item id="10723" action="16"/>
+		<item id="10724" action="16"/>
 		<item id="10765" action="16"/>
 		<item id="10766" action="16"/>
 		<item id="10767" action="16"/>
@@ -5904,20 +5937,18 @@ this:AddDialog("MainDialog")
 		<item id="10786" action="16"/>
 		<item id="10787" action="16"/>
 		<item id="10788" action="16"/>
-		<item id="10801" action="16"/>
-		<item id="10802" action="16"/>
-		<item id="10803" action="16"/>
-		<item id="10804" action="16"/>
-		<item id="10805" action="16"/>
-		<item id="10806" action="16"/>
-		<item id="10807" action="16"/>
-		<item id="10808" action="16"/>
-		<item id="10809" action="16"/>
-		<item id="10810" action="16"/>
-		<item id="10811" action="16"/>
-		<item id="10812" action="16"/>
-		<item id="10813" action="16"/>
-		<item id="10814" action="16"/>
+		<item id="10789" action="16"/>
+		<item id="10790" action="16"/>
+		<item id="10791" action="16"/>
+		<item id="10792" action="16"/>
+		<item id="10793" action="16"/>
+		<item id="10794" action="16"/>
+		<item id="10795" action="16"/>
+		<item id="10796" action="16"/>
+		<item id="10797" action="16"/>
+		<item id="10798" action="16"/>
+		<item id="10799" action="16"/>
+		<item id="10800" action="16"/>
 		<item id="10815" action="16"/>
 		<item id="10816" action="16"/>
 		<item id="10817" action="16"/>
@@ -5944,20 +5975,16 @@ this:AddDialog("MainDialog")
 		<item id="10838" action="16"/>
 		<item id="10839" action="16"/>
 		<item id="10840" action="16"/>
-		<item id="10851" action="16"/>
-		<item id="10852" action="16"/>
-		<item id="10853" action="16"/>
-		<item id="10854" action="16"/>
-		<item id="10855" action="16"/>
-		<item id="10856" action="16"/>
-		<item id="10857" action="16"/>
-		<item id="10858" action="16"/>
-		<item id="10859" action="16"/>
-		<item id="10860" action="16"/>
-		<item id="10861" action="16"/>
-		<item id="10862" action="16"/>
-		<item id="10863" action="16"/>
-		<item id="10864" action="16"/>
+		<item id="10841" action="16"/>
+		<item id="10842" action="16"/>
+		<item id="10843" action="16"/>
+		<item id="10844" action="16"/>
+		<item id="10845" action="16"/>
+		<item id="10846" action="16"/>
+		<item id="10847" action="16"/>
+		<item id="10848" action="16"/>
+		<item id="10849" action="16"/>
+		<item id="10850" action="16"/>
 		<item id="10865" action="16"/>
 		<item id="10866" action="16"/>
 		<item id="10867" action="16"/>
@@ -5982,18 +6009,18 @@ this:AddDialog("MainDialog")
 		<item id="10886" action="16"/>
 		<item id="10887" action="16"/>
 		<item id="10888" action="16"/>
-		<item id="10901" action="16"/>
-		<item id="10902" action="16"/>
-		<item id="10903" action="16"/>
-		<item id="10904" action="16"/>
-		<item id="10905" action="16"/>
-		<item id="10906" action="16"/>
-		<item id="10907" action="16"/>
-		<item id="10908" action="16"/>
-		<item id="10909" action="16"/>
-		<item id="10910" action="16"/>
-		<item id="10911" action="16"/>
-		<item id="10912" action="16"/>
+		<item id="10889" action="16"/>
+		<item id="10890" action="16"/>
+		<item id="10891" action="16"/>
+		<item id="10892" action="16"/>
+		<item id="10893" action="16"/>
+		<item id="10894" action="16"/>
+		<item id="10895" action="16"/>
+		<item id="10896" action="16"/>
+		<item id="10897" action="16"/>
+		<item id="10898" action="16"/>
+		<item id="10899" action="16"/>
+		<item id="10900" action="16"/>
 		<item id="10913" action="16"/>
 		<item id="10914" action="16"/>
 		<item id="10915" action="16"/>
@@ -6020,20 +6047,16 @@ this:AddDialog("MainDialog")
 		<item id="10936" action="16"/>
 		<item id="10937" action="16"/>
 		<item id="10938" action="16"/>
-		<item id="10951" action="16"/>
-		<item id="10952" action="16"/>
-		<item id="10953" action="16"/>
-		<item id="10954" action="16"/>
-		<item id="10955" action="16"/>
-		<item id="10956" action="16"/>
-		<item id="10957" action="16"/>
-		<item id="10958" action="16"/>
-		<item id="10959" action="16"/>
-		<item id="10960" action="16"/>
-		<item id="10961" action="16"/>
-		<item id="10962" action="16"/>
-		<item id="10963" action="16"/>
-		<item id="10964" action="16"/>
+		<item id="10939" action="16"/>
+		<item id="10940" action="16"/>
+		<item id="10941" action="16"/>
+		<item id="10942" action="16"/>
+		<item id="10943" action="16"/>
+		<item id="10944" action="16"/>
+		<item id="10945" action="16"/>
+		<item id="10946" action="16"/>
+		<item id="10947" action="16"/>
+		<item id="10948" action="16"/>
 		<item id="10965" action="16"/>
 		<item id="10966" action="16"/>
 		<item id="10967" action="16"/>
@@ -6060,20 +6083,16 @@ this:AddDialog("MainDialog")
 		<item id="10988" action="16"/>
 		<item id="10989" action="16"/>
 		<item id="10990" action="16"/>
-		<item id="11001" action="16"/>
-		<item id="11002" action="16"/>
-		<item id="11003" action="16"/>
-		<item id="11004" action="16"/>
-		<item id="11005" action="16"/>
-		<item id="11006" action="16"/>
-		<item id="11007" action="16"/>
-		<item id="11008" action="16"/>
-		<item id="11009" action="16"/>
-		<item id="11010" action="16"/>
-		<item id="11011" action="16"/>
-		<item id="11012" action="16"/>
-		<item id="11013" action="16"/>
-		<item id="11014" action="16"/>
+		<item id="10991" action="16"/>
+		<item id="10992" action="16"/>
+		<item id="10993" action="16"/>
+		<item id="10994" action="16"/>
+		<item id="10995" action="16"/>
+		<item id="10996" action="16"/>
+		<item id="10997" action="16"/>
+		<item id="10998" action="16"/>
+		<item id="10999" action="16"/>
+		<item id="11000" action="16"/>
 		<item id="11015" action="16"/>
 		<item id="11016" action="16"/>
 		<item id="11017" action="16"/>
@@ -6098,485 +6117,634 @@ this:AddDialog("MainDialog")
 		<item id="11036" action="16"/>
 		<item id="11037" action="16"/>
 		<item id="11038" action="16"/>
-		<item id="20001" action="16"/>
-		<item id="20002" action="16"/>
-		<item id="20003" action="16"/>
-		<item id="20004" action="16"/>
-		<item id="20005" action="16"/>
-		<item id="20006" action="16"/>
-		<item id="20007" action="16"/>
-		<item id="20008" action="16"/>
-		<item id="20009" action="16"/>
-		<item id="20010" action="16"/>
-		<item id="20011" action="16"/>
-		<item id="20012" action="16"/>
-		<item id="20013" action="16"/>
-		<item id="20014" action="16"/>
-		<item id="20015" action="16"/>
-		<item id="20016" action="16"/>
-		<item id="20017" action="16"/>
-		<item id="20018" action="16"/>
-		<item id="20019" action="16"/>
-		<item id="20051" action="16"/>
-		<item id="20052" action="16"/>
-		<item id="20053" action="16"/>
-		<item id="20054" action="16"/>
-		<item id="20055" action="16"/>
-		<item id="20056" action="16"/>
-		<item id="20057" action="16"/>
-		<item id="20058" action="16"/>
-		<item id="20059" action="16"/>
-		<item id="20060" action="16"/>
-		<item id="20061" action="16"/>
-		<item id="20062" action="16"/>
-		<item id="20063" action="16"/>
-		<item id="20064" action="16"/>
-		<item id="20065" action="16"/>
-		<item id="20066" action="16"/>
-		<item id="20067" action="16"/>
-		<item id="20068" action="16"/>
-		<item id="20069" action="16"/>
-		<item id="20101" action="16"/>
-		<item id="20102" action="16"/>
-		<item id="20103" action="16"/>
-		<item id="20104" action="16"/>
-		<item id="20105" action="16"/>
-		<item id="20106" action="16"/>
-		<item id="20107" action="16"/>
-		<item id="20108" action="16"/>
-		<item id="20109" action="16"/>
-		<item id="20110" action="16"/>
-		<item id="20111" action="16"/>
-		<item id="20112" action="16"/>
-		<item id="20113" action="16"/>
-		<item id="20114" action="16"/>
-		<item id="20115" action="16"/>
-		<item id="20116" action="16"/>
-		<item id="20117" action="16"/>
-		<item id="20118" action="16"/>
-		<item id="20119" action="16"/>
-		<item id="20151" action="16"/>
-		<item id="20152" action="16"/>
-		<item id="20153" action="16"/>
-		<item id="20154" action="16"/>
-		<item id="20155" action="16"/>
-		<item id="20156" action="16"/>
-		<item id="20157" action="16"/>
-		<item id="20158" action="16"/>
-		<item id="20159" action="16"/>
-		<item id="20160" action="16"/>
-		<item id="20161" action="16"/>
-		<item id="20162" action="16"/>
-		<item id="20163" action="16"/>
-		<item id="20164" action="16"/>
-		<item id="20165" action="16"/>
-		<item id="20166" action="16"/>
-		<item id="20167" action="16"/>
-		<item id="20168" action="16"/>
-		<item id="20169" action="16"/>
-		<item id="20201" action="16"/>
-		<item id="20202" action="16"/>
-		<item id="20203" action="16"/>
-		<item id="20204" action="16"/>
-		<item id="20205" action="16"/>
-		<item id="20206" action="16"/>
-		<item id="20207" action="16"/>
-		<item id="20208" action="16"/>
-		<item id="20209" action="16"/>
-		<item id="20210" action="16"/>
-		<item id="20211" action="16"/>
-		<item id="20212" action="16"/>
-		<item id="20213" action="16"/>
-		<item id="20214" action="16"/>
-		<item id="20215" action="16"/>
-		<item id="20216" action="16"/>
-		<item id="20217" action="16"/>
-		<item id="20218" action="16"/>
-		<item id="20219" action="16"/>
-		<item id="20251" action="16"/>
-		<item id="20252" action="16"/>
-		<item id="20253" action="16"/>
-		<item id="20254" action="16"/>
-		<item id="20255" action="16"/>
-		<item id="20256" action="16"/>
-		<item id="20257" action="16"/>
-		<item id="20258" action="16"/>
-		<item id="20259" action="16"/>
-		<item id="20260" action="16"/>
-		<item id="20261" action="16"/>
-		<item id="20262" action="16"/>
-		<item id="20263" action="16"/>
-		<item id="20264" action="16"/>
-		<item id="20265" action="16"/>
-		<item id="20266" action="16"/>
-		<item id="20267" action="16"/>
-		<item id="20268" action="16"/>
-		<item id="20269" action="16"/>
-		<item id="20301" action="16"/>
-		<item id="20302" action="16"/>
-		<item id="20303" action="16"/>
-		<item id="20304" action="16"/>
-		<item id="20305" action="16"/>
-		<item id="20306" action="16"/>
-		<item id="20307" action="16"/>
-		<item id="20308" action="16"/>
-		<item id="20309" action="16"/>
-		<item id="20310" action="16"/>
-		<item id="20311" action="16"/>
-		<item id="20312" action="16"/>
-		<item id="20313" action="16"/>
-		<item id="20314" action="16"/>
-		<item id="20315" action="16"/>
-		<item id="20316" action="16"/>
-		<item id="20317" action="16"/>
-		<item id="20318" action="16"/>
-		<item id="20319" action="16"/>
-		<item id="20401" action="16"/>
-		<item id="20402" action="16"/>
-		<item id="20403" action="16"/>
-		<item id="20404" action="16"/>
-		<item id="20405" action="16"/>
-		<item id="20406" action="16"/>
-		<item id="20407" action="16"/>
-		<item id="20408" action="16"/>
-		<item id="20409" action="16"/>
-		<item id="20410" action="16"/>
-		<item id="20411" action="16"/>
-		<item id="20412" action="16"/>
-		<item id="20413" action="16"/>
-		<item id="20414" action="16"/>
-		<item id="20415" action="16"/>
-		<item id="20416" action="16"/>
-		<item id="20417" action="16"/>
-		<item id="20418" action="16"/>
-		<item id="20419" action="16"/>
-		<item id="20501" action="16"/>
-		<item id="20502" action="16"/>
-		<item id="20503" action="16"/>
-		<item id="20504" action="16"/>
-		<item id="20505" action="16"/>
-		<item id="20506" action="16"/>
-		<item id="20507" action="16"/>
-		<item id="20508" action="16"/>
-		<item id="20509" action="16"/>
-		<item id="20510" action="16"/>
-		<item id="20511" action="16"/>
-		<item id="20512" action="16"/>
-		<item id="20513" action="16"/>
-		<item id="20514" action="16"/>
-		<item id="20515" action="16"/>
-		<item id="20516" action="16"/>
-		<item id="20517" action="16"/>
-		<item id="20518" action="16"/>
-		<item id="20519" action="16"/>
-		<item id="20551" action="16"/>
-		<item id="20552" action="16"/>
-		<item id="20553" action="16"/>
-		<item id="20554" action="16"/>
-		<item id="20555" action="16"/>
-		<item id="20556" action="16"/>
-		<item id="20557" action="16"/>
-		<item id="20558" action="16"/>
-		<item id="20559" action="16"/>
-		<item id="20560" action="16"/>
-		<item id="20561" action="16"/>
-		<item id="20562" action="16"/>
-		<item id="20563" action="16"/>
-		<item id="20564" action="16"/>
-		<item id="20565" action="16"/>
-		<item id="20566" action="16"/>
-		<item id="20567" action="16"/>
-		<item id="20568" action="16"/>
-		<item id="20569" action="16"/>
-		<item id="20601" action="16"/>
-		<item id="20602" action="16"/>
-		<item id="20603" action="16"/>
-		<item id="20604" action="16"/>
-		<item id="20605" action="16"/>
-		<item id="20606" action="16"/>
-		<item id="20607" action="16"/>
-		<item id="20608" action="16"/>
-		<item id="20609" action="16"/>
-		<item id="20610" action="16"/>
-		<item id="20611" action="16"/>
-		<item id="20612" action="16"/>
-		<item id="20613" action="16"/>
-		<item id="20614" action="16"/>
-		<item id="20615" action="16"/>
-		<item id="20616" action="16"/>
-		<item id="20617" action="16"/>
-		<item id="20618" action="16"/>
-		<item id="20619" action="16"/>
-		<item id="20651" action="16"/>
-		<item id="20652" action="16"/>
-		<item id="20653" action="16"/>
-		<item id="20654" action="16"/>
-		<item id="20655" action="16"/>
-		<item id="20656" action="16"/>
-		<item id="20657" action="16"/>
-		<item id="20658" action="16"/>
-		<item id="20659" action="16"/>
-		<item id="20660" action="16"/>
-		<item id="20661" action="16"/>
-		<item id="20662" action="16"/>
-		<item id="20663" action="16"/>
-		<item id="20664" action="16"/>
-		<item id="20665" action="16"/>
-		<item id="20666" action="16"/>
-		<item id="20667" action="16"/>
-		<item id="20668" action="16"/>
-		<item id="20669" action="16"/>
-		<item id="20701" action="16"/>
-		<item id="20702" action="16"/>
-		<item id="20703" action="16"/>
-		<item id="20704" action="16"/>
-		<item id="20705" action="16"/>
-		<item id="20706" action="16"/>
-		<item id="20707" action="16"/>
-		<item id="20708" action="16"/>
-		<item id="20709" action="16"/>
-		<item id="20710" action="16"/>
-		<item id="20711" action="16"/>
-		<item id="20712" action="16"/>
-		<item id="20713" action="16"/>
-		<item id="20714" action="16"/>
-		<item id="20715" action="16"/>
-		<item id="20716" action="16"/>
-		<item id="20717" action="16"/>
-		<item id="20718" action="16"/>
-		<item id="20719" action="16"/>
-		<item id="20751" action="16"/>
-		<item id="20752" action="16"/>
-		<item id="20753" action="16"/>
-		<item id="20754" action="16"/>
-		<item id="20755" action="16"/>
-		<item id="20756" action="16"/>
-		<item id="20757" action="16"/>
-		<item id="20758" action="16"/>
-		<item id="20759" action="16"/>
-		<item id="20760" action="16"/>
-		<item id="20761" action="16"/>
-		<item id="20762" action="16"/>
-		<item id="20763" action="16"/>
-		<item id="20764" action="16"/>
-		<item id="20765" action="16"/>
-		<item id="20766" action="16"/>
-		<item id="20767" action="16"/>
-		<item id="20768" action="16"/>
-		<item id="20769" action="16"/>
-		<item id="20770" action="16"/>
-		<item id="20771" action="16"/>
-		<item id="20772" action="16"/>
-		<item id="20773" action="16"/>
-		<item id="20774" action="16"/>
-		<item id="20775" action="16"/>
-		<item id="20776" action="16"/>
-		<item id="20777" action="16"/>
-		<item id="20778" action="16"/>
-		<item id="20779" action="16"/>
-		<item id="20780" action="16"/>
-		<item id="20781" action="16"/>
-		<item id="20782" action="16"/>
-		<item id="20783" action="16"/>
-		<item id="20784" action="16"/>
-		<item id="20785" action="16"/>
-		<item id="20786" action="16"/>
-		<item id="20787" action="16"/>
-		<item id="20788" action="16"/>
-		<item id="20801" action="16"/>
-		<item id="20802" action="16"/>
-		<item id="20803" action="16"/>
-		<item id="20804" action="16"/>
-		<item id="20805" action="16"/>
-		<item id="20806" action="16"/>
-		<item id="20807" action="16"/>
-		<item id="20808" action="16"/>
-		<item id="20809" action="16"/>
-		<item id="20810" action="16"/>
-		<item id="20811" action="16"/>
-		<item id="20812" action="16"/>
-		<item id="20813" action="16"/>
-		<item id="20814" action="16"/>
-		<item id="20815" action="16"/>
-		<item id="20816" action="16"/>
-		<item id="20817" action="16"/>
-		<item id="20818" action="16"/>
-		<item id="20819" action="16"/>
-		<item id="20820" action="16"/>
-		<item id="20821" action="16"/>
-		<item id="20822" action="16"/>
-		<item id="20823" action="16"/>
-		<item id="20824" action="16"/>
-		<item id="20825" action="16"/>
-		<item id="20826" action="16"/>
-		<item id="20827" action="16"/>
-		<item id="20828" action="16"/>
-		<item id="20829" action="16"/>
-		<item id="20830" action="16"/>
-		<item id="20831" action="16"/>
-		<item id="20832" action="16"/>
-		<item id="20833" action="16"/>
-		<item id="20834" action="16"/>
-		<item id="20835" action="16"/>
-		<item id="20836" action="16"/>
-		<item id="20837" action="16"/>
-		<item id="20838" action="16"/>
-		<item id="20839" action="16"/>
-		<item id="20840" action="16"/>
-		<item id="20851" action="16"/>
-		<item id="20852" action="16"/>
-		<item id="20853" action="16"/>
-		<item id="20854" action="16"/>
-		<item id="20855" action="16"/>
-		<item id="20856" action="16"/>
-		<item id="20857" action="16"/>
-		<item id="20858" action="16"/>
-		<item id="20859" action="16"/>
-		<item id="20860" action="16"/>
-		<item id="20861" action="16"/>
-		<item id="20862" action="16"/>
-		<item id="20863" action="16"/>
-		<item id="20864" action="16"/>
-		<item id="20865" action="16"/>
-		<item id="20866" action="16"/>
-		<item id="20867" action="16"/>
-		<item id="20868" action="16"/>
-		<item id="20869" action="16"/>
-		<item id="20870" action="16"/>
-		<item id="20871" action="16"/>
-		<item id="20872" action="16"/>
-		<item id="20873" action="16"/>
-		<item id="20874" action="16"/>
-		<item id="20875" action="16"/>
-		<item id="20876" action="16"/>
-		<item id="20877" action="16"/>
-		<item id="20878" action="16"/>
-		<item id="20879" action="16"/>
-		<item id="20880" action="16"/>
-		<item id="20881" action="16"/>
-		<item id="20882" action="16"/>
-		<item id="20883" action="16"/>
-		<item id="20884" action="16"/>
-		<item id="20885" action="16"/>
-		<item id="20886" action="16"/>
-		<item id="20887" action="16"/>
-		<item id="20888" action="16"/>
-		<item id="20901" action="16"/>
-		<item id="20902" action="16"/>
-		<item id="20903" action="16"/>
-		<item id="20904" action="16"/>
-		<item id="20905" action="16"/>
-		<item id="20906" action="16"/>
-		<item id="20907" action="16"/>
-		<item id="20908" action="16"/>
-		<item id="20909" action="16"/>
-		<item id="20910" action="16"/>
-		<item id="20911" action="16"/>
-		<item id="20912" action="16"/>
-		<item id="20913" action="16"/>
-		<item id="20914" action="16"/>
-		<item id="20915" action="16"/>
-		<item id="20916" action="16"/>
-		<item id="20917" action="16"/>
-		<item id="20918" action="16"/>
-		<item id="20919" action="16"/>
-		<item id="20920" action="16"/>
-		<item id="20921" action="16"/>
-		<item id="20922" action="16"/>
-		<item id="20923" action="16"/>
-		<item id="20924" action="16"/>
-		<item id="20925" action="16"/>
-		<item id="20926" action="16"/>
-		<item id="20927" action="16"/>
-		<item id="20928" action="16"/>
-		<item id="20929" action="16"/>
-		<item id="20930" action="16"/>
-		<item id="20931" action="16"/>
-		<item id="20932" action="16"/>
-		<item id="20933" action="16"/>
-		<item id="20934" action="16"/>
-		<item id="20935" action="16"/>
-		<item id="20936" action="16"/>
-		<item id="20937" action="16"/>
-		<item id="20938" action="16"/>
-		<item id="20951" action="16"/>
-		<item id="20952" action="16"/>
-		<item id="20953" action="16"/>
-		<item id="20954" action="16"/>
-		<item id="20955" action="16"/>
-		<item id="20956" action="16"/>
-		<item id="20957" action="16"/>
-		<item id="20958" action="16"/>
-		<item id="20959" action="16"/>
-		<item id="20960" action="16"/>
-		<item id="20961" action="16"/>
-		<item id="20962" action="16"/>
-		<item id="20963" action="16"/>
-		<item id="20964" action="16"/>
-		<item id="20965" action="16"/>
-		<item id="20966" action="16"/>
-		<item id="20967" action="16"/>
-		<item id="20968" action="16"/>
-		<item id="20969" action="16"/>
-		<item id="20970" action="16"/>
-		<item id="20971" action="16"/>
-		<item id="20972" action="16"/>
-		<item id="20973" action="16"/>
-		<item id="20974" action="16"/>
-		<item id="20975" action="16"/>
-		<item id="20976" action="16"/>
-		<item id="20977" action="16"/>
-		<item id="20978" action="16"/>
-		<item id="20979" action="16"/>
-		<item id="20980" action="16"/>
-		<item id="20981" action="16"/>
-		<item id="20982" action="16"/>
-		<item id="20983" action="16"/>
-		<item id="20984" action="16"/>
-		<item id="20985" action="16"/>
-		<item id="20986" action="16"/>
-		<item id="20987" action="16"/>
-		<item id="20988" action="16"/>
-		<item id="20989" action="16"/>
-		<item id="20990" action="16"/>
-		<item id="21001" action="16"/>
-		<item id="21002" action="16"/>
-		<item id="21003" action="16"/>
-		<item id="21004" action="16"/>
-		<item id="21005" action="16"/>
-		<item id="21006" action="16"/>
-		<item id="21007" action="16"/>
-		<item id="21008" action="16"/>
-		<item id="21009" action="16"/>
-		<item id="21010" action="16"/>
-		<item id="21011" action="16"/>
-		<item id="21012" action="16"/>
-		<item id="21013" action="16"/>
-		<item id="21014" action="16"/>
-		<item id="21015" action="16"/>
-		<item id="21016" action="16"/>
-		<item id="21017" action="16"/>
-		<item id="21018" action="16"/>
-		<item id="21019" action="16"/>
-		<item id="21020" action="16"/>
-		<item id="21021" action="16"/>
-		<item id="21022" action="16"/>
-		<item id="21023" action="16"/>
-		<item id="21024" action="16"/>
-		<item id="21025" action="16"/>
-		<item id="21026" action="16"/>
-		<item id="21027" action="16"/>
-		<item id="21028" action="16"/>
-		<item id="21029" action="16"/>
-		<item id="21030" action="16"/>
-		<item id="21031" action="16"/>
-		<item id="21032" action="16"/>
-		<item id="21033" action="16"/>
-		<item id="21034" action="16"/>
-		<item id="21035" action="16"/>
-		<item id="21036" action="16"/>
-		<item id="21037" action="16"/>
-		<item id="21038" action="16"/>
+		<item id="11039" action="16"/>
+		<item id="11040" action="16"/>
+		<item id="11041" action="16"/>
+		<item id="11042" action="16"/>
+		<item id="11043" action="16"/>
+		<item id="11044" action="16"/>
+		<item id="11045" action="16"/>
+		<item id="11046" action="16"/>
+		<item id="11047" action="16"/>
+		<item id="11048" action="16"/>
+		<item id="11049" action="16"/>
+		<item id="11050" action="16"/>
+		<item id="30001" action="16"/>
+		<item id="30002" action="16"/>
+		<item id="30003" action="16"/>
+		<item id="30004" action="16"/>
+		<item id="30005" action="16"/>
+		<item id="30006" action="16"/>
+		<item id="30007" action="16"/>
+		<item id="30008" action="16"/>
+		<item id="30009" action="16"/>
+		<item id="30010" action="16"/>
+		<item id="30011" action="16"/>
+		<item id="30012" action="16"/>
+		<item id="30013" action="16"/>
+		<item id="30014" action="16"/>
+		<item id="30015" action="16"/>
+		<item id="30016" action="16"/>
+		<item id="30017" action="16"/>
+		<item id="30018" action="16"/>
+		<item id="30019" action="16"/>
+		<item id="30020" action="16"/>
+		<item id="30021" action="16"/>
+		<item id="30022" action="16"/>
+		<item id="30023" action="16"/>
+		<item id="30024" action="16"/>
+		<item id="30051" action="16"/>
+		<item id="30052" action="16"/>
+		<item id="30053" action="16"/>
+		<item id="30054" action="16"/>
+		<item id="30055" action="16"/>
+		<item id="30056" action="16"/>
+		<item id="30057" action="16"/>
+		<item id="30058" action="16"/>
+		<item id="30059" action="16"/>
+		<item id="30060" action="16"/>
+		<item id="30061" action="16"/>
+		<item id="30062" action="16"/>
+		<item id="30063" action="16"/>
+		<item id="30064" action="16"/>
+		<item id="30065" action="16"/>
+		<item id="30066" action="16"/>
+		<item id="30067" action="16"/>
+		<item id="30068" action="16"/>
+		<item id="30069" action="16"/>
+		<item id="30070" action="16"/>
+		<item id="30071" action="16"/>
+		<item id="30072" action="16"/>
+		<item id="30073" action="16"/>
+		<item id="30074" action="16"/>
+		<item id="30101" action="16"/>
+		<item id="30102" action="16"/>
+		<item id="30103" action="16"/>
+		<item id="30104" action="16"/>
+		<item id="30105" action="16"/>
+		<item id="30106" action="16"/>
+		<item id="30107" action="16"/>
+		<item id="30108" action="16"/>
+		<item id="30109" action="16"/>
+		<item id="30110" action="16"/>
+		<item id="30111" action="16"/>
+		<item id="30112" action="16"/>
+		<item id="30113" action="16"/>
+		<item id="30114" action="16"/>
+		<item id="30115" action="16"/>
+		<item id="30116" action="16"/>
+		<item id="30117" action="16"/>
+		<item id="30118" action="16"/>
+		<item id="30119" action="16"/>
+		<item id="30120" action="16"/>
+		<item id="30121" action="16"/>
+		<item id="30122" action="16"/>
+		<item id="30123" action="16"/>
+		<item id="30124" action="16"/>
+		<item id="30151" action="16"/>
+		<item id="30152" action="16"/>
+		<item id="30153" action="16"/>
+		<item id="30154" action="16"/>
+		<item id="30155" action="16"/>
+		<item id="30156" action="16"/>
+		<item id="30157" action="16"/>
+		<item id="30158" action="16"/>
+		<item id="30159" action="16"/>
+		<item id="30160" action="16"/>
+		<item id="30161" action="16"/>
+		<item id="30162" action="16"/>
+		<item id="30163" action="16"/>
+		<item id="30164" action="16"/>
+		<item id="30165" action="16"/>
+		<item id="30166" action="16"/>
+		<item id="30167" action="16"/>
+		<item id="30168" action="16"/>
+		<item id="30169" action="16"/>
+		<item id="30170" action="16"/>
+		<item id="30171" action="16"/>
+		<item id="30172" action="16"/>
+		<item id="30173" action="16"/>
+		<item id="30174" action="16"/>
+		<item id="30201" action="16"/>
+		<item id="30202" action="16"/>
+		<item id="30203" action="16"/>
+		<item id="30204" action="16"/>
+		<item id="30205" action="16"/>
+		<item id="30206" action="16"/>
+		<item id="30207" action="16"/>
+		<item id="30208" action="16"/>
+		<item id="30209" action="16"/>
+		<item id="30210" action="16"/>
+		<item id="30211" action="16"/>
+		<item id="30212" action="16"/>
+		<item id="30213" action="16"/>
+		<item id="30214" action="16"/>
+		<item id="30215" action="16"/>
+		<item id="30216" action="16"/>
+		<item id="30217" action="16"/>
+		<item id="30218" action="16"/>
+		<item id="30219" action="16"/>
+		<item id="30220" action="16"/>
+		<item id="30221" action="16"/>
+		<item id="30222" action="16"/>
+		<item id="30223" action="16"/>
+		<item id="30224" action="16"/>
+		<item id="30251" action="16"/>
+		<item id="30252" action="16"/>
+		<item id="30253" action="16"/>
+		<item id="30254" action="16"/>
+		<item id="30255" action="16"/>
+		<item id="30256" action="16"/>
+		<item id="30257" action="16"/>
+		<item id="30258" action="16"/>
+		<item id="30259" action="16"/>
+		<item id="30260" action="16"/>
+		<item id="30261" action="16"/>
+		<item id="30262" action="16"/>
+		<item id="30263" action="16"/>
+		<item id="30264" action="16"/>
+		<item id="30265" action="16"/>
+		<item id="30266" action="16"/>
+		<item id="30267" action="16"/>
+		<item id="30268" action="16"/>
+		<item id="30269" action="16"/>
+		<item id="30270" action="16"/>
+		<item id="30271" action="16"/>
+		<item id="30272" action="16"/>
+		<item id="30273" action="16"/>
+		<item id="30274" action="16"/>
+		<item id="30301" action="16"/>
+		<item id="30302" action="16"/>
+		<item id="30303" action="16"/>
+		<item id="30304" action="16"/>
+		<item id="30305" action="16"/>
+		<item id="30306" action="16"/>
+		<item id="30307" action="16"/>
+		<item id="30308" action="16"/>
+		<item id="30309" action="16"/>
+		<item id="30310" action="16"/>
+		<item id="30311" action="16"/>
+		<item id="30312" action="16"/>
+		<item id="30313" action="16"/>
+		<item id="30314" action="16"/>
+		<item id="30315" action="16"/>
+		<item id="30316" action="16"/>
+		<item id="30317" action="16"/>
+		<item id="30318" action="16"/>
+		<item id="30319" action="16"/>
+		<item id="30320" action="16"/>
+		<item id="30321" action="16"/>
+		<item id="30322" action="16"/>
+		<item id="30323" action="16"/>
+		<item id="30324" action="16"/>
+		<item id="30325" action="16"/>
+		<item id="30401" action="16"/>
+		<item id="30402" action="16"/>
+		<item id="30403" action="16"/>
+		<item id="30404" action="16"/>
+		<item id="30405" action="16"/>
+		<item id="30406" action="16"/>
+		<item id="30407" action="16"/>
+		<item id="30408" action="16"/>
+		<item id="30409" action="16"/>
+		<item id="30410" action="16"/>
+		<item id="30411" action="16"/>
+		<item id="30412" action="16"/>
+		<item id="30413" action="16"/>
+		<item id="30414" action="16"/>
+		<item id="30415" action="16"/>
+		<item id="30416" action="16"/>
+		<item id="30417" action="16"/>
+		<item id="30418" action="16"/>
+		<item id="30419" action="16"/>
+		<item id="30420" action="16"/>
+		<item id="30421" action="16"/>
+		<item id="30422" action="16"/>
+		<item id="30423" action="16"/>
+		<item id="30424" action="16"/>
+		<item id="30425" action="16"/>
+		<item id="30501" action="16"/>
+		<item id="30502" action="16"/>
+		<item id="30503" action="16"/>
+		<item id="30504" action="16"/>
+		<item id="30505" action="16"/>
+		<item id="30506" action="16"/>
+		<item id="30507" action="16"/>
+		<item id="30508" action="16"/>
+		<item id="30509" action="16"/>
+		<item id="30510" action="16"/>
+		<item id="30511" action="16"/>
+		<item id="30512" action="16"/>
+		<item id="30513" action="16"/>
+		<item id="30514" action="16"/>
+		<item id="30515" action="16"/>
+		<item id="30516" action="16"/>
+		<item id="30517" action="16"/>
+		<item id="30518" action="16"/>
+		<item id="30519" action="16"/>
+		<item id="30520" action="16"/>
+		<item id="30521" action="16"/>
+		<item id="30522" action="16"/>
+		<item id="30523" action="16"/>
+		<item id="30524" action="16"/>
+		<item id="30525" action="16"/>
+		<item id="30551" action="16"/>
+		<item id="30552" action="16"/>
+		<item id="30553" action="16"/>
+		<item id="30554" action="16"/>
+		<item id="30555" action="16"/>
+		<item id="30556" action="16"/>
+		<item id="30557" action="16"/>
+		<item id="30558" action="16"/>
+		<item id="30559" action="16"/>
+		<item id="30560" action="16"/>
+		<item id="30561" action="16"/>
+		<item id="30562" action="16"/>
+		<item id="30563" action="16"/>
+		<item id="30564" action="16"/>
+		<item id="30565" action="16"/>
+		<item id="30566" action="16"/>
+		<item id="30567" action="16"/>
+		<item id="30568" action="16"/>
+		<item id="30569" action="16"/>
+		<item id="30570" action="16"/>
+		<item id="30571" action="16"/>
+		<item id="30572" action="16"/>
+		<item id="30573" action="16"/>
+		<item id="30574" action="16"/>
+		<item id="30575" action="16"/>
+		<item id="30601" action="16"/>
+		<item id="30602" action="16"/>
+		<item id="30603" action="16"/>
+		<item id="30604" action="16"/>
+		<item id="30605" action="16"/>
+		<item id="30606" action="16"/>
+		<item id="30607" action="16"/>
+		<item id="30608" action="16"/>
+		<item id="30609" action="16"/>
+		<item id="30610" action="16"/>
+		<item id="30611" action="16"/>
+		<item id="30612" action="16"/>
+		<item id="30613" action="16"/>
+		<item id="30614" action="16"/>
+		<item id="30615" action="16"/>
+		<item id="30616" action="16"/>
+		<item id="30617" action="16"/>
+		<item id="30618" action="16"/>
+		<item id="30619" action="16"/>
+		<item id="30620" action="16"/>
+		<item id="30621" action="16"/>
+		<item id="30622" action="16"/>
+		<item id="30623" action="16"/>
+		<item id="30624" action="16"/>
+		<item id="30625" action="16"/>
+		<item id="30651" action="16"/>
+		<item id="30652" action="16"/>
+		<item id="30653" action="16"/>
+		<item id="30654" action="16"/>
+		<item id="30655" action="16"/>
+		<item id="30656" action="16"/>
+		<item id="30657" action="16"/>
+		<item id="30658" action="16"/>
+		<item id="30659" action="16"/>
+		<item id="30660" action="16"/>
+		<item id="30661" action="16"/>
+		<item id="30662" action="16"/>
+		<item id="30663" action="16"/>
+		<item id="30664" action="16"/>
+		<item id="30665" action="16"/>
+		<item id="30666" action="16"/>
+		<item id="30667" action="16"/>
+		<item id="30668" action="16"/>
+		<item id="30669" action="16"/>
+		<item id="30670" action="16"/>
+		<item id="30671" action="16"/>
+		<item id="30672" action="16"/>
+		<item id="30673" action="16"/>
+		<item id="30674" action="16"/>
+		<item id="30675" action="16"/>
+		<item id="30701" action="16"/>
+		<item id="30702" action="16"/>
+		<item id="30703" action="16"/>
+		<item id="30704" action="16"/>
+		<item id="30705" action="16"/>
+		<item id="30706" action="16"/>
+		<item id="30707" action="16"/>
+		<item id="30708" action="16"/>
+		<item id="30709" action="16"/>
+		<item id="30710" action="16"/>
+		<item id="30711" action="16"/>
+		<item id="30712" action="16"/>
+		<item id="30713" action="16"/>
+		<item id="30714" action="16"/>
+		<item id="30715" action="16"/>
+		<item id="30716" action="16"/>
+		<item id="30717" action="16"/>
+		<item id="30718" action="16"/>
+		<item id="30719" action="16"/>
+		<item id="30720" action="16"/>
+		<item id="30721" action="16"/>
+		<item id="30722" action="16"/>
+		<item id="30723" action="16"/>
+		<item id="30724" action="16"/>
+		<item id="30751" action="16"/>
+		<item id="30752" action="16"/>
+		<item id="30753" action="16"/>
+		<item id="30754" action="16"/>
+		<item id="30755" action="16"/>
+		<item id="30756" action="16"/>
+		<item id="30757" action="16"/>
+		<item id="30758" action="16"/>
+		<item id="30759" action="16"/>
+		<item id="30760" action="16"/>
+		<item id="30761" action="16"/>
+		<item id="30762" action="16"/>
+		<item id="30763" action="16"/>
+		<item id="30764" action="16"/>
+		<item id="30765" action="16"/>
+		<item id="30766" action="16"/>
+		<item id="30767" action="16"/>
+		<item id="30768" action="16"/>
+		<item id="30769" action="16"/>
+		<item id="30770" action="16"/>
+		<item id="30771" action="16"/>
+		<item id="30772" action="16"/>
+		<item id="30773" action="16"/>
+		<item id="30774" action="16"/>
+		<item id="30775" action="16"/>
+		<item id="30776" action="16"/>
+		<item id="30777" action="16"/>
+		<item id="30778" action="16"/>
+		<item id="30779" action="16"/>
+		<item id="30780" action="16"/>
+		<item id="30781" action="16"/>
+		<item id="30782" action="16"/>
+		<item id="30783" action="16"/>
+		<item id="30784" action="16"/>
+		<item id="30785" action="16"/>
+		<item id="30786" action="16"/>
+		<item id="30787" action="16"/>
+		<item id="30788" action="16"/>
+		<item id="30789" action="16"/>
+		<item id="30790" action="16"/>
+		<item id="30791" action="16"/>
+		<item id="30792" action="16"/>
+		<item id="30793" action="16"/>
+		<item id="30794" action="16"/>
+		<item id="30795" action="16"/>
+		<item id="30796" action="16"/>
+		<item id="30797" action="16"/>
+		<item id="30798" action="16"/>
+		<item id="30799" action="16"/>
+		<item id="30800" action="16"/>
+		<item id="30801" action="16"/>
+		<item id="30802" action="16"/>
+		<item id="30803" action="16"/>
+		<item id="30804" action="16"/>
+		<item id="30805" action="16"/>
+		<item id="30806" action="16"/>
+		<item id="30807" action="16"/>
+		<item id="30808" action="16"/>
+		<item id="30809" action="16"/>
+		<item id="30810" action="16"/>
+		<item id="30811" action="16"/>
+		<item id="30812" action="16"/>
+		<item id="30813" action="16"/>
+		<item id="30814" action="16"/>
+		<item id="30815" action="16"/>
+		<item id="30816" action="16"/>
+		<item id="30817" action="16"/>
+		<item id="30818" action="16"/>
+		<item id="30819" action="16"/>
+		<item id="30820" action="16"/>
+		<item id="30821" action="16"/>
+		<item id="30822" action="16"/>
+		<item id="30823" action="16"/>
+		<item id="30824" action="16"/>
+		<item id="30825" action="16"/>
+		<item id="30826" action="16"/>
+		<item id="30827" action="16"/>
+		<item id="30828" action="16"/>
+		<item id="30829" action="16"/>
+		<item id="30830" action="16"/>
+		<item id="30831" action="16"/>
+		<item id="30832" action="16"/>
+		<item id="30833" action="16"/>
+		<item id="30834" action="16"/>
+		<item id="30835" action="16"/>
+		<item id="30836" action="16"/>
+		<item id="30837" action="16"/>
+		<item id="30838" action="16"/>
+		<item id="30839" action="16"/>
+		<item id="30840" action="16"/>
+		<item id="30841" action="16"/>
+		<item id="30842" action="16"/>
+		<item id="30843" action="16"/>
+		<item id="30844" action="16"/>
+		<item id="30845" action="16"/>
+		<item id="30846" action="16"/>
+		<item id="30847" action="16"/>
+		<item id="30848" action="16"/>
+		<item id="30849" action="16"/>
+		<item id="30850" action="16"/>
+		<item id="30851" action="16"/>
+		<item id="30852" action="16"/>
+		<item id="30853" action="16"/>
+		<item id="30854" action="16"/>
+		<item id="30855" action="16"/>
+		<item id="30856" action="16"/>
+		<item id="30857" action="16"/>
+		<item id="30858" action="16"/>
+		<item id="30859" action="16"/>
+		<item id="30860" action="16"/>
+		<item id="30861" action="16"/>
+		<item id="30862" action="16"/>
+		<item id="30863" action="16"/>
+		<item id="30864" action="16"/>
+		<item id="30865" action="16"/>
+		<item id="30866" action="16"/>
+		<item id="30867" action="16"/>
+		<item id="30868" action="16"/>
+		<item id="30869" action="16"/>
+		<item id="30870" action="16"/>
+		<item id="30871" action="16"/>
+		<item id="30872" action="16"/>
+		<item id="30873" action="16"/>
+		<item id="30874" action="16"/>
+		<item id="30875" action="16"/>
+		<item id="30876" action="16"/>
+		<item id="30877" action="16"/>
+		<item id="30878" action="16"/>
+		<item id="30879" action="16"/>
+		<item id="30880" action="16"/>
+		<item id="30881" action="16"/>
+		<item id="30882" action="16"/>
+		<item id="30883" action="16"/>
+		<item id="30884" action="16"/>
+		<item id="30885" action="16"/>
+		<item id="30886" action="16"/>
+		<item id="30887" action="16"/>
+		<item id="30888" action="16"/>
+		<item id="30889" action="16"/>
+		<item id="30890" action="16"/>
+		<item id="30891" action="16"/>
+		<item id="30892" action="16"/>
+		<item id="30893" action="16"/>
+		<item id="30894" action="16"/>
+		<item id="30895" action="16"/>
+		<item id="30896" action="16"/>
+		<item id="30897" action="16"/>
+		<item id="30898" action="16"/>
+		<item id="30899" action="16"/>
+		<item id="30900" action="16"/>
+		<item id="30901" action="16"/>
+		<item id="30902" action="16"/>
+		<item id="30903" action="16"/>
+		<item id="30904" action="16"/>
+		<item id="30905" action="16"/>
+		<item id="30906" action="16"/>
+		<item id="30907" action="16"/>
+		<item id="30908" action="16"/>
+		<item id="30909" action="16"/>
+		<item id="30910" action="16"/>
+		<item id="30911" action="16"/>
+		<item id="30912" action="16"/>
+		<item id="30913" action="16"/>
+		<item id="30914" action="16"/>
+		<item id="30915" action="16"/>
+		<item id="30916" action="16"/>
+		<item id="30917" action="16"/>
+		<item id="30918" action="16"/>
+		<item id="30919" action="16"/>
+		<item id="30920" action="16"/>
+		<item id="30921" action="16"/>
+		<item id="30922" action="16"/>
+		<item id="30923" action="16"/>
+		<item id="30924" action="16"/>
+		<item id="30925" action="16"/>
+		<item id="30926" action="16"/>
+		<item id="30927" action="16"/>
+		<item id="30928" action="16"/>
+		<item id="30929" action="16"/>
+		<item id="30930" action="16"/>
+		<item id="30931" action="16"/>
+		<item id="30932" action="16"/>
+		<item id="30933" action="16"/>
+		<item id="30934" action="16"/>
+		<item id="30935" action="16"/>
+		<item id="30936" action="16"/>
+		<item id="30937" action="16"/>
+		<item id="30938" action="16"/>
+		<item id="30939" action="16"/>
+		<item id="30940" action="16"/>
+		<item id="30941" action="16"/>
+		<item id="30942" action="16"/>
+		<item id="30943" action="16"/>
+		<item id="30944" action="16"/>
+		<item id="30945" action="16"/>
+		<item id="30946" action="16"/>
+		<item id="30947" action="16"/>
+		<item id="30948" action="16"/>
+		<item id="30951" action="16"/>
+		<item id="30952" action="16"/>
+		<item id="30953" action="16"/>
+		<item id="30954" action="16"/>
+		<item id="30955" action="16"/>
+		<item id="30956" action="16"/>
+		<item id="30957" action="16"/>
+		<item id="30958" action="16"/>
+		<item id="30959" action="16"/>
+		<item id="30960" action="16"/>
+		<item id="30961" action="16"/>
+		<item id="30962" action="16"/>
+		<item id="30963" action="16"/>
+		<item id="30964" action="16"/>
+		<item id="30965" action="16"/>
+		<item id="30966" action="16"/>
+		<item id="30967" action="16"/>
+		<item id="30968" action="16"/>
+		<item id="30969" action="16"/>
+		<item id="30970" action="16"/>
+		<item id="30971" action="16"/>
+		<item id="30972" action="16"/>
+		<item id="30973" action="16"/>
+		<item id="30974" action="16"/>
+		<item id="30975" action="16"/>
+		<item id="30976" action="16"/>
+		<item id="30977" action="16"/>
+		<item id="30978" action="16"/>
+		<item id="30979" action="16"/>
+		<item id="30980" action="16"/>
+		<item id="30981" action="16"/>
+		<item id="30982" action="16"/>
+		<item id="30983" action="16"/>
+		<item id="30984" action="16"/>
+		<item id="30985" action="16"/>
+		<item id="30986" action="16"/>
+		<item id="30987" action="16"/>
+		<item id="30988" action="16"/>
+		<item id="30989" action="16"/>
+		<item id="30990" action="16"/>
+		<item id="30991" action="16"/>
+		<item id="30992" action="16"/>
+		<item id="30993" action="16"/>
+		<item id="30994" action="16"/>
+		<item id="30995" action="16"/>
+		<item id="30996" action="16"/>
+		<item id="30997" action="16"/>
+		<item id="30998" action="16"/>
+		<item id="30999" action="16"/>
+		<item id="31000" action="16"/>
+		<item id="31001" action="16"/>
+		<item id="31002" action="16"/>
+		<item id="31003" action="16"/>
+		<item id="31004" action="16"/>
+		<item id="31005" action="16"/>
+		<item id="31006" action="16"/>
+		<item id="31007" action="16"/>
+		<item id="31008" action="16"/>
+		<item id="31009" action="16"/>
+		<item id="31010" action="16"/>
+		<item id="31011" action="16"/>
+		<item id="31012" action="16"/>
+		<item id="31013" action="16"/>
+		<item id="31014" action="16"/>
+		<item id="31015" action="16"/>
+		<item id="31016" action="16"/>
+		<item id="31017" action="16"/>
+		<item id="31018" action="16"/>
+		<item id="31019" action="16"/>
+		<item id="31020" action="16"/>
+		<item id="31021" action="16"/>
+		<item id="31022" action="16"/>
+		<item id="31023" action="16"/>
+		<item id="31024" action="16"/>
+		<item id="31025" action="16"/>
+		<item id="31026" action="16"/>
+		<item id="31027" action="16"/>
+		<item id="31028" action="16"/>
+		<item id="31029" action="16"/>
+		<item id="31030" action="16"/>
+		<item id="31031" action="16"/>
+		<item id="31032" action="16"/>
+		<item id="31033" action="16"/>
+		<item id="31034" action="16"/>
+		<item id="31035" action="16"/>
+		<item id="31036" action="16"/>
+		<item id="31037" action="16"/>
+		<item id="31038" action="16"/>
+		<item id="31039" action="16"/>
+		<item id="31040" action="16"/>
+		<item id="31041" action="16"/>
+		<item id="31042" action="16"/>
+		<item id="31043" action="16"/>
+		<item id="31044" action="16"/>
+		<item id="31045" action="16"/>
+		<item id="31046" action="16"/>
+		<item id="31047" action="16"/>
+		<item id="31048" action="16"/>
+		<item id="31049" action="16"/>
+		<item id="31050" action="16"/>
 	</npc>
 	<npc name="推荐人管理员" id="857">
 		<menu>function MainDialog()
