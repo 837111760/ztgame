@@ -29,7 +29,7 @@
 			<map mapID="279"/><!--ÄÐÎÂÈª-->
 			<map mapID="280"/><!--Å®ÎÂÈª-->
 			<map mapID="191"/><!--Ä§×å³²Ñ¨Ò»²ã-->
-			<map mapID="192"/><!--Ä§×å³²Ñ¨¶þ²ã-->
+			<!--map mapID="192"/--><!--Ä§×å³²Ñ¨¶þ²ã-->
 		</country>
 		<country id="2">
 			<map mapID="218"/><!--Íõ³ÇÕ¬ÎÝ-->
@@ -186,8 +186,8 @@
 		<map mapID="182" name="ÆÜÏ¢µØ" fileName="muchang" backtocity="134" foreignerbackto="134" backto="134" function="" commonuserbackto="134" backtodare="134" level="30" exprate="10" commoncountrybackto="134"/>
 		<!--map mapID="190" name="¹ÅÄ¹" fileName="gumu" backtocity="134" foreignerbackto="134" backto="134" function="133" commonuserbackto="134" backtodare="134" level="20" exprate="10" commoncountrybackto="134"/-->
 		<map mapID="191" name="Ä§×å³²Ñ¨Ò»²ã" fileName="shengshou1" backtocity="134" foreignerbackto="134" backto="134" function="133" commonuserbackto="134" backtodare="134" level="30" exprate="10" commoncountrybackto="134"/>
-		<map mapID="192" name="Ä§×å³²Ñ¨¶þ²ã" fileName="shengshou2" backtocity="134" foreignerbackto="134" backto="134" function="133" commonuserbackto="134" backtodare="134" level="30" exprate="10" commoncountrybackto="134"/>
-		<!--map mapID="193" name="ÎäÒÄÍõÄ¹Ò»²ã" fileName="wangmu1" backtocity="134" foreignerbackto="134" backto="134" function="161" commonuserbackto="134" backtodare="134" level="30" commoncountrybackto="134"/>
+		<!--map mapID="192" name="Ä§×å³²Ñ¨¶þ²ã" fileName="shengshou2" backtocity="134" foreignerbackto="134" backto="134" function="133" commonuserbackto="134" backtodare="134" level="30" exprate="10" commoncountrybackto="134"/>
+		<map mapID="193" name="ÎäÒÄÍõÄ¹Ò»²ã" fileName="wangmu1" backtocity="134" foreignerbackto="134" backto="134" function="161" commonuserbackto="134" backtodare="134" level="30" commoncountrybackto="134"/>
 		<map mapID="194" name="ÎäÒÄÍõÄ¹¶þ²ã" fileName="wangmu2" backtocity="134" foreignerbackto="134" backto="134" function="161" commonuserbackto="134" backtodare="134" level="30" commoncountrybackto="134"/>
 		<map mapID="195" name="ÎäÒÄÍõÄ¹Èý²ã" fileName="wangmu3" backtocity="134" foreignerbackto="134" backto="134" function="161" commonuserbackto="134" backtodare="134" level="30" commoncountrybackto="134"/>
 		<map mapID="196" name="ÎäÒÄÍõÄ¹ËÄ²ã" fileName="wangmu4" backtocity="134" foreignerbackto="134" backto="134" function="161" commonuserbackto="134" backtodare="134" level="30" commoncountrybackto="134"/>
