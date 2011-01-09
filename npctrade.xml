@@ -13244,6 +13244,12 @@ this:AddDialog("MainDialog")
 else
 this:AddDialog("MainDialog")
 end</menu>
+		<item id="8300" action="3"/>
+		<item id="8301" action="3"/>
+		<item id="8302" action="3"/>
+		<item id="8400" action="3"/>
+		<item id="8401" action="3"/>
+		<item id="8402" action="3"/>
 		<item kind="101" action="2"/>
 		<item kind="102" action="2"/>
 		<item kind="103" action="2"/>
@@ -13370,12 +13376,6 @@ end</menu>
 		<item id="7069" action="3"/>
 		<item id="7569" action="3"/>
 		<item id="8069" action="3"/>
-		<item id="8300" action="3"/>
-		<item id="8301" action="3"/>
-		<item id="8302" action="3"/>
-		<item id="8400" action="3"/>
-		<item id="8401" action="3"/>
-		<item id="8402" action="3"/>
 	</npc>
 	<npc name="ÃØ¼®ÊÕ²Ø¼Ò" id="872">
 		<menu>function MainDialog()                                                                       
