@@ -4,7 +4,6 @@
 	<!-- FLServer列表 -->
 	<LoginServerList>
 		<server ip="127.0.0.1" port="7001"/>
-		<!--server ip="127.0.0.1" port="7001"/-->
 	</LoginServerList>
 
 	<!-- InfoServer列表 -->

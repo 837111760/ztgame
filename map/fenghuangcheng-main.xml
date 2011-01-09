@@ -428,8 +428,8 @@
 	<npc id="932" name="大胆哥哥" width="1" height="1" x="432" y="460" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="920" name="幸运之门使者" width="1" height="1" x="411" y="399" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="913" name="迷宫传送者" width="1" height="1" x="416" y="382" num="1" interval="1800" color="0,255,0,0"/>
-	<!--npc id="906" name="善财童子" width="1" height="1" x="341" y="339" num="1" interval="1800" color="0,255,0,0"/-->
-	<!--npc id="905" name="天工神匠" width="1" height="1" x="375" y="327" num="1" interval="1800" color="0,255,0,0"/-->
+	<npc id="906" name="善财童子" width="1" height="1" x="341" y="339" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="905" name="天工神匠" width="1" height="1" x="375" y="327" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="902" name="孔圣人" width="1" height="1" x="426" y="387" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5108" name="流浪者" width="1" height="1" x="65" y="327" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="855" name="姜小鱼" width="1" height="1" x="440" y="472" num="1" interval="1800" color="0,255,0,0"/>
@@ -634,7 +634,7 @@
 	<npc id="216" name="武器锻造师司徒" width="1" height="1" x="388" y="342" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="218" name="首饰锻造师完颜" width="1" height="1" x="381" y="335" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="361" name="高级钱庄老板" width="1" height="1" x="332" y="349" num="1" interval="1800" color="0,255,0,0"/>
-	<!--npc id="99" name="高级杂货" width="1" height="1" x="323" y="357" num="1" interval="1800" color="0,255,0,0"/-->
+	<npc id="99" name="高级杂货" width="1" height="1" x="323" y="357" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="146" name="天机老人" width="1" height="1" x="372" y="325" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="209" name="钱庄老板" width="1" height="1" x="336" y="344" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="1" name="保险箱" width="1" height="1" x="339" y="341" num="1" interval="1800" color="0,255,0,0"/>

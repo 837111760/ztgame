@@ -148,7 +148,7 @@
 	</ScenesServer>
 	<GatewayServer>
 		<!-- 国家排序方式 0:不排序 , 1:在线人数排序 , 2:注册人数排序 -->
-		<countryorder>1</countryorder>
+		<countryorder>2</countryorder>
 		<!-- Specify the log filename. -->
 		<logfilename>/home/ztgame/log/gatewayserver.log</logfilename>
 		<!-- 是否启用角色名称唯一性验证服务器来保证角色名称的唯一性 -->
