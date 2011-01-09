@@ -3815,8 +3815,7 @@ this:AddDialog("MainDialog")         </menu>
 	<npc name="天姑" id="5107">
 		<menu>function MainDialog()
 if( IsHasTask() == false) then
-this:AddTalk("160级你就可以转生，但160级后，你可以为转生之后积攒最高250亿的经验值，这些经验值将帮您在转生之后迅速提升等级。\n想要转生，你需要清除自己除好友之外的所有社会关系，包括夫妻、师门、家族、仇人等，辞去一切国家职务，功勋值清为0，清除所有任务，并提取完替身宝宝上的经验。\n做好这些后，卸下身上佩戴的所有装备，并保证背包中至少有一个空闲格子，就可以点击“开始转世重生”了。\n转世重生后你将被传送到本国清源村。")
-this:AddRenascenceDlg("开始转世重生(0)")
+this:AddTalk("无转160级。")
 end                                                                                           
 TaskDialog()
 end
