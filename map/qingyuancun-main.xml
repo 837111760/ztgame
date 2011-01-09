@@ -181,7 +181,7 @@
 	<npc id="931" name="不怕妹妹" width="1" height="1" x="130" y="97" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="932" name="大胆哥哥" width="1" height="1" x="165" y="217" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="904" name="小马哥" width="1" height="1" x="117" y="84" num="1" interval="1800" color="0,255,0,0"/>
-	<!--npc id="906" name="善财童子" width="1" height="1" x="176" y="129" num="1" interval="1800" color="0,255,0,0"/-->
+	<npc id="906" name="善财童子" width="1" height="1" x="176" y="129" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="887" name="福利姐姐" width="1" height="1" x="135" y="82" num="1" interval="3600" color="0,255,0,0"/>
 	<npc id="886" name="小强" width="1" height="1" x="122" y="93" num="1" interval="3600" color="0,255,0,0"/>
 	<npc id="166" name="居民" width="9" height="12" x="119" y="325" num="1" interval="3600" color="0,255,0,0"/>

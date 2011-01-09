@@ -858,7 +858,7 @@
 	<npc id="932" name="´óµ¨¸ç¸ç" width="1" height="1" x="536" y="736" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="902" name="¿×Ê¥ÈË" width="1" height="1" x="831" y="418" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="867" name="ÍÐÔË¹Ù" width="1" height="1" x="848" y="548" num="1" interval="3600" color="0,255,0,0"/>
-	<!--npc id="864" name="¸ÄÔì×ÚÊ¦" width="1" height="1" x="885" y="446" num="1" interval="3600" color="0,255,0,0"/-->
+	<npc id="864" name="¸ÄÔì×ÚÊ¦" width="1" height="1" x="885" y="446" num="1" interval="3600" color="0,255,0,0"/>
 	<npc id="860" name="ÁúïÚÍ·" width="1" height="1" x="795" y="488" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="858" name="¾º¼¼µº´«ËÍÕß" width="1" height="1" x="816" y="416" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="856" name="ºùÌú»¨" width="1" height="1" x="816" y="431" num="1" interval="1800" color="0,255,0,0"/>
@@ -963,10 +963,10 @@
 	<npc id="825" name="»·Ê½ÈÎÎñÊ¹Õß£¨11£°¼¶£©" width="1" height="1" x="851" y="514" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="497" name="»·Ê½ÈÎÎñÊ¹Õß£¨60¼¶£©" width="1" height="1" x="842" y="525" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="56065" name="ÑÃÒÛ" width="1" height="1" x="392" y="197" num="1" interval="1800" color="0,255,0,0"/>
-	<!--npc id="211" name="¶ÍÔì" width="1" height="1" x="891" y="454" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="211" name="¶ÍÔì" width="1" height="1" x="891" y="454" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="213" name="¶ÍÔì" width="1" height="1" x="896" y="460" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="214" name="¶ÍÔì" width="1" height="1" x="894" y="458" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="217" name="¶ÍÔì" width="1" height="1" x="893" y="456" num="1" interval="1800" color="0,255,0,0"/-->
+	<npc id="217" name="¶ÍÔì" width="1" height="1" x="893" y="456" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="803" name="ÔÓ»õµê»ï¼Æ" width="1" height="1" x="858" y="441" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="805" name="ÎäÆ÷µê»ï¼Æ" width="1" height="1" x="867" y="451" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="806" name="·À¾ßµê»ï¼Æ" width="1" height="1" x="870" y="453" num="1" interval="1800" color="0,255,0,0"/>
@@ -1020,8 +1020,8 @@
 	<npc id="915" name="¹úÕ½·ÀÊØÕß" width="1" height="1" x="590" y="402" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="277" name="Íõ³ÇÊØÎÀ" width="3" height="2" x="877" y="498" num="1" interval="2" color="0,255,0,0"/>
 	<npc id="278" name="Íõ³ÇÊØÎÀ(Ä§)" width="3" height="3" x="886" y="495" num="1" interval="2" color="0,255,0,0"/>
-	<!--npc id="906" name="ÉÆ²ÆÍ¯×Ó" width="1" height="1" x="888" y="474" num="1" interval="1800" color="0,255,0,0"/-->
-	<!--npc id="905" name="Ìì¹¤Éñ½³" width="1" height="1" x="899" y="462" num="1" interval="1800" color="0,255,0,0"/-->
+	<npc id="906" name="ÉÆ²ÆÍ¯×Ó" width="1" height="1" x="888" y="474" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="905" name="Ìì¹¤Éñ½³" width="1" height="1" x="899" y="462" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="907" name="Ìì¹¤ÇÉ½³" width="1" height="1" x="901" y="464" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="900" name="Õ½³¡" width="1" height="1" x="818" y="415" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="903" name="¹úÔË¹Ù" width="1" height="1" x="836" y="529" num="1" interval="1200" color="0,255,0,0"/>
@@ -1034,54 +1034,13 @@
 	<npc id="890" name="»·Ê½ÈÎÎñÊ¹Õß(140¼¶)" width="1" height="1" x="865" y="489" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="891" name="»·Ê½ÈÎÎñÊ¹Õß(150¼¶)" width="1" height="1" x="869" y="485" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="865" name="Õù°ÔÈüÁªÏµÔ±" width="1" height="1" x="824" y="424" num="1" interval="3600"/>
-	<npc id="16641" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
+	<npc id="16641" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="200" interval="5" color="0,255,0,0"/>
 	<npc id="16641" name="ÏÚ±ý¹Ö¹Ö" width="20" height="20" x="840" y="460" num="50" interval="5" color="0,255,0,0"/>
 	<npc id="16742" name="¼ªÏéÈý±¦" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
 	<npc id="887" name="¸£Àû½ã½ã" width="1" height="1" x="880" y="480" num="1" interval="3600" color="0,255,0,0"/>
 	<npc id="5107" name="Ìì¹Ã" width="1" height="1" x="885" y="485" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5014" name="ÅÐ¹úÕß" width="1" height="1" x="890" y="490" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="5078" name="¸ÄÔì×ÚÊ¦(ÖÐÁ¢)" width="1" height="1" x="896" y="460" num="1" interval="3600" color="0,255,0,0"/>
-	<npc id="5019" name="¸ß¼¶¶ÍÔìÊ¦(ÖÐÁ¢)" width="1" height="1" x="899" y="462" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="16690" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16691" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16692" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16693" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16694" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16695" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16696" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16697" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16698" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16699" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16700" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16701" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16702" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16703" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16704" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16705" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16706" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16707" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16708" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16709" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16710" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16711" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16721" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16722" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16723" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16724" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16725" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16726" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16727" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16728" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16729" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16730" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16731" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16732" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16733" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16734" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16735" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16736" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16737" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
-	<npc id="16738" name="ÏÚ±ý¹Ö¹Ö" width="50" height="50" x="820" y="470" num="5" interval="5" color="0,255,0,0"/>
+	
 	<septnpc id="112"/>
 	<septnpc id="113"/>
 	<septnpc id="116"/>
