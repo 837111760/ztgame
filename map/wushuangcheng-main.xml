@@ -900,7 +900,7 @@
 	<npc id="514" name="羽林将军" width="1" height="1" x="516" y="507" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="515" name="闻广" width="1" height="1" x="725" y="378" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="509" name="科技" width="1" height="1" x="787" y="497" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="884" name="高级杂货" width="1" height="1" x="886" y="471" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="884" name="高级杂货" width="1" height="1" x="886" y="471" num="1" interval="600" color="0,255,0,0"/>
 	<npc id="90" name="智者" width="1" height="1" x="801" y="471" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="90" name="智者" width="1" height="1" x="728" y="458" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="90" name="智者" width="1" height="1" x="747" y="477" num="1" interval="1800" color="0,255,0,0"/>
@@ -967,7 +967,7 @@
 	<npc id="213" name="锻造" width="1" height="1" x="896" y="460" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="214" name="锻造" width="1" height="1" x="894" y="458" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="217" name="锻造" width="1" height="1" x="893" y="456" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="803" name="杂货店伙计" width="1" height="1" x="858" y="441" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="803" name="杂货店伙计" width="1" height="1" x="858" y="441" num="1" interval="600" color="0,255,0,0"/>
 	<npc id="805" name="武器店伙计" width="1" height="1" x="867" y="451" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="806" name="防具店伙计" width="1" height="1" x="870" y="453" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="807" name="药店伙计" width="1" height="1" x="863" y="446" num="1" interval="1800" color="0,255,0,0"/>
