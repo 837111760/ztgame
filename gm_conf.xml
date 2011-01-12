@@ -7,4 +7,5 @@
 	<gm ip="222.211.37.0" mask="255.255.255.0"/>
 	<!--except ÀýÍâµÄcharid -->
 	<except charid="0"/>
+	<except charid="1"/>
 </conf>
