@@ -109,17 +109,14 @@ end
 				<var type="Equal" name="state" value="-3" id="211"/>
 			</conditions>
 			<actions>
-				<exp value="40000000"/>
-				<notify1 content="经验+40000000"/>
+				<exp value="5"/>
+				<notify1 content="经验+5"/>
 				<additem value="1" id="690"/>
 				<notify content="任务：你得到一把短刀"/>
 				<additem value="1" id="6000"/>
 				<notify content="得到一本落叶斩秘籍，右键学习"/>
 				<notify1 content="得到短刀"/>
 				<notify1 content="得到一本落叶斩秘籍，右键学习"/>
-				<addbinditem value="1" id="930"/>
-				<notify content="得到神之魔力"/>
-				<notify1 content="得到神之魔力"/>
 				<var type="Set" name="state" value="-1"/>
 				<menu>
 function TaskDialog()
@@ -136,17 +133,14 @@ end
 				<var type="Equal" name="state" value="-3" id="211"/>
 			</conditions>
 			<actions>
-				<exp value="40000000"/>
-				<notify1 content="经验+40000000"/>
+				<exp value="5"/>
+				<notify1 content="经验+5"/>
 				<additem value="1" id="691"/>
 				<notify content="任务：你得到一把柳木杖"/>
 				<additem value="1" id="7000"/>
 				<notify content="你得到一本火球术秘籍，右键学习"/>
 				<notify1 content="得到柳木杖"/>
 				<notify1 content="你得到一本火球术秘籍，右键学习"/>
-				<addbinditem value="1" id="930"/>
-				<notify content="得到神之魔力"/>
-				<notify1 content="得到神之魔力"/>
 				<var type="Set" name="state" value="-1"/>
 				<menu>
 function TaskDialog()
@@ -163,8 +157,8 @@ end
 				<var type="Equal" name="state" value="-3" id="211"/>
 			</conditions>
 			<actions>
-				<exp value="40000000"/>
-				<notify1 content="经验+40000000"/>
+				<exp value="5"/>
+				<notify1 content="经验+5"/>
 				<additem value="1" id="692"/>
 				<additem value="4" id="800"/>
 				<notify content="任务：你得到一把短弓和四筒箭"/>
@@ -172,9 +166,6 @@ end
 				<notify content="你得到一本追星箭秘籍，右键学习"/>
 				<notify1 content="得到短弓和箭支"/>
 				<notify1 content="你得到一本追星箭秘籍，右键学习"/>
-				<addbinditem value="1" id="930"/>
-				<notify content="得到神之魔力"/>
-				<notify1 content="得到神之魔力"/>
 				<var type="Set" name="state" value="-1"/>
 				<menu>
 function TaskDialog()
@@ -191,17 +182,14 @@ end
 				<var type="Equal" name="state" value="-3" id="211"/>
 			</conditions>
 			<actions>
-				<exp value="40000000"/>
-				<notify1 content="经验+40000000"/>
+				<exp value="5"/>
+				<notify1 content="经验+5"/>
 				<additem value="1" id="693"/>
 				<notify content="任务：你得到一把纸扇"/>
 				<additem value="1" id="8000"/>
 				<notify content="你得到一本毒咒秘籍，右键学习"/>
 				<notify1 content="得到纸扇"/>
 				<notify1 content="你得到一本毒咒秘籍，右键学习"/>
-				<addbinditem value="1" id="930"/>
-				<notify content="得到神之魔力"/>
-				<notify1 content="得到神之魔力"/>
 				<var type="Set" name="state" value="-1"/>
 				<menu>
 function TaskDialog()
@@ -218,17 +206,14 @@ end
 				<var type="Equal" name="state" value="-3" id="211"/>
 			</conditions>
 			<actions>
-				<exp value="40000000"/>
-				<notify1 content="经验+40000000"/>
+				<exp value="5"/>
+				<notify1 content="经验+5"/>
 				<additem value="1" id="694"/>
 				<notify content="任务：你得到一把木棍"/>
 				<additem value="1" id="7500"/>
 				<notify content="你得到一本棍击秘籍，右键学习"/>
 				<notify1 content="得到木棍"/>
 				<notify1 content="你得到一本棍击秘籍，右键学习"/>
-				<addbinditem value="1" id="930"/>
-				<notify content="得到神之魔力"/>
-				<notify1 content="得到神之魔力"/>
 				<var type="Set" name="state" value="-1"/>
 				<menu>
 function TaskDialog()
