@@ -12,6 +12,15 @@
 				<gold type="Add" value="50000"/>
 			</actions>
 		</embranchment>
+		<embranchment id="3">
+			<conditions>
+				<level type="Great" value="150"/>
+				<level type="Less" value="201"/>
+			</conditions>
+			<actions>
+				<maxhonor type="Add" value="500000"/>
+			</actions>
+		</embranchment>
 		<embranchment id="2">
 			<conditions>
 				<level type="Great" value="1"/>
