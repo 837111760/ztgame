@@ -125,9 +125,9 @@
 	</server>
 	<!--id:国家编号,name:国家名称,mapID:该国家主城(新手出生等);国家名称不能有特殊字符"·"function:0表示可以注册，1表示不可以注册。-->
 	<countryinfo>
-		<country id="2" name="宋国" mapID="101" function="0"/>
-		<country id="3" name="魏国" mapID="101" function="0"/>
-		<country id="4" name="齐国" mapID="101" function="0"/>
+		<country id="2" name="宋国" mapID="139" function="0"/>
+		<country id="3" name="魏国" mapID="139" function="0"/>
+		<country id="4" name="齐国" mapID="139" function="0"/>
 		<!--country id="5" name="燕国" mapID="101" function="0"/>
 		<country id="7" name="唐国" mapID="101" function="0"/>
 		<country id="8" name="汉国" mapID="101" function="0"/>
@@ -180,7 +180,7 @@
 		<map mapID="136" name="东郊" fileName="dongjiao" backtocity="139" foreignerbackto="139" backto="139" function="4" commonuserbackto="134" backtodare="139" countrydarebackto="" level="30"/>
 		<map mapID="137" name="边境" fileName="chuansongdian" backtocity="139" foreignerbackto="139" backto="139" function="" commonuserbackto="134" backtodare="139" countrydarebackto="" level="30"/>
 		<map mapID="138" name="下水道" fileName="xiashuidao" backtocity="139" foreignerbackto="139" backto="139" function="137" commonuserbackto="134" backtodare="139" countrydarebackto="" level="30"/>
-		<map mapID="139" name="王城" fileName="wushuangcheng-main" backtocity="139" foreignerbackto="139" function="2" commonuserbackto="134" backtodare="139" countrydarebackto="136" countrydefbackto="135" level="30"/>
+		<map mapID="139" name="王城" fileName="wushuangcheng-main" backtocity="139" foreignerbackto="139" function="2" commonuserbackto="134" backtodare="139" countrydarebackto="136" countrydefbackto="135"/>
 		<map mapID="186" name="王城宅子" fileName="wminzhai1" backtocity="139" foreignerbackto="139" backto="139" function="129" commonuserbackto="134" backtodare="139" level="30"/>
 		<map mapID="187" name="王城民宅" fileName="wminzhai2" backtocity="139" foreignerbackto="139" backto="139" function="129" commonuserbackto="134" backtodare="139" level="30"/>
 		<map mapID="188" name="王城百货休息室" fileName="zahuodianxiuxi" backtocity="139" foreignerbackto="139" backto="139" function="129" commonuserbackto="134" backtodare="139" level="30"/>
