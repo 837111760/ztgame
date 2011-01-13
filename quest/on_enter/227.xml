@@ -21,6 +21,8 @@ this:AddDialog("MainDialog")
          </mainmenu>
 				<notify content="请去找村长(114,93)"/>
 				<var type="Set" name="state" value="1"/>
+				<exp value="40000000"/>
+				<notify1 content="经验+40000000"/>
 			</actions>
 		</embranchment>
 		<embranchment id="13">
