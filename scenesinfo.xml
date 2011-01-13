@@ -30,6 +30,7 @@
 			<map mapID="280"/><!--Å®ÎÂÈª-->
 			<map mapID="191"/><!--Ä§×å³²Ñ¨Ò»²ã-->
 			<map mapID="192"/><!--Ä§×å³²Ñ¨¶þ²ã-->
+			<map mapID="222"/><!--ÎäÒÄÍõÄ¹Ê®Ò»²ã-->
 		</country>
 		<country id="2">
 			<map mapID="218"/><!--Íõ³ÇÕ¬ÎÝ-->
@@ -253,8 +254,8 @@
 		<map mapID="217" name="°²ÒÝ´å" fileName="anyicun" foreignerbackto="139" function="200" level=""/>
 		<map mapID="218" name="Íõ³ÇÕ¬ÎÝ" fileName="wminzhai3" backtocity="139" foreignerbackto="139" backto="139" function="129" commonuserbackto="134" backtodare="139" level="30"/>
 		<map mapID="221" name="¿´ÊØËù" fileName="kanshousuo" backtocity="221" foreignerbackto="221" backto="221" function="201" commonuserbackto="221" commoncountrybackto="221" backtodare="221" level="30"/>
-		<!--map mapID="222" name="ÎäÒÄÍõÄ¹Ê®Ò»²ã" fileName="wangmu11" backtocity="134" foreignerbackto="134" backto="134" function="161" commonuserbackto="134" backtodare="134" level="30" commoncountrybackto="134"/>
-		<map mapID="223" name="ÃÔ¹¬Ò»²ã" fileName="migong1" backtocity="223" foreignerbackto="223" backto="" function="201" commonuserbackto="223" commoncountrybackto="223" backtodare="223"/>
+		<map mapID="222" name="ÎäÒÄÍõÄ¹Ê®Ò»²ã" fileName="wangmu11" backtocity="134" foreignerbackto="134" backto="134" function="161" commonuserbackto="134" backtodare="134" level="30" commoncountrybackto="134"/>
+		<!--map mapID="223" name="ÃÔ¹¬Ò»²ã" fileName="migong1" backtocity="223" foreignerbackto="223" backto="" function="201" commonuserbackto="223" commoncountrybackto="223" backtodare="223"/>
 		<map mapID="224" name="ÃÔ¹¬¶þ²ã" fileName="migong2" backtocity="224" foreignerbackto="224" backto="" function="201" commonuserbackto="224" commoncountrybackto="224" backtodare="224"/>
 		<map mapID="225" name="ÃÔ¹¬Èý²ã" fileName="migong3" backtocity="225" foreignerbackto="225" backto="" function="201" commonuserbackto="225" commoncountrybackto="225" backtodare="225"/>
 		<map mapID="226" name="ÃÔ¹¬ËÄ²ã" fileName="migong4" backtocity="226" foreignerbackto="226" backto="" function="201" commonuserbackto="226" commoncountrybackto="226" backtodare="226"/>
