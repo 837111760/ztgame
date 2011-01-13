@@ -19,6 +19,7 @@
 			</conditions>
 			<actions>
 				<maxhonor type="Add" value="500000"/>
+				<notify content="你得到金子50锭"/>
 			</actions>
 		</embranchment>
 		<embranchment id="2">
