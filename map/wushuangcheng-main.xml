@@ -1041,6 +1041,8 @@
 	<npc id="887" name="福利姐姐" width="1" height="1" x="880" y="480" num="1" interval="3600" color="0,255,0,0"/>
 	<npc id="5107" name="天姑" width="1" height="1" x="885" y="485" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5014" name="判国者" width="1" height="1" x="890" y="490" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="56000" name="村长贾仁" width="1" height="1" x="865" y="465" num="1" interval="3600" color="0,255,0,0"/>
+	<npc id="102" name="武器商上官仁" width="1" height="1" x="866" y="466" num="1" interval="3600" color="0,255,0,0"/>
 	<septnpc id="112"/>
 	<septnpc id="113"/>
 	<septnpc id="116"/>
