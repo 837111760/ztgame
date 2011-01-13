@@ -9179,16 +9179,11 @@ end
 		<item id="1720" action="1"/>
 		<item id="1721" action="1"/>
 		<item id="1722" action="1"/>
-		<item id="506" action="3" itemlevel="1"/>
-		<item id="516" action="3" itemlevel="1"/>
-		<item id="526" action="3" itemlevel="1"/>
-		<item id="536" action="3" itemlevel="1"/>
-		<item id="546" action="3" itemlevel="1"/>
-		<item id="506" action="3" itemlevel="3"/>
-		<item id="516" action="3" itemlevel="3"/>
-		<item id="526" action="3" itemlevel="3"/>
-		<item id="536" action="3" itemlevel="3"/>
-		<item id="546" action="3" itemlevel="3"/>
+		<item id="506" action="3"/>
+		<item id="516" action="3"/>
+		<item id="526" action="3"/>
+		<item id="536" action="3"/>
+		<item id="546" action="3"/>
 	</npc>
 	<npc name="Ò©µêÕÆ¹ñ" id="807">
 		<menu>
