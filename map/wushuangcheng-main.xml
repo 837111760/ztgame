@@ -855,7 +855,7 @@
 	<fixedrush id="10" startTime="18:45" endTime="20:45" delay="3602"/>
 	<param leaderNpcID="227"/>
 	<!-- Npc定义，x和y分别指定Npc区域左上角的坐标，width和height分别指定Npc区域宽和高 -->
-	<npc id="931" name="不怕妹妹" width="1" height="1" x="833" y="490" num="1" interval="600" color="0,255,0,0"/>
+	<npc id="931" name="不怕妹妹" width="1" height="1" x="875" y="475" num="1" interval="600" color="0,255,0,0"/>
 	<npc id="932" name="大胆哥哥" width="1" height="1" x="536" y="736" num="1" interval="600" color="0,255,0,0"/>
 	<npc id="902" name="孔圣人" width="1" height="1" x="831" y="418" num="1" interval="600" color="0,255,0,0"/>
 	<npc id="867" name="托运官" width="1" height="1" x="848" y="548" num="1" interval="600" color="0,255,0,0"/>
