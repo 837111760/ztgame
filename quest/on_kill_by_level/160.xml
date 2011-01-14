@@ -135,9 +135,9 @@
 	<quest id="50003" new="1">
 		<embranchment id="11">
 			<conditions>
+				<selfcountry value="0"/>
 				<var type="Equal" name="state" value="1"/>
-				<var type="Less" name="level" value="96"/>
-				<var type="Less" name="kill" value="50"/>
+				<var type="Less" name="kill" value="1"/>
 			</conditions>
 			<actions>
 				<var type="Add" name="kill" value="1"/>
@@ -146,13 +146,13 @@
 		</embranchment>
 		<embranchment id="12">
 			<conditions>
+				<selfcountry value="0"/>
 				<var type="Equal" name="state" value="1"/>
-				<var type="Less" name="level" value="96"/>
-				<var type="Great" name="kill" value="49"/>
+				<var type="Great" name="kill" value="0"/>
 			</conditions>
 			<actions>
 				<refresh name="kill"/>
-				<notify content="恭喜你完成了今天的家族任务，请回家族任务发布员处交任务"/>
+				<notify content="恭喜你完成了今天的金子任务，请回王城交任务"/>
 				<var type="Set" name="state" value="-3" id="50003"/>
 			</actions>
 		</embranchment>

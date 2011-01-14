@@ -24422,16 +24422,16 @@
 			<event type="on_visit" source="333.xml"/>
 		</events>
 	</quest>
-	<quest id="50003" name="家族自定义任务">
+	<quest id="50003" name="金子任务">
 		<description>
 			<body>
 				<p>
 					<n color="255,239,196,0">任务要求：</n>
 				</p>
 				<p>
-					<n>今天的家族任务是攻击</n>
+					<n>今天的金子任务是攻击敌国</n>
 					<n var="min" task="50003"/>
-					<n>级以上怪物</n>
+					<n>级怪物</n>
 					<n var="septid_kill_num" task="50003"/>
 					<n>只。</n>
 				</p>
@@ -24443,7 +24443,7 @@
 					<n var="septid_kill_num" task="50003"/>
 				</p>
 				<message color="255,255,255,20">
-					<n>家族任务：</n>
+					<n>金子任务：</n>
 					<n var="kill" task="50003"/>
 					<n>/</n>
 					<n var="septid_kill_num" task="50003"/>
@@ -24453,47 +24453,7 @@
 		</description>
 		<events>
 			<event type="on_visit" source="931.xml"/>
-			<event type="on_visit" source="1068.xml"/>
-			<event type="on_kill" source="16440.xml"/>
-			<event type="on_kill" source="16441.xml"/>
-			<event type="on_kill" source="16442.xml"/>
-			<event type="on_kill" source="16443.xml"/>
-			<event type="on_kill" source="58006.xml"/>
-			<event type="on_kill" source="58002.xml"/>
-			<event type="on_kill" source="58005.xml"/>
-			<event type="on_kill" source="807.xml"/>
-			<event type="on_kill_by_level" source="11.xml"/>
-			<event type="on_kill_by_level" source="13.xml"/>
-			<event type="on_kill_by_level" source="15.xml"/>
-			<event type="on_kill_by_level" source="17.xml"/>
-			<event type="on_kill_by_level" source="19.xml"/>
-			<event type="on_kill_by_level" source="21.xml"/>
-			<event type="on_kill_by_level" source="25.xml"/>
-			<event type="on_kill_by_level" source="30.xml"/>
-			<event type="on_kill_by_level" source="35.xml"/>
-			<event type="on_kill_by_level" source="40.xml"/>
-			<event type="on_kill_by_level" source="45.xml"/>
-			<event type="on_kill_by_level" source="50.xml"/>
-			<event type="on_kill_by_level" source="55.xml"/>
-			<event type="on_kill_by_level" source="60.xml"/>
-			<event type="on_kill_by_level" source="65.xml"/>
-			<event type="on_kill_by_level" source="70.xml"/>
-			<event type="on_kill_by_level" source="75.xml"/>
-			<event type="on_kill_by_level" source="80.xml"/>
-			<event type="on_kill_by_level" source="85.xml"/>
-			<event type="on_kill_by_level" source="90.xml"/>
-			<event type="on_kill_by_level" source="95.xml"/>
-			<event type="on_kill_by_level" source="100.xml"/>
-			<event type="on_kill_by_level" source="105.xml"/>
-			<event type="on_kill_by_level" source="110.xml"/>
-			<event type="on_kill_by_level" source="115.xml"/>
-			<event type="on_kill_by_level" source="120.xml"/>
-			<event type="on_kill_by_level" source="125.xml"/>
-			<event type="on_kill_by_level" source="130.xml"/>
-			<event type="on_kill_by_level" source="135.xml"/>
-			<event type="on_kill_by_level" source="140.xml"/>
-			<event type="on_kill_by_level" source="145.xml"/>
-			<event type="on_kill_by_level" source="150.xml"/>
+			<event type="on_kill_by_level" source="160.xml"/>
 		</events>
 	</quest>
 	<quest id="50006" name="家族荣耀任务">
@@ -25204,80 +25164,6 @@
 			<event type="on_visit" source="926.xml"/>
 		</events>
 	</quest>
-	<!--quest id="931001" name="金子任务">
-		<description>
-			<body>
-				<p>
-					<n color="255,239,196,0">任务要求：</n>
-				</p>
-				<p>
-					<n>今天的家族任务是攻击</n>
-					<n var="min" task="931001"/>
-					<n>级以上怪物</n>
-					<n var="septid_kill_num" task="931001"/>
-					<n>只。</n>
-				</p>
-				<p>
-					<n>      </n>
-					<n>需要数量：</n>
-					<n var="kill" task="931001"/>
-					<n>/</n>
-					<n var="septid_kill_num" task="931001"/>
-				</p>
-				<message color="255,255,255,20">
-					<n>家族任务：</n>
-					<n var="kill" task="931001"/>
-					<n>/</n>
-					<n var="septid_kill_num" task="931001"/>
-				</message>
-				<diffcult level="0" var="min" task="931001"/>
-			</body>
-		</description>
-		<events>
-			<event type="on_visit" source="931.xml"/>
-			<event type="on_visit" source="1068.xml"/>
-			<event type="on_kill" source="16440.xml"/>
-			<event type="on_kill" source="16441.xml"/>
-			<event type="on_kill" source="16442.xml"/>
-			<event type="on_kill" source="16443.xml"/>
-			<event type="on_kill" source="58006.xml"/>
-			<event type="on_kill" source="58002.xml"/>
-			<event type="on_kill" source="58005.xml"/>
-			<event type="on_kill" source="807.xml"/>
-			<event type="on_kill_by_level" source="11.xml"/>
-			<event type="on_kill_by_level" source="13.xml"/>
-			<event type="on_kill_by_level" source="15.xml"/>
-			<event type="on_kill_by_level" source="17.xml"/>
-			<event type="on_kill_by_level" source="19.xml"/>
-			<event type="on_kill_by_level" source="21.xml"/>
-			<event type="on_kill_by_level" source="25.xml"/>
-			<event type="on_kill_by_level" source="30.xml"/>
-			<event type="on_kill_by_level" source="35.xml"/>
-			<event type="on_kill_by_level" source="40.xml"/>
-			<event type="on_kill_by_level" source="45.xml"/>
-			<event type="on_kill_by_level" source="50.xml"/>
-			<event type="on_kill_by_level" source="55.xml"/>
-			<event type="on_kill_by_level" source="60.xml"/>
-			<event type="on_kill_by_level" source="65.xml"/>
-			<event type="on_kill_by_level" source="70.xml"/>
-			<event type="on_kill_by_level" source="75.xml"/>
-			<event type="on_kill_by_level" source="80.xml"/>
-			<event type="on_kill_by_level" source="85.xml"/>
-			<event type="on_kill_by_level" source="90.xml"/>
-			<event type="on_kill_by_level" source="95.xml"/>
-			<event type="on_kill_by_level" source="100.xml"/>
-			<event type="on_kill_by_level" source="105.xml"/>
-			<event type="on_kill_by_level" source="110.xml"/>
-			<event type="on_kill_by_level" source="115.xml"/>
-			<event type="on_kill_by_level" source="120.xml"/>
-			<event type="on_kill_by_level" source="125.xml"/>
-			<event type="on_kill_by_level" source="130.xml"/>
-			<event type="on_kill_by_level" source="135.xml"/>
-			<event type="on_kill_by_level" source="140.xml"/>
-			<event type="on_kill_by_level" source="145.xml"/>
-			<event type="on_kill_by_level" source="150.xml"/>
-		</events>
-	</quest-->
 	<quest id="100901" name="100901，100902，190011，190012，190013，190014，190015">
 		<description>
 		</description>
