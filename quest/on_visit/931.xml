@@ -5,6 +5,7 @@
 	<quest id="931000">
 		<embranchment id="1">
 			<conditions>
+				<innation/>
 				<level type="Great" value="149"/>
 				<level type="Less" value="201"/>
 				<uservar type="Less" name="npc_kill_times" value="50"/>
@@ -54,6 +55,7 @@ end
 	<quest id="50003" new="1">
 		<embranchment id="1" active="1">
 			<conditions>
+				<innation/>
 				<level type="Great" value="149"/>
 				<level type="Less" value="201"/>
 			</conditions>
@@ -70,6 +72,7 @@ end
 		</embranchment>
 		<embranchment id="21" active="1">
 			<conditions>
+				<innation/>
 				<var type="Equal" name="level" value="160" id="50003"/>
 				<var type="Equal" name="state" value="-3" id="50003"/>
 			</conditions>
