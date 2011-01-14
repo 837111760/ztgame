@@ -333,13 +333,15 @@ end
 this:AddDialog("MainDialog")</menu>
 	</npc-->
 	<npc name="不怕妹妹" id="931">
-		<menu>function MainDialog()
+		<menu>
+function MainDialog()
 if( IsHasTask() == false) then
-this:AddTalk("你要去暗杀外国王城皇宫密室太子吗？")
-end                                                                                                                                                                       
+this:AddTalk("每天50次金子任务。")
+end
 TaskDialog()
 end
-this:AddDialog("MainDialog")</menu>
+this:AddDialog("MainDialog")
+		</menu>
 	</npc>
 	<npc name="大胆哥哥" id="932">
 		<menu>function MainDialog()

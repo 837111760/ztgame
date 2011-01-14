@@ -24452,7 +24452,7 @@
 			</body>
 		</description>
 		<events>
-			<event type="on_visit" source="334.xml"/>
+			<event type="on_visit" source="931.xml"/>
 			<event type="on_visit" source="1068.xml"/>
 			<event type="on_kill" source="16440.xml"/>
 			<event type="on_kill" source="16441.xml"/>
@@ -25204,7 +25204,7 @@
 			<event type="on_visit" source="926.xml"/>
 		</events>
 	</quest>
-	<quest id="931001" name="金子任务">
+	<!--quest id="931001" name="金子任务">
 		<description>
 			<body>
 				<p>
@@ -25212,25 +25212,25 @@
 				</p>
 				<p>
 					<n>今天的家族任务是攻击</n>
-					<n var="min" task="50003"/>
+					<n var="min" task="931001"/>
 					<n>级以上怪物</n>
-					<n var="septid_kill_num" task="50003"/>
+					<n var="septid_kill_num" task="931001"/>
 					<n>只。</n>
 				</p>
 				<p>
 					<n>      </n>
 					<n>需要数量：</n>
-					<n var="kill" task="50003"/>
+					<n var="kill" task="931001"/>
 					<n>/</n>
-					<n var="septid_kill_num" task="50003"/>
+					<n var="septid_kill_num" task="931001"/>
 				</p>
 				<message color="255,255,255,20">
 					<n>家族任务：</n>
-					<n var="kill" task="50003"/>
+					<n var="kill" task="931001"/>
 					<n>/</n>
-					<n var="septid_kill_num" task="50003"/>
+					<n var="septid_kill_num" task="931001"/>
 				</message>
-				<diffcult level="0" var="min" task="50003"/>
+				<diffcult level="0" var="min" task="931001"/>
 			</body>
 		</description>
 		<events>
@@ -25277,7 +25277,7 @@
 			<event type="on_kill_by_level" source="145.xml"/>
 			<event type="on_kill_by_level" source="150.xml"/>
 		</events>
-	</quest>
+	</quest-->
 	<quest id="100901" name="100901，100902，190011，190012，190013，190014，190015">
 		<description>
 		</description>
