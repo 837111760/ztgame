@@ -137,7 +137,7 @@
 			<conditions>
 				<selfcountry value="0"/>
 				<var type="Equal" name="state" value="1"/>
-				<var type="Less" name="kill" value="1"/>
+				<var type="Less" name="kill" value="100"/>
 			</conditions>
 			<actions>
 				<var type="Add" name="kill" value="1"/>
@@ -148,7 +148,7 @@
 			<conditions>
 				<selfcountry value="0"/>
 				<var type="Equal" name="state" value="1"/>
-				<var type="Great" name="kill" value="0"/>
+				<var type="Great" name="kill" value="99"/>
 			</conditions>
 			<actions>
 				<refresh name="kill"/>
