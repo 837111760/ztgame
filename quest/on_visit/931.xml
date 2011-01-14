@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="GB2312"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by 1 (1) -->
+<event id="931" name="王城-不怕妹妹">
+	<!--new means new quest, default is quest on user-->
+	<quest id="931000">
+		<embranchment id="1">
+			<conditions>
+				<level type="Great" value="30"/>
+				<level type="Less" value="201"/>
+			</conditions>
+			<actions>
+				<menu>
+function TaskDialog()
+this:AddTalk("    金子任务（50次），去敌国杀160级的怪物100只，或者屠杀敌国NPC。")
+this:AddTaskCmdItem("接受敌国杀怪任务{10001}", "v931", 931001, 1)
+this:AddTaskCmdItem("屠杀敌国NPC{10001}", "v931", 931002, 1)
+end
+				</menu>
+			</actions>
+		</embranchment>
+	</quest>
+	
+	<quest id="931001" new="1">
+		<embranchment id="1" active="1">
+			<conditions>
+				<level type="Great" value="30"/>
+				<level type="Less" value="201"/>
+			</conditions>
+			<actions>
+				<notify content="任务：杀敌国160级的怪物100只"/>
+				<uservar type="Add" name="npc_kill_times" value="1"/>
+				<var type="Set" name="state" value="1"/>
+				<var type="Set" name="level" value="160"/>
+				<var type="Set" name="min" value="160"/>
+				<var type="Set" name="septid_kill_num" value="100"/>
+				<refresh name="septid_kill_num"/>
+				<refresh name="min"/>
+			</actions>
+		</embranchment>
+	</quest>
+	
+	<quest id="931002" new="1">
+		<embranchment id="1" active="1">
+			<conditions>
+				<level type="Great" value="30"/>
+				<level type="Less" value="201"/>
+			</conditions>
+			<actions>
+				<notify content="任务：屠杀敌国NPC"/>
+				<uservar type="Add" name="npc_kill_times" value="1"/>
+				<var type="Set" name="state" value="1"/>
+			</actions>
+		</embranchment>
+	</quest>
+</event>

@@ -324,10 +324,19 @@ TaskDialog()
 end
 this:AddDialog("MainDialog")</menu>
 	</npc>
-	<npc name="不怕妹妹" id="931">
+	<!--npc name="不怕妹妹" id="931">
 		<menu>function MainDialog()
 this:AddTalk("活动规则：\n活动地点为：30-50级在清源村，51-100在凤凰城，101以上在王城，在规定时间内使用鞭炮（杂货商处有售）把“澎澎”赶到本城大胆哥哥处将获得丰厚经验奖励（按名次）。\n\n注意：运镖状态不能参加此活动，“澎澎”不能跨地图，所有“澎澎”大家都可以使用鞭炮进行驱赶，但每人只能获得自己的“澎澎”奖励；把他人“澎澎”赶入目的地则该“澎澎”主人获得奖励（出国，不在线除外），任务状态下，上、下线或者跨地图将视为放弃任务。\n\n活动时间详见官网")
 this:NewYearBeast("澎澎GOGOGO!!!(0)")
+TaskDialog()
+end
+this:AddDialog("MainDialog")</menu>
+	</npc-->
+	<npc name="不怕妹妹" id="931">
+		<menu>function MainDialog()
+if( IsHasTask() == false) then
+this:AddTalk("你要去暗杀外国王城皇宫密室太子吗？")
+end                                                                                                                                                                       
 TaskDialog()
 end
 this:AddDialog("MainDialog")</menu>
