@@ -1179,6 +1179,7 @@
 	<npc id="5048" name="风华郡主" width="1" height="1" x="805" y="703" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5046" name="守墓者" width="1" height="1" x="573" y="41" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5050" name="护墓术士" width="1" height="1" x="567" y="50" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="5112" name="王墓传送者" width="1" height="1" x="575" y="45" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="551" name="边境方向" width="1" height="1" x="828" y="966" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="554" name="牧场方向" width="1" height="1" x="42" y="973" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="555" name="倭寇营地方向" width="1" height="1" x="978" y="72" num="1" interval="1800" color="0,255,0,0"/>
