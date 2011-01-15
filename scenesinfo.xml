@@ -26,8 +26,8 @@
 			<map mapID="107"/><!--滨海之岛-->
 			<map mapID="203"/><!--监牢-->
 			<map mapID="278"/><!--世外桃源-->
-			<map mapID="279"/><!--男温泉-->
-			<map mapID="280"/><!--女温泉-->
+			<!--map mapID="279"/--><!--男温泉-->
+			<!--map mapID="280"/--><!--女温泉-->
 			<map mapID="191"/><!--魔族巢穴一层-->
 			<map mapID="192"/><!--魔族巢穴二层-->
 			<map mapID="222"/><!--武夷王墓十一层-->
@@ -308,12 +308,12 @@
 		<map mapID="276" name="高级幸运之门八层" fileName="xingyun008" backtocity="102" foreignerbackto="102" backto="102" function="137" commonuserbackto="102" commoncountrybackto="102" backtodare="102"/>
 		<map mapID="277" name="高级幸运之门九层" fileName="xingyun009" backtocity="102" foreignerbackto="102" backto="102" function="137" commonuserbackto="102" commoncountrybackto="102" backtodare="102"/-->
 		<map mapID="278" name="世外桃源" fileName="shiwai" backtocity="278" foreignerbackto="278" function="1536" commonuserbackto="278" commoncountrybackto="278" backtodare="278"/>
-		<map mapID="279" name="男温泉" fileName="wenquan1" backtocity="278" foreignerbackto="278" backto="278" function="3025" commonuserbackto="278" commoncountrybackto="278" backtodare="278"/>
+		<!--map mapID="279" name="男温泉" fileName="wenquan1" backtocity="278" foreignerbackto="278" backto="278" function="3025" commonuserbackto="278" commoncountrybackto="278" backtodare="278"/>
 		<map mapID="280" name="女温泉" fileName="wenquan2" backtocity="278" foreignerbackto="278" backto="278" function="3025" commonuserbackto="278" commoncountrybackto="278" backtodare="278"/>
 		<map mapID="281" name="公寓一" fileName="gongyu1" backtocity="278" foreignerbackto="278" backto="278" function="3713" commonuserbackto="278" commoncountrybackto="278" backtodare="278"/>
 		<map mapID="282" name="公寓二" fileName="gongyu2" backtocity="278" foreignerbackto="278" backto="278" function="3713" commonuserbackto="278" commoncountrybackto="278" backtodare="278"/>
 		<map mapID="283" name="公寓三" fileName="gongyu3" backtocity="278" foreignerbackto="278" backto="278" function="3713" commonuserbackto="278" commoncountrybackto="278" backtodare="278"/>
 		<map mapID="284" name="公寓四" fileName="gongyu4" backtocity="278" foreignerbackto="278" backto="278" function="3713" commonuserbackto="278" commoncountrybackto="278" backtodare="278"/>
-		<map mapID="311" name="公寓零" fileName="gongyu" backtocity="278" foreignerbackto="278" backto="278" function="3713" commonuserbackto="278" commoncountrybackto="278" backtodare="278"/>
+		<map mapID="311" name="公寓零" fileName="gongyu" backtocity="278" foreignerbackto="278" backto="278" function="3713" commonuserbackto="278" commoncountrybackto="278" backtodare="278"/-->
 	</mapinfo>
 </ScenesInfo>
