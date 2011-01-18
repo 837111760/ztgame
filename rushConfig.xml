@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="GB2312"?>
 <!--怪物攻城参数-->
 <Config>
-	<Rush rushID="9">
+	<!--Rush rushID="9">
 		<timer startTime="20060821 19:45:00" interval="10080" time="0"/>
 		<broadcast time="60" str="怪物攻城还有1小时开始"/>
 		<broadcast time="30" str="怪物攻城还有30分钟开始"/>
@@ -104,7 +104,7 @@
 		<broadcast time="10" str="自行车越野大赛还有10分钟开始，请各位新老玩家做好准备"/>
 		<broadcast time="1" str="自行车越野大赛还有1分钟开始，找自行车赛发令员参加哦"/>
 		<map mapID="101"/>
-	</Rush>
+	</Rush-->
 	<!--Rush rushID="31">
 		<timer startTime="20061001 18:00:00" interval="6000000" time="1"/>
 		<broadcast time="30" str="国庆嫦娥活动活动还有30分钟开始，丰厚经验奖励等你来拿！"/>
