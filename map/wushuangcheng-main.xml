@@ -855,6 +855,7 @@
 	<fixedrush id="10" startTime="18:45" endTime="20:45" delay="3602"/>
 	<param leaderNpcID="227"/>
 	<!-- Npc定义，x和y分别指定Npc区域左上角的坐标，width和height分别指定Npc区域宽和高 -->
+	<!-- num指定这个区域内包含的Npc数量，interval指定Npc死亡重生间隔时间 -->
 	<npc id="931" name="不怕妹妹" width="1" height="1" x="875" y="475" num="1" interval="600" color="0,255,0,0"/>
 	<npc id="932" name="大胆哥哥" width="1" height="1" x="536" y="736" num="1" interval="600" color="0,255,0,0"/>
 	<npc id="902" name="孔圣人" width="1" height="1" x="831" y="418" num="1" interval="600" color="0,255,0,0"/>
@@ -1013,7 +1014,6 @@
 	<npc id="185" name="琵琶女" width="30" height="30" x="825" y="479" num="2" interval="600" color="0,255,0,0"/>
 	<npc id="186" name="杂耍者" width="30" height="30" x="825" y="479" num="2" interval="600" color="0,255,0,0"/>
 	<npc id="98" name="股票" width="1" height="1" x="876" y="456" num="1" interval="600" color="0,255,0,0"/>
-	<!-- num指定这个区域内包含的Npc数量，interval指定Npc死亡重生间隔时间 -->
 	<npc id="5223" name="小金猪" width="1" height="1" x="793" y="493" num="1" interval="600" color="0,255,0,0"/>
 	<npc id="915" name="国战防守者" width="1" height="1" x="582" y="410" num="1" interval="600" color="0,255,0,0"/>
 	<npc id="915" name="国战防守者" width="1" height="1" x="590" y="418" num="1" interval="600" color="0,255,0,0"/>
@@ -1023,8 +1023,8 @@
 	<npc id="278" name="王城守卫(魔)" width="3" height="3" x="886" y="495" num="1" interval="2" color="0,255,0,0"/>
 	<npc id="906" name="善财童子" width="1" height="1" x="888" y="474" num="1" interval="600" color="0,255,0,0"/>
 	<npc id="5019" name="高级锻造师(中立)" width="1" height="1" x="899" y="462" num="1" interval="600" color="0,255,0,0"/>
-	<!--npc id="905" name="天工神匠" width="1" height="1" x="899" y="462" num="1" interval="600" color="0,255,0,0"/>
-	<npc id="907" name="天工巧匠" width="1" height="1" x="901" y="464" num="1" interval="600" color="0,255,0,0"/-->
+	<!--npc id="905" name="天工神匠" width="1" height="1" x="899" y="462" num="1" interval="600" color="0,255,0,0"/-->
+	<!--npc id="907" name="天工巧匠" width="1" height="1" x="901" y="464" num="1" interval="600" color="0,255,0,0"/-->
 	<npc id="900" name="战场" width="1" height="1" x="818" y="415" num="1" interval="600" color="0,255,0,0"/>
 	<npc id="903" name="国运官" width="1" height="1" x="836" y="529" num="1" interval="600" color="0,255,0,0"/>
 	<npc id="895" name="万事通" width="1" height="1" x="821" y="414" num="1" interval="600" color="0,255,0,0"/>
