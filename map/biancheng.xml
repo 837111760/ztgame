@@ -8,204 +8,341 @@
 -->
 	<zonedef width="1" height="1" x="1" y="1" type="1" color="0,0,255,0"/>
 	<waypoint>
-		<point x="385" y="163"/>
-		<point x="385" y="164"/>
-		<point x="385" y="165"/>
-		<point x="385" y="166"/>
-		<point x="385" y="167"/>
-		<point x="385" y="168"/>
-		<point x="385" y="169"/>
-		<point x="385" y="170"/>
-		<point x="385" y="171"/>
-		<point x="385" y="172"/>
-		<point x="385" y="173"/>
-		<point x="385" y="174"/>
-		<point x="385" y="175"/>
-		<point x="385" y="176"/>
-		<point x="385" y="177"/>
-		<point x="384" y="163"/>
-		<point x="384" y="164"/>
-		<point x="384" y="165"/>
-		<point x="384" y="166"/>
-		<point x="384" y="167"/>
-		<point x="384" y="168"/>
-		<point x="384" y="169"/>
-		<point x="384" y="170"/>
-		<point x="384" y="171"/>
-		<point x="384" y="172"/>
-		<point x="384" y="173"/>
-		<point x="384" y="174"/>
-		<point x="384" y="175"/>
-		<point x="384" y="176"/>
-		<point x="384" y="177"/>
-		<point x="383" y="163"/>
-		<point x="383" y="164"/>
-		<point x="383" y="165"/>
-		<point x="383" y="166"/>
-		<point x="383" y="167"/>
-		<point x="383" y="168"/>
-		<point x="383" y="169"/>
-		<point x="383" y="170"/>
-		<point x="383" y="171"/>
-		<point x="383" y="172"/>
-		<point x="383" y="173"/>
-		<point x="383" y="174"/>
-		<point x="383" y="175"/>
-		<point x="383" y="176"/>
-		<point x="383" y="177"/>
-		<point x="383" y="178"/>
-		<point x="383" y="179"/>
-		<dest name="huangcheng" country="6" x="842" y="934"/>
-		<dest name="huangcheng" country="6" x="842" y="935"/>
-		<dest name="huangcheng" country="6" x="842" y="936"/>
-		<dest name="huangcheng" country="6" x="842" y="937"/>
-		<dest name="huangcheng" country="6" x="842" y="938"/>
-		<dest name="huangcheng" country="6" x="842" y="939"/>
-		<dest name="huangcheng" country="6" x="842" y="940"/>
-		<dest name="huangcheng" country="6" x="842" y="941"/>
-		<dest name="huangcheng" country="6" x="842" y="942"/>
-		<dest name="huangcheng" country="6" x="842" y="943"/>
-		<dest name="huangcheng" country="6" x="842" y="944"/>
-		<dest name="huangcheng" country="6" x="842" y="945"/>
-		<dest name="huangcheng" country="6" x="842" y="946"/>
-		<dest name="huangcheng" country="6" x="842" y="947"/>
-		<dest name="huangcheng" country="6" x="842" y="948"/>
-		<dest name="huangcheng" country="6" x="842" y="949"/>
-		<dest name="huangcheng" country="6" x="842" y="950"/>
-		<dest name="huangcheng" country="6" x="842" y="951"/>
-		<dest name="huangcheng" country="6" x="842" y="952"/>
-		<dest name="huangcheng" country="6" x="842" y="953"/>
-		<dest name="huangcheng" country="6" x="842" y="954"/>
-		<dest name="huangcheng" country="6" x="842" y="955"/>
-		<dest name="huangcheng" country="6" x="842" y="956"/>
-		<dest name="huangcheng" country="6" x="842" y="957"/>
-		<dest name="huangcheng" country="6" x="842" y="934"/>
-		<dest name="huangcheng" country="6" x="842" y="935"/>
-		<dest name="huangcheng" country="6" x="842" y="936"/>
-		<dest name="huangcheng" country="6" x="842" y="937"/>
-		<dest name="huangcheng" country="6" x="842" y="938"/>
-		<dest name="huangcheng" country="6" x="842" y="939"/>
-		<dest name="huangcheng" country="6" x="842" y="940"/>
-		<dest name="huangcheng" country="6" x="842" y="941"/>
-		<dest name="huangcheng" country="6" x="842" y="942"/>
-		<dest name="huangcheng" country="6" x="842" y="943"/>
-		<dest name="huangcheng" country="6" x="842" y="944"/>
-		<dest name="huangcheng" country="6" x="842" y="945"/>
-		<dest name="huangcheng" country="6" x="842" y="946"/>
-		<dest name="huangcheng" country="6" x="842" y="947"/>
-		<dest name="huangcheng" country="6" x="842" y="948"/>
-		<dest name="huangcheng" country="6" x="842" y="949"/>
-		<dest name="huangcheng" country="6" x="842" y="950"/>
-		<dest name="huangcheng" country="6" x="842" y="951"/>
-		<dest name="huangcheng" country="6" x="842" y="952"/>
-		<dest name="huangcheng" country="6" x="842" y="953"/>
-		<dest name="huangcheng" country="6" x="842" y="954"/>
-		<dest name="huangcheng" country="6" x="842" y="955"/>
-		<dest name="huangcheng" country="6" x="842" y="956"/>
+		<point x="389" y="205"/>
+		<point x="389" y="206"/>
+		<point x="389" y="207"/>
+		<point x="389" y="208"/>
+		<point x="389" y="209"/>
+		<point x="389" y="210"/>
+		<point x="389" y="211"/>
+		<point x="389" y="212"/>
+		<point x="389" y="213"/>
+		<point x="389" y="214"/>
+		<point x="389" y="215"/>
+		<point x="389" y="216"/>
+		<point x="389" y="217"/>
+		<point x="389" y="218"/>
+		<point x="389" y="219"/>
+		<point x="389" y="220"/>
+		<point x="389" y="221"/>
+		<point x="389" y="222"/>
+		<point x="389" y="223"/>
+		<point x="389" y="224"/>
+		<point x="389" y="225"/>
+		<point x="390" y="204"/>
+		<point x="390" y="205"/>
+		<point x="390" y="206"/>
+		<point x="390" y="207"/>
+		<point x="390" y="208"/>
+		<point x="390" y="209"/>
+		<point x="390" y="210"/>
+		<point x="390" y="211"/>
+		<point x="390" y="212"/>
+		<point x="390" y="213"/>
+		<point x="390" y="214"/>
+		<point x="390" y="215"/>
+		<point x="390" y="216"/>
+		<point x="390" y="217"/>
+		<point x="390" y="218"/>
+		<point x="390" y="219"/>
+		<point x="390" y="220"/>
+		<point x="390" y="221"/>
+		<point x="390" y="222"/>
+		<point x="390" y="223"/>
+		<point x="390" y="224"/>
+		<point x="390" y="225"/>
+		<point x="391" y="203"/>
+		<point x="391" y="204"/>
+		<point x="391" y="205"/>
+		<point x="391" y="206"/>
+		<point x="391" y="207"/>
+		<point x="391" y="208"/>
+		<point x="391" y="209"/>
+		<point x="391" y="210"/>
+		<point x="391" y="211"/>
+		<point x="391" y="212"/>
+		<point x="391" y="213"/>
+		<point x="391" y="214"/>
+		<point x="391" y="215"/>
+		<point x="391" y="216"/>
+		<point x="391" y="217"/>
+		<point x="391" y="218"/>
+		<point x="391" y="219"/>
+		<point x="391" y="220"/>
+		<point x="391" y="221"/>
+		<point x="391" y="222"/>
+		<point x="391" y="223"/>
+		<point x="391" y="224"/>
+		<point x="391" y="225"/>
+		<point x="392" y="202"/>
+		<point x="392" y="203"/>
+		<point x="392" y="204"/>
+		<point x="392" y="205"/>
+		<point x="392" y="206"/>
+		<point x="392" y="207"/>
+		<point x="392" y="208"/>
+		<point x="392" y="209"/>
+		<point x="392" y="210"/>
+		<point x="392" y="211"/>
+		<point x="392" y="212"/>
+		<point x="392" y="213"/>
+		<point x="392" y="214"/>
+		<point x="392" y="215"/>
+		<point x="392" y="216"/>
+		<point x="392" y="217"/>
+		<point x="392" y="218"/>
+		<point x="392" y="219"/>
+		<point x="392" y="220"/>
+		<point x="392" y="221"/>
+		<point x="392" y="222"/>
+		<point x="392" y="223"/>
+		<point x="392" y="224"/>
+		<point x="392" y="225"/>
+		<point x="393" y="201"/>
+		<point x="393" y="202"/>
+		<point x="393" y="203"/>
+		<point x="393" y="204"/>
+		<point x="393" y="205"/>
+		<point x="393" y="206"/>
+		<point x="393" y="207"/>
+		<point x="393" y="208"/>
+		<point x="393" y="209"/>
+		<point x="393" y="210"/>
+		<point x="393" y="211"/>
+		<point x="393" y="212"/>
+		<point x="393" y="213"/>
+		<point x="393" y="214"/>
+		<point x="393" y="215"/>
+		<point x="393" y="216"/>
+		<point x="393" y="217"/>
+		<point x="393" y="218"/>
+		<point x="393" y="219"/>
+		<point x="393" y="220"/>
+		<point x="393" y="221"/>
+		<point x="393" y="222"/>
+		<point x="393" y="223"/>
+		<point x="393" y="224"/>
+		<point x="393" y="225"/>
+		<dest name="zhongliqu-main" country="6" x="810" y="675"/>
+		<dest name="zhongliqu-main" country="6" x="811" y="675"/>
+		<dest name="zhongliqu-main" country="6" x="812" y="675"/>
+		<dest name="zhongliqu-main" country="6" x="813" y="675"/>
+		<dest name="zhongliqu-main" country="6" x="814" y="675"/>
+		<dest name="zhongliqu-main" country="6" x="810" y="676"/>
+		<dest name="zhongliqu-main" country="6" x="811" y="676"/>
+		<dest name="zhongliqu-main" country="6" x="812" y="676"/>
+		<dest name="zhongliqu-main" country="6" x="813" y="676"/>
+		<dest name="zhongliqu-main" country="6" x="814" y="676"/>
 	</waypoint>
 	<waypoint>
-		<point x="78" y="14"/>
-		<point x="79" y="14"/>
-		<point x="80" y="14"/>
-		<point x="81" y="14"/>
-		<point x="82" y="14"/>
-		<point x="83" y="14"/>
-		<point x="84" y="14"/>
-		<point x="78" y="15"/>
-		<point x="79" y="15"/>
-		<point x="80" y="15"/>
-		<point x="81" y="15"/>
-		<point x="82" y="15"/>
-		<point x="83" y="15"/>
-		<point x="84" y="15"/>
-		<point x="83" y="14"/>
-		<point x="84" y="14"/>
-		<point x="78" y="15"/>
-		<point x="79" y="15"/>
-		<dest name="dongjiao" country="0" x="370" y="374"/>
-		<dest name="dongjiao" country="0" x="370" y="375"/>
-		<dest name="dongjiao" country="0" x="370" y="376"/>
-		<dest name="dongjiao" country="0" x="370" y="377"/>
-		<dest name="dongjiao" country="0" x="370" y="378"/>
-		<dest name="dongjiao" country="0" x="370" y="379"/>
-		<dest name="dongjiao" country="0" x="370" y="380"/>
-		<dest name="dongjiao" country="0" x="370" y="381"/>
-		<dest name="dongjiao" country="0" x="370" y="382"/>
-		<dest name="dongjiao" country="0" x="369" y="374"/>
-		<dest name="dongjiao" country="0" x="369" y="375"/>
-		<dest name="dongjiao" country="0" x="369" y="376"/>
-		<dest name="dongjiao" country="0" x="369" y="377"/>
-		<dest name="dongjiao" country="0" x="369" y="378"/>
-		<dest name="dongjiao" country="0" x="369" y="379"/>
-		<dest name="dongjiao" country="0" x="369" y="380"/>
-		<dest name="dongjiao" country="0" x="369" y="381"/>
-		<dest name="dongjiao" country="0" x="369" y="382"/>
-	</waypoint>
-	<waypoint>
-		<point x="24" y="285"/>
-		<point x="25" y="285"/>
-		<point x="26" y="285"/>
-		<point x="27" y="285"/>
-		<point x="28" y="285"/>
-		<point x="29" y="285"/>
-		<point x="30" y="285"/>
-		<point x="31" y="285"/>
-		<point x="24" y="284"/>
-		<point x="25" y="284"/>
-		<point x="26" y="284"/>
-		<point x="27" y="284"/>
-		<point x="28" y="284"/>
-		<point x="29" y="284"/>
-		<point x="30" y="284"/>
-		<point x="31" y="284"/>
-		<point x="24" y="285"/>
-		<point x="25" y="285"/>
-		<point x="26" y="285"/>
-		<point x="27" y="285"/>
-		<point x="28" y="285"/>
-		<point x="29" y="285"/>
-		<point x="30" y="285"/>
-		<point x="31" y="285"/>
-		<point x="24" y="284"/>
-		<point x="25" y="284"/>
-		<point x="26" y="284"/>
-		<point x="27" y="284"/>
-		<point x="28" y="284"/>
-		<point x="29" y="284"/>
-		<point x="30" y="284"/>
-		<point x="31" y="284"/>
-		<dest name="nanjiao" country="0" x="381" y="107"/>
-		<dest name="nanjiao" country="0" x="381" y="108"/>
-		<dest name="nanjiao" country="0" x="381" y="109"/>
-		<dest name="nanjiao" country="0" x="381" y="110"/>
-		<dest name="nanjiao" country="0" x="381" y="111"/>
-		<dest name="nanjiao" country="0" x="381" y="112"/>
-		<dest name="nanjiao" country="0" x="381" y="113"/>
-		<dest name="nanjiao" country="0" x="381" y="114"/>
-		<dest name="nanjiao" country="0" x="381" y="115"/>
-		<dest name="nanjiao" country="0" x="381" y="116"/>
-		<dest name="nanjiao" country="0" x="381" y="117"/>
-		<dest name="nanjiao" country="0" x="381" y="118"/>
-		<dest name="nanjiao" country="0" x="381" y="119"/>
-		<dest name="nanjiao" country="0" x="381" y="120"/>
-		<dest name="nanjiao" country="0" x="381" y="121"/>
-		<dest name="nanjiao" country="0" x="381" y="122"/>
-		<dest name="nanjiao" country="0" x="380" y="107"/>
-		<dest name="nanjiao" country="0" x="380" y="108"/>
-		<dest name="nanjiao" country="0" x="380" y="109"/>
-		<dest name="nanjiao" country="0" x="380" y="110"/>
-		<dest name="nanjiao" country="0" x="380" y="111"/>
-		<dest name="nanjiao" country="0" x="380" y="112"/>
-		<dest name="nanjiao" country="0" x="380" y="113"/>
-		<dest name="nanjiao" country="0" x="380" y="114"/>
-		<dest name="nanjiao" country="0" x="380" y="115"/>
-		<dest name="nanjiao" country="0" x="380" y="116"/>
-		<dest name="nanjiao" country="0" x="380" y="117"/>
-		<dest name="nanjiao" country="0" x="380" y="118"/>
-		<dest name="nanjiao" country="0" x="380" y="119"/>
-		<dest name="nanjiao" country="0" x="380" y="120"/>
-		<dest name="nanjiao" country="0" x="380" y="121"/>
-		<dest name="nanjiao" country="0" x="380" y="122"/>
+		<point x="4" y="85"/>
+		<point x="4" y="86"/>
+		<point x="4" y="87"/>
+		<point x="4" y="88"/>
+		<point x="4" y="89"/>
+		<point x="4" y="90"/>
+		<point x="4" y="91"/>
+		<point x="4" y="92"/>
+		<point x="4" y="93"/>
+		<point x="4" y="94"/>
+		<point x="4" y="95"/>
+		<point x="5" y="85"/>
+		<point x="5" y="86"/>
+		<point x="5" y="87"/>
+		<point x="5" y="88"/>
+		<point x="5" y="89"/>
+		<point x="5" y="90"/>
+		<point x="5" y="91"/>
+		<point x="5" y="92"/>
+		<point x="5" y="93"/>
+		<point x="5" y="94"/>
+		<point x="5" y="95"/>
+		<point x="6" y="85"/>
+		<point x="6" y="86"/>
+		<point x="6" y="87"/>
+		<point x="6" y="88"/>
+		<point x="6" y="89"/>
+		<point x="6" y="90"/>
+		<point x="6" y="91"/>
+		<point x="6" y="92"/>
+		<point x="6" y="93"/>
+		<point x="6" y="94"/>
+		<point x="6" y="95"/>
+		<point x="7" y="85"/>
+		<point x="7" y="86"/>
+		<point x="7" y="87"/>
+		<point x="7" y="88"/>
+		<point x="7" y="89"/>
+		<point x="7" y="90"/>
+		<point x="7" y="91"/>
+		<point x="7" y="92"/>
+		<point x="7" y="93"/>
+		<point x="7" y="94"/>
+		<point x="7" y="95"/>
+		<point x="8" y="85"/>
+		<point x="8" y="86"/>
+		<point x="8" y="87"/>
+		<point x="8" y="88"/>
+		<point x="8" y="89"/>
+		<point x="8" y="90"/>
+		<point x="8" y="91"/>
+		<point x="8" y="92"/>
+		<point x="8" y="93"/>
+		<point x="8" y="94"/>
+		<point x="8" y="95"/>
+		<point x="8" y="96"/>
+		<point x="8" y="97"/>
+		<point x="8" y="98"/>
+		<point x="8" y="99"/>
+		<point x="8" y="100"/>
+		<point x="9" y="85"/>
+		<point x="9" y="86"/>
+		<point x="9" y="87"/>
+		<point x="9" y="88"/>
+		<point x="9" y="89"/>
+		<point x="9" y="90"/>
+		<point x="9" y="91"/>
+		<point x="9" y="92"/>
+		<point x="9" y="93"/>
+		<point x="9" y="94"/>
+		<point x="9" y="95"/>
+		<point x="9" y="96"/>
+		<point x="9" y="97"/>
+		<point x="9" y="98"/>
+		<point x="9" y="99"/>
+		<point x="9" y="100"/>
+		<point x="10" y="85"/>
+		<point x="10" y="86"/>
+		<point x="10" y="87"/>
+		<point x="10" y="88"/>
+		<point x="10" y="89"/>
+		<point x="10" y="90"/>
+		<point x="10" y="91"/>
+		<point x="10" y="92"/>
+		<point x="10" y="93"/>
+		<point x="10" y="94"/>
+		<point x="10" y="95"/>
+		<point x="10" y="96"/>
+		<point x="10" y="97"/>
+		<point x="10" y="98"/>
+		<point x="10" y="99"/>
+		<point x="10" y="100"/>
+		<point x="11" y="85"/>
+		<point x="11" y="86"/>
+		<point x="11" y="87"/>
+		<point x="11" y="88"/>
+		<point x="11" y="89"/>
+		<point x="11" y="90"/>
+		<point x="11" y="91"/>
+		<point x="11" y="92"/>
+		<point x="11" y="93"/>
+		<point x="11" y="94"/>
+		<point x="11" y="95"/>
+		<point x="11" y="96"/>
+		<point x="11" y="97"/>
+		<point x="11" y="98"/>
+		<point x="11" y="99"/>
+		<point x="11" y="100"/>
+		<point x="12" y="85"/>
+		<point x="12" y="86"/>
+		<point x="12" y="87"/>
+		<point x="12" y="88"/>
+		<point x="12" y="89"/>
+		<point x="12" y="90"/>
+		<point x="12" y="91"/>
+		<point x="12" y="92"/>
+		<point x="12" y="93"/>
+		<point x="12" y="94"/>
+		<point x="12" y="95"/>
+		<point x="12" y="96"/>
+		<point x="12" y="97"/>
+		<point x="12" y="98"/>
+		<point x="12" y="99"/>
+		<point x="12" y="100"/>
+		<point x="13" y="85"/>
+		<point x="13" y="86"/>
+		<point x="13" y="87"/>
+		<point x="13" y="88"/>
+		<point x="13" y="89"/>
+		<point x="13" y="90"/>
+		<point x="13" y="91"/>
+		<point x="13" y="92"/>
+		<point x="13" y="93"/>
+		<point x="13" y="94"/>
+		<point x="13" y="95"/>
+		<point x="13" y="96"/>
+		<point x="13" y="97"/>
+		<point x="13" y="98"/>
+		<point x="13" y="99"/>
+		<point x="13" y="100"/>
+		<point x="14" y="85"/>
+		<point x="14" y="86"/>
+		<point x="14" y="87"/>
+		<point x="14" y="88"/>
+		<point x="14" y="89"/>
+		<point x="14" y="90"/>
+		<point x="14" y="91"/>
+		<point x="14" y="92"/>
+		<point x="14" y="93"/>
+		<point x="14" y="94"/>
+		<point x="14" y="95"/>
+		<point x="14" y="96"/>
+		<point x="14" y="97"/>
+		<point x="14" y="98"/>
+		<point x="14" y="99"/>
+		<point x="14" y="100"/>
+		<point x="15" y="85"/>
+		<point x="15" y="86"/>
+		<point x="15" y="87"/>
+		<point x="15" y="88"/>
+		<point x="15" y="89"/>
+		<point x="15" y="90"/>
+		<point x="15" y="91"/>
+		<point x="15" y="92"/>
+		<point x="15" y="93"/>
+		<point x="15" y="94"/>
+		<point x="15" y="95"/>
+		<point x="15" y="96"/>
+		<point x="15" y="97"/>
+		<point x="15" y="98"/>
+		<point x="15" y="99"/>
+		<point x="15" y="100"/>
+		<point x="16" y="85"/>
+		<point x="16" y="86"/>
+		<point x="16" y="87"/>
+		<point x="16" y="88"/>
+		<point x="16" y="89"/>
+		<point x="16" y="90"/>
+		<point x="16" y="91"/>
+		<point x="16" y="92"/>
+		<point x="16" y="93"/>
+		<point x="16" y="94"/>
+		<point x="16" y="95"/>
+		<point x="16" y="96"/>
+		<point x="16" y="97"/>
+		<point x="16" y="98"/>
+		<point x="16" y="99"/>
+		<point x="16" y="100"/>
+		<point x="17" y="85"/>
+		<point x="17" y="86"/>
+		<point x="17" y="87"/>
+		<point x="17" y="88"/>
+		<point x="17" y="89"/>
+		<point x="17" y="90"/>
+		<point x="17" y="91"/>
+		<point x="17" y="92"/>
+		<point x="17" y="93"/>
+		<point x="17" y="94"/>
+		<point x="17" y="95"/>
+		<point x="17" y="96"/>
+		<point x="17" y="97"/>
+		<point x="17" y="98"/>
+		<point x="17" y="99"/>
+		<point x="17" y="100"/>
+		<dest name="nanjiao" country="0" x="177" y="263"/>
+		<dest name="nanjiao" country="0" x="177" y="262"/>
+		<dest name="nanjiao" country="0" x="176" y="263"/>
+		<dest name="nanjiao" country="0" x="176" y="262"/>
 	</waypoint>
 	<!-- Npc定义，x和y分别指定Npc区域左上角的坐标，width和height分别指定Npc区域宽和高 -->
 	<!-- num指定这个区域内包含的Npc数量，interval指定Npc死亡重生间隔时间 -->
