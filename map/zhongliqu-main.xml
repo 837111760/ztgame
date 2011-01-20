@@ -468,44 +468,44 @@
 	<npc id="58204" name="禁军" width="1" height="1" x="413" y="297" num="1" interval="7200" color="0,255,0,0"/>
 	<npc id="58204" name="禁军" width="1" height="1" x="414" y="488" num="1" interval="7200" color="0,255,0,0"/>
 	<npc id="58204" name="禁军" width="1" height="1" x="556" y="342" num="1" interval="7200" color="0,255,0,0"/>
+	<npc id="5224" name="帮会采集员" width="1" height="1" x="419" y="364" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="5225" name="帮会资源管理者" width="1" height="1" x="423" y="369" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="0" name="摆摊区" width="1" height="1" x="792" y="663" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="5020" name="车夫" width="1" height="1" x="798" y="659" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="0" name="穿越门" width="1" height="1" x="605" y="550" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="0" name="岛屿传送者" width="1" height="1" x="607" y="506" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="0" name="凤凰的守护者" width="1" height="1" x="795" y="662" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="5034" name="花傲剑" width="1" height="1" x="785" y="875" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="5025" name="户部侍郎" width="1" height="1" x="357" y="1192" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="5047" name="花情" width="1" height="1" x="850" y="755" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="0" name="货商" width="1" height="1" x="893" y="662" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="5023" name="鲁建瓴" width="1" height="1" x="782" y="896" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="5024" name="鲁怜心" width="1" height="1" x="563" y="466" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="5035" name="鲁睿" width="1" height="1" x="887" y="423" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="5041" name="吕思远" width="1" height="1" x="467" y="735" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="5038" name="吕隐" width="1" height="1" x="529" y="415" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="0" name="贸易商" width="1" height="1" x="920" y="614" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="5031" name="戚继光" width="1" height="1" x="792" y="617" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="5026" name="史料馆看守" width="1" height="1" x="494" y="701" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="5046" name="守墓者" width="1" height="1" x="43" y="83" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="5040" name="夏侯望" width="1" height="1" x="861" y="436" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="5016" name="药店伙计(中立)" width="1" height="1" x="725" y="595" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="5014" name="移民官" width="1" height="1" x="225" y="772" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="5015" name="杂货店伙计(中立)" width="1" height="1" x="746" y="576" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5121" name="药店老板" width="1" height="1" x="853" y="623" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="5224" name="帮会采集员" width="1" height="1" x="165" y="687" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="5225" name="帮会资源管理者" width="1" height="1" x="168" y="690" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5107" name="天姑" width="1" height="1" x="307" y="173" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5103" name="李克用" width="1" height="1" x="37" y="42" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5078" name="改造宗师(中立)" width="1" height="1" x="836" y="704" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5067" name=" 燕北飞" width="1" height="1" x="867" y="706" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5051" name="大臣" width="1" height="1" x="301" y="177" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="5047" name="花情" width="1" height="1" x="779" y="665" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5048" name="风华郡主" width="1" height="1" x="805" y="703" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="5046" name="守墓者" width="1" height="1" x="573" y="41" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5050" name="护墓术士" width="1" height="1" x="567" y="50" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5112" name="王墓传送者" width="1" height="1" x="575" y="45" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="551" name="边境方向" width="1" height="1" x="828" y="966" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="554" name="牧场方向" width="1" height="1" x="42" y="973" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="555" name="倭寇营地方向" width="1" height="1" x="978" y="72" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="556" name="圣兽巢穴方向" width="1" height="1" x="26" y="14" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="5025" name="户部侍郎" width="1" height="1" x="424" y="284" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="5034" name="花傲剑" width="1" height="1" x="886" y="732" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="5023" name="鲁建瓴" width="1" height="1" x="810" y="640" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="5035" name="鲁睿" width="1" height="1" x="662" y="389" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="5026" name="史料馆看守" width="1" height="1" x="470" y="623" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="5024" name="鲁怜心" width="1" height="1" x="822" y="627" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="5038" name="吕隐" width="1" height="1" x="676" y="421" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5039" name="闻将军" width="1" height="1" x="526" y="446" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="5040" name="夏侯望" width="1" height="1" x="563" y="84" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5027" name="矿工" width="1" height="1" x="162" y="684" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="5041" name="吕思远" width="1" height="1" x="602" y="281" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="5014" name="判国者" width="1" height="1" x="304" y="179" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="81" name="机械工厂方向" width="1" height="1" x="880" y="491" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="82" name="武夷亡墓方向" width="1" height="1" x="568" y="45" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="5015" name="杂货店老板(中立)" width="1" height="1" x="838" y="687" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="5016" name="药店掌柜(中立)" width="1" height="1" x="846" y="685" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5017" name="高级武器商(中立)" width="1" height="1" x="828" y="682" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5018" name="高级防具商(中立)" width="1" height="1" x="818" y="687" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5019" name="高级锻造师(中立)" width="1" height="1" x="308" y="179" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="5020" name="采集地传送者" width="1" height="1" x="823" y="704" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="58" name="区域路牌" width="1" height="1" x="143" y="634" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="5031" name="戚继光" width="1" height="1" x="818" y="671" num="1" interval="1800" color="0,255,0,0"/>
 	<zonedef width="31" height="40" x="143" y="664" type="2" color="0,0,255,0"/>
 </map>
