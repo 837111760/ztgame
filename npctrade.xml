@@ -336,7 +336,7 @@ this:AddDialog("MainDialog")</menu>
 		<menu>
 function MainDialog()
 if( IsHasTask() == false) then
-this:AddTalk("每天50次金子任务。")
+this:AddTalk("每天10次金子任务。")
 end
 TaskDialog()
 end

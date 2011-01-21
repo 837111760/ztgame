@@ -8,7 +8,7 @@
 				<innation/>
 				<level type="Great" value="149"/>
 				<level type="Less" value="201"/>
-				<uservar type="Less" name="npc_kill_times" value="50"/>
+				<uservar type="Less" name="npc_kill_times" value="10"/>
 				<var type="Differ" name="state" value="-1" id="50003"/>
 				<var type="Differ" name="state" value="1" id="50003"/>
 				<var type="Differ" name="state" value="-3" id="50003"/>
@@ -24,7 +24,7 @@ end
 		</embranchment>
 		<embranchment id="10">
 			<conditions>
-				<uservar type="Equal" name="npc_kill_times" value="50"/>
+				<uservar type="Equal" name="npc_kill_times" value="10"/>
 			</conditions>
 			<actions>
 				<menu>
