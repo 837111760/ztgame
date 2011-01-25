@@ -10,13 +10,8 @@
 				<menu>
 function TaskDialog()
 this:AddTalk("    想要去资源采集地么？我可知道一条捷径哦！要不要带你去啊？还有一些著名景点我也可以带你去哦。");
-this:AddTaskCmdItem("带路去资源采集地-2两(0)", "v5020", 160103, 11)
-this:AddTaskCmdItem("带路去机械工厂入口-2两(0)", "v5020", 160103, 13)
 this:AddTaskCmdItem("带路去武夷王墓入口-2两(0)", "v5020", 160103, 14)
-this:AddTaskCmdItem("带路去滨海之岛入口-2两(0)", "v5020", 160103, 15)
-this:AddTaskCmdItem("带路去栖息地入口-2两(0)", "v5020", 160103, 16)
-this:AddTaskCmdItem("带路去魔族巢穴入口-2两(0)", "v5020", 160103, 17)
-this:AddTaskCmdItem("去皇城入口-2两(0)", "v5020", 160103, 12)
+this:AddTaskCmdItem("带路去BOSS刷新点-2两(0)", "v5020", 160103, 15)
 end
 				</menu>
 			</actions>
@@ -64,7 +59,7 @@ end
 			</conditions>
 			<actions>
 				<gold type="Sub" value="200"/>
-				<goto name="中立区·皇城" pos="565,50" pos1="573,53" pos2="579,47" pos3="575,38"/>
+				<goto name="中立区·皇城" pos="45,85" pos1="46,86" pos2="47,87" pos3="48,88"/>
 				<notify content="你被带到武夷王墓入口"/>
 				<var type="Set" name="state" value="-2"/>
 			</actions>
@@ -76,8 +71,8 @@ end
 			</conditions>
 			<actions>
 				<gold type="Sub" value="200"/>
-				<goto name="中立区·皇城" pos="971,70" pos1="979,78" pos2="975,82" pos3="969,85"/>
-				<notify content="你被带到滨海之岛入口"/>
+				<goto name="中立区·皇城" pos="220,840" pos1="221,841" pos2="222,842" pos3="223,843"/>
+				<notify content="你被带到BOSS刷新点"/>
 				<var type="Set" name="state" value="-2"/>
 			</actions>
 		</embranchment>		
