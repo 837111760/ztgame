@@ -8,6 +8,10 @@
 	<params fixedrush="6"/>
 	<!-- initstate表示区域初始属性是否是隐藏的，如果是隐藏状态区域是暂时无效的  country:0表示本国 非0表示指定国家  512国战传送区 2048 表示国战拉人-->
 	<!-- Npc定义，x和y分别指定Npc区域左上角的坐标，width和height分别指定Npc区域宽和高 -->
+	<zonedef width="20" height="20" x="800" y="660" type="128" color="0,0,255,0"/>
+	<zonedef width="20" height="20" x="800" y="660" type="1" color="0,0,255,0"/>
+	<zonedef width="20" height="20" x="800" y="660" type="2" color="0,0,255,0"/>
+	<zonedef width="20" height="20" x="800" y="660" type="4" color="0,0,255,0"/>
 	<waypoint>
 		<point x="691" y="1284"/>
 		<point x="692" y="1284"/>
@@ -468,6 +472,44 @@
 	<npc id="58204" name="禁军" width="1" height="1" x="413" y="297" num="1" interval="7200" color="0,255,0,0"/>
 	<npc id="58204" name="禁军" width="1" height="1" x="414" y="488" num="1" interval="7200" color="0,255,0,0"/>
 	<npc id="58204" name="禁军" width="1" height="1" x="556" y="342" num="1" interval="7200" color="0,255,0,0"/>
+	<npc id="3010" name="狼王" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="3008" name="兽王" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30002" name="山大王" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30008" name="异族头目" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30012" name="叛军大将" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30014" name="僵尸王" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30015" name="骷髅王" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30019" name="赤鳞蛟龙" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30020" name="火魔蛟龙(魔)" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30023" name="大块头" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30025" name="蚌精(魔)" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30027" name="混石力士(魔)" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30028" name="钢化巨灵" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30029" name="巨猿" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30030" name="血猿王" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30031" name="武夷王" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30032" name="石化魔人" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30033" name="滨海岛主" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30035" name="灵蛇(魔)" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30051" name="联军副将" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30052" name="联军中将(魔)" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30053" name="联军头目" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30054" name="联军副将" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30055" name="联军中将" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30056" name="联军头目（魔）" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30057" name="夜魔尊主（魔）" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30061" name="鸭" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30062" name="异族男巫(魔)" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30063" name="血魔教徒（魔）" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30064" name="夜魔教徒" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30065" name="小犬一狼" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30070" name="飞天猪" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30071" name="铁兽" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30072" name="大将灵王(魔)" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="30073" name="石怪(魔)" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="130001" name="僵尸王" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="130002" name="骷髅王" width="80" height="80" x="190" y="805" num="1" interval="600"/>
+	<npc id="150002" name="武夷王" width="80" height="80" x="190" y="805" num="1" interval="600"/>
 	<npc id="5224" name="帮会采集员" width="1" height="1" x="419" y="364" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5225" name="帮会资源管理者" width="1" height="1" x="423" y="369" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="0" name="摆摊区" width="1" height="1" x="792" y="663" num="1" interval="1800" color="0,255,0,0"/>
@@ -487,11 +529,11 @@
 	<npc id="0" name="贸易商" width="1" height="1" x="920" y="614" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5031" name="戚继光" width="1" height="1" x="792" y="617" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5026" name="史料馆看守" width="1" height="1" x="494" y="701" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="5046" name="守墓者" width="1" height="1" x="43" y="83" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="0" name="守墓者" width="1" height="1" x="43" y="83" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5040" name="夏侯望" width="1" height="1" x="861" y="436" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5016" name="药店伙计(中立)" width="1" height="1" x="725" y="595" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5014" name="移民官" width="1" height="1" x="225" y="772" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="5015" name="杂货店伙计(中立)" width="1" height="1" x="746" y="576" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="5015" name="杂货店伙计(中立)" width="1" height="1" x="802" y="655" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5121" name="药店老板" width="1" height="1" x="853" y="623" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5107" name="天姑" width="1" height="1" x="307" y="173" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5103" name="李克用" width="1" height="1" x="37" y="42" num="1" interval="1800" color="0,255,0,0"/>
@@ -500,7 +542,7 @@
 	<npc id="5051" name="大臣" width="1" height="1" x="301" y="177" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5048" name="风华郡主" width="1" height="1" x="805" y="703" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5050" name="护墓术士" width="1" height="1" x="567" y="50" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="5112" name="王墓传送者" width="1" height="1" x="575" y="45" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="5112" name="王墓传送者" width="1" height="1" x="43" y="83" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5039" name="闻将军" width="1" height="1" x="526" y="446" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5027" name="矿工" width="1" height="1" x="162" y="684" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5017" name="高级武器商(中立)" width="1" height="1" x="828" y="682" num="1" interval="1800" color="0,255,0,0"/>
