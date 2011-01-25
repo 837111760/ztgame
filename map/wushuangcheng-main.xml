@@ -95,7 +95,7 @@
 	<npc id="0" name="风雷豹使者" width="1" height="1" x="650" y="648" num="1" interval="600" color="0,255,0,0"/>
 	<npc id="880" name="服装师" width="1" height="1" x="665" y="601" num="1" interval="600" color="0,255,0,0"/>
 	<npc id="887" name="福利姐姐" width="1" height="1" x="606" y="623" num="1" interval="600" color="0,255,0,0"/>
-	<npc id="864" name="改造宗师" width="1" height="1" x="609" y="620" num="1" interval="600" color="0,255,0,0"/>
+	<npc id="5078" name="改造宗师" width="1" height="1" x="609" y="620" num="1" interval="600" color="0,255,0,0"/>
 	<npc id="5019" name="高级锻造师(中立)" width="1" height="1" x="611" y="616" num="1" interval="600" color="0,255,0,0"/>
 	<npc id="361" name="高级钱庄老板" width="1" height="1" x="617" y="610" num="1" interval="600" color="0,255,0,0"/>
 	<npc id="884" name="高级杂货商" width="1" height="1" x="614" y="613" num="1" interval="600" color="0,255,0,0"/>
