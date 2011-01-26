@@ -84,10 +84,6 @@
 	<npc id="56068" name="¶À¹Â¼ò" width="1" height="1" x="944" y="249" num="1" interval="600" color="0,255,0,0"/>
 	<npc id="56067" name="¶À¹ÂÕ½" width="1" height="1" x="709" y="309" num="1" interval="600" color="0,255,0,0"/>
 	<npc id="0" name="¶ÀÆ®Áã" width="1" height="1" x="625" y="579" num="1" interval="600" color="0,255,0,0"/>
-	<npc id="217" name="¶ÍÔì" width="1" height="1" x="648" y="646" num="1" interval="600" color="0,255,0,0"/>
-	<npc id="213" name="¶ÍÔì" width="1" height="1" x="652" y="642" num="1" interval="600" color="0,255,0,0"/>
-	<npc id="211" name="¶ÍÔì" width="1" height="1" x="656" y="638" num="1" interval="600" color="0,255,0,0"/>
-	<npc id="214" name="¶ÍÔì" width="1" height="1" x="660" y="634" num="1" interval="600" color="0,255,0,0"/>
 	<npc id="113" name="·¨Æ÷µêÀÏ°å" width="1" height="1" x="718" y="630" num="1" interval="600" color="0,255,0,0"/>
 	<npc id="806" name="·À¾ßµê»ï¼Æ" width="1" height="1" x="638" y="589" num="1" interval="600" color="0,255,0,0"/>
 	<npc id="116" name="·À¾ßµêÀÏ°å" width="1" height="1" x="674" y="583" num="1" interval="600" color="0,255,0,0"/>
