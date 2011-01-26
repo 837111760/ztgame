@@ -8070,6 +8070,8 @@ this:AddDialogItemEx("武夷王墓六层:(217,208)","Dialog1","6")
 this:AddDialogItemEx("武夷王墓七层:(245,200)","Dialog1","7")
 this:AddDialogItemEx("武夷王墓八层:(78,187)","Dialog1","8")
 this:AddDialogItemEx("武夷王墓九层:(107,204)","Dialog1","9")
+this:AddDialogItemEx("武夷王墓十层:(107,204)","Dialog1","10")
+this:AddDialogItemEx("武夷王墓十一层:(107,204)","Dialog1","11")
 this:AddCloseItem("取消")
 end
 this:PlaySound("22016.wav,22019.wav,22028.wav,22001.wav,22003.wav,22005.wav,62007.wav") 

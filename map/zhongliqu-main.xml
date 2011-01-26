@@ -529,7 +529,7 @@
 	<npc id="0" name="贸易商" width="1" height="1" x="920" y="614" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5031" name="戚继光" width="1" height="1" x="792" y="617" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5026" name="史料馆看守" width="1" height="1" x="494" y="701" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="0" name="守墓者" width="1" height="1" x="43" y="83" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="5046" name="守墓者" width="1" height="1" x="43" y="83" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5040" name="夏侯望" width="1" height="1" x="861" y="436" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5016" name="药店伙计(中立)" width="1" height="1" x="725" y="595" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5014" name="移民官" width="1" height="1" x="225" y="772" num="1" interval="1800" color="0,255,0,0"/>
@@ -542,7 +542,7 @@
 	<npc id="5051" name="大臣" width="1" height="1" x="301" y="177" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5048" name="风华郡主" width="1" height="1" x="805" y="703" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5050" name="护墓术士" width="1" height="1" x="567" y="50" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="5112" name="王墓传送者" width="1" height="1" x="43" y="83" num="1" interval="1800" color="0,255,0,0"/>
+	<npc id="0" name="王墓传送者" width="1" height="1" x="43" y="83" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5039" name="闻将军" width="1" height="1" x="526" y="446" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5027" name="矿工" width="1" height="1" x="162" y="684" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5017" name="高级武器商(中立)" width="1" height="1" x="828" y="682" num="1" interval="1800" color="0,255,0,0"/>
