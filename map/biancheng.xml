@@ -364,34 +364,4 @@
 	<npc id="0" name="影无踪" width="1" height="1" x="89" y="43" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5218" name="伙计" width="1" height="1" x="20" y="115" num="1" interval="1800" color="0,255,0,0"/>
 	<npc id="5093" name="边境传送者" width="1" height="1" x="90" y="130" num="1" interval="1800" color="0,255,0,0"/>
-	<npc id="30071" name="铁兽" width="48" height="69" x="123" y="108" num="1" interval="21600" color="0,255,0,0"/>
-	<npc id="16152" name="弩灵" width="283" height="238" x="71" y="37" num="3" interval="3" color="0,255,0,0"/>
-	<npc id="16153" name="势力人（魔）" width="283" height="238" x="71" y="37" num="3" interval="3" color="0,255,0,0"/>
-	<npc id="16155" name="弩灵" width="283" height="238" x="71" y="37" num="3" interval="3" color="0,255,0,0"/>
-	<npc id="16156" name="势力人（魔）" width="283" height="238" x="71" y="37" num="3" interval="3" color="0,255,0,0"/>
-	<npc id="16151" name="痞子" width="283" height="238" x="71" y="37" num="5" interval="4" color="0,255,0,0"/>
-	<npc id="16154" name="痞子" width="283" height="238" x="71" y="37" num="5" interval="4" color="0,255,0,0"/>
-	<npc id="55001" name="兔儿草" width="283" height="238" x="71" y="37" num="4" interval="1800" color="0,255,0,0"/>
-	<npc id="55021" name="狐狸草" width="288" height="237" x="71" y="38" num="3" interval="1800" color="0,255,0,0"/>
-	<npc id="55041" name="甘草" width="287" height="235" x="71" y="38" num="4" interval="1800" color="0,255,0,0"/>
-	<npc id="55061" name="天芯草" width="283" height="237" x="71" y="38" num="3" interval="1800" color="0,255,0,0"/>
-	<npc id="55081" name="枫丹草" width="287" height="236" x="71" y="38" num="5" interval="1800" color="0,255,0,0"/>
-	<npc id="55101" name="野果" width="286" height="235" x="71" y="38" num="3" interval="1800" color="0,255,0,0"/>
-	<npc id="55121" name="蛇果" width="284" height="236" x="71" y="38" num="3" interval="1800" color="0,255,0,0"/>
-	<npc id="55141" name="毒果" width="283" height="236" x="71" y="38" num="3" interval="1800" color="0,255,0,0"/>
-	<npc id="55161" name="奇异果" width="284" height="235" x="71" y="38" num="2" interval="1800" color="0,255,0,0"/>
-	<npc id="55181" name="石头" width="286" height="235" x="71" y="38" num="5" interval="1800" color="0,255,0,0"/>
-	<npc id="55201" name="箱子" width="286" height="236" x="71" y="38" num="5" interval="1800" color="0,255,0,0"/>
-	<npc id="55221" name="破损箱子" width="279" height="235" x="71" y="38" num="5" interval="1800" color="0,255,0,0"/>
-	<npc id="26212" name="弩灵" width="279" height="235" x="71" y="38" num="1" interval="7200" color="0,255,0,0"/>
-	<npc id="16152" name="弩灵" width="17" height="17" x="41" y="115" num="30" interval="5" color="0,255,0,0"/>
-	<npc id="16153" name="势力人（魔）" width="16" height="11" x="175" y="15" num="20" interval="5" color="0,255,0,0"/>
-	<npc id="16155" name="弩灵" width="20" height="15" x="156" y="256" num="30" interval="5" color="0,255,0,0"/>
-	<npc id="16156" name="势力人（魔）" width="15" height="20" x="331" y="160" num="20" interval="5" color="0,255,0,0"/>
-	<npc id="16151" name="痞子" width="15" height="20" x="329" y="111" num="40" interval="2" color="0,255,0,0"/>
-	<npc id="16151" name="痞子" width="15" height="13" x="223" y="16" num="20" interval="5" color="0,255,0,0"/>
-	<npc id="16151" name="痞子" width="23" height="15" x="201" y="268" num="15" interval="2" color="0,255,0,0"/>
-	<npc id="16154" name="痞子" width="23" height="15" x="201" y="268" num="15" interval="2" color="0,255,0,0"/>
-	<npc id="16154" name="痞子" width="15" height="20" x="63" y="159" num="30" interval="2" color="0,255,0,0"/>
-	<npc id="16154" name="痞子" width="15" height="20" x="286" y="56" num="40" interval="2" color="0,255,0,0"/>
 </map>

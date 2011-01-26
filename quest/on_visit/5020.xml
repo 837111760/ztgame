@@ -10,7 +10,6 @@
 				<menu>
 function TaskDialog()
 this:AddTalk("    想要去资源采集地么？我可知道一条捷径哦！要不要带你去啊？还有一些著名景点我也可以带你去哦。");
-this:AddTaskCmdItem("带路去武夷王墓十一层-2两(0)", "v5020", 160103, 14)
 this:AddTaskCmdItem("带路去BOSS刷新点-2两(0)", "v5020", 160103, 15)
 end
 				</menu>
