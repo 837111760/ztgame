@@ -375,10 +375,10 @@
 		<phase action="summon_rush" id="26244" script="0" x="500" y="500" region="400" num="3" lasttime="1"/>
 		<phase action="attack" x="100" y="100" region="800" lasttime="10800"/>
 	</rush-->
-	<rush id="9" name="袭击凤凰城" mapid="102" boss="30101" bossname="联军大将" cleardelay="7200" lasttime="7200">
+	<!--rush id="9" name="袭击凤凰城" mapid="102" boss="30101" bossname="联军大将" cleardelay="7200" lasttime="7200"-->
 		<!--starttext str="精怪联军第一队将在time后对凤凰城发起攻击，在此国家危难之际,让我们拿起武器，让大地在我们的战鼓下颤抖，誓与凤凰城共存亡"/>
 		<endtext str="因为将士们的拼死抵抗，time后精怪联军第一队不得不带兵撤出凤凰城，他们扬言将在七天之后率领更强大的兵力再次攻打凤凰城。"/-->
-		<boss x="411" y="356" region="10" num="1" script="1022"/>
+		<!--boss x="411" y="356" region="10" num="1" script="1022"/>
 		<phase action="summon_rush" id="21502" script="1022" x="411" y="356" region="10" num="2" lasttime="1"/>
 		<phase action="summon_rush" id="21504" script="1022" x="411" y="356" region="10" num="2" lasttime="1"/>
 		<phase action="summon_rush" id="26501" script="1022" x="411" y="356" region="10" num="2" lasttime="1"/>
@@ -414,12 +414,12 @@
 		<phase action="summon_rush" id="26503" script="1018" x="196" y="584" region="15" num="4" lasttime="1"/>
 		<phase action="summon_rush" id="21502" script="1018" x="196" y="584" region="15" num="8" lasttime="1"/>
 		<phase action="summon_rush" id="21503" script="1018" x="196" y="584" region="15" num="8" lasttime="1"/>
-	</rush>
-	<rush id="10" name="袭击王城" mapid="139" boss="30102" bossname="联军大将" cleardelay="7200" lasttime="7200">
+	</rush-->
+	<!--rush id="10" name="袭击王城" mapid="139" boss="30102" bossname="联军大将" cleardelay="7200" lasttime="7200"-->
 		<!--notify str="过年咯~ 15分钟后 财神 要来凤凰城给大家拜年了"/-->
 		<!--starttext str="精怪联军第二队将在time后对王城发起攻击，在此国家危难之际,让我们拿起武器，让大地在我们的战鼓下颤抖，誓与王城共存亡"/>
 		<endtext str="因为将士们的拼死抵抗，time后精怪联军第二队不得不带兵撤出王城，他们扬言将在七天之后率领更强大的兵力再次攻打王城。"/-->
-		<boss x="792" y="481" region="10" num="1" script="1023"/>
+		<!--boss x="792" y="481" region="10" num="1" script="1023"/>
 		<phase action="summon_rush" id="21506" script="1023" x="792" y="481" region="10" num="2" lasttime="1"/>
 		<phase action="summon_rush" id="21509" script="1023" x="792" y="481" region="10" num="2" lasttime="1"/>
 		<phase action="summon_rush" id="26508" script="1023" x="792" y="481" region="10" num="2" lasttime="1"/>
@@ -455,8 +455,8 @@
 		<phase action="summon_rush" id="26509" script="1021" x="757" y="758" region="15" num="4" lasttime="1"/>
 		<phase action="summon_rush" id="21508" script="1021" x="757" y="758" region="15" num="8" lasttime="1"/>
 		<phase action="summon_rush" id="21509" script="1021" x="757" y="758" region="15" num="8" lasttime="1"/>
-	</rush>
-	<rush id="15" name="魔族奇袭王城" mapid="139" boss="30037" bossname="魔徒(魔)" cleardelay="3600" lasttime="3600">
+	</rush-->
+	<!--rush id="15" name="魔族奇袭王城" mapid="139" boss="30037" bossname="魔徒(魔)" cleardelay="3600" lasttime="3600">
 		<boss x="657" y="347" region="10" num="1" script="1030"/>
 		<phase action="summon_rush" id="16621" script="1030" x="657" y="347" region="15" num="6" lasttime="1"/>
 		<phase action="summon_rush" id="16622" script="1030" x="657" y="347" region="15" num="6" lasttime="1"/>
@@ -472,7 +472,7 @@
 		<phase action="summon_rush" id="21524" script="1030" x="657" y="347" region="15" num="1" lasttime="1"/>
 		<phase action="summon_rush" id="26621" script="1030" x="657" y="347" region="15" num="1" lasttime="1"/>
 		<phase action="summon_rush" id="26623" script="1030" x="657" y="347" region="15" num="1" lasttime="1"/>
-	</rush>
+	</rush-->
 	<!--rush id="16" name="嫦娥任务" mapid="101" boss="30037" bossname="魔徒(魔)" cleardelay="10" lasttime="18000">
         <boss x="1" y="1" region="1" num="1" script=""/>
         <phase action="repeat" time="200"/>
