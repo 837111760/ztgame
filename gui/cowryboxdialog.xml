@@ -69,11 +69,11 @@ end
 						
 						
 						<item id="1" type="Button" sound="10107" style="0" rect="-353,41,70,29" hotkey="" bitmapbutton="1" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" pack="data\interfaces.gl" group="58" frame="323" framenum="3"/> 	
-						<item id="2" type="Button" sound="10107" style="0" rect="180,411,70,29" hotkey="" bitmapbutton="1" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" pack="data\interfaces.gl" group="151" frame="10" framenum="3"/> 	
-						<item id="3" type="Button" sound="10107" style="0" rect="180,411,70,29" hotkey="" bitmapbutton="1" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" pack="data\interfaces.gl" group="151" frame="13" framenum="3"/> 	
-						<item id="4" type="Button" sound="10107" style="0" rect="180,438,70,29" hotkey="" bitmapbutton="1" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" pack="data\interfaces.gl" group="151" frame="16" framenum="3"/> 	
+						<item id="2" type="Button" sound="10107" style="0" rect="180,440,70,29" hotkey="" bitmapbutton="1" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" pack="data\interfaces.gl" group="151" frame="10" framenum="3"/> 	
+						<item id="3" type="Button" sound="10107" style="0" rect="180,420,70,29" hotkey="" bitmapbutton="1" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" pack="data\interfaces.gl" group="151" frame="13" framenum="3"/> 	
+						<item id="4" type="Button" sound="10107" style="0" rect="180,467,70,29" hotkey="" bitmapbutton="1" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" pack="data\interfaces.gl" group="151" frame="16" framenum="3"/> 	
         		
-        		<item id="5" type="CheckBox" style="0" rect="150,377,200,20" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,204,165,10">自动开启下一个宝盒<Tip>选中该选项,当你成功“提取”物品后,背包中依旧有钥匙,自动开启下一个宝盒.选中此选项,将关闭宝盒开启特效</Tip></item>
+        		<item id="5" type="CheckBox" style="0" rect="110,372,200,20" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,204,165,10">自动开启下一个宝盒<Tip>选中该选项,当你成功“提取”物品后,背包中依旧有钥匙,自动开启下一个宝盒.选中此选项,将关闭宝盒开启特效</Tip></item>
         </controls>
     </dialog>
 </gui>

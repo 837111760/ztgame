@@ -14,7 +14,7 @@
             <item id="22" type="Static" style="0" rect="-41,261,200,21" hotkey="" isdefault="1" color="255,255,255,255" textcolor="255,255,255,255" >请输入新封号：</item>
              <item id="23" type="Static" style="0" rect="-43,284,300,21" hotkey="" isdefault="1" color="255,0,255,0" textcolor="255,0,255,0" >（不输入任何字符则取消原封号）</item>
            
-            <item id="5" type="EditBox" style="0" rect="-42,310,305,25" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" maxCharCount="16" caretcolor="255,255,255,255" />
+            <item id="5" type="EditBox" style="200" rect="-42,310,305,25" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" maxCharCount="16" caretcolor="255,255,255,255" />
             
             <item id="6" type="Button" style="0" rect="-5,348,70,29" hotkey="0" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255">确定</item>
             

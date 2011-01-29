@@ -51,9 +51,9 @@ end
                 
             <item id="1" type="Static" rect="7,-29,235,56" style="0" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255">要买或修理些什么吗？当然你也可以卖给一些东西。</item>					
             <item id="2" type="Table" rect="-45,-3,303,281" cellWidth="35" cellHeight="35" rowCount="18" showRowCount="8" colCount="8" style="0" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" virtual="0" itemrect="0,0,0,0" />			
-            <item id="1000" type="Button" style="0" rect="172,-36,100,29" hotkey="0" isdefault="0" color="255,255,255,255" textcolor="255,204,165,10">宝贝充值<Tip>用工资余额为替身宝贝充值</Tip>
+            <item id="1000" type="Button" style="0" rect="172,-36,100,29" hotkey="0" isdefault="0" color="255,255,255,255" textcolor="255,204,165,10">宝贝充值<Tip>用工资余额为替身宝贝充值（达到60级才能使用工资进行消费）</Tip>
             </item>
-            <item id="1001" type="Static" rect="4,-30,100,20" style="0" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,204,165,10">工资余额：<Tip>用工资余额可在这里购买高级道具和物品，为替身宝贝充值</Tip></item>
+            <item id="1001" type="Static" rect="4,-30,100,20" style="0" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,204,165,10">工资余额：<Tip>用工资余额可在这里购买高级道具和物品，为替身宝贝充值（达到60级才能使用工资进行消费）</Tip></item>
             <item id="1002" type="EditBox" style="10" rect="73,-32,90,25" hotkey="" isdefault="1" color="255,255,255,255" maxCharCount="16" textcolor="255,255,255,255" caretcolor="255,255,255,255" />
         </controls>
     </dialog>

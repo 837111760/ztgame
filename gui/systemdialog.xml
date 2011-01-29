@@ -77,7 +77,7 @@
 		this:AddControl2TabByID(4,3,405)
 		this:AddControl2TabByID(4,3,406)
 		this:AddControl2TabByID(4,3,407)
-                this:AddControl2TabByID(4,3,408)
+        this:AddControl2TabByID(4,3,408)
 		this:AddControl2TabByID(4,4,500)
 		this:AddControl2TabByID(4,4,501)
 		this:AddControl2TabByID(4,4,502)

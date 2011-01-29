@@ -27,7 +27,7 @@
 	end
 	</script>
         <controls>  
-        <item id="1" type="Static" style="0" rect="30,30,260,20" textcolor="255,0,255,0" hotkey="" isdefault="0" color="255,255,255,255">兑率    每 1个 点数兑换  1个金子</item>
+        <item id="1" type="Static" style="0" rect="30,30,260,20" textcolor="255,0,255,0" hotkey="" isdefault="0" color="255,255,255,255">兑率    每 1个 点数兑换  1文金子</item>
         <item id="2" type="Static" style="0" rect="60,60,70,20" textcolor="255,0,255,0" hotkey="" isdefault="0" color="255,255,255,255">您将支付</item>
         <item id="3" type="Static" style="0" rect="60,90,70,20" textcolor="255,0,255,0" hotkey="" isdefault="0" color="255,255,255,255">您想换取</item>
         <item id="4" type="Static" style="0" rect="60,120,70,20" textcolor="255,0,255,0" hotkey="" isdefault="0" color="255,255,255,255">剩余点数</item>

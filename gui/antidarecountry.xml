@@ -13,6 +13,7 @@
             <item id="2" type="ListBox" style="0" rect="-13,25,249,214" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255"></item>
             <item id="3" type="Button" style="2" rect="0,247,70,29" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255">确定</item>
             <item id="4" type="Button" style="2" rect="160,248,70,29" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255">取消</item>
+            <item id="5" type="Button" style="2" rect="80,247,70,29" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255">反悔</item>
         </controls>
         
         <script>function OnGuiEvent(nEvent,nID,pControl)

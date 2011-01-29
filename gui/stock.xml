@@ -21,16 +21,18 @@
                     <item>卖出查询</item>
                 </datas>
             </item>
-            <item id="2" type="ListBox" style="A" rect="463,78,313,144" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" itemheight="25"></item>
+            <item id="2" type="ListBox" style="A" rect="463,78,313,144" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" itemheight="25"><Tip>双击鼠标左键，可快速买入金子</Tip></item>
             <item id="3" type="Button" style="0" rect="765,11,0,0" isdefault="0" pack="data\interfaces.gl" group="6" frame="36" bitmapbutton="1" framenum="3" hotkey=""><Tip>关闭</Tip></item>
             <item id="4" type="Static" style="0" rect="74,427,145,22" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255"></item>
             <item id="5" type="Static" style="0" rect="266,427,145,22" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255"></item>
-            <item id="6" type="ListBox" style="A" rect="463,222,313,144" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" itemheight="25"></item>
+            <item id="6" type="ListBox" style="A" rect="463,222,313,144" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" itemheight="25"><Tip>双击鼠标左键，可快速卖出金子</Tip></item>
 			<item id="10" type="Button" style="0" rect="0,0,70,29" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" pack="data\interfaces.gl" group="65" frame="1" bitmapbutton="1" framenum="3"/>
             <item id="11" type="Button" style="0" rect="0,0,70,29" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" pack="data\interfaces.gl" group="65" frame="4" bitmapbutton="1" framenum="3"><Tip>个人股票帐户，可在此帐户内存入和取出资金</Tip></item>
             <item id="12" type="Button" style="0" rect="0,0,70,29" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" pack="data\interfaces.gl" group="65" frame="7" bitmapbutton="1" framenum="3"><Tip>以个人股票帐户内的资金为操作对象，买入或卖出金子，然后把每笔操作提交给系统作自由交易</Tip></item> 
             <item id="13" type="Button" style="0" rect="0,0,70,29" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" pack="data\interfaces.gl" group="65" frame="10" bitmapbutton="1" framenum="3"><Tip>个人提交给系统的委托交易单，在未成功交易的前提下，可对每笔委托单进行终止交易操作</Tip></item>           
-            <item id="14" type="Button" style="0" rect="0,0,70,29" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" pack="data\interfaces.gl" group="65" frame="13" bitmapbutton="1" framenum="3"><Tip>可查询你在最近2个月内买入金子和卖出金子的交易记录</Tip></item>
+            <item id="14" type="Button" style="0" rect="0,0,70,29" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" pack="data\interfaces.gl" group="65" frame="13" bitmapbutton="1" framenum="3"><Tip>可查询你在最近2个月内买入金子和卖出金子的交易记录</Tip></item>  
+                     
+            
             <item id="15" type="Button" style="0" rect="0,0,70,29" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" pack="data\interfaces.gl" group="66" frame="7" bitmapbutton="1" framenum="3"><Tip>取出股票帐户里的资金放入包裹中</Tip></item>
             <item id="16" type="Button" style="0" rect="0,0,70,29" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" pack="data\interfaces.gl" group="66" frame="1" bitmapbutton="1" framenum="3"><Tip>把包裹中的资金冲入到股票帐户内</Tip></item>
             <item id="17" type="Button" style="0" rect="0,0,70,29" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" pack="data\interfaces.gl" group="67" frame="5" bitmapbutton="1" framenum="3"><Tip>设定好买1两金的价格，再输入购买金子的数量，可把买单委托给系统作自由交易</Tip></item>

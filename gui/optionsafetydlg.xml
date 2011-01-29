@@ -38,14 +38,13 @@
 	{GUI_CONTROL_TAB,"Tab"},
 	{GUI_CONTROL_CLOSEBOX,"CloseBox"},
 };-->   
-          
-        
-        
-            <item id="1" type="CheckBox" style="0" rect="10,112,160,20" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,204,165,10">已绑定装备和角色<Tip>选中后对已绑定的装备和50级以上角色进行保护，不得将装备拆除和售给NPC，不得删除人物角色</Tip></item> 
+       
+            <item id="1" type="CheckBox" style="0" rect="10,112,200,20" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,204,165,10">已绑定神圣装备和角色<Tip>选中后对已绑定的神圣装备和50级以上角色进行保护，不得将装备拆除和售给NPC，不得删除人物角色</Tip></item> 
+
             
             <item id="2" type="CheckBox" style="0" rect="10,142,280,20" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,204,165,10">第二、第三仓库<Tip>选中后不能取出第二、第三仓库中的物品，可以往里面放物品，且放入的物品也将受到保护</Tip></item>
       
-            <item id="3" type="CheckBox" style="0" rect="10,172,200,20" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,204,165,10">金币和股票交易<Tip>选中后对金币的一切操作被禁止，不能进行股票市场的任何操作</Tip></item>
+            <item id="3" type="CheckBox" style="0" rect="10,172,250,20" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,204,165,10">金币、股票交易和功勋丹交易<Tip>选中后对金币的一切操作被禁止，不能进行股票市场和功勋丹市场的任何操作</Tip></item>
             <item id="4" type="CheckBox" style="0" rect="10,202,220,20" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,204,165,10">不允许给替身宝宝自动充值<Tip>选中后不允许给替身宝宝自动充值</Tip></item>
             <item id="5" type="CheckBox" style="0" rect="10,232,220,20" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,204,165,10">高级钱庄老板处领取礼品<Tip>选中后不允许在高级钱庄老板处领取礼品</Tip></item>
             <item id="6" type="CheckBox" style="0" rect="10,262,220,20" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,204,165,10">邮件和拍卖<Tip>选中后不允许使用邮件和拍卖功能</Tip></item>
