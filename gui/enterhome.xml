@@ -11,8 +11,8 @@
         <controls>
             <item id="3" type="EditBox" style="80" rect="22,61,240,26" isdefault="1" color="255,255,255,255" textcolor="255,255,255,255" maxCharCount="32" caretcolor="255,255,255,255"/>
         	  
-        		<item id="1" type="Button" style="0" rect="40,287,88,29" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,246,201,3">造访</item>
-            <item id="2" type="Button" style="0" rect="165,287,70,29" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,246,201,3">退出</item>
+        		<item id="1" type="Button" style="0" rect="40,287,88,29" hotkey="Enter" isdefault="0" color="255,255,255,255" textcolor="255,246,201,3">造访</item>
+            <item id="2" type="Button" style="0" rect="165,287,70,29" hotkey="Esc" isdefault="0" color="255,255,255,255" textcolor="255,246,201,3">退出</item>
 
             <item id="4" type="ListBox" style="0" rect="22,109,240,170" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" />
 						

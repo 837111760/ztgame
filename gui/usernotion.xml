@@ -15,9 +15,9 @@
         	<item id="2" type="Button" sound="10107" style="0" rect="-104,-2,-70,29" hotkey="" bitmapbutton="1" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" pack="data\interfaces.gl" group="58" frame="323" framenum="3"/> 		<!--关闭-->		<!--关闭-->	 
         	
         	           
-            <item id="3" type="Button" style="2" rect="300,498,70,29" hotkey="" isdefault="0"  color="255,255,255,255" textcolor="255,255,255,255">提交</item>
+            <item id="3" type="Button" style="2" rect="300,530,70,29" hotkey="" isdefault="0"  color="255,255,255,255" textcolor="255,255,255,150">提交</item>
 
-            <item id="5" type="Button" style="2" rect="530,118,70,29" hotkey="" isdefault="0"  color="255,255,255,255" textcolor="255,255,255,255">重置</item>
+            <item id="5" type="Button" style="2" rect="550,103,70,29" hotkey="" isdefault="0"  color="255,255,255,255" textcolor="255,255,255,150">重置</item>
 <!--
             <item id="10" type="CheckBox" style="5"  isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" rect="40,55,700,24">自动充值如背包中金子数目小于10两，\n将无法自动冲值如背包中金子数目小于10两，将无法自动冲值如背包中金子数目小于10两，将无法自动冲值</item>
             <item id="11" type="CheckBox" style="0"  isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" rect="40,115,345,24"></item>
@@ -51,7 +51,8 @@
 			<item id="41" type="ScrollBar" style="1" rect="632,101,33,464" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" pack="data\interfaces.gl" group="26" frame="3"></item>
 			<!--
 			<item id="41" type="ScrollBar" style="10" rect="0,0,0,0" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" pack="data\interfaces.gl" group="26" frame="3"></item>
-			-->
+			-->		
+			
         </controls>
         <script>function OnGuiEvent(nEvent,nID,pControl) 
 			return false
