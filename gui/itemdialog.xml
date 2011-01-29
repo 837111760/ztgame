@@ -68,7 +68,6 @@ end
 			</item> 
 			<item id="5" type="Button" style="0" rect="0,0,70,29" isdefault="0" pack="data\interfaces.gl" group="4" frame="1" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"/>
 			<item id="7" type="Button" style="0" rect="230,118,70,29" isdefault="0" pack="data\interfaces.gl" group="-1" frame="-1" bitmapbutton="0" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255">安全时限<Tip>每次上线后，在安全时限之内不能进行某些购买、出售以及邮寄的操作</Tip></item>
-			<item id="8" type="Button" style="0" rect="140,118,70,29" isdefault="0" pack="data\interfaces.gl" group="-1" frame="-1" bitmapbutton="0" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255">随身功能<Tip>随身功能，可购买物品</Tip></item>
 			<!--显示装备  -->
 			<item id="6" type="Button" style="0" rect="0,0,70,29" isdefault="0" pack="data\interfaces.gl" group="4" frame="7" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"/>
 			<!--隐藏装备 -->
@@ -78,10 +77,6 @@ end
 			<!--
 		  <item id="20" type="EditBox" style="1a" rect="134,453,200,19" textcolor="255,255,255,255" hotkey="" isdefault="0" color="255,255,255,255" maxCharCount="1024" caretcolor="255,255,255,255" minNumber="2147483647" maxNumber="2147483647"/>
 -->
-
-			<item id="100" type="Button" style="0" rect="0,0,70,29" isdefault="0" pack="data\interfaces.gl" group="4" frame="51" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"><Tip>当前钱包的银子数量,最大上限1000锭,超过上限按1000锭计算;可开启玲珑宝盒,维持日常开销(除运镖和跑商）,并能购买随身商店中的普通杂货,购买后为绑定
-</Tip></item> 
-
 
 		  <item id="300" type="Table" rect="125,399,33,33" virtual="1" style="0" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" cellWidth="0" cellHeight="0" rowCount="0" showRowCount="0" colCount="0" itemrect="125,399,33,33">包裹1</item>
 			<item id="301" type="Table" rect="207,399,33,33" virtual="1" style="0" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" cellWidth="0" cellHeight="0" rowCount="0" showRowCount="0" colCount="0" itemrect="207,399,33,33">包裹2</item>

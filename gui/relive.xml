@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="gb2312" ?>
 <gui>
-    <dialog id="100" name="Relive" style="5" caption="" rect="490,274,200,230" colortopleft="255,98,138,206" colortopright="255,54,105,192" colorbottomleft="255,54,105,192" colorbottomright="255,10,73,179" align="10">
+    <dialog id="100" name="Relive" style="5" caption="" rect="490,274,200,360" colortopleft="255,98,138,206" colortopright="255,54,105,192" colorbottomleft="255,54,105,192" colorbottomright="255,10,73,179" align="10">
         <controls>
 			<item id="2" type="Button" style="0" rect="19,60,0,0" isdefault="0" pack="data\interfaces.gl" group="70" frame="0" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"/>
 			<item id="3" type="Button" style="0" rect="19,100,0,0" isdefault="0" pack="data\interfaces.gl" group="70" frame="3" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"/>
