@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="GB2312"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by VinsonGong (GongWenBing) -->
+<!--// Dialog Style:
+#define GUI_WS_TOPMOST		0x1
+#define GUI_WS_BOTTOMMOST	0x2
+#define GUI_WS_NOMOVE		0x4
+#define GUI_WS_RESIZEING	0x8
+#define GUI_WS_CLOSEBOX		0x10-->
+<gui>   
+     <dialog id="201" name="changeHorseFace"  showsoundindex="10104"  style="10" caption="坐骑造型更换" rect="0,0,0,0" colortopleft="255,98,138,206" colortopright="255,54,105,192" colorbottomleft="255,54,105,192" colorbottomright="255,10,73,179" align="11" ><!--
+     <dialog id="52" name="GuiPetDialog" style="10" caption="宠物" icon="0" rect="317,109,390,550" colortopleft="255,98,138,206" colortopright="255,54,105,192" colorbottomleft="255,54,105,192" colorbottomright="255,10,73,179" align="12" showsoundindex="10109">-->
+         <controls>         
+         
+         <item id="1" type="Image" style="2" rect="-4,-115,390,550" isdefault="0" color="150,255,255,255" textcolor="150,255,255,255" backgroud="1" pack="data\interfaces.gl" group="25" frame="0" > </item>
+         
+         <item id="2" type="Image" style="2" rect="32,90,40,40" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" backgroud="0" pack="data\icons.gl" group="4" frame="113"/>
+         
+         <item id="10" type="Button" sound="10107" style="0" rect="60,358,70,29" hotkey="" bitmapbutton="1" isdefault="0" color="150,255,255,255" textcolor="255,255,255,255" pack="data\interfaces.gl" group="25" frame="45" framenum="3"/>
+         <item id="11" type="Button" sound="10107" style="0" rect="339,358,70,29" hotkey="" bitmapbutton="1" isdefault="0" color="150,255,255,255" textcolor="255,255,255,255" pack="data\interfaces.gl" group="25" frame="48" framenum="3"/>
+         <item id="12" type="Button" style="2" rect="64,489,70,29" hotkey="" isdefault="0" color="255,255,255,255" textcolor="150,255,196,0">确定</item>
+         <item id="13" type="Button" style="2" rect="290,489,70,29" hotkey="" isdefault="0" color="255,255,255,255" textcolor="150,255,196,0">取消</item>
+          
+          <item id="20" type="Static" style="0" rect="64,400,300,80" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" font="1">按左右的箭头可选择合适更换的坐骑外型。注意：你只可以选择低于或等于本身携带坐骑等级的坐骑外型，完成后，请按“确定”。更换坐骑的费用为     银子。</item>
+          <item id="21" type="Static" style="0" rect="257,448,70,16" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,0,230,0" font="1">10锭</item>
+          <item id="22" type="Static" style="0" rect="170,495,70,16" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,230,230,0" font="1">费用：</item>
+          <item id="23" type="Static" style="0" rect="215,495,70,16" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,0,230,0" font="1">10锭</item>
+         
+         </controls>
+     </dialog>
+</gui>

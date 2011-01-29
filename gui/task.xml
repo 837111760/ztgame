@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<gui>
+    
+    
+    <dialog id="35" name="TaskDialog" style="10" caption="当前任务列表" rect="319,119,386,530" colortopleft="255,98,138,206" colortopright="255,54,105,192" colorbottomleft="255,54,105,192" colorbottomright="255,10,73,179" align="12">
+        
+        
+        <controls>
+            
+            
+            <item id="0" type="Image" style="2" rect="0,0,386,530" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" pack="data\interfaces.pak" group="21" frame="6" backgroud="1" />
+			
+            
+            <item id="1" type="Tab" style="2" rect="0,0,0,0" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" align="1">
+			
+                
+                <datas>
+                    <item>主线</item>
+                    <item>支线</item>
+                    <item>检索</item>
+                </datas>
+			
+            
+            </item>
+            
+            
+            <item id="2" type="ListBox" style="8" rect="49,154,332,112" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255">
+                
+                <datas>
+                    <item>1.(1级) 武器选择 </item>
+                </datas>
+            
+            </item>
+            
+            
+            <item id="3" type="Button" style="0" rect="0,0,70,29" isdefault="0" pack="data\interfaces.pak" group="21" frame="7" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
+            
+            
+            <item id="4" type="MLineTextBox" style="19" rect="53,296,336,183" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" /> 
+            
+            
+            <item id="5" type="Button" style="0" rect="0,0,70,29" isdefault="0" pack="data\interfaces.pak" group="21" frame="13" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>            
+            
+            <item id="12" type="ListBox" style="8" rect="49,154,332,112" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" />
+            
+            
+            <item id="13" type="Button" style="0" rect="0,0,70,29" isdefault="0" pack="data\interfaces.pak" group="21" frame="7" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
+            
+            
+            <item id="14" type="MLineTextBox" style="19" rect="53,296,336,183" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" /> 
+            
+            
+            <item id="15" type="Button" style="0" rect="0,0,70,29" isdefault="0" pack="data\interfaces.pak" group="21" frame="10" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
+            
+            
+            
+            <item id="20" type="Button" style="0" rect="0,0,70,29" isdefault="0" pack="data\interfaces.pak" group="21" frame="17" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
+            
+            <item id="201" type="MLineTextBox" style="19" rect="54,155,336,360" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" /> 
+                    
+            <item id="1000" type="Button" rect="140,495,70,29" style="0" isdefault="0" pack="data\interfaces.pak" group="21" frame="5" framenum="2" bitmapbutton="1" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
+            
+            
+            <item id="1001" type="Button" rect="160,495,70,29" style="0" isdefault="0" pack="data\interfaces.pak" group="21" frame="5" framenum="2" bitmapbutton="1" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
+            
+            
+            <item id="1002" type="Button" rect="180,495,70,29" style="0" isdefault="0" pack="data\interfaces.pak" group="21" frame="5" framenum="2" bitmapbutton="1" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
+            
+            
+            <item id="1003" type="Button" rect="200,495,70,29" style="0" isdefault="0" pack="data\interfaces.pak" group="21" frame="5" framenum="2" bitmapbutton="1" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
+            
+            
+            <item id="1004" type="Button" rect="220,495,70,29" style="0" isdefault="0" pack="data\interfaces.pak" group="21" frame="5" framenum="2" bitmapbutton="1" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
+            
+            
+            <item id="1010" type="Button" rect="140,495,70,29" style="0" isdefault="0" pack="data\interfaces.pak" group="21" frame="4" framenum="2" bitmapbutton="1" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
+            
+            
+            <item id="1011" type="Button" rect="160,495,70,29" style="0" isdefault="0" pack="data\interfaces.pak" group="21" frame="4" framenum="2" bitmapbutton="1" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
+            
+            
+            <item id="1012" type="Button" rect="180,495,70,29" style="0" isdefault="0" pack="data\interfaces.pak" group="21" frame="4" framenum="2" bitmapbutton="1" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
+            
+            
+            <item id="1013" type="Button" rect="200,495,70,29" style="0" isdefault="0" pack="data\interfaces.pak" group="21" frame="4" framenum="2" bitmapbutton="1" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
+            
+            
+            <item id="1014" type="Button" rect="220,495,70,29" style="0" isdefault="0" pack="data\interfaces.pak" group="21" frame="4" framenum="2" bitmapbutton="1" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
+            
+            
+            <item id="1100" type="Button" rect="140,495,70,29" style="0" isdefault="0" pack="data\interfaces.pak" group="21" frame="5" framenum="2" bitmapbutton="1" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
+            
+            
+            <item id="1101" type="Button" rect="160,495,70,29" style="0" isdefault="0" pack="data\interfaces.pak" group="21" frame="5" framenum="2" bitmapbutton="1" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
+            
+            
+            <item id="1102" type="Button" rect="180,495,70,29" style="0" isdefault="0" pack="data\interfaces.pak" group="21" frame="5" framenum="2" bitmapbutton="1" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
+            
+            
+            <item id="1103" type="Button" rect="200,495,70,29" style="0" isdefault="0" pack="data\interfaces.pak" group="21" frame="5" framenum="2" bitmapbutton="1" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
+            
+            
+            <item id="1104" type="Button" rect="220,495,70,29" style="0" isdefault="0" pack="data\interfaces.pak" group="21" frame="5" framenum="2" bitmapbutton="1" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
+            
+            
+            <item id="1110" type="Button" rect="140,495,70,29" style="0" isdefault="0" pack="data\interfaces.pak" group="21" frame="4" framenum="2" bitmapbutton="1" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
+            
+            
+            <item id="1111" type="Button" rect="160,495,70,29" style="0" isdefault="0" pack="data\interfaces.pak" group="21" frame="4" framenum="2" bitmapbutton="1" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
+            
+            
+            <item id="1112" type="Button" rect="180,495,70,29" style="0" isdefault="0" pack="data\interfaces.pak" group="21" frame="4" framenum="2" bitmapbutton="1" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
+            
+            
+            <item id="1113" type="Button" rect="200,495,70,29" style="0" isdefault="0" pack="data\interfaces.pak" group="21" frame="4" framenum="2" bitmapbutton="1" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
+            
+            
+            <item id="1114" type="Button" rect="220,495,70,29" style="0" isdefault="0" pack="data\interfaces.pak" group="21" frame="4" framenum="2" bitmapbutton="1" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
+        
+        
+        </controls>
+        
+        
+        <script>function OnGuiEvent(nEvent,nID,pControl) 			
+			return false 
+			end
+		</script>
+    
+    
+    </dialog>
+
+
+</gui>
