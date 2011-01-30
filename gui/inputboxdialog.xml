@@ -57,10 +57,10 @@ end</script>
 	{GUI_CONTROL_TAB,"Tab"},
 	{GUI_CONTROL_CLOSEBOX,"CloseBox"},
 };-->
-            <item id="1" type="Static" style="0" rect="21,10,270,48" textcolor="255,0,255,0" hotkey="" isdefault="0" color="255,255,255,255">请输入对方名字</item>
-            <item id="2" type="EditBox" style="80" rect="20,68,256,24" hotkey="" isdefault="1" color="255,255,255,255" maxCharCount="1024" textcolor="255,255,255,255" caretcolor="255,255,255,255" />
-            <item id="5" type="Button" style="0" rect="69,95,51,30" hotkey="Enter" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255">确定</item>
-            <item id="6" type="Button" style="0" rect="174,95,51,30" hotkey="Esc" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255">取消</item>
+            <item id="1" type="Static" style="0" rect="21,10,238,32" textcolor="255,0,255,0" hotkey="" isdefault="0" color="255,255,255,255">请输入对方名字</item>
+            <item id="2" type="EditBox" style="80" rect="20,50,256,24" hotkey="" isdefault="1" color="255,255,255,255" maxCharCount="1024" textcolor="255,255,255,255" caretcolor="255,255,255,255" />
+            <item id="5" type="Button" style="0" rect="69,88,51,30" hotkey="Enter" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255">确定</item>
+            <item id="6" type="Button" style="0" rect="174,88,51,30" hotkey="Esc" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255">取消</item>
         </controls>
     </dialog>
 </gui>

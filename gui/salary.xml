@@ -17,7 +17,7 @@
         <controls>
             <item id="0" type="Image" style="2" rect="0,0,390,549" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" pack="data\interfaces.gl" group="27" frame="0" backgroud="1" />
             <item id="1" type="Static" style="0" rect="159,122,150,50" hotkey="" isdefault="0"  font = "2" color="255,255,255,0" textcolor="255,255,255,0">领取工资</item>   
-            <item id="2" type="Static" style="0" rect="60,198,290,50" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255">60级以上玩家均可在（福利姐姐）处领取自己上月的工资。（每次领取将消耗4000点荣誉值）</item>  
+            <item id="2" type="Static" style="0" rect="60,198,290,50" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255">60级以上玩家均可在（福利姐姐）处领取自己上月的工资。（每次领取将消耗4800点荣誉值）</item>  
             <item id="3" type="Static" style="0" rect="60,248,290,50" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255">每月工资数额取决于您当前的等级和该月的在线时长。</item>            
             <item id="8" type="Static" style="0" rect="60,180,290,50" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255">每月1日 0：00---8日0：00，</item>   
             

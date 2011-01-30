@@ -69,9 +69,6 @@ end
             <item id="15" type="Button" style="0" rect="419,200,88,29" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,246,201,3">打扫房间<Tip>你的家每天都需要打扫！好好照看，就会提高房屋的成长度噢！</Tip></item>
             <item id="18" type="Button" style="0" rect="419,232,88,29" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,246,201,3">房屋帮助</item>
             <item id="19" type="Button" style="0" rect="419,264,88,29" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,246,201,3">新手帮助</item>
-            
-            <item id="50" type="Button" style="0" rect="419,296,88,29" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,246,201,3">展示房屋<Tip>点击展示房屋按钮可将你的房屋展示给你的朋友</Tip></item>
-
         		<item id="14" type="Button" style="0" rect="469,378,70,29" hotkey="Esc" isdefault="0" color="255,255,255,255" textcolor="255,246,201,3">退出</item>
         		<item id="16" type="Button" style="0" rect="90,342,88,29" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,246,201,3">全部收起</item>
             <item id="17" type="Button" style="0" rect="178,342,88,29" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,246,201,3">收起<Tip>快捷键：F3  点击按钮后，鼠标将变为手的形态，可以收起房间中的任意一件家具</Tip></item>

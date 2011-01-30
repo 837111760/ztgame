@@ -9,7 +9,7 @@
                          
          <item id="2" type="Button" style="2" rect="44,107,200,29" hotkey="" isdefault="1" color="255,255,255,255" textcolor="255,239,196,0">保护设置<Tip>设置需要保护的具体内容</Tip></item>
          
-         <item id="3" type="Button" style="2" rect="44,145,200,29" hotkey="" isdefault="1" color="255,255,255,255" textcolor="255,239,196,0">临时取消<Tip>可以让系统暂时取消对您的财产所作的保护(对已绑定神圣装备和角色的保护不能被临时取消)，并在您下线后自动为您恢复保护的功能</Tip></item>
+         <item id="3" type="Button" style="2" rect="44,145,200,29" hotkey="" isdefault="1" color="255,255,255,255" textcolor="255,239,196,0">临时取消<Tip>可以让系统暂时取消对您的财产所作的保护(对已绑定装备和角色的保护不能被临时取消)，并在您下线后自动为您恢复保护的功能</Tip></item>
 
 	<item id="5" type="Button" style="2" rect="44,183,200,29" hotkey="" isdefault="1" color="255,255,255,255" textcolor="255,239,196,0">修改密码<Tip>对财产保护密码进行修改</Tip></item>
 	<item id="6" type="Button" style="2" rect="44,221,200,29" hotkey="" isdefault="1" color="255,255,255,255" textcolor="255,239,196,0">取消密码<Tip>申请取消您现在的财产保护密码，7日后生效</Tip></item>

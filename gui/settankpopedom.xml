@@ -18,8 +18,8 @@
 				
 				<item id="5" type="Button" style="0" rect="234,209,70,29" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255">加入</item>
         <item id="6" type="Button" style="0" rect="234,316,70,29" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255">移除</item>
-        <item id="9" type="Static" style="10" rect="31,129,300,16" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,0,255,137">能领用家族战车成员</item>
-        <item id="12" type="Static" style="10" rect="331,129,300,16" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,0,255,137">不能领用战车家族成员</item>
+        <item id="9" type="Static" style="10" rect="31,129,300,16" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,0,255,137">能领用战车成员</item>
+        <item id="12" type="Static" style="10" rect="331,129,200,16" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,0,255,137">家族成员列表</item>
 
 				</controls>
         <script>function OnGuiEvent(nEvent,nID,pControl) 

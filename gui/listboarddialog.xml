@@ -22,8 +22,7 @@ end
          
          <item id="100" type="ListBox" style="a" rect="25,80,180,100" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" itemheight="20"></item>
          <item id="101" type="ListBox" style="8" rect="235,140,495,420" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" itemheight="25"></item>
-
-         <item id="102" type="ListBox" style="8" rect="235,140,495,420" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" itemheight="25"></item>         
+         <item id="102" type="ListBox" style="8" rect="235,140,495,420" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" itemheight="25"></item>
          </controls>
      </dialog>
 </gui>

@@ -9,8 +9,8 @@
 #define GUI_WS_MODAL		0x20
 #define Gui_WS_NOSKIN		0x40
 #define GUI_WS_AUTOANCHOR	0x80 // вт╤╞мё©©-->
-<gui> <!-- 144 -->
-	<dialog id="34" name="FloatDialog" style="144" rect="151,180,286,155" colortopleft="255,98,138,206" colortopright="255,54,105,192" colorbottomleft="255,54,105,192" colorbottomright="255,10,73,179" align="0">
+<gui>
+	<dialog id="34" name="FloatDialog" style="144" rect="151,180,250,155" colortopleft="255,98,138,206" colortopright="255,54,105,192" colorbottomleft="255,54,105,192" colorbottomright="255,10,73,179" align="0">
 		<!--#define EVENT_BUTTON_CLICKED                100
 
 #define EVENT_COMBOBOX_SELECTION_CHANGED    200
@@ -88,7 +88,7 @@ end
 	{GUI_CONTROL_TAB,"Tab"},
 	{GUI_CONTROL_CLOSEBOX,"CloseBox"},
 };-->
-			<item id="1" type="Image" style="2" rect="0,0,0,0" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" backgroud="1" pack="data\interfaces.gl" group="1" frame="92"/> 
+			<item id="1" type="Image" style="2" rect="0,0,0,0" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" backgroud="1" pack="data\interfaces.gl" group="1" frame="92"/>
 			<item id="11" type="Button" style="0" rect="0,0,0,0" isdefault="0" pack="data\interfaces.gl" group="1" frame="1" bitmapbutton="1" framenum="3" hotkey="K">
 				<Tip>╟зл╞(K)</Tip>
 			</item>

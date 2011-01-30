@@ -3,29 +3,27 @@
     <dialog id="52" name="GuiPetDialog" style="10" caption="宠物" icon="0" rect="317,109,390,550" colortopleft="255,98,138,206" colortopright="255,54,105,192" colorbottomleft="255,54,105,192" colorbottomright="255,10,73,179" align="12" showsoundindex="10109">
         <controls>
 			<item id="15" type="CheckBox" style="0"  isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" rect="67,192,95,24">自动充值<Tip>如背包中金子数目小于10两，将无法自动冲值。</Tip></item>        
- 			<item id="16" type="CheckBox" style="0"  isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" rect="67,248,130,24">同级人物领养<Tip>选中则默认为系统帮助您找同级人物领养宝宝。如果两个替身宝贝都选择了该选项，先选中的替身宝贝可被领养，后选中的替身宝贝则处于收起状态。</Tip></item>        
- 			<item id="17" type="CheckBox" style="0"  isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" rect="67,220,140,24">高你30级人领养<Tip>选中则默认为系统帮助您找高你30级人领养宝宝。如果两个替身宝贝都选择了该选项，先选中的替身宝贝可被领养，后选中的替身宝贝则处于收起状态。</Tip></item>        
+ 			<item id="16" type="CheckBox" style="0"  isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" rect="67,248,130,24">同级人物领养<Tip>选中则默认为系统帮助您找同级人物领养宝宝。如果两个替身宝贝都选择了该选项，先选中的替身宝贝可被领养，后选中的替身宝贝则处于收起状态。被领养超过12小时，将以4倍效率获得经验，每日零点重新开始计时。</Tip></item>        
+ 			<item id="17" type="CheckBox" style="0"  isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" rect="67,220,140,24">高你30级人领养<Tip>选中则默认为系统帮助您找高你30级人领养宝宝。如果两个替身宝贝都选择了该选项，先选中的替身宝贝可被领养，后选中的替身宝贝则处于收起状态。被领养超过12小时，将以4倍效率获得经验，每日零点重新开始计时。</Tip></item>        
             <item id="0" type="Image" style="2" rect="-4,-115,390,550" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" pack="data\interfaces.gl" group="25" frame="0" backgroud="1" />
             <item id="1" type="Tab" style="2" rect="0,0,0,0" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" align="1">
                 <datas>
                     <item>马匹</item>
                     <item>宠物</item>
                     <item>保镖</item>
-                    <item>替身Ⅰ</item>
-                    <item>替身Ⅱ</item>
+                    <item>替身</item>
                 </datas>
             </item>
             <item id="2" type="Button" style="0" rect="0,0,0,0" isdefault="0" pack="data\interfaces.gl" group="25" frame="1" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
             <item id="3" type="Button" style="0" rect="0,0,0,0" isdefault="0" pack="data\interfaces.gl" group="25" frame="4" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
             <item id="4" type="Button" style="0" rect="0,0,0,0" isdefault="0" pack="data\interfaces.gl" group="25" frame="7" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>	
-            <item id="5" type="Button" style="0" rect="0,0,0,0" isdefault="0" pack="data\interfaces.gl" group="60" frame="54" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
-            <item id="6" type="Button" style="0" rect="0,0,0,0" isdefault="0" pack="data\interfaces.gl" group="60" frame="57" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
+            <item id="5" type="Button" style="0" rect="0,0,0,0" isdefault="0" pack="data\interfaces.gl" group="60" frame="31" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
             <item id="14" type="Image" style="2" rect="0,0,0,0" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" pack="data\icons.gl" group="-1" frame="-1" backgroud="0" />
             <item id="20" type="Button" style="0" rect="0,0,0,0" isdefault="0" pack="data\interfaces.gl" group="25" frame="10" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"><Tip>跟随</Tip></item>
 			<item id="21" type="Button" style="0" rect="0,0,0,0" isdefault="0" pack="data\interfaces.gl" group="25" frame="13" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"><Tip>弃马</Tip></item>
 			<item id="29" type="ListBox" style="8" rect="53,400,328,80" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" font="0"></item>    
 			
-			<item id="30" type="Static" style="0" rect="65,160,150,16" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,0" font="0">训练等级：<Tip>坐骑目前的训练等级。可在世外桃源-驯马师处对坐骑进行训练，训练等级越高，坐骑的能力提升越高.</Tip></item>
+			<item id="30" type="Static" style="0" rect="65,160,150,16" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,0" font="0">训练等级：<Tip>坐骑目前的训练等级。可在王城战马饲养员处对坐骑进行训练，训练等级越高，坐骑的能力提升越高。</Tip></item>
 			<item id="31" type="Static" style="0" rect="200,160,150,16" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,0" font="0">剩余时间：<Tip>坐骑训练效果剩余时间。同等级训练效果的时间可叠加。</Tip></item>
 			<item id="32" type="Static" style="0" rect="65,180,150,16" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,0" font="0">增加移动速度：<Tip>被训练后坐骑增加的移动速度。同等级的多次训练中，增加的移动速度将为训练效果的最高值。</Tip></item>
 			<!--
@@ -65,8 +63,8 @@
 			<item id="204" type="Static" style="0" rect="90,454,100,20" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255"></item>
 			<item id="205" type="Static" style="0" rect="90,470,100,20" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255"></item>
 			<item id="206" type="Static" style="0" rect="270,390,130,20" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255"></item>
-			<item id="207" type="Static" style="0" rect="255,406,150,20" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255"></item>
-			<item id="208" type="Static" style="0" rect="255,422,150,20" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255"></item>
+			<item id="207" type="Static" style="0" rect="255,406,100,20" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255"></item>
+			<item id="208" type="Static" style="0" rect="255,422,100,20" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255"></item>
 			<item id="209" type="Static" style="0" rect="255,438,100,20" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255"></item>
 			<item id="210" type="Static" style="0" rect="255,454,100,20" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255"></item>
 			<item id="211" type="Static" style="0" rect="255,470,100,20" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255"></item>
@@ -74,13 +72,13 @@
 			<item id="213" type="Button" style="0" rect="0,0,0,0" isdefault="1" pack="data\interfaces.gl" group="25" frame="34" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"></item>
 			<item id="214" type="Image" style="2" rect="0,0,0,0" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" pack="data\icons.gl" group="-1" frame="-1" backgroud="0" />	
 			<item id="300" type="Button" style="0" rect="0,0,0,0" isdefault="0" pack="data\interfaces.gl" group="60" frame="1" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"><Tip>充值</Tip></item>
-			<item id="301" type="Button" style="0" rect="0,0,0,0" isdefault="0" pack="data\interfaces.gl" group="60" frame="4" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"><Tip>使当前替身宝贝跟随您，同时只能放出1只替身宝贝(放出时点自动修理按钮)</Tip></item> 
+			<item id="301" type="Button" style="0" rect="0,0,0,0" isdefault="0" pack="data\interfaces.gl" group="60" frame="4" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"><Tip>使当前替身宝贝跟随您，同时只能放出1只替身宝贝(放出时点自动修理按钮)</Tip></item>
 			<item id="302" type="Button" style="0" rect="0,0,0,0" isdefault="0" pack="data\interfaces.gl" group="60" frame="7" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"><Tip>上一个</Tip></item>
-			<item id="303" type="Button" style="0" rect="0,0,0,0" isdefault="0" pack="data\interfaces.gl" group="60" frame="10" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"><Tip>将正在处于认领或等待认领的替身宝贝收回，只有那样您才可以提取累积的经验值</Tip></item> 
-			<item id="304" type="Button" style="0" rect="0,0,0,0" isdefault="0" pack="data\interfaces.gl" group="60" frame="13" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"><Tip>下一个</Tip></item> 
+			<item id="303" type="Button" style="0" rect="0,0,0,0" isdefault="0" pack="data\interfaces.gl" group="60" frame="10" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"><Tip>将正在处于认领或等待认领的替身宝贝收回，只有那样您才可以提取累积的经验值</Tip></item>
+			<item id="304" type="Button" style="0" rect="0,0,0,0" isdefault="0" pack="data\interfaces.gl" group="60" frame="13" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"><Tip>下一个</Tip></item>
 			<item id="305" type="Button" style="0" rect="0,0,0,0" isdefault="0" pack="data\interfaces.gl" group="60" frame="16" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"><Tip>修改名字</Tip></item>
 			<item id="306" type="Button" style="0" rect="0,0,0,0" isdefault="0" pack="data\interfaces.gl" group="60" frame="19" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"><Tip>喂食</Tip></item>
-			<item id="307" type="Button" style="0" rect="0,0,0,0" isdefault="0" pack="data\interfaces.gl" group="60" frame="22" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"><Tip>替身宝宝处最多可储存40亿经验，快达到上限时，请即时提取经验，以免造成损失</Tip></item>
+			<item id="307" type="Button" style="0" rect="0,0,0,0" isdefault="0" pack="data\interfaces.gl" group="60" frame="22" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"><Tip>提取经验值</Tip></item>
 			<item id="308" type="Button" style="0" rect="0,0,0,0" isdefault="0" pack="data\interfaces.gl" group="60" frame="25" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"><Tip>收回当前正在跟随您的替身宝贝使其进入休息状态</Tip></item>
 			<item id="309" type="Button" style="0" rect="0,0,0,0" isdefault="0" pack="data\interfaces.gl" group="60" frame="28" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"><Tip>使当前替身宝贝进入等待认领状态，通过认领可以为您累积额外的经验值，只有为其充值之后才可以使用该功能</Tip></item>
 			<item id="310" type="Image" style="2" rect="30,0,0,0" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" pack="data\icons.gl" group="-1" frame="-1" backgroud="0" />
@@ -95,20 +93,7 @@
             <item id="319" type="Button" style="0" rect="0,26,0,0" isdefault="0" pack="data\interfaces.gl" group="60" frame="42" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"><Tip>关闭自动修理</Tip></item>
             
             <item id="320" type="Button" style="0" rect="242,411,70,29" isdefault="0" pack="data\interfaces.gl" group="60" frame="45" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"><Tip>替身宝宝自动领养功能，您下线后将由系统为你寻找角色领养替身宝宝，更快捷的获得经验。</Tip></item>
-            <item id="321" type="Button" style="0" rect="242,411,70,29" isdefault="0" pack="data\interfaces.gl" group="60" frame="48" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"><Tip>关闭系统自动领养</Tip></item>   
-		        
-		        
-		        <item id="1000" type="Table" rect="326,348,33,33" virtual="1" style="0" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" cellWidth="0" cellHeight="0" rowCount="0" showRowCount="0" colCount="0" itemrect="326,348,33,33">马脚</item>
-        		<item id="1001" type="Table" rect="287,348,33,33" virtual="1" style="0" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" cellWidth="0" cellHeight="0" rowCount="0" showRowCount="0" colCount="0" itemrect="287,348,33,33">马绳</item>
-						<item id="1002" type="Table" rect="248,348,33,33" virtual="1" style="0" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" cellWidth="0" cellHeight="0" rowCount="0" showRowCount="0" colCount="0" itemrect="248,348,33,33">马鞍</item>
-						<item id="1003" type="Table" rect="209,348,33,33" virtual="1" style="0" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" cellWidth="0" cellHeight="0" rowCount="0" showRowCount="0" colCount="0" itemrect="209,348,33,33">护马铠</item>
-						<item id="1004" type="Table" rect="170,348,33,33" virtual="1" style="0" hotkey="" isdefault="0" color="255,255,255,255" textcolor="255,255,255,255" cellWidth="0" cellHeight="0" rowCount="0" showRowCount="0" colCount="0" itemrect="170,348,33,33">马镫</item>
-        
-        
-        </controls>
-       
-   
-
+            <item id="321" type="Button" style="0" rect="242,411,70,29" isdefault="0" pack="data\interfaces.gl" group="60" frame="48" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"><Tip>关闭系统自动领养</Tip></item>        </controls>
         <script>
         function OnGuiEvent(nEvent,nID,pControl) 
 			return false
