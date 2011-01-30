@@ -68,6 +68,7 @@ end
 			</item> 
 			<item id="5" type="Button" style="0" rect="0,0,70,29" isdefault="0" pack="data\interfaces.gl" group="4" frame="1" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"/>
 			<item id="7" type="Button" style="0" rect="230,118,70,29" isdefault="0" pack="data\interfaces.gl" group="-1" frame="-1" bitmapbutton="0" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255">安全时限<Tip>每次上线后，在安全时限之内不能进行某些购买、出售以及邮寄的操作</Tip></item>
+			<item id="8" type="Button" style="0" rect="140,118,70,29" isdefault="0" pack="data\interfaces.gl" group="-1" frame="-1" bitmapbutton="0" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255">随身功能<Tip>随身功能，可购买物品</Tip></item>
 			<!--显示装备  -->
 			<item id="6" type="Button" style="0" rect="0,0,70,29" isdefault="0" pack="data\interfaces.gl" group="4" frame="7" bitmapbutton="1" framenum="3" hotkey="" color="255,255,255,255" textcolor="255,255,255,255"/>
 			<!--隐藏装备 -->
