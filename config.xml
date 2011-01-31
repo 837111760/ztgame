@@ -30,7 +30,7 @@
 		<battle_start_level>90</battle_start_level>
 		<battle_end_level>119</battle_end_level>
                 <!--自行车锦标赛地图与bikConfig.xml中配置保持一致-->
-                <!--bikemap>中立区·世外桃源</bikemap-->
+                <bikemap>中立区·世外桃源</bikemap>
 	</global>
 	<SuperServer>
 		<!-- Specify the log filename. -->
