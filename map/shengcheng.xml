@@ -5,7 +5,7 @@
 	<!-- 区域类型定义，x和y分别指定区域左上角的坐标，width和height分别指定区域宽和高 -->
 	<!-- type指定区域的类型，类型包括1(pk安全区)、2(绝对安全区)、4(死亡重生区)、8(新手出生区) 16(竞技区) 128摆摊区域-->
 	<!-- initstate表示区域初始属性是否是隐藏的，如果是隐藏状态区域是暂时无效的  country:0表示本国 非0表示指定国家-->
-	<!--waypoint>
+	<waypoint>
 		<point x="22" y="97"/>
 		<point x="21" y="98"/>
 		<point x="22" y="98"/>
@@ -218,7 +218,7 @@
 		<dest name="shengshou2" country="6" x="288" y="178"/>
 		<dest name="shengshou2" country="6" x="288" y="177"/>
 		<dest name="shengshou2" country="6" x="288" y="178"/>
-	</waypoint-->
+	</waypoint>
 	<!-- Npc定义，x和y分别指定Npc区域左上角的坐标，width和height分别指定Npc区域宽和高 -->
 	<!--npc id="5101" name="朱全忠" width="1" height="1" x="28" y="118" num="1" interval="1800"/>
 	<npc id="5102" name="周保全" width="1" height="1" x="32" y="96" num="1" interval="1800"/-->

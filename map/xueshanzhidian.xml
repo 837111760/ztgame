@@ -16,7 +16,7 @@
 	<npc id="26625" name="夜魔使者（魔）" width="320" height="326" x="16" y="7" num="1" interval="7200"/>
 	<npc id="26625" name="夜魔使者（魔）" width="128" height="149" x="118" y="113" num="1" interval="10800"/-->
 	<!-- initstate表示区域初始属性是否是隐藏的，如果是隐藏状态区域是暂时无效的  country:0表示本国 非0表示指定国家-->
-	<!--waypoint>
+	<waypoint>
 		<point x="63" y="158"/>
 		<point x="63" y="159"/>
 		<point x="63" y="160"/>
@@ -134,7 +134,7 @@
 		<dest name="shengshou1" country="6" x="156" y="136"/>
 		<dest name="shengshou1" country="6" x="156" y="127"/>
 	</waypoint>
-	<npc id="16625" name="月魔人" width="10" height="12" x="78" y="240" num="30" interval="2" color="0,255,0,0"/>
+	<!--npc id="16625" name="月魔人" width="10" height="12" x="78" y="240" num="30" interval="2" color="0,255,0,0"/>
 	<npc id="16630" name="月魔统领" width="10" height="12" x="288" y="40" num="30" interval="2" color="0,255,0,0"/>
 	<npc id="16628" name="月魔战士" width="10" height="12" x="195" y="213" num="30" interval="2" color="0,255,0,0"/>
 	<npc id="16627" name="月魔弓手" width="10" height="12" x="222" y="59" num="20" interval="2"/>
