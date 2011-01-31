@@ -81,7 +81,7 @@ end
 				<gold type="Great" value="199"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="175,145"/>
+				<goto name="边境" pos="122,141"/>
 				<notify content="你被马车载到了边境传送者处，付了2两作为车费"/>
 				<gold type="Sub" value="200"/>
 				<var type="Set" name="state" value="-2"/>
@@ -94,7 +94,7 @@ end
 				<gold type="Great" value="199"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="175,145"/>
+				<goto name="边境" pos="122,141"/>
 				<notify content="你被马车载到了边境，付了5两作为车费"/>
 				<gold type="Sub" value="200"/>
 				<var type="Set" name="state" value="-2"/>
@@ -109,7 +109,7 @@ end
 			</conditions>
 			<actions>
 				<gold type="Sub" value="4000"/>
-				<goto name="边境" pos="175,145"/>
+				<goto name="边境" pos="122,141"/>
 				<notify content="你被马车载到了边境传送者处，付了40两作为车费"/>
 				<var type="Set" name="state" value="-2"/>
 			</actions>
@@ -123,7 +123,7 @@ end
 			</conditions>
 			<actions>
                                 <gold type="Sub" value="4000"/>
-				<goto name="边境" pos="175,145"/>
+				<goto name="边境" pos="122,141"/>
 				<notify content="你被马车载到了边境，付了40两作为车费"/>
 				<var type="Set" name="state" value="-2"/>
 			</actions>

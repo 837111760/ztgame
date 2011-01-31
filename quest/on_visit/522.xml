@@ -1936,7 +1936,7 @@ end
 				<uservar type="Less" name="newtravel" value="1"/>
 			</conditions>
 			<actions>
-				<addguard id="54035" odds1="75" id2="54081" odds2="25" map="边境" ltpos="596,628" rbpos="603,633" gold="6000" exp="0" dest="361,222"/>
+				<addguard id="54035" odds1="75" id2="54081" odds2="25" map="边境" ltpos="824,528" rbpos="832,533" gold="6000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="6000"/>
 				<var type="Set" name="gold" value="60"/>
 				<notify content="你接了一个50级镖，付了60两押金，送到边境的梁镖头处"/>
@@ -1979,7 +1979,7 @@ end
 				<uservar type="Equal" name="newtravel" value="1"/>
 			</conditions>
 			<actions>
-				<addguard id="54035" odds1="75" id2="54081" odds2="25" map="边境" ltpos="596,628" rbpos="603,633" gold="6000" exp="0" dest="361,222"/>
+				<addguard id="54035" odds1="75" id2="54081" odds2="25" map="边境" ltpos="824,528" rbpos="832,533" gold="6000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="7500"/>
 				<var type="Set" name="gold" value="75"/>
 				<notify content="你接了一个50级镖，付了75两押金，送到边境的梁镖头处"/>
@@ -2022,7 +2022,7 @@ end
 				<uservar type="Equal" name="newtravel" value="2"/>
 			</conditions>
 			<actions>
-				<addguard id="54035" odds1="75" id2="54081" odds2="25" map="边境" ltpos="596,628" rbpos="603,633" gold="7500" exp="0" dest="361,222"/>
+				<addguard id="54035" odds1="75" id2="54081" odds2="25" map="边境" ltpos="824,528" rbpos="832,533" gold="7500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="9000"/>
 				<var type="Set" name="gold" value="90"/>
 				<notify content="你接了一个50级镖，付了90两押金，送到边境的梁镖头处"/>
@@ -2065,7 +2065,7 @@ end
 				<uservar type="Equal" name="newtravel" value="3"/>
 			</conditions>
 			<actions>
-				<addguard id="54035" odds1="75" id2="54081" odds2="25" map="边境" ltpos="596,628" rbpos="603,633" gold="9000" exp="0" dest="361,222"/>
+				<addguard id="54035" odds1="75" id2="54081" odds2="25" map="边境" ltpos="824,528" rbpos="832,533" gold="9000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="10500"/>
 				<var type="Set" name="gold" value="105"/>
 				<notify content="你接了一个50级镖，付了1锭5两押金，送到边境的梁镖头处"/>
@@ -2108,7 +2108,7 @@ end
 				<uservar type="Equal" name="newtravel" value="4"/>
 			</conditions>
 			<actions>
-				<addguard id="54035" odds1="75" id2="54081" odds2="25" map="边境" ltpos="596,628" rbpos="603,633" gold="10500" exp="0" dest="361,222"/>
+				<addguard id="54035" odds1="75" id2="54081" odds2="25" map="边境" ltpos="824,528" rbpos="832,533" gold="10500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="12000"/>
 				<var type="Set" name="gold" value="120"/>
 				<notify content="你接了一个50级镖，付了1锭20两押金，送到边境的梁镖头处"/>
@@ -2152,7 +2152,7 @@ end
 				<uservar type="Equal" name="newtravel" value="5"/>
 			</conditions>
 			<actions>
-				<addguard id="54035" odds1="75" id2="54081" odds2="25" map="边境" ltpos="596,628" rbpos="603,633" gold="12000" exp="0" dest="361,222"/>
+				<addguard id="54035" odds1="75" id2="54081" odds2="25" map="边境" ltpos="824,528" rbpos="832,533" gold="12000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="13500"/>
 				<var type="Set" name="gold" value="135"/>
 				<notify content="你接了一个50级镖，付了1锭35两押金，送到边境的梁镖头处"/>
@@ -2196,7 +2196,7 @@ end
 				<uservar type="Equal" name="newtravel" value="6"/>
 			</conditions>
 			<actions>
-				<addguard id="54035" odds1="75" id2="54081" odds2="25" map="边境" ltpos="596,628" rbpos="603,633" gold="13500" exp="0" dest="361,222"/>
+				<addguard id="54035" odds1="75" id2="54081" odds2="25" map="边境" ltpos="824,528" rbpos="832,533" gold="13500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="15000"/>
 				<var type="Set" name="gold" value="150"/>
 				<notify content="你接了一个50级镖，付了1锭50两押金，送到边境的梁镖头处"/>
@@ -2241,7 +2241,7 @@ end
 				<uservar type="Less" name="newtravel" value="1"/>
 			</conditions>
 			<actions>
-				<addguard id="54035" odds1="75" id2="54081" odds2="25" map="边境" ltpos="596,628" rbpos="603,633" gold="6000" exp="0" dest="361,222"/>
+				<addguard id="54035" odds1="75" id2="54081" odds2="25" map="边境" ltpos="824,528" rbpos="832,533" gold="6000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="6000"/>
 				<var type="Set" name="gold" value="60"/>
 				<notify content="你接了一个50级镖，付了60两押金，送到边境的梁镖头处"/>
@@ -2285,7 +2285,7 @@ end
 				<uservar type="Equal" name="newtravel" value="1"/>
 			</conditions>
 			<actions>
-				<addguard id="54035" odds1="75" id2="54081" odds2="25" map="边境" ltpos="596,628" rbpos="603,633" gold="6000" exp="0" dest="361,222"/>
+				<addguard id="54035" odds1="75" id2="54081" odds2="25" map="边境" ltpos="824,528" rbpos="832,533" gold="6000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="7500"/>
 				<var type="Set" name="gold" value="75"/>
 				<notify content="你接了一个50级镖，付了75两押金，送到边境的梁镖头处"/>
@@ -2329,7 +2329,7 @@ end
 				<uservar type="Equal" name="newtravel" value="2"/>
 			</conditions>
 			<actions>
-				<addguard id="54035" odds1="75" id2="54081" odds2="25" map="边境" ltpos="596,628" rbpos="603,633" gold="7500" exp="0" dest="361,222"/>
+				<addguard id="54035" odds1="75" id2="54081" odds2="25" map="边境" ltpos="824,528" rbpos="832,533" gold="7500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="9000"/>
 				<var type="Set" name="gold" value="90"/>
 				<notify content="你接了一个50级镖，付了90两押金，送到边境的梁镖头处"/>
@@ -2373,7 +2373,7 @@ end
 				<uservar type="Equal" name="newtravel" value="3"/>
 			</conditions>
 			<actions>
-				<addguard id="54035" odds1="75" id2="54081" odds2="25" map="边境" ltpos="596,628" rbpos="603,633" gold="9000" exp="0" dest="361,222"/>
+				<addguard id="54035" odds1="75" id2="54081" odds2="25" map="边境" ltpos="824,528" rbpos="832,533" gold="9000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="10500"/>
 				<var type="Set" name="gold" value="105"/>
 				<notify content="你接了一个50级镖，付了1锭5两押金，送到边境的梁镖头处"/>
@@ -2417,7 +2417,7 @@ end
 				<uservar type="Equal" name="newtravel" value="4"/>
 			</conditions>
 			<actions>
-				<addguard id="54035" odds1="75" id2="54081" odds2="25" map="边境" ltpos="596,628" rbpos="603,633" gold="10500" exp="0" dest="361,222"/>
+				<addguard id="54035" odds1="75" id2="54081" odds2="25" map="边境" ltpos="824,528" rbpos="832,533" gold="10500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="12000"/>
 				<var type="Set" name="gold" value="120"/>
 				<notify content="你接了一个50级镖，付了1锭20两押金，送到边境的梁镖头处"/>
@@ -2462,7 +2462,7 @@ end
 				<uservar type="Equal" name="newtravel" value="5"/>
 			</conditions>
 			<actions>
-				<addguard id="54035" odds1="75" id2="54081" odds2="25" map="边境" ltpos="596,628" rbpos="603,633" gold="12000" exp="0" dest="361,222"/>
+				<addguard id="54035" odds1="75" id2="54081" odds2="25" map="边境" ltpos="824,528" rbpos="832,533" gold="12000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="13500"/>
 				<var type="Set" name="gold" value="135"/>
 				<notify content="你接了一个50级镖，付了1锭35两押金，送到边境的梁镖头处"/>
@@ -2507,7 +2507,7 @@ end
 				<uservar type="Equal" name="newtravel" value="6"/>
 			</conditions>
 			<actions>
-				<addguard id="54035" odds1="75" id2="54081" odds2="25" map="边境" ltpos="596,628" rbpos="603,633" gold="13500" exp="0" dest="361,222"/>
+				<addguard id="54035" odds1="75" id2="54081" odds2="25" map="边境" ltpos="824,528" rbpos="832,533" gold="13500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="15000"/>
 				<var type="Set" name="gold" value="150"/>
 				<notify content="你接了一个50级镖，付了1锭50两押金，送到边境的梁镖头处"/>
@@ -3453,7 +3453,7 @@ end
 				<uservar type="Less" name="newtravel" value="1"/>
 			</conditions>
 			<actions>
-				<addguard id="54036" odds1="95" id2="54082" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="10000" exp="0" dest="361,222"/>
+				<addguard id="54036" odds1="95" id2="54082" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="10000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="10000"/>
 				<var type="Set" name="gold" value="100"/>
 				<notify content="你接了一个镖，付了1锭押金，送到边境的梁镖头处"/>
@@ -3496,7 +3496,7 @@ end
 				<uservar type="Equal" name="newtravel" value="1"/>
 			</conditions>
 			<actions>
-				<addguard id="54036" odds1="95" id2="54082" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="10000" exp="0" dest="361,222"/>
+				<addguard id="54036" odds1="95" id2="54082" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="10000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="12500"/>
 				<var type="Set" name="gold" value="125"/>
 				<notify content="你接了一个70级镖，付了1锭25两押金，送到边境的梁镖头处"/>
@@ -3539,7 +3539,7 @@ end
 				<uservar type="Equal" name="newtravel" value="2"/>
 			</conditions>
 			<actions>
-				<addguard id="54036" odds1="95" id2="54082" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="12500" exp="0" dest="361,222"/>
+				<addguard id="54036" odds1="95" id2="54082" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="12500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="15000"/>
 				<notify content="你接了一个70级镖，付了1锭50两押金，送到边境的梁镖头处"/>
 				<var type="Set" name="gold" value="150"/>
@@ -3582,7 +3582,7 @@ end
 				<uservar type="Equal" name="newtravel" value="3"/>
 			</conditions>
 			<actions>
-				<addguard id="54036" odds1="95" id2="54082" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="15000" exp="0" dest="361,222"/>
+				<addguard id="54036" odds1="95" id2="54082" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="15000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="17500"/>
 				<notify content="你接了一个70级镖，付了1锭75两押金，送到边境的梁镖头处"/>
 				<var type="Set" name="gold" value="175"/>
@@ -3625,7 +3625,7 @@ end
 				<uservar type="Equal" name="newtravel" value="4"/>
 			</conditions>
 			<actions>
-				<addguard id="54036" odds1="95" id2="54082" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="17500" exp="0" dest="361,222"/>
+				<addguard id="54036" odds1="95" id2="54082" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="17500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="20000"/>
 				<var type="Set" name="gold" value="200"/>
 				<notify content="你接了一个70级镖，付了2锭押金，送到边境的梁镖头处"/>
@@ -3669,7 +3669,7 @@ end
 				<uservar type="Equal" name="newtravel" value="5"/>
 			</conditions>
 			<actions>
-				<addguard id="54036" odds1="95" id2="54082" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="20000" exp="0" dest="361,222"/>
+				<addguard id="54036" odds1="95" id2="54082" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="20000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="22500"/>
 				<var type="Set" name="gold" value="225"/>
 				<notify content="你接了一个70级镖，付了2锭25两押金，送到边境的梁镖头处"/>
@@ -3713,7 +3713,7 @@ end
 				<uservar type="Equal" name="newtravel" value="6"/>
 			</conditions>
 			<actions>
-				<addguard id="54036" odds1="95" id2="54082" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="22500" exp="0" dest="361,222"/>
+				<addguard id="54036" odds1="95" id2="54082" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="22500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="25000"/>
 				<var type="Set" name="gold" value="250"/>
 				<notify content="你接了一个70级镖，付了2锭50两押金，送到边境的梁镖头处"/>
@@ -3758,7 +3758,7 @@ end
 				<uservar type="Less" name="newtravel" value="1"/>
 			</conditions>
 			<actions>
-				<addguard id="54036" odds1="95" id2="54082" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="10000" exp="0" dest="361,222"/>
+				<addguard id="54036" odds1="95" id2="54082" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="10000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="10000"/>
 				<var type="Set" name="gold" value="100"/>
 				<notify content="你接了一个镖，付了1锭押金，送到边境的梁镖头处"/>
@@ -3802,7 +3802,7 @@ end
 				<uservar type="Equal" name="newtravel" value="1"/>
 			</conditions>
 			<actions>
-				<addguard id="54036" odds1="95" id2="54082" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="10000" exp="0" dest="361,222"/>
+				<addguard id="54036" odds1="95" id2="54082" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="10000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="12500"/>
 				<var type="Set" name="gold" value="125"/>
 				<notify content="你接了一个70级镖，付了1锭25两押金，送到边境的梁镖头处"/>
@@ -3846,7 +3846,7 @@ end
 				<uservar type="Equal" name="newtravel" value="2"/>
 			</conditions>
 			<actions>
-				<addguard id="54036" odds1="95" id2="54082" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="12500" exp="0" dest="361,222"/>
+				<addguard id="54036" odds1="95" id2="54082" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="12500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="15000"/>
 				<notify content="你接了一个70级镖，付了1锭50两押金，送到边境的梁镖头处"/>
 				<var type="Set" name="gold" value="150"/>
@@ -3890,7 +3890,7 @@ end
 				<uservar type="Equal" name="newtravel" value="3"/>
 			</conditions>
 			<actions>
-				<addguard id="54036" odds1="95" id2="54082" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="15000" exp="0" dest="361,222"/>
+				<addguard id="54036" odds1="95" id2="54082" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="15000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="17500"/>
 				<notify content="你接了一个70级镖，付了1锭75两押金，送到边境的梁镖头处"/>
 				<var type="Set" name="gold" value="175"/>
@@ -3934,7 +3934,7 @@ end
 				<uservar type="Equal" name="newtravel" value="4"/>
 			</conditions>
 			<actions>
-				<addguard id="54036" odds1="95" id2="54082" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="17500" exp="0" dest="361,222"/>
+				<addguard id="54036" odds1="95" id2="54082" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="17500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="20000"/>
 				<var type="Set" name="gold" value="200"/>
 				<notify content="你接了一个70级镖，付了2锭押金，送到边境的梁镖头处"/>
@@ -3979,7 +3979,7 @@ end
 				<uservar type="Equal" name="newtravel" value="5"/>
 			</conditions>
 			<actions>
-				<addguard id="54036" odds1="95" id2="54082" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="20000" exp="0" dest="361,222"/>
+				<addguard id="54036" odds1="95" id2="54082" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="20000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="22500"/>
 				<var type="Set" name="gold" value="225"/>
 				<notify content="你接了一个70级镖，付了2锭25两押金，送到边境的梁镖头处"/>
@@ -4024,7 +4024,7 @@ end
 				<uservar type="Equal" name="newtravel" value="6"/>
 			</conditions>
 			<actions>
-				<addguard id="54036" odds1="95" id2="54082" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="22500" exp="0" dest="361,222"/>
+				<addguard id="54036" odds1="95" id2="54082" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="22500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="25000"/>
 				<var type="Set" name="gold" value="250"/>
 				<notify content="你接了一个70级镖，付了2锭50两押金，送到边境的梁镖头处"/>
@@ -4972,7 +4972,7 @@ end
 				<uservar type="Less" name="newtravel" value="1"/>
 			</conditions>
 			<actions>
-				<addguard id="54037" odds1="95" id2="54083" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="14000" exp="0" dest="361,222"/>
+				<addguard id="54037" odds1="95" id2="54083" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="14000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="14000"/>
 				<var type="Set" name="gold" value="140"/>
 				<notify content="你接了一个镖，付了1锭40两押金，送到边境的梁镖头处"/>
@@ -5015,7 +5015,7 @@ end
 				<uservar type="Equal" name="newtravel" value="1"/>
 			</conditions>
 			<actions>
-				<addguard id="54037" odds1="95" id2="54083" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="14000" exp="0" dest="361,222"/>
+				<addguard id="54037" odds1="95" id2="54083" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="14000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="17500"/>
 				<var type="Set" name="gold" value="175"/>
 				<notify content="你接了一个镖，付了1锭75两押金，送到边境的梁镖头处"/>
@@ -5058,7 +5058,7 @@ end
 				<uservar type="Equal" name="newtravel" value="2"/>
 			</conditions>
 			<actions>
-				<addguard id="54037" odds1="95" id2="54083" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="17500" exp="0" dest="361,222"/>
+				<addguard id="54037" odds1="95" id2="54083" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="17500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="21000"/>
 				<var type="Set" name="gold" value="210"/>
 				<notify content="你接了一个镖，付了2锭10两押金，送到边境的梁镖头处"/>
@@ -5101,7 +5101,7 @@ end
 				<uservar type="Equal" name="newtravel" value="3"/>
 			</conditions>
 			<actions>
-				<addguard id="54037" odds1="95" id2="54083" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="21000" exp="0" dest="361,222"/>
+				<addguard id="54037" odds1="95" id2="54083" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="21000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="24500"/>
 				<var type="Set" name="gold" value="245"/>
 				<notify content="你接了一个镖，付了2锭45两押金，送到边境的梁镖头处"/>
@@ -5144,7 +5144,7 @@ end
 				<uservar type="Equal" name="newtravel" value="4"/>
 			</conditions>
 			<actions>
-				<addguard id="54037" odds1="95" id2="54083" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="24500" exp="0" dest="361,222"/>
+				<addguard id="54037" odds1="95" id2="54083" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="24500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="28000"/>
 				<var type="Set" name="gold" value="280"/>
 				<notify content="你接了一个镖，付了2锭80两押金，送到边境的梁镖头处"/>
@@ -5188,7 +5188,7 @@ end
 				<uservar type="Equal" name="newtravel" value="5"/>
 			</conditions>
 			<actions>
-				<addguard id="54037" odds1="95" id2="54083" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="28000" exp="0" dest="361,222"/>
+				<addguard id="54037" odds1="95" id2="54083" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="28000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="31500"/>
 				<var type="Set" name="gold" value="315"/>
 				<notify content="你接了一个镖，付了3锭15两押金，送到边境的梁镖头处"/>
@@ -5232,7 +5232,7 @@ end
 				<uservar type="Equal" name="newtravel" value="6"/>
 			</conditions>
 			<actions>
-				<addguard id="54037" odds1="95" id2="54083" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="31500" exp="0" dest="361,222"/>
+				<addguard id="54037" odds1="95" id2="54083" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="31500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="35000"/>
 				<var type="Set" name="gold" value="350"/>
 				<notify content="你接了一个镖，付了3锭50两押金，送到边境的梁镖头处"/>
@@ -5277,7 +5277,7 @@ end
 				<uservar type="Less" name="newtravel" value="1"/>
 			</conditions>
 			<actions>
-				<addguard id="54037" odds1="95" id2="54083" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="14000" exp="0" dest="361,222"/>
+				<addguard id="54037" odds1="95" id2="54083" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="14000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="14000"/>
 				<var type="Set" name="gold" value="140"/>
 				<notify content="你接了一个镖，付了1锭40两押金，送到边境的梁镖头处"/>
@@ -5321,7 +5321,7 @@ end
 				<uservar type="Equal" name="newtravel" value="1"/>
 			</conditions>
 			<actions>
-				<addguard id="54037" odds1="95" id2="54083" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="14000" exp="0" dest="361,222"/>
+				<addguard id="54037" odds1="95" id2="54083" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="14000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="17500"/>
 				<var type="Set" name="gold" value="175"/>
 				<notify content="你接了一个镖，付了1锭75两押金，送到边境的梁镖头处"/>
@@ -5365,7 +5365,7 @@ end
 				<uservar type="Equal" name="newtravel" value="2"/>
 			</conditions>
 			<actions>
-				<addguard id="54037" odds1="95" id2="54083" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="17500" exp="0" dest="361,222"/>
+				<addguard id="54037" odds1="95" id2="54083" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="17500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="21000"/>
 				<var type="Set" name="gold" value="210"/>
 				<notify content="你接了一个镖，付了2锭10两押金，送到边境的梁镖头处"/>
@@ -5409,7 +5409,7 @@ end
 				<uservar type="Equal" name="newtravel" value="3"/>
 			</conditions>
 			<actions>
-				<addguard id="54037" odds1="95" id2="54083" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="21000" exp="0" dest="361,222"/>
+				<addguard id="54037" odds1="95" id2="54083" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="21000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="24500"/>
 				<var type="Set" name="gold" value="245"/>
 				<notify content="你接了一个镖，付了2锭45两押金，送到边境的梁镖头处"/>
@@ -5453,7 +5453,7 @@ end
 				<uservar type="Equal" name="newtravel" value="4"/>
 			</conditions>
 			<actions>
-				<addguard id="54037" odds1="95" id2="54083" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="24500" exp="0" dest="361,222"/>
+				<addguard id="54037" odds1="95" id2="54083" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="24500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="28000"/>
 				<var type="Set" name="gold" value="280"/>
 				<notify content="你接了一个镖，付了2锭80两押金，送到边境的梁镖头处"/>
@@ -5498,7 +5498,7 @@ end
 				<uservar type="Equal" name="newtravel" value="5"/>
 			</conditions>
 			<actions>
-				<addguard id="54037" odds1="95" id2="54083" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="28000" exp="0" dest="361,222"/>
+				<addguard id="54037" odds1="95" id2="54083" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="28000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="31500"/>
 				<var type="Set" name="gold" value="315"/>
 				<notify content="你接了一个镖，付了3锭15两押金，送到边境的梁镖头处"/>
@@ -5543,7 +5543,7 @@ end
 				<uservar type="Equal" name="newtravel" value="6"/>
 			</conditions>
 			<actions>
-				<addguard id="54037" odds1="95" id2="54083" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="31500" exp="0" dest="361,222"/>
+				<addguard id="54037" odds1="95" id2="54083" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="31500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="35000"/>
 				<var type="Set" name="gold" value="350"/>
 				<notify content="你接了一个镖，付了3锭50两押金，送到边境的梁镖头处"/>
@@ -6490,7 +6490,7 @@ end
 				<uservar type="Less" name="newtravel" value="1"/>
 			</conditions>
 			<actions>
-				<addguard id="54038" odds1="95" id2="54084" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="18000" exp="0" dest="361,222"/>
+				<addguard id="54038" odds1="95" id2="54084" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="18000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="18000"/>
 				<var type="Set" name="gold" value="180"/>
 				<notify content="你接了一个镖，付了1锭80两押金，送到边境的梁镖头处"/>
@@ -6533,7 +6533,7 @@ end
 				<uservar type="Equal" name="newtravel" value="1"/>
 			</conditions>
 			<actions>
-				<addguard id="54038" odds1="95" id2="54084" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="18000" exp="0" dest="361,222"/>
+				<addguard id="54038" odds1="95" id2="54084" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="18000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="22500"/>
 				<var type="Set" name="gold" value="225"/>
 				<notify content="你接了一个镖，付了2锭25两押金，送到边境的梁镖头处"/>
@@ -6576,7 +6576,7 @@ end
 				<uservar type="Equal" name="newtravel" value="2"/>
 			</conditions>
 			<actions>
-				<addguard id="54038" odds1="95" id2="54084" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="22500" exp="0" dest="361,222"/>
+				<addguard id="54038" odds1="95" id2="54084" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="22500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="27000"/>
 				<var type="Set" name="gold" value="270"/>
 				<notify content="你接了一个镖，付了2锭70两押金，送到边境的梁镖头处"/>
@@ -6619,7 +6619,7 @@ end
 				<uservar type="Equal" name="newtravel" value="3"/>
 			</conditions>
 			<actions>
-				<addguard id="54038" odds1="95" id2="54084" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="27000" exp="0" dest="361,222"/>
+				<addguard id="54038" odds1="95" id2="54084" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="27000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="31500"/>
 				<var type="Set" name="gold" value="315"/>
 				<notify content="你接了一个镖，付了3锭15两押金，送到边境的梁镖头处"/>
@@ -6662,7 +6662,7 @@ end
 				<uservar type="Equal" name="newtravel" value="4"/>
 			</conditions>
 			<actions>
-				<addguard id="54038" odds1="95" id2="54084" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="31500" exp="0" dest="361,222"/>
+				<addguard id="54038" odds1="95" id2="54084" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="31500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="36000"/>
 				<var type="Set" name="gold" value="360"/>
 				<notify content="你接了一个镖，付了3锭60两押金，送到边境的梁镖头处"/>
@@ -6706,7 +6706,7 @@ end
 				<uservar type="Equal" name="newtravel" value="5"/>
 			</conditions>
 			<actions>
-				<addguard id="54038" odds1="95" id2="54084" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="36000" exp="0" dest="361,222"/>
+				<addguard id="54038" odds1="95" id2="54084" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="36000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="40500"/>
 				<var type="Set" name="gold" value="405"/>
 				<notify content="你接了一个镖，付了4锭5两押金，送到边境的梁镖头处"/>
@@ -6750,7 +6750,7 @@ end
 				<uservar type="Equal" name="newtravel" value="6"/>
 			</conditions>
 			<actions>
-				<addguard id="54038" odds1="95" id2="54084" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="40500" exp="0" dest="361,222"/>
+				<addguard id="54038" odds1="95" id2="54084" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="40500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="45000"/>
 				<var type="Set" name="gold" value="450"/>
 				<notify content="你接了一个镖，付了4锭50两押金，送到边境的梁镖头处"/>
@@ -6795,7 +6795,7 @@ end
 				<uservar type="Less" name="newtravel" value="1"/>
 			</conditions>
 			<actions>
-				<addguard id="54038" odds1="95" id2="54084" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="18000" exp="0" dest="361,222"/>
+				<addguard id="54038" odds1="95" id2="54084" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="18000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="18000"/>
 				<var type="Set" name="gold" value="180"/>
 				<notify content="你接了一个镖，付了1锭80两押金，送到边境的梁镖头处"/>
@@ -6839,7 +6839,7 @@ end
 				<uservar type="Equal" name="newtravel" value="1"/>
 			</conditions>
 			<actions>
-				<addguard id="54038" odds1="95" id2="54084" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="18000" exp="0" dest="361,222"/>
+				<addguard id="54038" odds1="95" id2="54084" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="18000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="22500"/>
 				<var type="Set" name="gold" value="225"/>
 				<notify content="你接了一个镖，付了2锭25两押金，送到边境的梁镖头处"/>
@@ -6883,7 +6883,7 @@ end
 				<uservar type="Equal" name="newtravel" value="2"/>
 			</conditions>
 			<actions>
-				<addguard id="54038" odds1="95" id2="54084" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="22500" exp="0" dest="361,222"/>
+				<addguard id="54038" odds1="95" id2="54084" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="22500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="27000"/>
 				<var type="Set" name="gold" value="270"/>
 				<notify content="你接了一个镖，付了2锭70两押金，送到边境的梁镖头处"/>
@@ -6927,7 +6927,7 @@ end
 				<uservar type="Equal" name="newtravel" value="3"/>
 			</conditions>
 			<actions>
-				<addguard id="54038" odds1="95" id2="54084" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="27000" exp="0" dest="361,222"/>
+				<addguard id="54038" odds1="95" id2="54084" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="27000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="31500"/>
 				<var type="Set" name="gold" value="315"/>
 				<notify content="你接了一个镖，付了3锭15两押金，送到边境的梁镖头处"/>
@@ -6971,7 +6971,7 @@ end
 				<uservar type="Equal" name="newtravel" value="4"/>
 			</conditions>
 			<actions>
-				<addguard id="54038" odds1="95" id2="54084" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="31500" exp="0" dest="361,222"/>
+				<addguard id="54038" odds1="95" id2="54084" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="31500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="36000"/>
 				<var type="Set" name="gold" value="360"/>
 				<notify content="你接了一个镖，付了3锭60两押金，送到边境的梁镖头处"/>
@@ -7016,7 +7016,7 @@ end
 				<uservar type="Equal" name="newtravel" value="5"/>
 			</conditions>
 			<actions>
-				<addguard id="54038" odds1="95" id2="54084" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="36000" exp="0" dest="361,222"/>
+				<addguard id="54038" odds1="95" id2="54084" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="36000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="40500"/>
 				<var type="Set" name="gold" value="405"/>
 				<notify content="你接了一个镖，付了4锭5两押金，送到边境的梁镖头处"/>
@@ -7061,7 +7061,7 @@ end
 				<uservar type="Equal" name="newtravel" value="6"/>
 			</conditions>
 			<actions>
-				<addguard id="54038" odds1="95" id2="54084" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="40500" exp="0" dest="361,222"/>
+				<addguard id="54038" odds1="95" id2="54084" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="40500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="45000"/>
 				<var type="Set" name="gold" value="450"/>
 				<notify content="你接了一个镖，付了4锭50两押金，送到边境的梁镖头处"/>
@@ -8010,7 +8010,7 @@ end
 				<uservar type="Less" name="newtravel" value="1"/>
 			</conditions>
 			<actions>
-				<addguard id="54061" odds1="95" id2="54085" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="22000" exp="0" dest="361,222"/>
+				<addguard id="54061" odds1="95" id2="54085" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="22000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="22000"/>
 				<var type="Set" name="gold" value="220"/>
 				<notify content="你接了一个镖，付了2锭20两押金，送到边境的梁镖头处"/>
@@ -8053,7 +8053,7 @@ end
 				<uservar type="Equal" name="newtravel" value="1"/>
 			</conditions>
 			<actions>
-				<addguard id="54061" odds1="95" id2="54085" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="22000" exp="0" dest="361,222"/>
+				<addguard id="54061" odds1="95" id2="54085" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="22000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="27500"/>
 				<var type="Set" name="gold" value="275"/>
 				<notify content="你接了一个镖，付了2锭75两押金，送到边境的梁镖头处"/>
@@ -8096,7 +8096,7 @@ end
 				<uservar type="Equal" name="newtravel" value="2"/>
 			</conditions>
 			<actions>
-				<addguard id="54061" odds1="95" id2="54085" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="27500" exp="0" dest="361,222"/>
+				<addguard id="54061" odds1="95" id2="54085" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="27500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="33000"/>
 				<var type="Set" name="gold" value="330"/>
 				<notify content="你接了一个镖，付了3锭30两押金，送到边境的梁镖头处"/>
@@ -8139,7 +8139,7 @@ end
 				<uservar type="Equal" name="newtravel" value="3"/>
 			</conditions>
 			<actions>
-				<addguard id="54061" odds1="95" id2="54085" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="33000" exp="0" dest="361,222"/>
+				<addguard id="54061" odds1="95" id2="54085" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="33000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="38500"/>
 				<var type="Set" name="gold" value="385"/>
 				<notify content="你接了一个镖，付了3锭85两押金，送到边境的梁镖头处"/>
@@ -8182,7 +8182,7 @@ end
 				<uservar type="Equal" name="newtravel" value="4"/>
 			</conditions>
 			<actions>
-				<addguard id="54061" odds1="95" id2="54085" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="38500" exp="0" dest="361,222"/>
+				<addguard id="54061" odds1="95" id2="54085" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="38500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="44000"/>
 				<var type="Set" name="gold" value="440"/>
 				<notify content="你接了一个镖，付了4锭40两押金，送到边境的梁镖头处"/>
@@ -8226,7 +8226,7 @@ end
 				<uservar type="Equal" name="newtravel" value="5"/>
 			</conditions>
 			<actions>
-				<addguard id="54061" odds1="95" id2="54085" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="44000" exp="0" dest="361,222"/>
+				<addguard id="54061" odds1="95" id2="54085" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="44000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="49500"/>
 				<var type="Set" name="gold" value="495"/>
 				<notify content="你接了一个镖，付了4锭95两押金，送到边境的梁镖头处"/>
@@ -8270,7 +8270,7 @@ end
 				<uservar type="Equal" name="newtravel" value="6"/>
 			</conditions>
 			<actions>
-				<addguard id="54061" odds1="95" id2="54085" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="49500" exp="0" dest="361,222"/>
+				<addguard id="54061" odds1="95" id2="54085" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="49500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="55000"/>
 				<var type="Set" name="gold" value="550"/>
 				<notify content="你接了一个镖，付了5锭50两押金，送到边境的梁镖头处"/>
@@ -8315,7 +8315,7 @@ end
 				<uservar type="Less" name="newtravel" value="1"/>
 			</conditions>
 			<actions>
-				<addguard id="54061" odds1="95" id2="54085" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="22000" exp="0" dest="361,222"/>
+				<addguard id="54061" odds1="95" id2="54085" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="22000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="22000"/>
 				<var type="Set" name="gold" value="220"/>
 				<notify content="你接了一个镖，付了2锭20两押金，送到边境的梁镖头处"/>
@@ -8359,7 +8359,7 @@ end
 				<uservar type="Equal" name="newtravel" value="1"/>
 			</conditions>
 			<actions>
-				<addguard id="54061" odds1="95" id2="54085" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="22000" exp="0" dest="361,222"/>
+				<addguard id="54061" odds1="95" id2="54085" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="22000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="27500"/>
 				<var type="Set" name="gold" value="275"/>
 				<notify content="你接了一个镖，付了2锭75两押金，送到边境的梁镖头处"/>
@@ -8403,7 +8403,7 @@ end
 				<uservar type="Equal" name="newtravel" value="2"/>
 			</conditions>
 			<actions>
-				<addguard id="54061" odds1="95" id2="54085" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="27500" exp="0" dest="361,222"/>
+				<addguard id="54061" odds1="95" id2="54085" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="27500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="33000"/>
 				<var type="Set" name="gold" value="330"/>
 				<notify content="你接了一个镖，付了3锭30两押金，送到边境的梁镖头处"/>
@@ -8447,7 +8447,7 @@ end
 				<uservar type="Equal" name="newtravel" value="3"/>
 			</conditions>
 			<actions>
-				<addguard id="54061" odds1="95" id2="54085" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="33000" exp="0" dest="361,222"/>
+				<addguard id="54061" odds1="95" id2="54085" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="33000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="38500"/>
 				<var type="Set" name="gold" value="385"/>
 				<notify content="你接了一个镖，付了3锭85两押金，送到边境的梁镖头处"/>
@@ -8491,7 +8491,7 @@ end
 				<uservar type="Equal" name="newtravel" value="4"/>
 			</conditions>
 			<actions>
-				<addguard id="54061" odds1="95" id2="54085" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="38500" exp="0" dest="361,222"/>
+				<addguard id="54061" odds1="95" id2="54085" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="38500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="44000"/>
 				<var type="Set" name="gold" value="440"/>
 				<notify content="你接了一个镖，付了4锭40两押金，送到边境的梁镖头处"/>
@@ -8536,7 +8536,7 @@ end
 				<uservar type="Equal" name="newtravel" value="5"/>
 			</conditions>
 			<actions>
-				<addguard id="54061" odds1="95" id2="54085" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="44000" exp="0" dest="361,222"/>
+				<addguard id="54061" odds1="95" id2="54085" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="44000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="49500"/>
 				<var type="Set" name="gold" value="495"/>
 				<notify content="你接了一个镖，付了4锭95两押金，送到边境的梁镖头处"/>
@@ -8581,7 +8581,7 @@ end
 				<uservar type="Equal" name="newtravel" value="6"/>
 			</conditions>
 			<actions>
-				<addguard id="54061" odds1="95" id2="54085" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="49500" exp="0" dest="361,222"/>
+				<addguard id="54061" odds1="95" id2="54085" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="49500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="55000"/>
 				<var type="Set" name="gold" value="550"/>
 				<notify content="你接了一个镖，付了5锭50两押金，送到边境的梁镖头处"/>
@@ -9562,7 +9562,7 @@ end
 				<uservar type="Less" name="newtravel" value="1"/>
 			</conditions>
 			<actions>
-				<addguard id="54062" odds1="95" id2="54086" odds2="5" map="边境"  ltpos="596,628" rbpos="603,633" gold="25000" exp="0" dest="361,222"/>
+				<addguard id="54062" odds1="95" id2="54086" odds2="5" map="边境"  ltpos="824,528" rbpos="832,533" gold="25000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="25000"/>
 				<var type="Set" name="gold" value="250"/>
 				<notify content="你接了一个镖，付了2锭50两押金，送到边境的梁镖头处 "/>
@@ -9606,7 +9606,7 @@ end
 
 			</conditions>
 			<actions>
-				<addguard id="54062" odds1="95" id2="54086" odds2="5" map="边境"  ltpos="596,628" rbpos="603,633" gold="25000" exp="0" dest="361,222"/>
+				<addguard id="54062" odds1="95" id2="54086" odds2="5" map="边境"  ltpos="824,528" rbpos="832,533" gold="25000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="31000"/>
 				<var type="Set" name="gold" value="310"/>
 				<notify content="你接了一个镖，付了3锭10两押金，送到边境的梁镖头处 "/>
@@ -9650,7 +9650,7 @@ end
 
 			</conditions>
 			<actions>
-				<addguard id="54062" odds1="95" id2="54086" odds2="5" map="边境"  ltpos="596,628" rbpos="603,633" gold="31000" exp="0" dest="361,222"/>
+				<addguard id="54062" odds1="95" id2="54086" odds2="5" map="边境"  ltpos="824,528" rbpos="832,533" gold="31000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="37000"/>
 				<var type="Set" name="gold" value="370"/>
 				<notify content="你接了一个镖，付了3锭70两押金，送到边境的梁镖头处 "/>
@@ -9694,7 +9694,7 @@ end
 
 			</conditions>
 			<actions>
-				<addguard id="54062" odds1="95" id2="54086" odds2="5" map="边境"  ltpos="596,628" rbpos="603,633" gold="37000" exp="0" dest="361,222"/>
+				<addguard id="54062" odds1="95" id2="54086" odds2="5" map="边境"  ltpos="824,528" rbpos="832,533" gold="37000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="43000"/>
 				<var type="Set" name="gold" value="430"/>
 				<notify content="你接了一个镖，付了4锭30两押金，送到边境的梁镖头处 "/>
@@ -9738,7 +9738,7 @@ end
 
 			</conditions>
 			<actions>
-				<addguard id="54062" odds1="95" id2="54086" odds2="5" map="边境"  ltpos="596,628" rbpos="603,633" gold="43000" exp="0" dest="361,222"/>
+				<addguard id="54062" odds1="95" id2="54086" odds2="5" map="边境"  ltpos="824,528" rbpos="832,533" gold="43000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="49000"/>
 				<var type="Set" name="gold" value="490"/>
 				<notify content="你接了一个镖，付了4锭90两押金，送到边境的梁镖头处 "/>
@@ -9783,7 +9783,7 @@ end
 
 			</conditions>
 			<actions>
-				<addguard id="54062" odds1="95" id2="54086" odds2="5" map="边境"  ltpos="596,628" rbpos="603,633" gold="49000" exp="0" dest="361,222"/>
+				<addguard id="54062" odds1="95" id2="54086" odds2="5" map="边境"  ltpos="824,528" rbpos="832,533" gold="49000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="55000"/>
 				<var type="Set" name="gold" value="550"/>
 				<notify content="你接了一个镖，付了5锭50两押金，送到边境的梁镖头处 "/>
@@ -9828,7 +9828,7 @@ end
 
 			</conditions>
 			<actions>
-				<addguard id="54062" odds1="95" id2="54086" odds2="5" map="边境"  ltpos="596,628" rbpos="603,633" gold="55000" exp="0" dest="361,222"/>
+				<addguard id="54062" odds1="95" id2="54086" odds2="5" map="边境"  ltpos="824,528" rbpos="832,533" gold="55000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="61500"/>
 				<var type="Set" name="gold" value="615"/>
 				<notify content="你接了一个镖，付了6锭15两押金，送到边境的梁镖头处 "/>
@@ -9873,7 +9873,7 @@ end
 				<uservar type="Less" name="newtravel" value="1"/>
 			</conditions>
 			<actions>
-				<addguard id="54062" odds1="95" id2="54086" odds2="5" map="边境"  ltpos="596,628" rbpos="603,633" gold="25000" exp="0" dest="361,222"/>
+				<addguard id="54062" odds1="95" id2="54086" odds2="5" map="边境"  ltpos="824,528" rbpos="832,533" gold="25000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="25000"/>
 				<var type="Set" name="gold" value="250"/>
 				<notify content="你接了一个镖，付了2锭50两押金，送到边境的梁镖头处 "/>
@@ -9918,7 +9918,7 @@ end
 
 			</conditions>
 			<actions>
-				<addguard id="54062" odds1="95" id2="54086" odds2="5" map="边境"  ltpos="596,628" rbpos="603,633" gold="25000" exp="0" dest="361,222"/>
+				<addguard id="54062" odds1="95" id2="54086" odds2="5" map="边境"  ltpos="824,528" rbpos="832,533" gold="25000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="31000"/>
 				<var type="Set" name="gold" value="310"/>
 				<notify content="你接了一个镖，付了3锭10两押金，送到边境的梁镖头处 "/>
@@ -9963,7 +9963,7 @@ end
 
 			</conditions>
 			<actions>
-				<addguard id="54062" odds1="95" id2="54086" odds2="5" map="边境"  ltpos="596,628" rbpos="603,633" gold="31000" exp="0" dest="361,222"/>
+				<addguard id="54062" odds1="95" id2="54086" odds2="5" map="边境"  ltpos="824,528" rbpos="832,533" gold="31000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="37000"/>
 				<var type="Set" name="gold" value="370"/>
 				<notify content="你接了一个镖，付了3锭70两押金，送到边境的梁镖头处 "/>
@@ -10008,7 +10008,7 @@ end
 
 			</conditions>
 			<actions>
-				<addguard id="54062" odds1="95" id2="54086" odds2="5" map="边境"  ltpos="596,628" rbpos="603,633" gold="37000" exp="0" dest="361,222"/>
+				<addguard id="54062" odds1="95" id2="54086" odds2="5" map="边境"  ltpos="824,528" rbpos="832,533" gold="37000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="43000"/>
 				<var type="Set" name="gold" value="430"/>
 				<notify content="你接了一个镖，付了4锭30两押金，送到边境的梁镖头处 "/>
@@ -10053,7 +10053,7 @@ end
 
 			</conditions>
 			<actions>
-				<addguard id="54062" odds1="95" id2="54086" odds2="5" map="边境"  ltpos="596,628" rbpos="603,633" gold="43000" exp="0" dest="361,222"/>
+				<addguard id="54062" odds1="95" id2="54086" odds2="5" map="边境"  ltpos="824,528" rbpos="832,533" gold="43000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="49000"/>
 				<var type="Set" name="gold" value="490"/>
 				<notify content="你接了一个镖，付了4锭90两押金，送到边境的梁镖头处 "/>
@@ -10099,7 +10099,7 @@ end
 
 			</conditions>
 			<actions>
-				<addguard id="54062" odds1="95" id2="54086" odds2="5" map="边境"  ltpos="596,628" rbpos="603,633" gold="49000" exp="0" dest="361,222"/>
+				<addguard id="54062" odds1="95" id2="54086" odds2="5" map="边境"  ltpos="824,528" rbpos="832,533" gold="49000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="55000"/>
 				<var type="Set" name="gold" value="550"/>
 				<notify content="你接了一个镖，付了5锭50两押金，送到边境的梁镖头处 "/>
@@ -10145,7 +10145,7 @@ end
 
 			</conditions>
 			<actions>
-				<addguard id="54062" odds1="95" id2="54086" odds2="5" map="边境"  ltpos="596,628" rbpos="603,633" gold="55000" exp="0" dest="361,222"/>
+				<addguard id="54062" odds1="95" id2="54086" odds2="5" map="边境"  ltpos="824,528" rbpos="832,533" gold="55000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="61500"/>
 				<var type="Set" name="gold" value="615"/>
 				<notify content="你接了一个镖，付了6锭15两押金，送到边境的梁镖头处 "/>
@@ -11102,7 +11102,7 @@ end
 				<uservar type="Less" name="newtravel" value="1"/>
 			</conditions>
 			<actions>
-				<addguard id="54063" odds1="95" id2="54087" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="27500" exp="0" dest="361,222"/>
+				<addguard id="54063" odds1="95" id2="54087" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="27500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="27500"/>
 				<var type="Set" name="gold" value="275"/>
 				<notify content="你接了一个镖，付了2锭75两押金，送到边境的梁镖头处"/>
@@ -11145,7 +11145,7 @@ end
 
 			</conditions>
 			<actions>
-				<addguard id="54063" odds1="95" id2="54087" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="27500" exp="0" dest="361,222"/>
+				<addguard id="54063" odds1="95" id2="54087" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="27500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="34000"/>
 				<var type="Set" name="gold" value="340"/>
 				<notify content="你接了一个镖，付了3锭40两押金，送到边境的梁镖头处"/>
@@ -11188,7 +11188,7 @@ end
 
 			</conditions>
 			<actions>
-				<addguard id="54063" odds1="95" id2="54087" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="34000" exp="0" dest="361,222"/>
+				<addguard id="54063" odds1="95" id2="54087" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="34000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="40500"/>
 				<var type="Set" name="gold" value="405"/>
 				<notify content="你接了一个镖，付了4锭5两押金，送到边境的梁镖头处"/>
@@ -11231,7 +11231,7 @@ end
 
 			</conditions>
 			<actions>
-				<addguard id="54063" odds1="95" id2="54087" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="40500" exp="0" dest="361,222"/>
+				<addguard id="54063" odds1="95" id2="54087" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="40500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="47000"/>
 				<var type="Set" name="gold" value="470"/>
 				<notify content="你接了一个镖，付了4锭70两押金，送到边境的梁镖头处"/>
@@ -11274,7 +11274,7 @@ end
 
 			</conditions>
 			<actions>
-				<addguard id="54063" odds1="95" id2="54087" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="47000" exp="0" dest="361,222"/>
+				<addguard id="54063" odds1="95" id2="54087" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="47000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="53500"/>
 				<var type="Set" name="gold" value="535"/>
 				<notify content="你接了一个镖，付了5锭35两押金，送到边境的梁镖头处"/>
@@ -11318,7 +11318,7 @@ end
 
 			</conditions>
 			<actions>
-				<addguard id="54063" odds1="95" id2="54087" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="53500" exp="0" dest="361,222"/>
+				<addguard id="54063" odds1="95" id2="54087" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="53500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="60000"/>
 				<var type="Set" name="gold" value="600"/>
 				<notify content="你接了一个镖，付了6锭押金，送到边境的梁镖头处"/>
@@ -11362,7 +11362,7 @@ end
 
 			</conditions>
 			<actions>
-				<addguard id="54063" odds1="95" id2="54087" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="60000" exp="0" dest="361,222"/>
+				<addguard id="54063" odds1="95" id2="54087" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="60000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="66500"/>
 				<var type="Set" name="gold" value="665"/>
 				<notify content="你接了一个镖，付了6锭65两押金，送到边境的梁镖头处"/>
@@ -11406,7 +11406,7 @@ end
 				<uservar type="Less" name="newtravel" value="1"/>
 			</conditions>
 			<actions>
-				<addguard id="54063" odds1="95" id2="54087" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="27500" exp="0" dest="361,222"/>
+				<addguard id="54063" odds1="95" id2="54087" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="27500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="27500"/>
 				<var type="Set" name="gold" value="275"/>
 				<notify content="你接了一个镖，付了2锭75两押金，送到边境的梁镖头处"/>
@@ -11450,7 +11450,7 @@ end
 
 			</conditions>
 			<actions>
-				<addguard id="54063" odds1="95" id2="54087" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="27500" exp="0" dest="361,222"/>
+				<addguard id="54063" odds1="95" id2="54087" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="27500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="34000"/>
 				<var type="Set" name="gold" value="340"/>
 				<notify content="你接了一个镖，付了3锭40两押金，送到边境的梁镖头处"/>
@@ -11494,7 +11494,7 @@ end
 
 			</conditions>
 			<actions>
-				<addguard id="54063" odds1="95" id2="54087" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="34000" exp="0" dest="361,222"/>
+				<addguard id="54063" odds1="95" id2="54087" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="34000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="40500"/>
 				<var type="Set" name="gold" value="405"/>
 				<notify content="你接了一个镖，付了4锭5两押金，送到边境的梁镖头处"/>
@@ -11538,7 +11538,7 @@ end
 
 			</conditions>
 			<actions>
-				<addguard id="54063" odds1="95" id2="54087" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="40500" exp="0" dest="361,222"/>
+				<addguard id="54063" odds1="95" id2="54087" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="40500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="47000"/>
 				<var type="Set" name="gold" value="470"/>
 				<notify content="你接了一个镖，付了4锭70两押金，送到边境的梁镖头处"/>
@@ -11582,7 +11582,7 @@ end
 
 			</conditions>
 			<actions>
-				<addguard id="54063" odds1="95" id2="54087" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="47000" exp="0" dest="361,222"/>
+				<addguard id="54063" odds1="95" id2="54087" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="47000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="53500"/>
 				<var type="Set" name="gold" value="535"/>
 				<notify content="你接了一个镖，付了5锭35两押金，送到边境的梁镖头处"/>
@@ -11627,7 +11627,7 @@ end
 
 			</conditions>
 			<actions>
-				<addguard id="54063" odds1="95" id2="54087" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="53500" exp="0" dest="361,222"/>
+				<addguard id="54063" odds1="95" id2="54087" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="53500" exp="0" dest="365,180"/>
 				<gold type="Sub" value="60000"/>
 				<var type="Set" name="gold" value="600"/>
 				<notify content="你接了一个镖，付了6锭押金，送到边境的梁镖头处"/>
@@ -11672,7 +11672,7 @@ end
 
 			</conditions>
 			<actions>
-				<addguard id="54063" odds1="95" id2="54087" odds2="5" map="边境" ltpos="596,628" rbpos="603,633" gold="60000" exp="0" dest="361,222"/>
+				<addguard id="54063" odds1="95" id2="54087" odds2="5" map="边境" ltpos="824,528" rbpos="832,533" gold="60000" exp="0" dest="365,180"/>
 				<gold type="Sub" value="66500"/>
 				<var type="Set" name="gold" value="665"/>
 				<notify content="你接了一个镖，付了6锭65两押金，送到边境的梁镖头处"/>

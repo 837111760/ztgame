@@ -783,8 +783,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="60两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="16000"/>
+				<gold type="Add" value="6000"/>
 				<exp value="100" id="21005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -799,8 +798,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你30两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="13000"/>
+				<gold type="Add" value="3000"/>
 				<exp value="100" id="21005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -829,8 +827,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="75两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="17500"/>
+				<gold type="Add" value="7500"/>
 				<exp value="100" id="21005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -845,8 +842,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你38两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="13800"/>
+				<gold type="Add" value="3800"/>
 				<exp value="100" id="21005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -875,8 +871,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="90两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="19000"/>
+				<gold type="Add" value="9000"/>
 				<exp value="100" id="21005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -891,8 +886,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你45两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="14500"/>
+				<gold type="Add" value="4500"/>
 				<exp value="100" id="21005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -921,8 +915,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="1锭5两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="110500"/>
+				<gold type="Add" value="10500"/>
 				<exp value="100" id="21005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -937,8 +930,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你53两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="15300"/>
+				<gold type="Add" value="5300"/>
 				<exp value="100" id="21005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -967,8 +959,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="1锭20两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="112000"/>
+				<gold type="Add" value="12000"/>
 				<exp value="100" id="21005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -983,8 +974,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你60两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="16000"/>
+				<gold type="Add" value="6000"/>
 				<exp value="100" id="21005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1013,8 +1003,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="1锭35两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="113500"/>
+				<gold type="Add" value="13500"/>
 				<exp value="100" id="21005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1029,8 +1018,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你70两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="17000"/>
+				<gold type="Add" value="7000"/>
 				<exp value="100" id="21005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1059,8 +1047,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="1锭50两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="115000"/>
+				<gold type="Add" value="15000"/>
 				<exp value="100" id="21005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1075,8 +1062,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你75两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="17500"/>
+				<gold type="Add" value="7500"/>
 				<exp value="100" id="21005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1103,8 +1089,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="60两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="16000"/>
+				<gold type="Add" value="6000"/>
 				<exp value="100" id="21005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1120,8 +1105,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你30两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="13000"/>
+				<gold type="Add" value="3000"/>
 				<exp value="100" id="21005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1152,8 +1136,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="75两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="17500"/>
+				<gold type="Add" value="7500"/>
 				<exp value="100" id="21005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1169,8 +1152,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你38两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="13800"/>
+				<gold type="Add" value="3800"/>
 				<exp value="100" id="21005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1201,8 +1183,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="90两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="19000"/>
+				<gold type="Add" value="9000"/>
 				<exp value="100" id="21005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1218,8 +1199,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你45两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="14500"/>
+				<gold type="Add" value="4500"/>
 				<exp value="100" id="21005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1250,8 +1230,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="1锭5两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="110500"/>
+				<gold type="Add" value="10500"/>
 				<exp value="100" id="21005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1267,8 +1246,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你53两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="15300"/>
+				<gold type="Add" value="5300"/>
 				<exp value="100" id="21005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1299,8 +1277,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="1锭20两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="112000"/>
+				<gold type="Add" value="12000"/>
 				<exp value="100" id="21005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1316,8 +1293,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你60两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="16000"/>
+				<gold type="Add" value="6000"/>
 				<exp value="100" id="21005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1348,8 +1324,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="1锭35两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="113500"/>
+				<gold type="Add" value="13500"/>
 				<exp value="100" id="21005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1365,8 +1340,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你70两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="17000"/>
+				<gold type="Add" value="7000"/>
 				<exp value="100" id="21005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1397,8 +1371,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="1锭50两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="115000"/>
+				<gold type="Add" value="15000"/>
 				<exp value="100" id="21005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1414,8 +1387,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你75两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="17500"/>
+				<gold type="Add" value="7500"/>
 				<exp value="100" id="21005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2176,8 +2148,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="1锭押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="110000"/>
+				<gold type="Add" value="10000"/>
 				<exp value="100" id="21006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2192,8 +2163,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你50两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="15000"/>
+				<gold type="Add" value="5000"/>
 				<exp value="100" id="21006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2222,8 +2192,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="1锭25两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="112500"/>
+				<gold type="Add" value="12500"/>
 				<exp value="100" id="21006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2238,8 +2207,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你63两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="16300"/>
+				<gold type="Add" value="6300"/>
 				<exp value="100" id="21006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2268,8 +2236,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="1锭50两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="115000"/>
+				<gold type="Add" value="15000"/>
 				<exp value="100" id="21006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2284,8 +2251,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你75两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="17500"/>
+				<gold type="Add" value="7500"/>
 				<exp value="100" id="21006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2314,8 +2280,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="1锭75两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="117500"/>
+				<gold type="Add" value="17500"/>
 				<exp value="100" id="21006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2330,8 +2295,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你88两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="18800"/>
+				<gold type="Add" value="8800"/>
 				<exp value="100" id="21006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2360,8 +2324,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="2锭押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="120000"/>
+				<gold type="Add" value="20000"/>
 				<exp value="100" id="21006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2376,8 +2339,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="110000"/>
+				<gold type="Add" value="10000"/>
 				<exp value="100" id="21006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2406,8 +2368,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="2锭25两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="122500"/>
+				<gold type="Add" value="22500"/>
 				<exp value="100" id="21006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2422,8 +2383,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭15两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="111500"/>
+				<gold type="Add" value="11500"/>
 				<exp value="100" id="21006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2452,8 +2412,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="2锭50两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="125000"/>
+				<gold type="Add" value="25000"/>
 				<exp value="100" id="21006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2468,8 +2427,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭25两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="112500"/>
+				<gold type="Add" value="12500"/>
 				<exp value="100" id="21006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2496,8 +2454,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="1锭押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="110000"/>
+				<gold type="Add" value="10000"/>
 				<exp value="100" id="21006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2513,8 +2470,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你50两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="15000"/>
+				<gold type="Add" value="5000"/>
 				<exp value="100" id="21006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2545,8 +2501,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="1锭25两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="112500"/>
+				<gold type="Add" value="12500"/>
 				<exp value="100" id="21006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2562,8 +2517,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你63两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="16300"/>
+				<gold type="Add" value="6300"/>
 				<exp value="100" id="21006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2594,8 +2548,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="1锭50两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="115000"/>
+				<gold type="Add" value="15000"/>
 				<exp value="100" id="21006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2611,8 +2564,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你75两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="17500"/>
+				<gold type="Add" value="7500"/>
 				<exp value="100" id="21006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2643,8 +2595,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="1锭75两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="117500"/>
+				<gold type="Add" value="17500"/>
 				<exp value="100" id="21006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2660,8 +2611,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你88两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="18800"/>
+				<gold type="Add" value="8800"/>
 				<exp value="100" id="21006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2692,8 +2642,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="2锭押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="120000"/>
+				<gold type="Add" value="20000"/>
 				<exp value="100" id="21006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2709,8 +2658,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="110000"/>
+				<gold type="Add" value="10000"/>
 				<exp value="100" id="21006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2741,8 +2689,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="2锭25两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="122500"/>
+				<gold type="Add" value="22500"/>
 				<exp value="100" id="21006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2758,8 +2705,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭15两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="111500"/>
+				<gold type="Add" value="11500"/>
 				<exp value="100" id="21006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2790,8 +2736,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="2锭50两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="125000"/>
+				<gold type="Add" value="25000"/>
 				<exp value="100" id="21006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2807,8 +2752,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭25两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="112500"/>
+				<gold type="Add" value="12500"/>
 				<exp value="100" id="21006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -3569,8 +3513,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="1锭40两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="114000"/>
+				<gold type="Add" value="14000"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -3585,8 +3528,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你70两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="17000"/>
+				<gold type="Add" value="7000"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -3615,8 +3557,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="1锭75两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="117500"/>
+				<gold type="Add" value="17500"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -3631,8 +3572,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你88两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="18800"/>
+				<gold type="Add" value="8800"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -3661,8 +3601,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="2锭10两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="121000"/>
+				<gold type="Add" value="21000"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -3677,8 +3616,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭5两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="110500"/>
+				<gold type="Add" value="10500"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -3707,8 +3645,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="2锭45两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="124500"/>
+				<gold type="Add" value="24500"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -3723,8 +3660,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭28两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="112800"/>
+				<gold type="Add" value="12800"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -3753,8 +3689,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="2锭80两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="128000"/>
+				<gold type="Add" value="28000"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -3769,8 +3704,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭40两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="114000"/>
+				<gold type="Add" value="14000"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -3799,8 +3733,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="3锭15两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="131500"/>
+				<gold type="Add" value="31500"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -3815,8 +3748,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭60两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="116000"/>
+				<gold type="Add" value="16000"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -3845,8 +3777,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="3锭50两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="135000"/>
+				<gold type="Add" value="35000"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -3861,8 +3792,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭75两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="117500"/>
+				<gold type="Add" value="17500"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -3889,8 +3819,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="1锭40两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="114000"/>
+				<gold type="Add" value="14000"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -3906,8 +3835,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你70两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="17000"/>
+				<gold type="Add" value="7000"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -3938,8 +3866,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="1锭75两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="117500"/>
+				<gold type="Add" value="17500"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -3955,8 +3882,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你88两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="18800"/>
+				<gold type="Add" value="8800"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -3987,8 +3913,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="2锭10两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="121000"/>
+				<gold type="Add" value="21000"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -4004,8 +3929,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭5两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="110500"/>
+				<gold type="Add" value="10500"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -4036,8 +3960,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="2锭45两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="124500"/>
+				<gold type="Add" value="24500"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -4053,8 +3976,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭28两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="112800"/>
+				<gold type="Add" value="12800"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -4085,8 +4007,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="2锭80两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="128000"/>
+				<gold type="Add" value="28000"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -4102,8 +4023,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭40两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="114000"/>
+				<gold type="Add" value="14000"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -4134,8 +4054,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="3锭15两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="131500"/>
+				<gold type="Add" value="31500"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -4151,8 +4070,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭60两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="116000"/>
+				<gold type="Add" value="16000"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -4183,8 +4101,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="3锭50两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="135000"/>
+				<gold type="Add" value="35000"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -4200,8 +4117,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭75两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="117500"/>
+				<gold type="Add" value="17500"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -4962,8 +4878,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="1锭80两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="118000"/>
+				<gold type="Add" value="18000"/>
 				<exp value="100" id="21008" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -4978,8 +4893,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你90两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="19000"/>
+				<gold type="Add" value="9000"/>
 				<exp value="100" id="21008" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5008,8 +4922,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="2锭25两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="122500"/>
+				<gold type="Add" value="22500"/>
 				<exp value="100" id="21008" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5024,8 +4937,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭13两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="111300"/>
+				<gold type="Add" value="11300"/>
 				<exp value="100" id="21008" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5054,8 +4966,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="2锭70两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="127000"/>
+				<gold type="Add" value="27000"/>
 				<exp value="100" id="21008" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5070,8 +4981,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭35两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="113500"/>
+				<gold type="Add" value="13500"/>
 				<exp value="100" id="21008" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5100,8 +5010,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="3锭15两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="131500"/>
+				<gold type="Add" value="31500"/>
 				<exp value="100" id="21008" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5116,8 +5025,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭58两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="115800"/>
+				<gold type="Add" value="15800"/>
 				<exp value="100" id="21008" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5146,8 +5054,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="3锭60两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="136000"/>
+				<gold type="Add" value="36000"/>
 				<exp value="100" id="21008" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5162,8 +5069,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭80两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="118000"/>
+				<gold type="Add" value="18000"/>
 				<exp value="100" id="21008" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5192,8 +5098,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="4锭5两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="140500"/>
+				<gold type="Add" value="40500"/>
 				<exp value="100" id="21008" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5208,8 +5113,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你2锭2两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="120200"/>
+				<gold type="Add" value="20200"/>
 				<exp value="100" id="21008" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5238,8 +5142,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="4锭50两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="145000"/>
+				<gold type="Add" value="45000"/>
 				<exp value="100" id="21008" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5254,8 +5157,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你2锭25两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="122500"/>
+				<gold type="Add" value="22500"/>
 				<exp value="100" id="21008" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5282,8 +5184,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="1锭80两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="118000"/>
+				<gold type="Add" value="18000"/>
 				<exp value="100" id="21008" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5299,8 +5200,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你90两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="19000"/>
+				<gold type="Add" value="9000"/>
 				<exp value="100" id="21008" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5331,8 +5231,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="2锭25两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="122500"/>
+				<gold type="Add" value="22500"/>
 				<exp value="100" id="21008" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5348,8 +5247,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭13两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="111300"/>
+				<gold type="Add" value="11300"/>
 				<exp value="100" id="21008" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5380,8 +5278,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="2锭70两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="127000"/>
+				<gold type="Add" value="27000"/>
 				<exp value="100" id="21008" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5397,8 +5294,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭35两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="113500"/>
+				<gold type="Add" value="13500"/>
 				<exp value="100" id="21008" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5429,8 +5325,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="3锭15两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="131500"/>
+				<gold type="Add" value="31500"/>
 				<exp value="100" id="21008" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5446,8 +5341,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭58两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="115800"/>
+				<gold type="Add" value="15800"/>
 				<exp value="100" id="21008" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5478,8 +5372,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="3锭60两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="136000"/>
+				<gold type="Add" value="36000"/>
 				<exp value="100" id="21008" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5495,8 +5388,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭80两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="118000"/>
+				<gold type="Add" value="18000"/>
 				<exp value="100" id="21008" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5527,8 +5419,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="4锭5两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="140500"/>
+				<gold type="Add" value="40500"/>
 				<exp value="100" id="21008" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5544,8 +5435,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你2锭2两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="120200"/>
+				<gold type="Add" value="20200"/>
 				<exp value="100" id="21008" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5576,8 +5466,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="4锭50两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="145000"/>
+				<gold type="Add" value="45000"/>
 				<exp value="100" id="21008" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5593,8 +5482,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你2锭25两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="122500"/>
+				<gold type="Add" value="22500"/>
 				<exp value="100" id="21008" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6355,8 +6243,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="2锭20两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="122000"/>
+				<gold type="Add" value="22000"/>
 				<exp value="100" id="21009" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6371,8 +6258,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭10两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="111000"/>
+				<gold type="Add" value="11000"/>
 				<exp value="100" id="21009" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6401,8 +6287,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="2锭75两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="127500"/>
+				<gold type="Add" value="27500"/>
 				<exp value="100" id="21009" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6417,8 +6302,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭38两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="113800"/>
+				<gold type="Add" value="13800"/>
 				<exp value="100" id="21009" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6447,8 +6331,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="3锭30两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="133000"/>
+				<gold type="Add" value="33000"/>
 				<exp value="100" id="21009" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6463,8 +6346,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭65两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="116500"/>
+				<gold type="Add" value="16500"/>
 				<exp value="100" id="21009" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6493,8 +6375,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="3锭85两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="138500"/>
+				<gold type="Add" value="38500"/>
 				<exp value="100" id="21009" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6509,8 +6390,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭93两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="119300"/>
+				<gold type="Add" value="19300"/>
 				<exp value="100" id="21009" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6539,8 +6419,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="4锭40两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="144000"/>
+				<gold type="Add" value="44000"/>
 				<exp value="100" id="21009" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6555,8 +6434,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你2锭20两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="122000"/>
+				<gold type="Add" value="22000"/>
 				<exp value="100" id="21009" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6585,8 +6463,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="4锭95两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="149500"/>
+				<gold type="Add" value="49500"/>
 				<exp value="100" id="21009" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6601,8 +6478,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你2锭25两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="122500"/>
+				<gold type="Add" value="22500"/>
 				<exp value="100" id="21009" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6631,8 +6507,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="5锭50两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="155000"/>
+				<gold type="Add" value="55000"/>
 				<exp value="100" id="21009" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6647,8 +6522,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你2锭75两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="127500"/>
+				<gold type="Add" value="27500"/>
 				<exp value="100" id="21009" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6675,8 +6549,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="2锭20两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="122000"/>
+				<gold type="Add" value="22000"/>
 				<exp value="100" id="21009" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6692,8 +6565,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭10两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="111000"/>
+				<gold type="Add" value="11000"/>
 				<exp value="100" id="21009" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6724,8 +6596,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="2锭75两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="127500"/>
+				<gold type="Add" value="27500"/>
 				<exp value="100" id="21009" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6741,8 +6612,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭38两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="113800"/>
+				<gold type="Add" value="13800"/>
 				<exp value="100" id="21009" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6773,8 +6643,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="3锭30两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="133000"/>
+				<gold type="Add" value="33000"/>
 				<exp value="100" id="21009" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6790,8 +6659,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭65两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="116500"/>
+				<gold type="Add" value="16500"/>
 				<exp value="100" id="21009" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6822,8 +6690,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="3锭85两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="138500"/>
+				<gold type="Add" value="38500"/>
 				<exp value="100" id="21009" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6839,8 +6706,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭93两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="119300"/>
+				<gold type="Add" value="19300"/>
 				<exp value="100" id="21009" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6871,8 +6737,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="4锭40两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="144000"/>
+				<gold type="Add" value="44000"/>
 				<exp value="100" id="21009" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6888,8 +6753,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你2锭20两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="122000"/>
+				<gold type="Add" value="22000"/>
 				<exp value="100" id="21009" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6920,8 +6784,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="4锭95两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="149500"/>
+				<gold type="Add" value="49500"/>
 				<exp value="100" id="21009" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6937,8 +6800,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你2锭25两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="122500"/>
+				<gold type="Add" value="22500"/>
 				<exp value="100" id="21009" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6969,8 +6831,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="5锭50两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="155000"/>
+				<gold type="Add" value="55000"/>
 				<exp value="100" id="21009" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6986,8 +6847,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你2锭75两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="127500"/>
+				<gold type="Add" value="27500"/>
 				<exp value="100" id="21009" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -7762,8 +7622,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="2锭50两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="125000"/>
+				<gold type="Add" value="25000"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -7779,8 +7638,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭25两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="112500"/>
+				<gold type="Add" value="12500"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -7809,8 +7667,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="3锭10两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="131000"/>
+				<gold type="Add" value="31000"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -7826,8 +7683,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭55两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="115500"/>
+				<gold type="Add" value="15500"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -7856,8 +7712,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="3锭70两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="137000"/>
+				<gold type="Add" value="37000"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -7873,8 +7728,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭85两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="118500"/>
+				<gold type="Add" value="18500"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -7903,8 +7757,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="4锭30两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="143000"/>
+				<gold type="Add" value="43000"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -7920,8 +7773,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你2锭15两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="121500"/>
+				<gold type="Add" value="21500"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -7950,8 +7802,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="4锭90两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="149000"/>
+				<gold type="Add" value="49000"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -7967,8 +7818,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你2锭45两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="124500"/>
+				<gold type="Add" value="24500"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -7997,8 +7847,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="5锭50两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="155000"/>
+				<gold type="Add" value="55000"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -8014,8 +7863,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你2锭75两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="127500"/>
+				<gold type="Add" value="27500"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -8044,8 +7892,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="6锭15两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="161500"/>
+				<gold type="Add" value="61500"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -8061,8 +7908,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你3锭7两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="130700"/>
+				<gold type="Add" value="30700"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -8088,8 +7934,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="2锭50两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="125000"/>
+				<gold type="Add" value="25000"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -8105,8 +7950,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="2锭50两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="125000"/>
+				<gold type="Add" value="25000"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -8123,8 +7967,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭25两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="112500"/>
+				<gold type="Add" value="12500"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -8155,8 +7998,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="3锭10两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="131000"/>
+				<gold type="Add" value="31000"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -8173,8 +8015,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭55两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="115500"/>
+				<gold type="Add" value="15500"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -8205,8 +8046,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="3锭70两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="137000"/>
+				<gold type="Add" value="37000"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -8223,8 +8063,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭85两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="118500"/>
+				<gold type="Add" value="18500"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -8255,8 +8094,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="4锭30两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="143000"/>
+				<gold type="Add" value="43000"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -8273,8 +8111,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你2锭15两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="121500"/>
+				<gold type="Add" value="21500"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -8305,8 +8142,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="4锭90两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="149000"/>
+				<gold type="Add" value="49000"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -8323,8 +8159,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你2锭45两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="124500"/>
+				<gold type="Add" value="24500"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -8355,8 +8190,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="5锭50两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="155000"/>
+				<gold type="Add" value="55000"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -8373,8 +8207,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你2锭75两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="127500"/>
+				<gold type="Add" value="27500"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -8405,8 +8238,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="6锭15两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="161500"/>
+				<gold type="Add" value="61500"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -8423,8 +8255,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你3锭7两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="130700"/>
+				<gold type="Add" value="30700"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -8452,8 +8283,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="2锭50两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="125000"/>
+				<gold type="Add" value="25000"/>
 				<exp value="100" id="22005" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9202,8 +9032,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="2锭75两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="127500"/>
+				<gold type="Add" value="27500"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9219,8 +9048,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭37两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="113700"/>
+				<gold type="Add" value="13700"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9249,8 +9077,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="3锭40两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="134000"/>
+				<gold type="Add" value="34000"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9266,8 +9093,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭70两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="117000"/>
+				<gold type="Add" value="17000"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9296,8 +9122,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="4锭5两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="140500"/>
+				<gold type="Add" value="40500"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9313,8 +9138,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你2锭2两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="120200"/>
+				<gold type="Add" value="20200"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9343,8 +9167,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="4锭70两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="147000"/>
+				<gold type="Add" value="47000"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9360,8 +9183,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你2锭35两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="123500"/>
+				<gold type="Add" value="23500"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9390,8 +9212,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="5锭35两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="153500"/>
+				<gold type="Add" value="53500"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9407,8 +9228,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你2锭67两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="126700"/>
+				<gold type="Add" value="26700"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9437,8 +9257,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="6锭押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="160000"/>
+				<gold type="Add" value="60000"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9454,8 +9273,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你3锭押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="130000"/>
+				<gold type="Add" value="30000"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9484,8 +9302,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="6锭65两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="166500"/>
+				<gold type="Add" value="66500"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9501,8 +9318,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你3锭32两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="133200"/>
+				<gold type="Add" value="33200"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9528,8 +9344,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="2锭75两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="127500"/>
+				<gold type="Add" value="27500"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9545,8 +9360,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="2锭75两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="127500"/>
+				<gold type="Add" value="27500"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9563,8 +9377,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭37两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="113700"/>
+				<gold type="Add" value="13700"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9595,8 +9408,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="3锭40两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="134000"/>
+				<gold type="Add" value="34000"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9613,8 +9425,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你1锭70两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="117000"/>
+				<gold type="Add" value="17000"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9645,8 +9456,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="4锭5两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="140500"/>
+				<gold type="Add" value="40500"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9663,8 +9473,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你2锭2两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="120200"/>
+				<gold type="Add" value="20200"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9695,8 +9504,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="4锭70两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="147000"/>
+				<gold type="Add" value="47000"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9713,8 +9521,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你2锭35两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="123500"/>
+				<gold type="Add" value="23500"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9745,8 +9552,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="5锭35两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="153500"/>
+				<gold type="Add" value="53500"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9763,8 +9569,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你2锭67两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="126700"/>
+				<gold type="Add" value="26700"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9795,8 +9600,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="6锭押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="160000"/>
+				<gold type="Add" value="60000"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9813,8 +9617,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你3锭押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="130000"/>
+				<gold type="Add" value="30000"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9845,8 +9648,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="6锭65两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="166500"/>
+				<gold type="Add" value="66500"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9863,8 +9665,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你3锭32两押金"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="133200"/>
+				<gold type="Add" value="33200"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -9892,8 +9693,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="2锭75两押金退还了"/>
-				<addbinditem value="1" id="776"/>
-				<maxhonor type="Add" value="127500"/>
+				<gold type="Add" value="27500"/>
 				<exp value="100" id="22006" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>

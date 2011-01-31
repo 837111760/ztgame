@@ -443,7 +443,7 @@ end
 				<gold type="Great" value="99"/>
 			</conditions>
 			<actions>
-				<goto name="宋国·边境" cpos="175,145" rlen="20"/>
+				<goto name="宋国·边境" cpos="187,142" rlen="20"/>
 				<gold type="Sub" value="100"/>
 				<notify content="你被带到了宋国的边境，付了1两"/>
 				<var type="Set" name="state" value="-2"/>
@@ -457,7 +457,7 @@ end
 				<gold type="Great" value="99"/>
 			</conditions>
 			<actions>
-				<goto name="魏国·边境" cpos="175,145" rlen="20"/>
+				<goto name="魏国·边境" cpos="187,142" rlen="20"/>
 				<gold type="Sub" value="100"/>
 				<notify content="你被带到了魏国的边境，付了1两"/>
 				<var type="Set" name="state" value="-2"/>
@@ -471,7 +471,7 @@ end
 				<gold type="Great" value="99"/>
 			</conditions>
 			<actions>
-				<goto name="齐国·边境" cpos="175,145" rlen="20"/>
+				<goto name="齐国·边境" cpos="187,142" rlen="20"/>
 				<gold type="Sub" value="100"/>
 				<notify content="你被带到了齐国的边境，付了1两"/>
 				<var type="Set" name="state" value="-2"/>
@@ -485,7 +485,7 @@ end
 				<gold type="Great" value="99"/>
 			</conditions>
 			<actions>
-				<goto name="燕国·边境" cpos="175,145" rlen="20"/>
+				<goto name="燕国·边境" cpos="187,142" rlen="20"/>
 				<gold type="Sub" value="100"/>
 				<notify content="你被带到了燕国的边境，付了1两"/>
 				<var type="Set" name="state" value="-2"/>
@@ -499,7 +499,7 @@ end
 				<gold type="Great" value="99"/>
 			</conditions>
 			<actions>
-				<goto name="赵国·边境" cpos="175,145" rlen="20"/>
+				<goto name="赵国·边境" cpos="187,142" rlen="20"/>
 				<gold type="Sub" value="100"/>
 				<notify content="你被带到了赵国的边境，付了1两"/>
 				<var type="Set" name="state" value="-2"/>
@@ -513,7 +513,7 @@ end
 				<gold type="Great" value="99"/>
 			</conditions>
 			<actions>
-				<goto name="唐国·边境" cpos="175,145" rlen="20"/>
+				<goto name="唐国·边境" cpos="187,142" rlen="20"/>
 				<gold type="Sub" value="100"/>
 				<notify content="你被带到了唐国的边境，付了1两"/>
 				<var type="Set" name="state" value="-2"/>
@@ -527,7 +527,7 @@ end
 				<gold type="Great" value="99"/>
 			</conditions>
 			<actions>
-				<goto name="汉国·边境" cpos="175,145" rlen="20"/>
+				<goto name="汉国·边境" cpos="187,142" rlen="20"/>
 				<gold type="Sub" value="100"/>
 				<notify content="你被带到了汉国的边境，付了1两"/>
 				<var type="Set" name="state" value="-2"/>
@@ -541,7 +541,7 @@ end
 				<gold type="Great" value="99"/>
 			</conditions>
 			<actions>
-				<goto name="周国·边境" cpos="175,145" rlen="20"/>
+				<goto name="周国·边境" cpos="187,142" rlen="20"/>
 				<gold type="Sub" value="100"/>
 				<notify content="你被带到了周国的边境，付了1两"/>
 				<var type="Set" name="state" value="-2"/>
@@ -555,7 +555,7 @@ end
 				<gold type="Great" value="99"/>
 			</conditions>
 			<actions>
-				<goto name="吴国·边境" cpos="175,145" rlen="20"/>
+				<goto name="吴国·边境" cpos="187,142" rlen="20"/>
 				<gold type="Sub" value="100"/>
 				<notify content="你被带到了吴国的边境，付了1两"/>
 				<var type="Set" name="state" value="-2"/>
@@ -569,7 +569,7 @@ end
 				<gold type="Great" value="99"/>
 			</conditions>
 			<actions>
-				<goto name="楚国·边境" cpos="175,145" rlen="20"/>
+				<goto name="楚国·边境" cpos="187,142" rlen="20"/>
 				<gold type="Sub" value="100"/>
 				<notify content="你被带到了楚国的边境，付了1两"/>
 				<var type="Set" name="state" value="-2"/>
@@ -585,7 +585,7 @@ end
 				<gold type="Great" value="2999"/>
 			</conditions>
 			<actions>
-				<teamgoto name="宋国·边境" pos="186,135" pos1="181,143" pos2="190,149" pos3="194,142" pos4="196,151" cpos="175,145" rlen="20"/>
+				<teamgoto name="宋国·边境" pos="186,135" pos1="181,143" pos2="190,149" pos3="194,142" pos4="196,151" cpos="187,142" rlen="20"/>
 				<gold type="Sub" value="3000"/>
 				<notify content="你的队伍被带到了宋国的边境，付了30两"/>
 				<var type="Set" name="state" value="-2"/>
@@ -601,7 +601,7 @@ end
 				<gold type="Great" value="2999"/>
 			</conditions>
 			<actions>
-				<teamgoto name="魏国·边境" pos="186,135" pos1="181,143" pos2="190,149" pos3="194,142" pos4="196,151" cpos="175,145" rlen="20"/>
+				<teamgoto name="魏国·边境" pos="186,135" pos1="181,143" pos2="190,149" pos3="194,142" pos4="196,151" cpos="187,142" rlen="20"/>
 				<gold type="Sub" value="3000"/>
 				<notify content="你的队伍被带到了魏国的边境，付了30两"/>
 				<var type="Set" name="state" value="-2"/>
@@ -617,7 +617,7 @@ end
 				<gold type="Great" value="2999"/>
 			</conditions>
 			<actions>
-				<teamgoto name="齐国·边境" pos="186,135" pos1="181,143" pos2="190,149" pos3="194,142" pos4="196,151" cpos="175,145" rlen="20"/>
+				<teamgoto name="齐国·边境" pos="186,135" pos1="181,143" pos2="190,149" pos3="194,142" pos4="196,151" cpos="187,142" rlen="20"/>
 				<gold type="Sub" value="3000"/>
 				<notify content="你的队伍被带到了齐国的边境，付了30两"/>
 				<var type="Set" name="state" value="-2"/>
@@ -633,7 +633,7 @@ end
 				<gold type="Great" value="2999"/>
 			</conditions>
 			<actions>
-				<teamgoto name="燕国·边境" pos="186,135" pos1="181,143" pos2="190,149" pos3="194,142" pos4="196,151" cpos="175,145" rlen="20"/>
+				<teamgoto name="燕国·边境" pos="186,135" pos1="181,143" pos2="190,149" pos3="194,142" pos4="196,151" cpos="187,142" rlen="20"/>
 				<gold type="Sub" value="3000"/>
 				<notify content="你的队伍被带到了燕国的边境，付了30两"/>
 				<var type="Set" name="state" value="-2"/>
@@ -649,7 +649,7 @@ end
 				<gold type="Great" value="2999"/>
 			</conditions>
 			<actions>
-				<teamgoto name="赵国·边境" pos="186,135" pos1="181,143" pos2="190,149" pos3="194,142" pos4="196,151" cpos="175,145" rlen="20"/>
+				<teamgoto name="赵国·边境" pos="186,135" pos1="181,143" pos2="190,149" pos3="194,142" pos4="196,151" cpos="187,142" rlen="20"/>
 				<gold type="Sub" value="3000"/>
 				<notify content="你的队伍被带到了赵国的边境，付了30两"/>
 				<var type="Set" name="state" value="-2"/>
@@ -665,7 +665,7 @@ end
 				<gold type="Great" value="2999"/>
 			</conditions>
 			<actions>
-				<teamgoto name="唐国·边境" pos="186,135" pos1="181,143" pos2="190,149" pos3="194,142" pos4="196,151" cpos="175,145" rlen="20"/>
+				<teamgoto name="唐国·边境" pos="186,135" pos1="181,143" pos2="190,149" pos3="194,142" pos4="196,151" cpos="187,142" rlen="20"/>
 				<gold type="Sub" value="3000"/>
 				<notify content="你的队伍被带到了唐国的边境，付了30两"/>
 				<var type="Set" name="state" value="-2"/>
@@ -681,7 +681,7 @@ end
 				<gold type="Great" value="2999"/>
 			</conditions>
 			<actions>
-				<teamgoto name="汉国·边境" pos="186,135" pos1="181,143" pos2="190,149" pos3="194,142" pos4="196,151" cpos="175,145" rlen="20"/>
+				<teamgoto name="汉国·边境" pos="186,135" pos1="181,143" pos2="190,149" pos3="194,142" pos4="196,151" cpos="187,142" rlen="20"/>
 				<gold type="Sub" value="3000"/>
 				<notify content="你的队伍被带到了汉国的边境，付了30两"/>
 				<var type="Set" name="state" value="-2"/>
@@ -697,7 +697,7 @@ end
 				<gold type="Great" value="2999"/>
 			</conditions>
 			<actions>
-				<teamgoto name="周国·边境" pos="186,135" pos1="181,143" pos2="190,149" pos3="194,142" pos4="196,151" cpos="175,145" rlen="20"/>
+				<teamgoto name="周国·边境" pos="186,135" pos1="181,143" pos2="190,149" pos3="194,142" pos4="196,151" cpos="187,142" rlen="20"/>
 				<gold type="Sub" value="3000"/>
 				<notify content="你的队伍被带到了周国的边境，付了30两"/>
 				<var type="Set" name="state" value="-2"/>
@@ -713,7 +713,7 @@ end
 				<gold type="Great" value="2999"/>
 			</conditions>
 			<actions>
-				<teamgoto name="吴国·边境" pos="186,135" pos1="181,143" pos2="190,149" pos3="194,142" pos4="196,151" cpos="175,145" rlen="20"/>
+				<teamgoto name="吴国·边境" pos="186,135" pos1="181,143" pos2="190,149" pos3="194,142" pos4="196,151" cpos="187,142" rlen="20"/>
 				<gold type="Sub" value="3000"/>
 				<notify content="你的队伍被带到了吴国的边境，付了30两"/>
 				<var type="Set" name="state" value="-2"/>
@@ -729,7 +729,7 @@ end
 				<gold type="Great" value="2999"/>
 			</conditions>
 			<actions>
-				<teamgoto name="楚国·边境" pos="186,135" pos1="181,143" pos2="190,149" pos3="194,142" pos4="196,151" cpos="175,145" rlen="20"/>
+				<teamgoto name="楚国·边境" pos="186,135" pos1="181,143" pos2="190,149" pos3="194,142" pos4="196,151" cpos="187,142" rlen="20"/>
 				<gold type="Sub" value="3000"/>
 				<notify content="你的队伍被带到了楚国的边境，付了30两"/>
 				<var type="Set" name="state" value="-2"/>
@@ -745,7 +745,7 @@ end
 				<gold type="Great" value="4999"/>
 			</conditions>
 			<actions>
-				<tankgoto name="宋国·边境" pos="175,145" rlen="20"/>
+				<tankgoto name="宋国·边境" pos="187,142" rlen="20"/>
 				<gold type="Sub" value="5000"/>
 				<notify content="你驾驶着家族战车到了宋国的边境，付了50两"/>
 				<var type="Set" name="state" value="-2"/>
@@ -759,7 +759,7 @@ end
 				<gold type="Great" value="4999"/>
 			</conditions>
 			<actions>
-				<tankgoto name="魏国·边境" pos="175,145" rlen="20"/>
+				<tankgoto name="魏国·边境" pos="187,142" rlen="20"/>
 				<gold type="Sub" value="5000"/>
 				<notify content="你驾驶着家族战车到了魏国的边境，付了50两"/>
 				<var type="Set" name="state" value="-2"/>
@@ -773,7 +773,7 @@ end
 				<gold type="Great" value="4999"/>
 			</conditions>
 			<actions>
-				<tankgoto name="齐国·边境" pos="175,145" rlen="20"/>
+				<tankgoto name="齐国·边境" pos="187,142" rlen="20"/>
 				<gold type="Sub" value="5000"/>
 				<notify content="你驾驶着家族战车到了齐国的边境，付了50两"/>
 				<var type="Set" name="state" value="-2"/>
@@ -787,7 +787,7 @@ end
 				<gold type="Great" value="4999"/>
 			</conditions>
 			<actions>
-				<tankgoto name="燕国·边境" pos="175,145" rlen="20"/>
+				<tankgoto name="燕国·边境" pos="187,142" rlen="20"/>
 				<gold type="Sub" value="5000"/>
 				<notify content="你驾驶着家族战车到了燕国的边境，付了50两"/>
 				<var type="Set" name="state" value="-2"/>
@@ -801,7 +801,7 @@ end
 				<gold type="Great" value="4999"/>
 			</conditions>
 			<actions>
-				<tankgoto name="赵国·边境" pos="175,145" rlen="20"/>
+				<tankgoto name="赵国·边境" pos="187,142" rlen="20"/>
 				<gold type="Sub" value="5000"/>
 				<notify content="你驾驶着家族战车到了赵国的边境，付了50两"/>
 				<var type="Set" name="state" value="-2"/>
@@ -815,7 +815,7 @@ end
 				<gold type="Great" value="4999"/>
 			</conditions>
 			<actions>
-				<tankgoto name="唐国·边境" pos="175,145" rlen="20"/>
+				<tankgoto name="唐国·边境" pos="187,142" rlen="20"/>
 				<gold type="Sub" value="5000"/>
 				<notify content="你驾驶着家族战车到了唐国的边境，付了50两"/>
 				<var type="Set" name="state" value="-2"/>
@@ -829,7 +829,7 @@ end
 				<gold type="Great" value="4999"/>
 			</conditions>
 			<actions>
-				<tankgoto name="汉国·边境" pos="175,145" rlen="20"/>
+				<tankgoto name="汉国·边境" pos="187,142" rlen="20"/>
 				<gold type="Sub" value="5000"/>
 				<notify content="你驾驶着家族战车到了汉国的边境，付了50两"/>
 				<var type="Set" name="state" value="-2"/>
@@ -843,7 +843,7 @@ end
 				<gold type="Great" value="4999"/>
 			</conditions>
 			<actions>
-				<tankgoto name="周国·边境" pos="175,145" rlen="20"/>
+				<tankgoto name="周国·边境" pos="187,142" rlen="20"/>
 				<gold type="Sub" value="5000"/>
 				<notify content="你驾驶着家族战车到了周国的边境，付了50两"/>
 				<var type="Set" name="state" value="-2"/>
@@ -857,7 +857,7 @@ end
 				<gold type="Great" value="4999"/>
 			</conditions>
 			<actions>
-				<tankgoto name="吴国·边境" pos="175,145" rlen="20"/>
+				<tankgoto name="吴国·边境" pos="187,142" rlen="20"/>
 				<gold type="Sub" value="5000"/>
 				<notify content="你驾驶着家族战车到了吴国的边境，付了50两"/>
 				<var type="Set" name="state" value="-2"/>
@@ -871,7 +871,7 @@ end
 				<gold type="Great" value="4999"/>
 			</conditions>
 			<actions>
-				<tankgoto name="楚国·边境" pos="175,145" rlen="20"/>
+				<tankgoto name="楚国·边境" pos="187,142" rlen="20"/>
 				<gold type="Sub" value="5000"/>
 				<notify content="你驾驶着家族战车到了楚国的边境，付了50两"/>
 				<var type="Set" name="state" value="-2"/>

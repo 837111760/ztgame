@@ -1801,7 +1801,7 @@ end
 				<canjump  value="1"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了60两托运费"/>
 				<gold type="Sub" value="6000"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1813,7 +1813,7 @@ end
 				<var type="Equal" name="gold" value="75" id="21005"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了75两托运费"/>
 				<gold type="Sub" value="7500"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1825,7 +1825,7 @@ end
 				<var type="Equal" name="gold" value="90" id="21005"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了90两托运费"/>
 				<gold type="Sub" value="9000"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1837,7 +1837,7 @@ end
 				<var type="Equal" name="gold" value="105" id="21005"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了1锭5两托运费"/>
 				<gold type="Sub" value="10500"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1849,7 +1849,7 @@ end
 				<var type="Equal" name="gold" value="120" id="21005"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了1锭20两托运费"/>
 				<gold type="Sub" value="12000"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1861,7 +1861,7 @@ end
 				<var type="Equal" name="gold" value="135" id="21005"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了1锭35两托运费"/>
 				<gold type="Sub" value="13500"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1873,7 +1873,7 @@ end
 				<var type="Equal" name="gold" value="150" id="21005"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了1锭50两托运费"/>
 				<gold type="Sub" value="15000"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1889,7 +1889,7 @@ end
 				<var type="Equal" name="gold" value="100" id="21006"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了1锭托运费"/>
 				<gold type="Sub" value="10000"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1901,7 +1901,7 @@ end
 				<var type="Equal" name="gold" value="125" id="21006"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了1锭25两托运费"/>
 				<gold type="Sub" value="12500"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1913,7 +1913,7 @@ end
 				<var type="Equal" name="gold" value="150" id="21006"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了1锭50两托运费"/>
 				<gold type="Sub" value="15000"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1925,7 +1925,7 @@ end
 				<var type="Equal" name="gold" value="175" id="21006"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了1锭75两托运费"/>
 				<gold type="Sub" value="17500"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1937,7 +1937,7 @@ end
 				<var type="Equal" name="gold" value="200" id="21006"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了2锭托运费"/>
 				<gold type="Sub" value="20000"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1949,7 +1949,7 @@ end
 				<var type="Equal" name="gold" value="225" id="21006"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了2锭25两托运费"/>
 				<gold type="Sub" value="22500"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1960,7 +1960,7 @@ end
 				<gold type="Great" value="24999"/>
 				<var type="Equal" name="gold" value="250" id="21006"/>			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了2锭50两托运费"/>
 				<gold type="Sub" value="25000"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1973,7 +1973,7 @@ end
 				<var type="Equal" name="gold" value="140" id="21007"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了1锭40两托运费"/>
 				<gold type="Sub" value="14000"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1985,7 +1985,7 @@ end
 				<var type="Equal" name="gold" value="175" id="21007"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了1锭75两托运费"/>
 				<gold type="Sub" value="17500"/>
 				<var type="Set" name="state" value="-2"/>
@@ -1997,7 +1997,7 @@ end
 				<var type="Equal" name="gold" value="210" id="21007"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了2锭10两托运费"/>
 				<gold type="Sub" value="21000"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2009,7 +2009,7 @@ end
 				<var type="Equal" name="gold" value="245" id="21007"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了2锭45两托运费"/>
 				<gold type="Sub" value="24500"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2021,7 +2021,7 @@ end
 				<var type="Equal" name="gold" value="280" id="21007"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了2锭80两托运费"/>
 				<gold type="Sub" value="28000"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2033,7 +2033,7 @@ end
 				<var type="Equal" name="gold" value="315" id="21007"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了3锭15两托运费"/>
 				<gold type="Sub" value="31500"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2045,7 +2045,7 @@ end
 				<var type="Equal" name="gold" value="350" id="21007"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了3锭50两托运费"/>
 				<gold type="Sub" value="35000"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2057,7 +2057,7 @@ end
 				<var type="Equal" name="gold" value="180" id="21008"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了1锭80两托运费"/>
 				<gold type="Sub" value="18000"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2069,7 +2069,7 @@ end
 				<var type="Equal" name="gold" value="225" id="21008"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了2锭25两托运费"/>
 				<gold type="Sub" value="22500"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2081,7 +2081,7 @@ end
 				<var type="Equal" name="gold" value="270" id="21008"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了2锭70两托运费"/>
 				<gold type="Sub" value="27000"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2093,7 +2093,7 @@ end
 				<var type="Equal" name="gold" value="315" id="21008"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了3锭15两托运费"/>
 				<gold type="Sub" value="31500"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2105,7 +2105,7 @@ end
 				<var type="Equal" name="gold" value="360" id="21008"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了3锭60两托运费"/>
 				<gold type="Sub" value="36000"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2117,7 +2117,7 @@ end
 				<var type="Equal" name="gold" value="405" id="21008"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了4锭5两托运费"/>
 				<gold type="Sub" value="40500"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2129,7 +2129,7 @@ end
 				<var type="Equal" name="gold" value="450" id="21008"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了4锭50两托运费"/>
 				<gold type="Sub" value="45000"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2141,7 +2141,7 @@ end
 				<var type="Equal" name="gold" value="220" id="21009"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了2锭20两托运费"/>
 				<gold type="Sub" value="22000"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2153,7 +2153,7 @@ end
 				<var type="Equal" name="gold" value="275" id="21009"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了2锭75两托运费"/>
 				<gold type="Sub" value="27500"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2165,7 +2165,7 @@ end
 				<var type="Equal" name="gold" value="330" id="21009"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了3锭30两托运费"/>
 				<gold type="Sub" value="33000"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2177,7 +2177,7 @@ end
 				<var type="Equal" name="gold" value="385" id="21009"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了3锭85两托运费"/>
 				<gold type="Sub" value="38500"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2189,7 +2189,7 @@ end
 				<var type="Equal" name="gold" value="440" id="21009"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了4锭40两托运费"/>
 				<gold type="Sub" value="44000"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2201,7 +2201,7 @@ end
 				<var type="Equal" name="gold" value="495" id="21009"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了4锭95两托运费"/>
 				<gold type="Sub" value="49500"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2213,7 +2213,7 @@ end
 				<var type="Equal" name="gold" value="550" id="21009"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了5锭50两托运费"/>
 				<gold type="Sub" value="55000"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2229,7 +2229,7 @@ end
 				<var type="Equal" name="gold" value="250" id="22005"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了2锭50两托运费"/>
 				<gold type="Sub" value="25000"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2241,7 +2241,7 @@ end
 				<var type="Equal" name="gold" value="310" id="22005"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了3锭10两托运费"/>
 				<gold type="Sub" value="31000"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2253,7 +2253,7 @@ end
 				<var type="Equal" name="gold" value="370" id="22005"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了3锭70两托运费"/>
 				<gold type="Sub" value="37000"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2265,7 +2265,7 @@ end
 				<var type="Equal" name="gold" value="430" id="22005"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了4锭30两托运费"/>
 				<gold type="Sub" value="43000"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2277,7 +2277,7 @@ end
 				<var type="Equal" name="gold" value="490" id="22005"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了4锭90两托运费"/>
 				<gold type="Sub" value="49000"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2289,7 +2289,7 @@ end
 				<var type="Equal" name="gold" value="550" id="22005"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了5锭50两托运费"/>
 				<gold type="Sub" value="55000"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2301,7 +2301,7 @@ end
 				<var type="Equal" name="gold" value="615" id="22005"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了6锭15两托运费"/>
 				<gold type="Sub" value="61500"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2316,7 +2316,7 @@ end
 				<var type="Equal" name="gold" value="275" id="22006"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了2锭75两托运费"/>
 				<gold type="Sub" value="27500"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2328,7 +2328,7 @@ end
 				<var type="Equal" name="gold" value="340" id="22006"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了3锭40两托运费"/>
 				<gold type="Sub" value="34000"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2340,7 +2340,7 @@ end
 				<var type="Equal" name="gold" value="405" id="22006"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了4锭5两托运费"/>
 				<gold type="Sub" value="40500"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2352,7 +2352,7 @@ end
 				<var type="Equal" name="gold" value="470" id="22006"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了4锭70两托运费"/>
 				<gold type="Sub" value="47000"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2364,7 +2364,7 @@ end
 				<var type="Equal" name="gold" value="535" id="22006"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了5锭35两托运费"/>
 				<gold type="Sub" value="53500"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2376,7 +2376,7 @@ end
 				<var type="Equal" name="gold" value="600" id="22006"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了6锭托运费"/>
 				<gold type="Sub" value="60000"/>
 				<var type="Set" name="state" value="-2"/>
@@ -2388,7 +2388,7 @@ end
 				<var type="Equal" name="gold" value="665" id="22006"/>
 			</conditions>
 			<actions>
-				<goto name="边境" pos="22,118"/>
+				<goto name="边境" pos="373,246"/>
 				<notify content="你的货物安全运到边境，付了6锭65两托运费"/>
 				<gold type="Sub" value="66500"/>
 				<var type="Set" name="state" value="-2"/>

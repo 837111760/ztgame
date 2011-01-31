@@ -3,16 +3,6 @@
 <event id="1" name="³õÊ¼">
 	<!--new means new quest, default is quest on user-->
 	<quest id="2" new="1">
-		<embranchment id="1">
-			<conditions>
-				<level type="Great" value="0"/>
-				<level type="Less" value="60"/>
-			</conditions>
-			<actions>
-				<exp value="40000000"/>
-				<notify1 content="¾­Ñé+40000000"/>
-			</actions>
-		</embranchment>
 		<embranchment id="10">
 			<conditions>
 				<var type="Differ" name="state" value="-1"/>
