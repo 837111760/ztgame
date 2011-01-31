@@ -42,7 +42,7 @@
 		<country countryID="2"/>
 		<country countryID="11"/>
     </Kick-->
-    <!--Kick kickID="1">
+    <Kick kickID="1">
         <timer startTime="20061229 23:57:55" last="120" interval="86400" time="0"/>
         <dest dest="·ï»Ë³Ç pos=391,430"/>
         <map mapID="223"/>
@@ -161,7 +161,7 @@
     <OffLine mapID="274" destMapName="·ï»Ë³Ç" x="391" y="430"/>
     <OffLine mapID="275" destMapName="·ï»Ë³Ç" x="391" y="430"/>
     <OffLine mapID="276" destMapName="·ï»Ë³Ç" x="391" y="430"/>
-    <OffLine mapID="277" destMapName="·ï»Ë³Ç" x="391" y="430"/-->
+    <OffLine mapID="277" destMapName="·ï»Ë³Ç" x="391" y="430"/>
     
     
     
