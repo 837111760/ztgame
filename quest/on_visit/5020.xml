@@ -16,8 +16,6 @@ this:AddTaskCmdItem("带路去武夷王墓入口-2两(0)", "v5020", 160103, 14)
 this:AddTaskCmdItem("带路去滨海之岛入口-2两(0)", "v5020", 160103, 15)
 this:AddTaskCmdItem("带路去栖息地入口-2两(0)", "v5020", 160103, 16)
 this:AddTaskCmdItem("带路去魔族巢穴入口-2两(0)", "v5020", 160103, 17)
-this:AddTaskCmdItem("传送到圣城-2两(0)", "v5020", 160103, 18)
-this:AddTaskCmdItem("传送到雪山之巅-2两(0)", "v5020", 160103, 19)
 this:AddTaskCmdItem("去皇城入口-2两(0)", "v5020", 160103, 12)
 end
 				</menu>
@@ -108,29 +106,5 @@ end
 			</actions>
 		</embranchment>		
 
-		<embranchment id="18" active="1">
-			<conditions>
-				<gold type="Great" value="199"/>
-			</conditions>
-			<actions>
-				<gold type="Sub" value="200"/>
-				<goto name="中立区·圣城" pos="29,15" pos1="22,20" pos2="28,26" pos3="34,19"/>
-				<notify content="你被带到圣城"/>
-				<var type="Set" name="state" value="-2"/>
-			</actions>
-		</embranchment>
-		
-		<embranchment id="19" active="1">
-			<conditions>
-				<gold type="Great" value="199"/>
-			</conditions>
-			<actions>
-				<gold type="Sub" value="200"/>
-				<goto name="中立区·雪山之巅" pos="29,15" pos1="22,20" pos2="28,26" pos3="34,19"/>
-				<notify content="你被带到雪山之巅"/>
-				<var type="Set" name="state" value="-2"/>
-			</actions>
-		</embranchment>
-		
 	</quest>
 </event>
