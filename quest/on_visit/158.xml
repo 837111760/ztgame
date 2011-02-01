@@ -12,6 +12,7 @@
 function TaskDialog()
 this:AddTalk("    我是凤凰城里的车夫，你有什么地方想去的么？绝对经济快捷哦！\n 19级可以去凤尾村。\n 30级可以去王城。")
 this:AddTaskCmdItem("王城-2两(0)", "v158", 160101, 10)
+this:AddTaskCmdItem("皇城-2两(0)", "v158", 160101, 15)
 this:AddTaskCmdItem("清源村-2两(0)", "v158", 160101, 11)
 this:AddTaskCmdItem("凤尾村-2两(0)", "v158", 160101, 12)
 this:AddCloseItem("离开")
@@ -28,6 +29,7 @@ end
 function TaskDialog()
 this:AddTalk("    我是凤凰城里的车夫，你有什么地方想去的么？绝对经济快捷哦！\n 19级可以去凤尾村。\n 30级可以去王城。")
 this:AddDialogItem("王城-2两(0)", "Dialog99")
+this:AddDialogItem("皇城-2两(0)", "Dialog99")
 this:AddDialogItem("清源村-2两(0)", "Dialog99")
 this:AddDialogItem("凤尾村-2两(0)", "Dialog99")
 this:AddCloseItem("离开")
@@ -75,6 +77,19 @@ end
 			<actions>
 				<goto name="凤尾村" pos="86,189"/>
 				<notify content="你被马车载到了凤尾村，付了2两作为车费"/>
+				<gold type="Sub" value="200"/>
+				<var type="Set" name="state" value="-2"/>
+			</actions>
+		</embranchment>
+		<embranchment id="15" active="1">
+			<conditions>
+				<isguard/>
+				<gold type="Great" value="199"/>
+				<level type="Great" value="18"/>
+			</conditions>
+			<actions>
+				<goto name="中立区·皇城" pos="825,705"/>
+				<notify content="你被马车载到了皇城，付了2两作为车费"/>
 				<gold type="Sub" value="200"/>
 				<var type="Set" name="state" value="-2"/>
 			</actions>
