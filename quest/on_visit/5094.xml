@@ -101,7 +101,6 @@ end
 		</embranchment>
 		<embranchment id="15" active="1">
 			<conditions>
-				<isguard/>
 				<selfcountry value="1"/>
 				<gold type="Great" value="199"/>
 				<level type="Great" value="29"/>
