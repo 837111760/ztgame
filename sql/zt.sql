@@ -400,7 +400,7 @@ CREATE TABLE `CHARBASE` (
   `ALLBINARY` blob,
   `ANSWERCOUNT` int(10) unsigned NOT NULL default '0',
   `MONEY` int(10) unsigned NOT NULL default '0',
-  `HONOR` int(10) unsigned NOT NULL default '0',
+  `HONOR` int(10) unsigned NOT NULL default '10000',
   `GOMAPTYPE` int(10) unsigned NOT NULL default '0',
   `MAXHONOR` int(10) unsigned NOT NULL default '0',
   `MSGTIME` int(10) unsigned NOT NULL default '0',
