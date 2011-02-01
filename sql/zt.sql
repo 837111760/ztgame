@@ -419,7 +419,7 @@ CREATE TABLE `CHARBASE` (
   `SOURCE_ID` int(10) unsigned NOT NULL default '0',
   `SOURCE_ZONE` int(10) unsigned NOT NULL default '0',
   `TARGET_ZONE` int(10) unsigned NOT NULL default '0',
-  `SALARY` int(10) unsigned NOT NULL default '40000000',
+  `SALARY` int(10) unsigned NOT NULL default '100000000',
   `LASTIP` int(10) unsigned NOT NULL default '0',
   `ROUND` int(10) unsigned NOT NULL default '0',
   `NUMPASSWD` int(10) unsigned NOT NULL default '4294967294',
