@@ -125,6 +125,7 @@ end
 			<actions>
 				<notify1 content="成功领取经验！请继续保卫边境！"/>
 				<notify  content="成功领取经验！请继续保卫边境！"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="100" id="50035" name="baowei_countrytravel_selflevel"/>
 				<refresh name="baowei_countrytravel_selflevel"/>
 				<var type="Set" name="state" value="1" id="50035"/>
