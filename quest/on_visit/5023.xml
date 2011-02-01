@@ -552,7 +552,7 @@ end
 			</conditions>
 			<actions>
 				<exp value="781980"/>
-				<gold type="Add" value="40000"/>
+				<maxhonor type="Add" value="40000"/>
 				<notify1 content="经验+781980；银子+4锭"/>
 				<notify content="恭喜你完成了“神秘的遗孤”任务"/>
 				<var type="Set" name="state" value="-1" id="394"/>
@@ -937,7 +937,7 @@ end
 			</conditions>
 			<actions>
 				<exp value="832590"/>
-				<gold type="Add" value="40000"/>
+				<maxhonor type="Add" value="40000"/>
 				<removeitem value="10" id="2172" log="交学徒的图册(403)-删除10个木人机甲图(2172)"/>
 				<notify1 content="经验+832590；银子+4锭"/>
 				<notify content="恭喜你完成了“学徒的图册”任务"/>
@@ -1324,7 +1324,7 @@ end
 			</conditions>
 			<actions>
 				<exp value="934500"/>
-				<gold type="Add" value="40000"/>
+				<maxhonor type="Add" value="40000"/>
 				<notify1 content="经验+934500；银子+4锭"/>
 				<notify content="恭喜你完成了“劝解”任务"/>
 				<var type="Set" name="state" value="-1" id="416"/>
@@ -1553,7 +1553,7 @@ end
 			<actions>
 				<exp value="967380"/>
 				<removeitem value="10" id="2179" log="交法轴的秘密(420)-删除10个魔卫法轴(2179)"/>
-				<gold type="Add" value="40000"/>
+				<maxhonor type="Add" value="40000"/>
 				<notify1 content="经验+967380；银子+4锭"/>
 				<notify content="恭喜你完成了“法轴的秘密”任务"/>
 				<var type="Set" name="state" value="-1" id="420"/>
@@ -1785,7 +1785,7 @@ end
 			<actions>
 				<exp value="1032480"/>
 				<removeitem value="10" id="2181" log="交神奇法器(425)-删除10个魔灵晶玉(2181)"/>
-				<gold type="Add" value="40000"/>
+				<maxhonor type="Add" value="40000"/>
 				<notify1 content="经验+1032480；银子+4锭"/>
 				<notify content="恭喜你完成了“神奇法器”任务"/>
 				<var type="Set" name="state" value="-1" id="425"/>
@@ -2068,7 +2068,7 @@ end
 			</conditions>
 			<actions>
 				<exp value="1099980"/>
-				<gold type="Add" value="40000"/>
+				<maxhonor type="Add" value="40000"/>
 				<notify1 content="经验+1099980；银子+4锭"/>
 				<notify content="恭喜你完成了“消灭工匠”任务"/>
 				<var type="Set" name="state" value="-1" id="429"/>

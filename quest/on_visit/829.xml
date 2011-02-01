@@ -401,7 +401,7 @@ end
 			<actions>
 				<removeitem value="1" id="2162" log="½»±ÜĞ°(378)-É¾³ı±ÜĞ°Áéµ¤(2162)"/>
 				<exp value="95600"/>
-				<gold type="Add" value="20000"/>
+				<maxhonor type="Add" value="20000"/>
 				<notify1 content="¾­Ñé+95600£»Òø×Ó+2¶§"/>
 				<notify content="¹§Ï²ÄãÍê³ÉÁË¡°±ÜĞ°¡±ÈÎÎñ"/>
 				<var type="Set" name="state" value="-1" id="378"/>

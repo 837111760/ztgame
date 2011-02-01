@@ -4320,7 +4320,9 @@ end
 			</conditions>
 			<actions>
 				<notify1 content="完成国家任务，经验增加"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50001" name="selflevel"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50001" name="country_killl_selflevel"/>
 				<var type="Set" name="kill" value="0"/>
 				<var type="Set" name="state" value="-2"/>
@@ -4553,7 +4555,9 @@ end
 			</conditions>
 			<actions>
 				<notify1 content="完成国家任务，经验增加"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50016" name="selflevel"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50016" name="country_killl_selflevel"/>
 				<var type="Set" name="state" value="-2"/>
 				<refresh name="kill"/>
@@ -4777,7 +4781,9 @@ end
 			</conditions>
 			<actions>
 				<notify1 content="完成国家任务，经验增加"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50017" name="selflevel"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50017" name="country_killl_selflevel"/>
 				<var type="Set" name="state" value="-2"/>
 				<refresh name="kill"/>
@@ -5008,7 +5014,9 @@ end
 			</conditions>
 			<actions>
 				<notify1 content="完成国家任务，经验增加"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50018" name="selflevel"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50018" name="country_killl_selflevel"/>
 				<var type="Set" name="state" value="-2"/>
 				<refresh name="kill"/>
@@ -5229,7 +5237,9 @@ end
 			</conditions>
 			<actions>
 				<notify1 content="完成国家任务，经验增加"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50019" name="selflevel"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50019" name="country_killl_selflevel"/>
 				<var type="Set" name="state" value="-2"/>
 				<refresh name="kill"/>
@@ -5450,7 +5460,9 @@ end
 			</conditions>
 			<actions>
 				<notify1 content="完成国家任务，经验增加"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50020" name="selflevel"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50020" name="country_killl_selflevel"/>
 				<var type="Set" name="state" value="-2"/>
 				<refresh name="kill"/>
@@ -5670,7 +5682,9 @@ end
 			</conditions>
 			<actions>
 				<notify1 content="完成国家任务，经验增加"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50023" name="selflevel"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50023" name="country_killl_selflevel"/>
 				<var type="Set" name="state" value="-2"/>
 				<refresh name="kill"/>
@@ -5891,7 +5905,9 @@ end
 			</conditions>
 			<actions>
 				<notify1 content="完成国家任务，经验增加"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50024" name="selflevel"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50024" name="country_killl_selflevel"/>
 				<var type="Set" name="state" value="-2"/>
 				<refresh name="kill"/>
@@ -6114,7 +6130,9 @@ end
 			</conditions>
 			<actions>
 				<notify1 content="完成国家任务，经验增加"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50025" name="selflevel"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50025" name="country_killl_selflevel"/>
 				<var type="Set" name="state" value="-2"/>
 				<refresh name="kill"/>
@@ -6328,7 +6346,9 @@ end
 			</conditions>
 			<actions>
 				<notify1 content="完成国家任务，经验增加"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50026" name="selflevel"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50026" name="country_killl_selflevel"/>
 				<var type="Set" name="state" value="-2"/>
 				<refresh name="kill"/>

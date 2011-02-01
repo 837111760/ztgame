@@ -237,9 +237,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="40两押金退还了"/>
-				<gold type="Add" value="4000"/>
+				<maxhonor type="Add" value="4000"/>
 				<notify1 content="得到40两酬劳"/>
-				<gold type="Add" value="4000"/>
+				<maxhonor type="Add" value="4000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21035" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>
@@ -253,9 +253,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你20两押金"/>
-				<gold type="Add" value="2000"/>
+				<maxhonor type="Add" value="2000"/>
 				<notify1 content="得到40两酬劳"/>
-				<gold type="Add" value="4000"/>
+				<maxhonor type="Add" value="4000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21035" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>
@@ -270,9 +270,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="40两押金退还了"/>
-				<gold type="Add" value="4000"/>
+				<maxhonor type="Add" value="4000"/>
 				<notify1 content="得到40两酬劳"/>
-				<gold type="Add" value="4000"/>
+				<maxhonor type="Add" value="4000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21035" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>
@@ -286,9 +286,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你20两押金"/>
-				<gold type="Add" value="2000"/>
+				<maxhonor type="Add" value="2000"/>
 				<notify1 content="得到40两酬劳"/>
-				<gold type="Add" value="4000"/>
+				<maxhonor type="Add" value="4000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21035" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>
@@ -303,9 +303,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="40两押金退还了"/>
-				<gold type="Add" value="4000"/>
+				<maxhonor type="Add" value="4000"/>
 				<notify1 content="得到40两酬劳"/>
-				<gold type="Add" value="4000"/>
+				<maxhonor type="Add" value="4000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21035" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>
@@ -319,9 +319,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你20两押金"/>
-				<gold type="Add" value="2000"/>
+				<maxhonor type="Add" value="2000"/>
 				<notify1 content="得到40两酬劳"/>
-				<gold type="Add" value="4000"/>
+				<maxhonor type="Add" value="4000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21035" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>
@@ -442,9 +442,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="50两押金退还了"/>
-				<gold type="Add" value="5000"/>
+				<maxhonor type="Add" value="5000"/>
 				<notify1 content="得到50两酬劳"/>
-				<gold type="Add" value="5000"/>
+				<maxhonor type="Add" value="5000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21036" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>
@@ -458,9 +458,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你25两押金"/>
-				<gold type="Add" value="2500"/>
+				<maxhonor type="Add" value="2500"/>
 				<notify1 content="得到50两酬劳"/>
-				<gold type="Add" value="5000"/>
+				<maxhonor type="Add" value="5000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21036" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>
@@ -475,9 +475,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="50两押金退还了"/>
-				<gold type="Add" value="5000"/>
+				<maxhonor type="Add" value="5000"/>
 				<notify1 content="得到50两酬劳"/>
-				<gold type="Add" value="5000"/>
+				<maxhonor type="Add" value="5000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21036" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>
@@ -491,9 +491,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你25两押金"/>
-				<gold type="Add" value="2500"/>
+				<maxhonor type="Add" value="2500"/>
 				<notify1 content="得到50两酬劳"/>
-				<gold type="Add" value="5000"/>
+				<maxhonor type="Add" value="5000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21036" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>
@@ -508,9 +508,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="50两押金退还了"/>
-				<gold type="Add" value="5000"/>
+				<maxhonor type="Add" value="5000"/>
 				<notify1 content="得到50两酬劳"/>
-				<gold type="Add" value="5000"/>
+				<maxhonor type="Add" value="5000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21036" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>
@@ -524,9 +524,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你25两押金"/>
-				<gold type="Add" value="2500"/>
+				<maxhonor type="Add" value="2500"/>
 				<notify1 content="得到50两酬劳"/>
-				<gold type="Add" value="5000"/>
+				<maxhonor type="Add" value="5000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21036" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>
@@ -647,9 +647,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="60两押金退还了"/>
-				<gold type="Add" value="6000"/>
+				<maxhonor type="Add" value="6000"/>
 				<notify1 content="得到60两酬劳"/>
-				<gold type="Add" value="6000"/>
+				<maxhonor type="Add" value="6000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21037" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>
@@ -663,9 +663,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你30两押金"/>
-				<gold type="Add" value="3000"/>
+				<maxhonor type="Add" value="3000"/>
 				<notify1 content="得到60两酬劳"/>
-				<gold type="Add" value="6000"/>
+				<maxhonor type="Add" value="6000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21037" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>
@@ -680,9 +680,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="60两押金退还了"/>
-				<gold type="Add" value="6000"/>
+				<maxhonor type="Add" value="6000"/>
 				<notify1 content="得到60两酬劳"/>
-				<gold type="Add" value="6000"/>
+				<maxhonor type="Add" value="6000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21037" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>
@@ -696,9 +696,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你30两押金"/>
-				<gold type="Add" value="3000"/>
+				<maxhonor type="Add" value="3000"/>
 				<notify1 content="得到60两酬劳"/>
-				<gold type="Add" value="6000"/>
+				<maxhonor type="Add" value="6000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21037" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>
@@ -713,9 +713,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="60两押金退还了"/>
-				<gold type="Add" value="6000"/>
+				<maxhonor type="Add" value="6000"/>
 				<notify1 content="得到60两酬劳"/>
-				<gold type="Add" value="6000"/>
+				<maxhonor type="Add" value="6000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21037" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>
@@ -729,9 +729,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你30两押金"/>
-				<gold type="Add" value="3000"/>
+				<maxhonor type="Add" value="3000"/>
 				<notify1 content="得到60两酬劳"/>
-				<gold type="Add" value="6000"/>
+				<maxhonor type="Add" value="6000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21037" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>
@@ -852,9 +852,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="80两押金退还了"/>
-				<gold type="Add" value="8000"/>
+				<maxhonor type="Add" value="8000"/>
 				<notify1 content="得到80两酬劳"/>
-				<gold type="Add" value="8000"/>
+				<maxhonor type="Add" value="8000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21038" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>
@@ -868,9 +868,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你40两押金"/>
-				<gold type="Add" value="4000"/>
+				<maxhonor type="Add" value="4000"/>
 				<notify1 content="得到80两酬劳"/>
-				<gold type="Add" value="8000"/>
+				<maxhonor type="Add" value="8000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21038" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>
@@ -885,9 +885,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="80两押金退还了"/>
-				<gold type="Add" value="8000"/>
+				<maxhonor type="Add" value="8000"/>
 				<notify1 content="得到80两酬劳"/>
-				<gold type="Add" value="8000"/>
+				<maxhonor type="Add" value="8000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21038" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>
@@ -901,9 +901,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你40两押金"/>
-				<gold type="Add" value="4000"/>
+				<maxhonor type="Add" value="4000"/>
 				<notify1 content="得到80两酬劳"/>
-				<gold type="Add" value="8000"/>
+				<maxhonor type="Add" value="8000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21038" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>
@@ -918,9 +918,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="80两押金退还了"/>
-				<gold type="Add" value="8000"/>
+				<maxhonor type="Add" value="8000"/>
 				<notify1 content="得到80两酬劳"/>
-				<gold type="Add" value="8000"/>
+				<maxhonor type="Add" value="8000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21038" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>
@@ -934,9 +934,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你40两押金"/>
-				<gold type="Add" value="4000"/>
+				<maxhonor type="Add" value="4000"/>
 				<notify1 content="得到80两酬劳"/>
-				<gold type="Add" value="8000"/>
+				<maxhonor type="Add" value="8000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21038" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>
@@ -1057,9 +1057,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="1锭押金退还了"/>
-				<gold type="Add" value="10000"/>
+				<maxhonor type="Add" value="10000"/>
 				<notify1 content="得到1锭酬劳"/>
-				<gold type="Add" value="10000"/>
+				<maxhonor type="Add" value="10000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21039" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>
@@ -1073,9 +1073,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你50两押金"/>
-				<gold type="Add" value="5000"/>
+				<maxhonor type="Add" value="5000"/>
 				<notify1 content="得到1锭酬劳"/>
-				<gold type="Add" value="10000"/>
+				<maxhonor type="Add" value="10000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21039" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>
@@ -1090,9 +1090,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="1锭押金退还了"/>
-				<gold type="Add" value="10000"/>
+				<maxhonor type="Add" value="10000"/>
 				<notify1 content="得到1锭酬劳"/>
-				<gold type="Add" value="10000"/>
+				<maxhonor type="Add" value="10000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21039" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>
@@ -1106,9 +1106,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你50两押金"/>
-				<gold type="Add" value="5000"/>
+				<maxhonor type="Add" value="5000"/>
 				<notify1 content="得到1锭酬劳"/>
-				<gold type="Add" value="10000"/>
+				<maxhonor type="Add" value="10000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21039" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>
@@ -1123,9 +1123,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="1锭押金退还了"/>
-				<gold type="Add" value="10000"/>
+				<maxhonor type="Add" value="10000"/>
 				<notify1 content="得到1锭酬劳"/>
-				<gold type="Add" value="10000"/>
+				<maxhonor type="Add" value="10000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21039" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>
@@ -1139,9 +1139,9 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你50两押金"/>
-				<gold type="Add" value="5000"/>
+				<maxhonor type="Add" value="5000"/>
 				<notify1 content="得到1锭酬劳"/>
-				<gold type="Add" value="10000"/>
+				<maxhonor type="Add" value="10000"/>
 				<notify content="你完成了护送，增加了金钱"/>
 				<exp value="100" id="21039" name="selflevel"/>
 				<notify content="你完成了护送，增加了经验"/>

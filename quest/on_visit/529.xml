@@ -353,6 +353,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="135000"/>
 				<notify1 content="经验+135000"/>
 				<additem value="1" id="2401" odds="5"/>
@@ -379,6 +380,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="135000"/>
 				<notify1 content="经验+135000"/>
 				<additem value="1" id="2401" odds="3000"/>
@@ -405,6 +407,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="135000"/>
 				<notify1 content="经验+135000"/>
 				<additem value="1" id="2401" odds="5000"/>
@@ -451,6 +454,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="202500"/>
 				<notify1 content="经验+202500"/>
 				<additem value="1" id="1925" odds="5000"/>
@@ -477,6 +481,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="202500"/>
 				<notify1 content="经验+202500"/>
 				<additem value="1" id="2401" odds="3000"/>
@@ -504,6 +509,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="202500"/>
 				<notify1 content="经验+202500"/>
 				<additem value="1" id="2401" odds="5000"/>
@@ -546,6 +552,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21411"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="137500"/>
 				<notify1 content="经验+137500"/>
 				<additem value="1" id="2401" odds="5"/>
@@ -570,6 +577,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21411"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="137500"/>
 				<notify1 content="经验+137500"/>
 				<additem value="1" id="2401" odds="3000"/>
@@ -594,6 +602,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21411"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="137500"/>
 				<notify1 content="经验+137500"/>
 				<additem value="1" id="2401" odds="5000"/>
@@ -971,6 +980,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="253125"/>
 				<notify1 content="经验+253125"/>
 				<additem value="1" id="2402" odds="5"/>
@@ -997,6 +1007,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="253125"/>
 				<notify1 content="经验+253125"/>
 				<additem value="1" id="2402" odds="3000"/>
@@ -1023,6 +1034,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="253125"/>
 				<notify1 content="经验+253125"/>
 				<additem value="1" id="2402" odds="5000"/>
@@ -1069,6 +1081,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="371250"/>
 				<notify1 content="经验+371250"/>
 				<additem value="1" id="1930" odds="5000"/>
@@ -1095,6 +1108,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="371250"/>
 				<notify1 content="经验+371250"/>
 				<additem value="1" id="2402" odds="3000"/>
@@ -1122,6 +1136,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="371250"/>
 				<notify1 content="经验+371250"/>
 				<additem value="1" id="2402" odds="5000"/>
@@ -1164,6 +1179,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21421"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="212500"/>
 				<notify1 content="经验+212500"/>
 				<additem value="1" id="2402" odds="5"/>
@@ -1188,6 +1204,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21421"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="212500"/>
 				<notify1 content="经验+212500"/>
 				<additem value="1" id="2402" odds="3000"/>
@@ -1212,6 +1229,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21421"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="212500"/>
 				<notify1 content="经验+212500"/>
 				<additem value="1" id="2402" odds="5000"/>
@@ -1598,6 +1616,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="412605"/>
 				<notify1 content="经验+412605"/>
 				<additem value="1" id="2403" odds="5"/>
@@ -1624,6 +1643,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="412605"/>
 				<notify1 content="经验+412605"/>
 				<additem value="1" id="2403" odds="3000"/>
@@ -1650,6 +1670,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="412605"/>
 				<notify1 content="经验+412605"/>
 				<additem value="1" id="2403" odds="5000"/>
@@ -1696,6 +1717,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="594151"/>
 				<notify1 content="经验+594151"/>
 				<additem value="1" id="1970" odds="5000"/>
@@ -1722,6 +1744,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="594151"/>
 				<notify1 content="经验+594151"/>
 				<additem value="1" id="2403" odds="3000"/>
@@ -1749,6 +1772,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="594151"/>
 				<notify1 content="经验+594151"/>
 				<additem value="1" id="2403" odds="5000"/>
@@ -1791,6 +1815,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21431"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="312600"/>
 				<notify1 content="经验+312600"/>
 				<additem value="1" id="2403" odds="5"/>
@@ -1815,6 +1840,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21431"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="312600"/>
 				<notify1 content="经验+312600"/>
 				<additem value="1" id="2403" odds="3000"/>
@@ -1839,6 +1865,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21431"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="312600"/>
 				<notify1 content="经验+312600"/>
 				<additem value="1" id="2403" odds="5000"/>
@@ -2234,6 +2261,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="581900"/>
 				<notify1 content="经验+581900"/>
 				<additem value="1" id="2404" odds="5"/>
@@ -2260,6 +2288,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="581900"/>
 				<notify1 content="经验+581900"/>
 				<additem value="1" id="2404" odds="3000"/>
@@ -2286,6 +2315,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="581900"/>
 				<notify1 content="经验+581900"/>
 				<additem value="1" id="2404" odds="5000"/>
@@ -2332,6 +2362,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="825240"/>
 				<notify1 content="经验+825240"/>
 				<additem value="1" id="1971" odds="5000"/>
@@ -2358,6 +2389,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="825240"/>
 				<notify1 content="经验+825240"/>
 				<additem value="1" id="2404" odds="3000"/>
@@ -2385,6 +2417,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="825240"/>
 				<notify1 content="经验+825240"/>
 				<additem value="1" id="2404" odds="5000"/>
@@ -2427,6 +2460,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21441"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="377000"/>
 				<notify1 content="经验+377000"/>
 				<additem value="1" id="2404" odds="5"/>
@@ -2451,6 +2485,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21441"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="377000"/>
 				<notify1 content="经验+377000"/>
 				<additem value="1" id="2404" odds="3000"/>
@@ -2475,6 +2510,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21441"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="377000"/>
 				<notify1 content="经验+377000"/>
 				<additem value="1" id="2404" odds="5000"/>
@@ -2879,6 +2915,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="746250"/>
 				<notify1 content="经验+746250"/>
 				<additem value="1" id="1964" odds="5"/>
@@ -2905,6 +2942,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="746250"/>
 				<notify1 content="经验+746250"/>
 				<additem value="1" id="1964" odds="3000"/>
@@ -2931,6 +2969,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="746250"/>
 				<notify1 content="经验+746250"/>
 				<additem value="1" id="1964" odds="5000"/>
@@ -2977,6 +3016,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="1044750"/>
 				<notify1 content="经验+1044750"/>
 				<additem value="1" id="1972" odds="5000"/>
@@ -3003,6 +3043,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="1044750"/>
 				<notify1 content="经验+1044750"/>
 				<additem value="1" id="1964" odds="3000"/>
@@ -3030,6 +3071,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="1044750"/>
 				<notify1 content="经验+1044750"/>
 				<additem value="1" id="1964" odds="5000"/>
@@ -3072,6 +3114,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21451"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="481250"/>
 				<notify1 content="经验+481250"/>
 				<additem value="1" id="1964" odds="5"/>
@@ -3096,6 +3139,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21451"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="481250"/>
 				<notify1 content="经验+481250"/>
 				<additem value="1" id="1964" odds="3000"/>
@@ -3120,6 +3164,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21451"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="481250"/>
 				<notify1 content="经验+481250"/>
 				<additem value="1" id="1964" odds="5000"/>
@@ -3533,6 +3578,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="1026252"/>
 				<notify1 content="经验+1026252"/>
 				<additem value="1" id="2405" odds="5"/>
@@ -3559,6 +3605,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="1026252"/>
 				<notify1 content="经验+1026252"/>
 				<additem value="1" id="2405" odds="3000"/>
@@ -3585,6 +3632,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="1026252"/>
 				<notify1 content="经验+1026252"/>
 				<additem value="1" id="2405" odds="5000"/>
@@ -3631,6 +3679,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="1420965"/>
 				<notify1 content="经验+1420965"/>
 				<additem value="1" id="1973" odds="5000"/>
@@ -3657,6 +3706,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="1420965"/>
 				<notify1 content="经验+1420965"/>
 				<additem value="1" id="2405" odds="3000"/>
@@ -3684,6 +3734,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="1420965"/>
 				<notify1 content="经验+1420965"/>
 				<additem value="1" id="2405" odds="5000"/>
@@ -3726,6 +3777,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21461"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="565000"/>
 				<notify1 content="经验+565000"/>
 				<additem value="1" id="2405" odds="5"/>
@@ -3750,6 +3802,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21461"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="565000"/>
 				<notify1 content="经验+565000"/>
 				<additem value="1" id="2405" odds="3000"/>
@@ -3774,6 +3827,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21461"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="565000"/>
 				<notify1 content="经验+565000"/>
 				<additem value="1" id="2405" odds="5000"/>
@@ -4196,6 +4250,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="1263920"/>
 				<notify1 content="经验+1263920"/>
 				<additem value="1" id="2407" odds="5"/>
@@ -4222,6 +4277,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="1263920"/>
 				<notify1 content="经验+1263920"/>
 				<additem value="1" id="2407" odds="3000"/>
@@ -4248,6 +4304,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="1263920"/>
 				<notify1 content="经验+1263920"/>
 				<additem value="1" id="2407" odds="5000"/>
@@ -4294,6 +4351,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="1733376"/>
 				<notify1 content="经验+1733376"/>
 				<additem value="1" id="1974" odds="5000"/>
@@ -4320,6 +4378,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="1733376"/>
 				<notify1 content="经验+1733376"/>
 				<additem value="1" id="2407" odds="3000"/>
@@ -4347,6 +4406,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="1733376"/>
 				<notify1 content="经验+1733376"/>
 				<additem value="1" id="2407" odds="5000"/>
@@ -4389,6 +4449,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21471"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="637500"/>
 				<notify1 content="经验+637500"/>
 				<additem value="1" id="2407" odds="5"/>
@@ -4413,6 +4474,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21471"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="637500"/>
 				<notify1 content="经验+637500"/>
 				<additem value="1" id="2407" odds="3000"/>
@@ -4437,6 +4499,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21471"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp value="637500"/>
 				<notify1 content="经验+637500"/>
 				<additem value="1" id="2407" odds="5000"/>
@@ -5020,6 +5083,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21481" name="selflevel"/>
 				<notify content="增加了经验"/>
 				<additem value="1" id="2408" odds="5"/>
@@ -5046,6 +5110,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21481" name="selflevel"/>
 				<notify content="增加了经验"/>
 				<additem value="1" id="2408" odds="3000"/>
@@ -5072,6 +5137,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21481" name="selflevel"/>
 				<notify content="增加了经验"/>
 				<additem value="1" id="2408" odds="5000"/>
@@ -5134,6 +5200,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21481" name="selflevel"/>
 				<notify content="增加了经验"/>
 				<additem value="1" id="1975" odds="5000"/>
@@ -5160,6 +5227,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21481" name="selflevel"/>
 				<notify content="增加了经验"/>
 				<additem value="1" id="2408" odds="3000"/>
@@ -5187,6 +5255,7 @@ end
 				<uservar type="Less" name="getseed" value="2"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21481" name="selflevel"/>
 				<notify content="增加了经验"/>
 				<additem value="1" id="2408" odds="5000"/>
@@ -5244,6 +5313,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21481"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21481" name="selflevel"/>
 				<notify content="增加了经验"/>
 				<additem value="1" id="2408" odds="5"/>
@@ -5268,6 +5338,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21481"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21481" name="selflevel"/>
 				<notify content="增加了经验"/>
 				<additem value="1" id="2408" odds="3000"/>
@@ -5292,6 +5363,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21481"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21481" name="selflevel"/>
 				<notify content="增加了经验"/>
 				<additem value="1" id="2408" odds="5000"/>
@@ -5352,6 +5424,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21481"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21481" name="selflevel"/>
 				<notify content="增加了经验"/>
 				<additem value="1" id="2408" odds="5"/>
@@ -5376,6 +5449,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21481"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21481" name="selflevel"/>
 				<notify content="增加了经验"/>
 				<additem value="1" id="2408" odds="3000"/>
@@ -5400,6 +5474,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21481"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21481" name="selflevel"/>
 				<notify content="增加了经验"/>
 				<additem value="1" id="2408" odds="5000"/>
@@ -5460,6 +5535,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21481"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21481" name="selflevel"/>
 				<notify content="增加了经验"/>
 				<additem value="1" id="2408" odds="5"/>
@@ -5484,6 +5560,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21481"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21481" name="selflevel"/>
 				<notify content="增加了经验"/>
 				<additem value="1" id="2408" odds="3000"/>
@@ -5508,6 +5585,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21481"/>
 			</conditions>
 			<actions>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21481" name="selflevel"/>
 				<notify content="增加了经验"/>
 				<additem value="1" id="2408" odds="5000"/>

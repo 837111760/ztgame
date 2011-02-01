@@ -6408,6 +6408,7 @@ end
 				<uservar type="Add" name="check_country_travel" value="1"/>
 				<uservar type="Set" name="checkover_2_country" value="1"/>
 				<refresh name="state"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="20610" name="check_country_selflevel"/>
 				<varnotify1 content="你完成了去宋国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20610"/>
 				<varnotify2 content="你完成了去宋国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20610"/>
@@ -6446,6 +6447,7 @@ end
 				<uservar type="Add" name="check_country_travel" value="1"/>
 				<uservar type="Set" name="checkover_2_country" value="1"/>
 				<refresh name="state"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="20610" name="check_country_selflevel"/>
 				<varnotify1 content="你完成了去宋国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20610"/>
 				<varnotify2 content="你完成了去宋国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20610"/>
@@ -6697,6 +6699,7 @@ end
 				<var type="Set" name="state" value="-2"/>
 				<uservar type="Add" name="check_country_travel" value="1"/>
 				<refresh name="state"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="20611" name="check_country_selflevel"/>
 				<varnotify1 content="你完成了去魏国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20611"/>
 				<varnotify2 content="你完成了去魏国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20611"/>
@@ -6735,6 +6738,7 @@ end
 				<var type="Set" name="state" value="-2"/>
 				<uservar type="Add" name="check_country_travel" value="1"/>
 				<refresh name="state"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="20611" name="check_country_selflevel"/>
 				<varnotify1 content="你完成了去魏国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20611"/>
 				<varnotify2 content="你完成了去魏国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20611"/>
@@ -6986,6 +6990,7 @@ end
 				<var type="Set" name="state" value="-2"/>
 				<uservar type="Add" name="check_country_travel" value="1"/>
 				<refresh name="state"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="20612" name="check_country_selflevel"/>
 				<varnotify1 content="你完成了去齐国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20612"/>
 				<varnotify2 content="你完成了去齐国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20612"/>
@@ -7024,6 +7029,7 @@ end
 				<var type="Set" name="state" value="-2"/>
 				<uservar type="Add" name="check_country_travel" value="1"/>
 				<refresh name="state"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="20612" name="check_country_selflevel"/>
 				<varnotify1 content="你完成了去齐国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20612"/>
 				<varnotify2 content="你完成了去齐国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20612"/>
@@ -7275,6 +7281,7 @@ end
 				<var type="Set" name="state" value="-2"/>
 				<uservar type="Add" name="check_country_travel" value="1"/>
 				<refresh name="state"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="20613" name="check_country_selflevel"/>
 				<varnotify1 content="你完成了去燕国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20613"/>
 				<varnotify2 content="你完成了去燕国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20613"/>
@@ -7313,6 +7320,7 @@ end
 				<var type="Set" name="state" value="-2"/>
 				<uservar type="Add" name="check_country_travel" value="1"/>
 				<refresh name="state"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="20613" name="check_country_selflevel"/>
 				<varnotify1 content="你完成了去燕国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20613"/>
 				<varnotify2 content="你完成了去燕国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20613"/>
@@ -7564,6 +7572,7 @@ end
 				<uservar type="Set" name="checkover_7_country" value="1"/>
 				<uservar type="Add" name="check_country_travel" value="1"/>
 				<refresh name="state"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="20614" name="check_country_selflevel"/>
 				<varnotify1 content="你完成了去唐国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20614"/>
 				<varnotify2 content="你完成了去唐国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20614"/>
@@ -7602,6 +7611,7 @@ end
 				<uservar type="Set" name="checkover_7_country" value="1"/>
 				<uservar type="Add" name="check_country_travel" value="1"/>
 				<refresh name="state"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="20614" name="check_country_selflevel"/>
 				<varnotify1 content="你完成了去唐国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20614"/>
 				<varnotify2 content="你完成了去唐国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20614"/>
@@ -7853,6 +7863,7 @@ end
 				<uservar type="Set" name="checkover_8_country" value="1"/>
 				<uservar type="Add" name="check_country_travel" value="1"/>
 				<refresh name="state"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="20615" name="check_country_selflevel"/>
 				<varnotify1 content="你完成了去汉国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20615"/>
 				<varnotify2 content="你完成了去汉国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20615"/>
@@ -7891,6 +7902,7 @@ end
 				<uservar type="Set" name="checkover_8_country" value="1"/>
 				<uservar type="Add" name="check_country_travel" value="1"/>
 				<refresh name="state"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="20615" name="check_country_selflevel"/>
 				<varnotify1 content="你完成了去汉国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20615"/>
 				<varnotify2 content="你完成了去汉国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20615"/>
@@ -8142,6 +8154,7 @@ end
 				<uservar type="Set" name="checkover_9_country" value="1"/>
 				<uservar type="Add" name="check_country_travel" value="1"/>
 				<refresh name="state"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="20616" name="check_country_selflevel"/>
 				<varnotify1 content="你完成了去吴国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20616"/>
 				<varnotify2 content="你完成了去吴国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20616"/>
@@ -8180,6 +8193,7 @@ end
 				<uservar type="Set" name="checkover_9_country" value="1"/>
 				<uservar type="Add" name="check_country_travel" value="1"/>
 				<refresh name="state"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="20616" name="check_country_selflevel"/>
 				<varnotify1 content="你完成了去吴国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20616"/>
 				<varnotify2 content="你完成了去吴国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20616"/>
@@ -8431,6 +8445,7 @@ end
 				<uservar type="Set" name="checkover_10_country" value="1"/>
 				<uservar type="Add" name="check_country_travel" value="1"/>
 				<refresh name="state"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="20617" name="check_country_selflevel"/>
 				<varnotify1 content="你完成了去赵国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20617"/>
 				<varnotify2 content="你完成了去赵国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20617"/>
@@ -8469,6 +8484,7 @@ end
 				<uservar type="Set" name="checkover_10_country" value="1"/>
 				<uservar type="Add" name="check_country_travel" value="1"/>
 				<refresh name="state"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="20617" name="check_country_selflevel"/>
 				<varnotify1 content="你完成了去赵国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20617"/>
 				<varnotify2 content="你完成了去赵国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20617"/>
@@ -8720,6 +8736,7 @@ end
 				<uservar type="Set" name="checkover_11_country" value="1"/>
 				<uservar type="Add" name="check_country_travel" value="1"/>
 				<refresh name="state"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="20618" name="check_country_selflevel"/>
 				<varnotify1 content="你完成了去周国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20618"/>
 				<varnotify2 content="你完成了去周国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20618"/>
@@ -8758,6 +8775,7 @@ end
 				<uservar type="Set" name="checkover_11_country" value="1"/>
 				<uservar type="Add" name="check_country_travel" value="1"/>
 				<refresh name="state"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="20618" name="check_country_selflevel"/>
 				<varnotify1 content="你完成了去周国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20618"/>
 				<varnotify2 content="你完成了去周国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20618"/>
@@ -9009,6 +9027,7 @@ end
 				<uservar type="Set" name="checkover_12_country" value="1"/>
 				<uservar type="Add" name="check_country_travel" value="1"/>
 				<refresh name="state"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="20619" name="check_country_selflevel"/>
 				<varnotify1 content="你完成了去楚国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20619"/>
 				<varnotify2 content="你完成了去楚国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20619"/>
@@ -9047,6 +9066,7 @@ end
 				<uservar type="Set" name="checkover_12_country" value="1"/>
 				<uservar type="Add" name="check_country_travel" value="1"/>
 				<refresh name="state"/>
+				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="20619" name="check_country_selflevel"/>
 				<varnotify1 content="你完成了去楚国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20619"/>
 				<varnotify2 content="你完成了去楚国刺探情报的任务，经验增加%u" value="check_country_selflevel" id="20619"/>

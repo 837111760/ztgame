@@ -54,7 +54,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="1锭40两押金退还了"/>
-				<gold type="Add" value="14000"/>
+				<maxhonor type="Add" value="14000"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
@@ -66,7 +66,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你70两押金"/>
-				<gold type="Add" value="7000"/>
+				<maxhonor type="Add" value="7000"/>
 				<exp value="100" id="21007" name="selflevel"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<var type="Set" name="state" value="-2"/>
