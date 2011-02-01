@@ -13,6 +13,7 @@
 function TaskDialog()
 this:AddTalk("    我是凤凰城里的车夫，你有什么地方想去的么？绝对经济快捷哦！\n 19级可以去凤尾村。\n 30级可以去王城。")
 this:AddTaskCmdItem("王城-2两(0)", "v5094", 160101, 10)
+this:AddTaskCmdItem("皇城-2两(0)", "v5094", 160101, 15)
 this:AddTaskCmdItem("清源村-2两(0)", "v5094", 160101, 11)
 this:AddTaskCmdItem("凤尾村-2两(0)", "v5094", 160101, 12)
 this:AddCloseItem("离开")
@@ -30,6 +31,7 @@ end
 function TaskDialog()
 this:AddTalk("    我是凤凰城里的车夫，你有什么地方想去的么？绝对经济快捷哦！\n 19级可以去凤尾村。\n 30级可以去王城。")
 this:AddDialogItem("王城-2两(0)", "Dialog98")
+this:AddDialogItem("皇城-2两(0)", "Dialog98")
 this:AddDialogItem("清源村-2两(0)", "Dialog98")
 this:AddDialogItem("凤尾村-2两(0)", "Dialog98")
 this:AddCloseItem("离开")
@@ -51,6 +53,7 @@ end
 function TaskDialog()
 this:AddTalk("    我是凤凰城里的车夫，你有什么地方想去的么？绝对经济快捷哦！")
 this:AddTaskCmdItem("王城-40两(0)", "v5094", 160101, 110)
+this:AddTaskCmdItem("皇城-40两(0)", "v5094", 160101, 115)
 this:AddTaskCmdItem("清源村-40两(0)", "v5094", 160101, 111)
 this:AddTaskCmdItem("凤尾村-40两(0)", "v5094", 160101, 112)
 this:AddCloseItem("离开")
@@ -68,6 +71,7 @@ end
 function TaskDialog()
 this:AddTalk("    我是凤凰城里的车夫，你有什么地方想去的么？绝对经济快捷哦！")
 this:AddDialogItem("王城-40两(0)", "Dialog99")
+this:AddDialogItem("皇城-40两(0)", "Dialog99")
 this:AddDialogItem("清源村-40两(0)", "Dialog99")
 this:AddDialogItem("凤尾村-40两(0)", "Dialog99")
 this:AddCloseItem("离开")
@@ -91,6 +95,20 @@ end
 			<actions>
 				<goto name="王城" pos="827,412"/>
 				<notify content="你被马车载到了王城，付了2两作为车费"/>
+				<gold type="Sub" value="200"/>
+				<var type="Set" name="state" value="-2"/>
+			</actions>
+		</embranchment>
+		<embranchment id="15" active="1">
+			<conditions>
+				<isguard/>
+				<selfcountry value="1"/>
+				<gold type="Great" value="199"/>
+				<level type="Great" value="29"/>
+			</conditions>
+			<actions>
+				<goto name="中立区·皇城" pos="825,705"/>
+				<notify content="你被马车载到了皇城，付了2两作为车费"/>
 				<gold type="Sub" value="200"/>
 				<var type="Set" name="state" value="-2"/>
 			</actions>
@@ -132,6 +150,20 @@ end
 			<actions>
 				<goto name="王城" pos="827,412"/>
 				<notify content="你被马车载到了王城，付了40两作为车费"/>
+				<gold type="Sub" value="4000"/>
+				<var type="Set" name="state" value="-2"/>
+			</actions>
+		</embranchment>
+		<embranchment id="115" active="1">
+			<conditions>
+				<isguard/>
+				<selfcountry value="0"/>
+				<gold type="Great" value="3999"/>
+				<level type="Great" value="29"/>
+			</conditions>
+			<actions>
+				<goto name="中立区·皇城" pos="825,705"/>
+				<notify content="你被马车载到了皇城，付了40两作为车费"/>
 				<gold type="Sub" value="4000"/>
 				<var type="Set" name="state" value="-2"/>
 			</actions>

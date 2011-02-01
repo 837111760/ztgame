@@ -12,7 +12,6 @@
 function TaskDialog()
 this:AddTalk("    我是王城的车夫，你有什么地方想去的么？")
 this:AddTaskCmdItem("凤凰城-2两(0)", "v302", 160103, 11)
-this:AddTaskCmdItem("皇城-2两(0)", "v158", 160101, 15)
 this:AddTaskCmdItem("北郊-2两(0)", "v302", 160103, 13)
 this:AddTaskCmdItem("跨国边防官-2两(0)", "v302", 160103, 12)
 this:AddCloseItem("离开")
@@ -29,7 +28,6 @@ end
 function TaskDialog()
 this:AddTalk("    我是王城的车夫，你有什么地方想去的么？");
 this:AddDialogItem("凤凰城-2两(0)", "Dialog98")
-this:AddDialogItem("皇城-2两(0)", "Dialog98")
 this:AddDialogItem("北郊-2两(0)", "Dialog98")
 this:AddTaskCmdItem("跨国边防官-2两(0)", "v302", 160103, 12)
 this:AddCloseItem("离开")
@@ -76,19 +74,6 @@ end
 				<goto name="北郊" pos="111,154"/>
 				<gold type="Sub" value="200"/>
 				<notify content="你被马车载到了北郊,付了2两作为车费"/>
-				<var type="Set" name="state" value="-2"/>
-			</actions>
-		</embranchment>
-		<embranchment id="15" active="1">
-			<conditions>
-				<isguard/>
-				<gold type="Great" value="199"/>
-				<level type="Great" value="18"/>
-			</conditions>
-			<actions>
-				<goto name="中立区·皇城" pos="825,705"/>
-				<notify content="你被马车载到了皇城，付了2两作为车费"/>
-				<gold type="Sub" value="200"/>
 				<var type="Set" name="state" value="-2"/>
 			</actions>
 		</embranchment>
