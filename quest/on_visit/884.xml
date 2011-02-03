@@ -5,46 +5,223 @@
 	<quest id="900011">
 		<embranchment id="1">
 			<conditions>
-				<gold type="Great" value="99"/>
-				<timeouts long="86400" id="100901" less="0"/>
 			</conditions>
 			<actions>
 				<menu>
 function TaskDialog()
-this:AddTalk("    您现在可以花一两买一颗荣誉之星，但每天只能购买一次哦，您要现在购买么？？")
-this:AddDialogItem("购买荣誉之星-1两(0)", "Dialog74")
+this:AddDialogItem("VIP装备换VIP材料(0)", "Dialog74")
+this:AddTaskCmdItem("国王每天领取金子(0)", "v884", 100901, 11)
+this:AddTaskCmdItem("城主每天领取金子(0)", "v884", 100901, 12)
+this:AddTaskCmdItem("2个丝绸（VIP）换取1个银（VIP）(0)", "v884", 100901, 13)
+this:AddTaskCmdItem("2个银（VIP）换取1个水晶（VIP）(0)", "v884", 100901, 14)
+this:AddTaskCmdItem("2个水晶（VIP）换取1个乌木（VIP）(0)", "v884", 100901, 15)
+this:AddTaskCmdItem("1个银（VIP）换取2个丝绸（VIP）(0)", "v884", 100901, 16)
+this:AddTaskCmdItem("1个水晶（VIP）换取2个银（VIP）(0)", "v884", 100901, 17)
+this:AddTaskCmdItem("1个乌木（VIP）换取2个水晶（VIP）(0)", "v884", 100901, 18)
+this:AddCloseItem("离开")
 end
 function Dialog74()
-this:AddTalk("    荣誉之星需要1两哦，你确定要买么？")
-this:AddTaskCmdItem("确定购买-1两(0)", "v877", 100901, 11)
-end
-				</menu>
-			</actions>
-		</embranchment>
-		<embranchment id="2">
-			<conditions>
-				<gold type="Great" value="99"/>
-				<timeouts long="86400" id="100901" less="1"/>
-			</conditions>
-			<actions>
-				<menu>
-function TaskDialog()
-this:AddTalk("    对不起，荣誉之星现在缺货，请过段时间再来。")
-end
-				</menu>
-			</actions>
-		</embranchment>
-		<embranchment id="15">
-			<conditions>
-				<gold type="Less" value="100"/>
-			</conditions>
-			<actions>
-				<menu>
-function TaskDialog()
-this:AddDialogItem("购买荣誉之星-1两(2)", "Dialog75")
-end
-function Dialog75()
-this:AddTalk("对不起，您钱不够，需要1两。")
+this:AddTalk("    VIP装备换VIP材料。")
+this:AddTaskCmdItem("圣者帝衣(男)+1换取1个丝绸（VIP）(0)", "v884", 100901, 30001)
+this:AddTaskCmdItem("圣者帝衣(男)+2换取2个丝绸（VIP）(0)", "v884", 100901, 30002)
+this:AddTaskCmdItem("圣者帝衣(男)+3换取1个银（VIP）(0)", "v884", 100901, 30003)
+this:AddTaskCmdItem("圣者帝衣(男)+4换取2个银（VIP）(0)", "v884", 100901, 30004)
+this:AddTaskCmdItem("圣者帝衣(男)+5换取1个水晶（VIP）(0)", "v884", 100901, 30005)
+this:AddTaskCmdItem("圣者帝衣(男)+6换取2个水晶（VIP）(0)", "v884", 100901, 30006)
+this:AddTaskCmdItem("圣者帝衣(男)+7换取1个乌木（VIP）(0)", "v884", 100901, 30007)
+this:AddTaskCmdItem("圣者帝衣(男)+8换取2个乌木（VIP）(0)", "v884", 100901, 30008)
+this:AddTaskCmdItem("圣者帝甲(男)+1换取1个丝绸（VIP）(0)", "v884", 100901, 30051)
+this:AddTaskCmdItem("圣者帝甲(男)+2换取2个丝绸（VIP）(0)", "v884", 100901, 30052)
+this:AddTaskCmdItem("圣者帝甲(男)+3换取1个银（VIP）(0)", "v884", 100901, 30053)
+this:AddTaskCmdItem("圣者帝甲(男)+4换取2个银（VIP）(0)", "v884", 100901, 30054)
+this:AddTaskCmdItem("圣者帝甲(男)+5换取1个水晶（VIP）(0)", "v884", 100901, 30055)
+this:AddTaskCmdItem("圣者帝甲(男)+6换取2个水晶（VIP）(0)", "v884", 100901, 30056)
+this:AddTaskCmdItem("圣者帝甲(男)+7换取1个乌木（VIP）(0)", "v884", 100901, 30057)
+this:AddTaskCmdItem("圣者帝甲(男)+8换取2个乌木（VIP）(0)", "v884", 100901, 30058)
+this:AddTaskCmdItem("圣者帝铠(男)+1换取1个丝绸（VIP）(0)", "v884", 100901, 30101)
+this:AddTaskCmdItem("圣者帝铠(男)+2换取2个丝绸（VIP）(0)", "v884", 100901, 30102)
+this:AddTaskCmdItem("圣者帝铠(男)+3换取1个银（VIP）(0)", "v884", 100901, 30103)
+this:AddTaskCmdItem("圣者帝铠(男)+4换取2个银（VIP）(0)", "v884", 100901, 30104)
+this:AddTaskCmdItem("圣者帝铠(男)+5换取1个水晶（VIP）(0)", "v884", 100901, 30105)
+this:AddTaskCmdItem("圣者帝铠(男)+6换取2个水晶（VIP）(0)", "v884", 100901, 30106)
+this:AddTaskCmdItem("圣者帝铠(男)+7换取1个乌木（VIP）(0)", "v884", 100901, 30107)
+this:AddTaskCmdItem("圣者帝铠(男)+8换取2个乌木（VIP）(0)", "v884", 100901, 30108)
+this:AddTaskCmdItem("圣者帝衣(女)+1换取1个丝绸（VIP）(0)", "v884", 100901, 30151)
+this:AddTaskCmdItem("圣者帝衣(女)+2换取2个丝绸（VIP）(0)", "v884", 100901, 30152)
+this:AddTaskCmdItem("圣者帝衣(女)+3换取1个银（VIP）(0)", "v884", 100901, 30153)
+this:AddTaskCmdItem("圣者帝衣(女)+4换取2个银（VIP）(0)", "v884", 100901, 30154)
+this:AddTaskCmdItem("圣者帝衣(女)+5换取1个水晶（VIP）(0)", "v884", 100901, 30155)
+this:AddTaskCmdItem("圣者帝衣(女)+6换取2个水晶（VIP）(0)", "v884", 100901, 30156)
+this:AddTaskCmdItem("圣者帝衣(女)+7换取1个乌木（VIP）(0)", "v884", 100901, 30157)
+this:AddTaskCmdItem("圣者帝衣(女)+8换取2个乌木（VIP）(0)", "v884", 100901, 30158)
+this:AddTaskCmdItem("圣者帝甲(女)+1换取1个丝绸（VIP）(0)", "v884", 100901, 30201)
+this:AddTaskCmdItem("圣者帝甲(女)+2换取2个丝绸（VIP）(0)", "v884", 100901, 30202)
+this:AddTaskCmdItem("圣者帝甲(女)+3换取1个银（VIP）(0)", "v884", 100901, 30203)
+this:AddTaskCmdItem("圣者帝甲(女)+4换取2个银（VIP）(0)", "v884", 100901, 30204)
+this:AddTaskCmdItem("圣者帝甲(女)+5换取1个水晶（VIP）(0)", "v884", 100901, 30205)
+this:AddTaskCmdItem("圣者帝甲(女)+6换取2个水晶（VIP）(0)", "v884", 100901, 30206)
+this:AddTaskCmdItem("圣者帝甲(女)+7换取1个乌木（VIP）(0)", "v884", 100901, 30207)
+this:AddTaskCmdItem("圣者帝甲(女)+8换取2个乌木（VIP）(0)", "v884", 100901, 30208)
+this:AddTaskCmdItem("圣者帝铠(女)+1换取1个丝绸（VIP）(0)", "v884", 100901, 30251)
+this:AddTaskCmdItem("圣者帝铠(女)+2换取2个丝绸（VIP）(0)", "v884", 100901, 30252)
+this:AddTaskCmdItem("圣者帝铠(女)+3换取1个银（VIP）(0)", "v884", 100901, 30253)
+this:AddTaskCmdItem("圣者帝铠(女)+4换取2个银（VIP）(0)", "v884", 100901, 30254)
+this:AddTaskCmdItem("圣者帝铠(女)+5换取1个水晶（VIP）(0)", "v884", 100901, 30255)
+this:AddTaskCmdItem("圣者帝铠(女)+6换取2个水晶（VIP）(0)", "v884", 100901, 30256)
+this:AddTaskCmdItem("圣者帝铠(女)+7换取1个乌木（VIP）(0)", "v884", 100901, 30257)
+this:AddTaskCmdItem("圣者帝铠(女)+8换取2个乌木（VIP）(0)", "v884", 100901, 30258)
+this:AddTaskCmdItem("圣者刀+1换取1个丝绸（VIP）(0)", "v884", 100901, 30302)
+this:AddTaskCmdItem("圣者刀+2换取2个丝绸（VIP）(0)", "v884", 100901, 30303)
+this:AddTaskCmdItem("圣者刀+3换取1个银（VIP）(0)", "v884", 100901, 30304)
+this:AddTaskCmdItem("圣者刀+4换取2个银（VIP）(0)", "v884", 100901, 30305)
+this:AddTaskCmdItem("圣者刀+5换取1个水晶（VIP）(0)", "v884", 100901, 30306)
+this:AddTaskCmdItem("圣者刀+6换取2个水晶（VIP）(0)", "v884", 100901, 30307)
+this:AddTaskCmdItem("圣者刀+7换取1个乌木（VIP）(0)", "v884", 100901, 30308)
+this:AddTaskCmdItem("圣者刀+8换取2个乌木（VIP）(0)", "v884", 100901, 30309)
+this:AddTaskCmdItem("圣者斧+1换取1个丝绸（VIP）(0)", "v884", 100901, 30402)
+this:AddTaskCmdItem("圣者斧+2换取2个丝绸（VIP）(0)", "v884", 100901, 30403)
+this:AddTaskCmdItem("圣者斧+3换取1个银（VIP）(0)", "v884", 100901, 30404)
+this:AddTaskCmdItem("圣者斧+4换取2个银（VIP）(0)", "v884", 100901, 30405)
+this:AddTaskCmdItem("圣者斧+5换取1个水晶（VIP）(0)", "v884", 100901, 30406)
+this:AddTaskCmdItem("圣者斧+6换取2个水晶（VIP）(0)", "v884", 100901, 30407)
+this:AddTaskCmdItem("圣者斧+7换取1个乌木（VIP）(0)", "v884", 100901, 30408)
+this:AddTaskCmdItem("圣者斧+8换取2个乌木（VIP）(0)", "v884", 100901, 30409)
+this:AddTaskCmdItem("圣者杖+1换取1个丝绸（VIP）(0)", "v884", 100901, 30502)
+this:AddTaskCmdItem("圣者杖+2换取2个丝绸（VIP）(0)", "v884", 100901, 30503)
+this:AddTaskCmdItem("圣者杖+3换取1个银（VIP）(0)", "v884", 100901, 30504)
+this:AddTaskCmdItem("圣者杖+4换取2个银（VIP）(0)", "v884", 100901, 30505)
+this:AddTaskCmdItem("圣者杖+5换取1个水晶（VIP）(0)", "v884", 100901, 30506)
+this:AddTaskCmdItem("圣者杖+6换取2个水晶（VIP）(0)", "v884", 100901, 30507)
+this:AddTaskCmdItem("圣者杖+7换取1个乌木（VIP）(0)", "v884", 100901, 30508)
+this:AddTaskCmdItem("圣者杖+8换取2个乌木（VIP）(0)", "v884", 100901, 30509)
+this:AddTaskCmdItem("圣者弓+1换取1个丝绸（VIP）(0)", "v884", 100901, 30552)
+this:AddTaskCmdItem("圣者弓+2换取2个丝绸（VIP）(0)", "v884", 100901, 30553)
+this:AddTaskCmdItem("圣者弓+3换取1个银（VIP）(0)", "v884", 100901, 30554)
+this:AddTaskCmdItem("圣者弓+4换取2个银（VIP）(0)", "v884", 100901, 30555)
+this:AddTaskCmdItem("圣者弓+5换取1个水晶（VIP）(0)", "v884", 100901, 30556)
+this:AddTaskCmdItem("圣者弓+6换取2个水晶（VIP）(0)", "v884", 100901, 30557)
+this:AddTaskCmdItem("圣者弓+7换取1个乌木（VIP）(0)", "v884", 100901, 30558)
+this:AddTaskCmdItem("圣者弓+8换取2个乌木（VIP）(0)", "v884", 100901, 30559)
+this:AddTaskCmdItem("圣者扇+1换取1个丝绸（VIP）(0)", "v884", 100901, 30602)
+this:AddTaskCmdItem("圣者扇+2换取2个丝绸（VIP）(0)", "v884", 100901, 30603)
+this:AddTaskCmdItem("圣者扇+3换取1个银（VIP）(0)", "v884", 100901, 30604)
+this:AddTaskCmdItem("圣者扇+4换取2个银（VIP）(0)", "v884", 100901, 30605)
+this:AddTaskCmdItem("圣者扇+5换取1个水晶（VIP）(0)", "v884", 100901, 30606)
+this:AddTaskCmdItem("圣者扇+6换取2个水晶（VIP）(0)", "v884", 100901, 30607)
+this:AddTaskCmdItem("圣者扇+7换取1个乌木（VIP）(0)", "v884", 100901, 30608)
+this:AddTaskCmdItem("圣者扇+8换取2个乌木（VIP）(0)", "v884", 100901, 30609)
+this:AddTaskCmdItem("圣者棍+1换取1个丝绸（VIP）(0)", "v884", 100901, 30652)
+this:AddTaskCmdItem("圣者棍+2换取2个丝绸（VIP）(0)", "v884", 100901, 30653)
+this:AddTaskCmdItem("圣者棍+3换取1个银（VIP）(0)", "v884", 100901, 30654)
+this:AddTaskCmdItem("圣者棍+4换取2个银（VIP）(0)", "v884", 100901, 30655)
+this:AddTaskCmdItem("圣者棍+5换取1个水晶（VIP）(0)", "v884", 100901, 30656)
+this:AddTaskCmdItem("圣者棍+6换取2个水晶（VIP）(0)", "v884", 100901, 30657)
+this:AddTaskCmdItem("圣者棍+7换取1个乌木（VIP）(0)", "v884", 100901, 30658)
+this:AddTaskCmdItem("圣者棍+8换取2个乌木（VIP）(0)", "v884", 100901, 30659)
+this:AddTaskCmdItem("圣者盾+1换取1个丝绸（VIP）(0)", "v884", 100901, 30701)
+this:AddTaskCmdItem("圣者盾+2换取2个丝绸（VIP）(0)", "v884", 100901, 30702)
+this:AddTaskCmdItem("圣者盾+3换取1个银（VIP）(0)", "v884", 100901, 30703)
+this:AddTaskCmdItem("圣者盾+4换取2个银（VIP）(0)", "v884", 100901, 30704)
+this:AddTaskCmdItem("圣者盾+5换取1个水晶（VIP）(0)", "v884", 100901, 30705)
+this:AddTaskCmdItem("圣者盾+6换取2个水晶（VIP）(0)", "v884", 100901, 30706)
+this:AddTaskCmdItem("圣者盾+7换取1个乌木（VIP）(0)", "v884", 100901, 30707)
+this:AddTaskCmdItem("圣者盾+8换取2个乌木（VIP）(0)", "v884", 100901, 30708)
+this:AddTaskCmdItem("圣者盔(魔)+1换取1个丝绸（VIP）(0)", "v884", 100901, 30753)
+this:AddTaskCmdItem("圣者盔(魔)+2换取2个丝绸（VIP）(0)", "v884", 100901, 30755)
+this:AddTaskCmdItem("圣者盔(魔)+3换取1个银（VIP）(0)", "v884", 100901, 30757)
+this:AddTaskCmdItem("圣者盔(魔)+4换取2个银（VIP）(0)", "v884", 100901, 30759)
+this:AddTaskCmdItem("圣者盔(魔)+5换取1个水晶（VIP）(0)", "v884", 100901, 30761)
+this:AddTaskCmdItem("圣者盔(魔)+6换取2个水晶（VIP）(0)", "v884", 100901, 30763)
+this:AddTaskCmdItem("圣者盔(魔)+7换取1个乌木（VIP）(0)", "v884", 100901, 30765)
+this:AddTaskCmdItem("圣者盔(魔)+8换取2个乌木（VIP）(0)", "v884", 100901, 30767)
+this:AddTaskCmdItem("圣者盔(物)+1换取1个丝绸（VIP）(0)", "v884", 100901, 30754)
+this:AddTaskCmdItem("圣者盔(物)+2换取2个丝绸（VIP）(0)", "v884", 100901, 30756)
+this:AddTaskCmdItem("圣者盔(物)+3换取1个银（VIP）(0)", "v884", 100901, 30758)
+this:AddTaskCmdItem("圣者盔(物)+4换取2个银（VIP）(0)", "v884", 100901, 30760)
+this:AddTaskCmdItem("圣者盔(物)+5换取1个水晶（VIP）(0)", "v884", 100901, 30762)
+this:AddTaskCmdItem("圣者盔(物)+6换取2个水晶（VIP）(0)", "v884", 100901, 30764)
+this:AddTaskCmdItem("圣者盔(物)+7换取1个乌木（VIP）(0)", "v884", 100901, 30766)
+this:AddTaskCmdItem("圣者盔(物)+8换取2个乌木（VIP）(0)", "v884", 100901, 30768)
+this:AddTaskCmdItem("圣者腰带(魔)+1换取1个丝绸（VIP）(0)", "v884", 100901, 30803)
+this:AddTaskCmdItem("圣者腰带(魔)+2换取2个丝绸（VIP）(0)", "v884", 100901, 30805)
+this:AddTaskCmdItem("圣者腰带(魔)+3换取1个银（VIP）(0)", "v884", 100901, 30807)
+this:AddTaskCmdItem("圣者腰带(魔)+4换取2个银（VIP）(0)", "v884", 100901, 30809)
+this:AddTaskCmdItem("圣者腰带(魔)+5换取1个水晶（VIP）(0)", "v884", 100901, 30811)
+this:AddTaskCmdItem("圣者腰带(魔)+6换取2个水晶（VIP）(0)", "v884", 100901, 30813)
+this:AddTaskCmdItem("圣者腰带(魔)+7换取1个乌木（VIP）(0)", "v884", 100901, 30815)
+this:AddTaskCmdItem("圣者腰带(魔)+8换取2个乌木（VIP）(0)", "v884", 100901, 30817)
+this:AddTaskCmdItem("圣者腰带(物)+1换取1个丝绸（VIP）(0)", "v884", 100901, 30804)
+this:AddTaskCmdItem("圣者腰带(物)+2换取2个丝绸（VIP）(0)", "v884", 100901, 30806)
+this:AddTaskCmdItem("圣者腰带(物)+3换取1个银（VIP）(0)", "v884", 100901, 30808)
+this:AddTaskCmdItem("圣者腰带(物)+4换取2个银（VIP）(0)", "v884", 100901, 30810)
+this:AddTaskCmdItem("圣者腰带(物)+5换取1个水晶（VIP）(0)", "v884", 100901, 30812)
+this:AddTaskCmdItem("圣者腰带(物)+6换取2个水晶（VIP）(0)", "v884", 100901, 30814)
+this:AddTaskCmdItem("圣者腰带(物)+7换取1个乌木（VIP）(0)", "v884", 100901, 30816)
+this:AddTaskCmdItem("圣者腰带(物)+8换取2个乌木（VIP）(0)", "v884", 100901, 30818)
+this:AddTaskCmdItem("圣者护腕(魔)+1换取1个丝绸（VIP）(0)", "v884", 100901, 30853)
+this:AddTaskCmdItem("圣者护腕(魔)+2换取2个丝绸（VIP）(0)", "v884", 100901, 30855)
+this:AddTaskCmdItem("圣者护腕(魔)+3换取1个银（VIP）(0)", "v884", 100901, 30857)
+this:AddTaskCmdItem("圣者护腕(魔)+4换取2个银（VIP）(0)", "v884", 100901, 30859)
+this:AddTaskCmdItem("圣者护腕(魔)+5换取1个水晶（VIP）(0)", "v884", 100901, 30861)
+this:AddTaskCmdItem("圣者护腕(魔)+6换取2个水晶（VIP）(0)", "v884", 100901, 30863)
+this:AddTaskCmdItem("圣者护腕(魔)+7换取1个乌木（VIP）(0)", "v884", 100901, 30865)
+this:AddTaskCmdItem("圣者护腕(魔)+8换取2个乌木（VIP）(0)", "v884", 100901, 30867)
+this:AddTaskCmdItem("圣者护腕(物)+1换取1个丝绸（VIP）(0)", "v884", 100901, 30854)
+this:AddTaskCmdItem("圣者护腕(物)+2换取2个丝绸（VIP）(0)", "v884", 100901, 30856)
+this:AddTaskCmdItem("圣者护腕(物)+3换取1个银（VIP）(0)", "v884", 100901, 30858)
+this:AddTaskCmdItem("圣者护腕(物)+4换取2个银（VIP）(0)", "v884", 100901, 30860)
+this:AddTaskCmdItem("圣者护腕(物)+5换取1个水晶（VIP）(0)", "v884", 100901, 30862)
+this:AddTaskCmdItem("圣者护腕(物)+6换取2个水晶（VIP）(0)", "v884", 100901, 30864)
+this:AddTaskCmdItem("圣者护腕(物)+7换取1个乌木（VIP）(0)", "v884", 100901, 30866)
+this:AddTaskCmdItem("圣者护腕(物)+8换取2个乌木（VIP）(0)", "v884", 100901, 30868)
+this:AddTaskCmdItem("圣者靴(物)+1换取1个丝绸（VIP）(0)", "v884", 100901, 30901)
+this:AddTaskCmdItem("圣者靴(物)+2换取2个丝绸（VIP）(0)", "v884", 100901, 30903)
+this:AddTaskCmdItem("圣者靴(物)+3换取1个银（VIP）(0)", "v884", 100901, 30905)
+this:AddTaskCmdItem("圣者靴(物)+4换取2个银（VIP）(0)", "v884", 100901, 30907)
+this:AddTaskCmdItem("圣者靴(物)+5换取1个水晶（VIP）(0)", "v884", 100901, 30909)
+this:AddTaskCmdItem("圣者靴(物)+6换取2个水晶（VIP）(0)", "v884", 100901, 30911)
+this:AddTaskCmdItem("圣者靴(物)+7换取1个乌木（VIP）(0)", "v884", 100901, 30913)
+this:AddTaskCmdItem("圣者靴(物)+8换取2个乌木（VIP）(0)", "v884", 100901, 30915)
+this:AddTaskCmdItem("圣者靴(魔)+1换取1个丝绸（VIP）(0)", "v884", 100901, 30902)
+this:AddTaskCmdItem("圣者靴(魔)+2换取2个丝绸（VIP）(0)", "v884", 100901, 30904)
+this:AddTaskCmdItem("圣者靴(魔)+3换取1个银（VIP）(0)", "v884", 100901, 30906)
+this:AddTaskCmdItem("圣者靴(魔)+4换取2个银（VIP）(0)", "v884", 100901, 30908)
+this:AddTaskCmdItem("圣者靴(魔)+5换取1个水晶（VIP）(0)", "v884", 100901, 30910)
+this:AddTaskCmdItem("圣者靴(魔)+6换取2个水晶（VIP）(0)", "v884", 100901, 30912)
+this:AddTaskCmdItem("圣者靴(魔)+7换取1个乌木（VIP）(0)", "v884", 100901, 30914)
+this:AddTaskCmdItem("圣者靴(魔)+8换取2个乌木（VIP）(0)", "v884", 100901, 30916)
+this:AddTaskCmdItem("圣者项链(物)+1换取1个丝绸（VIP）(0)", "v884", 100901, 30953)
+this:AddTaskCmdItem("圣者项链(物)+2换取2个丝绸（VIP）(0)", "v884", 100901, 30955)
+this:AddTaskCmdItem("圣者项链(物)+3换取1个银（VIP）(0)", "v884", 100901, 30957)
+this:AddTaskCmdItem("圣者项链(物)+4换取2个银（VIP）(0)", "v884", 100901, 30959)
+this:AddTaskCmdItem("圣者项链(物)+5换取1个水晶（VIP）(0)", "v884", 100901, 30961)
+this:AddTaskCmdItem("圣者项链(物)+6换取2个水晶（VIP）(0)", "v884", 100901, 30963)
+this:AddTaskCmdItem("圣者项链(物)+7换取1个乌木（VIP）(0)", "v884", 100901, 30965)
+this:AddTaskCmdItem("圣者项链(物)+8换取2个乌木（VIP）(0)", "v884", 100901, 30967)
+this:AddTaskCmdItem("圣者项链(魔)+1换取1个丝绸（VIP）(0)", "v884", 100901, 30954)
+this:AddTaskCmdItem("圣者项链(魔)+2换取2个丝绸（VIP）(0)", "v884", 100901, 30956)
+this:AddTaskCmdItem("圣者项链(魔)+3换取1个银（VIP）(0)", "v884", 100901, 30958)
+this:AddTaskCmdItem("圣者项链(魔)+4换取2个银（VIP）(0)", "v884", 100901, 30960)
+this:AddTaskCmdItem("圣者项链(魔)+5换取1个水晶（VIP）(0)", "v884", 100901, 30962)
+this:AddTaskCmdItem("圣者项链(魔)+6换取2个水晶（VIP）(0)", "v884", 100901, 30964)
+this:AddTaskCmdItem("圣者项链(魔)+7换取1个乌木（VIP）(0)", "v884", 100901, 30966)
+this:AddTaskCmdItem("圣者项链(魔)+8换取2个乌木（VIP）(0)", "v884", 100901, 30968)
+this:AddTaskCmdItem("圣者戒指(物)+1换取1个丝绸（VIP）(0)", "v884", 100901, 31003)
+this:AddTaskCmdItem("圣者戒指(物)+2换取2个丝绸（VIP）(0)", "v884", 100901, 31005)
+this:AddTaskCmdItem("圣者戒指(物)+3换取1个银（VIP）(0)", "v884", 100901, 31007)
+this:AddTaskCmdItem("圣者戒指(物)+4换取2个银（VIP）(0)", "v884", 100901, 31009)
+this:AddTaskCmdItem("圣者戒指(物)+5换取1个水晶（VIP）(0)", "v884", 100901, 31011)
+this:AddTaskCmdItem("圣者戒指(物)+6换取2个水晶（VIP）(0)", "v884", 100901, 31013)
+this:AddTaskCmdItem("圣者戒指(物)+7换取1个乌木（VIP）(0)", "v884", 100901, 31015)
+this:AddTaskCmdItem("圣者戒指(物)+8换取2个乌木（VIP）(0)", "v884", 100901, 31017)
+this:AddTaskCmdItem("圣者戒指(魔)+1换取1个丝绸（VIP）(0)", "v884", 100901, 31004)
+this:AddTaskCmdItem("圣者戒指(魔)+2换取2个丝绸（VIP）(0)", "v884", 100901, 31006)
+this:AddTaskCmdItem("圣者戒指(魔)+3换取1个银（VIP）(0)", "v884", 100901, 31008)
+this:AddTaskCmdItem("圣者戒指(魔)+4换取2个银（VIP）(0)", "v884", 100901, 31010)
+this:AddTaskCmdItem("圣者戒指(魔)+5换取1个水晶（VIP）(0)", "v884", 100901, 31012)
+this:AddTaskCmdItem("圣者戒指(魔)+6换取2个水晶（VIP）(0)", "v884", 100901, 31014)
+this:AddTaskCmdItem("圣者戒指(魔)+7换取1个乌木（VIP）(0)", "v884", 100901, 31016)
+this:AddTaskCmdItem("圣者戒指(魔)+8换取2个乌木（VIP）(0)", "v884", 100901, 31018)
 this:AddCloseItem("离开")
 end
 				</menu>
@@ -54,17 +231,2160 @@ end
 	<quest id="100901" new="1">
 		<embranchment id="11" active="1">
 			<conditions>
-				<space size="1"/>
-				<timeouts long="86400" id="100901" less="0"/>
-				<gold type="Great" value="99"/>
+				<grade value="1"/>
 			</conditions>
 			<actions>
-				<notify content="你购买了荣誉之星"/>
-				<notify1 content="获得荣誉之星"/>
-				<notify1 content="金钱-1两"/>
-				<gold type="Sub" value="100"/>
-				<additem value="1" id="820"/>
-				<timeouts/>
+				<maxhonor type="Add" value="100000"/>
+			</actions>
+		</embranchment>
+		<embranchment id="12" active="1">
+			<conditions>
+				<caption/>
+			</conditions>
+			<actions>
+				<maxhonor type="Add" value="100000"/>
+			</actions>
+		</embranchment>
+		<embranchment id="13" active="1">
+			<conditions>
+				<item value="2" id="1507"/>
+			</conditions>
+			<actions>
+				<removeitem value="2" id="1507"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="14" active="1">
+			<conditions>
+				<item value="2" id="1517"/>
+			</conditions>
+			<actions>
+				<removeitem value="2" id="1517"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="15" active="1">
+			<conditions>
+				<item value="2" id="1527"/>
+			</conditions>
+			<actions>
+				<removeitem value="2" id="1527"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="16" active="1">
+			<conditions>
+				<item value="1" id="1517"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="1517"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="17" active="1">
+			<conditions>
+				<item value="1" id="1527"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="1527"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="18" active="1">
+			<conditions>
+				<item value="1" id="1537"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="1537"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+				<embranchment id="30001" active="1">
+			<conditions>
+				<item value="1" id="30001"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30001"/>
+				<additem value="1" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30002" active="1">
+			<conditions>
+				<item value="1" id="30002"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30002"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30003" active="1">
+			<conditions>
+				<item value="1" id="30003"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30003"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30004" active="1">
+			<conditions>
+				<item value="1" id="30004"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30004"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30005" active="1">
+			<conditions>
+				<item value="1" id="30005"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30005"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30006" active="1">
+			<conditions>
+				<item value="1" id="30006"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30006"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30007" active="1">
+			<conditions>
+				<item value="1" id="30007"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30007"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30008" active="1">
+			<conditions>
+				<item value="1" id="30008"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30008"/>
+				<additem value="2" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30051" active="1">
+			<conditions>
+				<item value="1" id="30051"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30051"/>
+				<additem value="1" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30052" active="1">
+			<conditions>
+				<item value="1" id="30052"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30052"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30053" active="1">
+			<conditions>
+				<item value="1" id="30053"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30053"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30054" active="1">
+			<conditions>
+				<item value="1" id="30054"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30054"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30055" active="1">
+			<conditions>
+				<item value="1" id="30055"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30055"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30056" active="1">
+			<conditions>
+				<item value="1" id="30056"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30056"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30057" active="1">
+			<conditions>
+				<item value="1" id="30057"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30057"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30058" active="1">
+			<conditions>
+				<item value="1" id="30058"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30058"/>
+				<additem value="2" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30101" active="1">
+			<conditions>
+				<item value="1" id="30101"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30101"/>
+				<additem value="1" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30102" active="1">
+			<conditions>
+				<item value="1" id="30102"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30102"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30103" active="1">
+			<conditions>
+				<item value="1" id="30103"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30103"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30104" active="1">
+			<conditions>
+				<item value="1" id="30104"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30104"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30105" active="1">
+			<conditions>
+				<item value="1" id="30105"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30105"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30106" active="1">
+			<conditions>
+				<item value="1" id="30106"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30106"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30107" active="1">
+			<conditions>
+				<item value="1" id="30107"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30107"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30108" active="1">
+			<conditions>
+				<item value="1" id="30108"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30108"/>
+				<additem value="2" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30151" active="1">
+			<conditions>
+				<item value="1" id="30151"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30151"/>
+				<additem value="1" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30152" active="1">
+			<conditions>
+				<item value="1" id="30152"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30152"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30153" active="1">
+			<conditions>
+				<item value="1" id="30153"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30153"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30154" active="1">
+			<conditions>
+				<item value="1" id="30154"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30154"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30155" active="1">
+			<conditions>
+				<item value="1" id="30155"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30155"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30156" active="1">
+			<conditions>
+				<item value="1" id="30156"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30156"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30157" active="1">
+			<conditions>
+				<item value="1" id="30157"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30157"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30158" active="1">
+			<conditions>
+				<item value="1" id="30158"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30158"/>
+				<additem value="2" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30201" active="1">
+			<conditions>
+				<item value="1" id="30201"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30201"/>
+				<additem value="1" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30202" active="1">
+			<conditions>
+				<item value="1" id="30202"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30202"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30203" active="1">
+			<conditions>
+				<item value="1" id="30203"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30203"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30204" active="1">
+			<conditions>
+				<item value="1" id="30204"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30204"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30205" active="1">
+			<conditions>
+				<item value="1" id="30205"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30205"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30206" active="1">
+			<conditions>
+				<item value="1" id="30206"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30206"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30207" active="1">
+			<conditions>
+				<item value="1" id="30207"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30207"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30208" active="1">
+			<conditions>
+				<item value="1" id="30208"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30208"/>
+				<additem value="2" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30251" active="1">
+			<conditions>
+				<item value="1" id="30251"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30251"/>
+				<additem value="1" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30252" active="1">
+			<conditions>
+				<item value="1" id="30252"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30252"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30253" active="1">
+			<conditions>
+				<item value="1" id="30253"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30253"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30254" active="1">
+			<conditions>
+				<item value="1" id="30254"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30254"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30255" active="1">
+			<conditions>
+				<item value="1" id="30255"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30255"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30256" active="1">
+			<conditions>
+				<item value="1" id="30256"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30256"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30257" active="1">
+			<conditions>
+				<item value="1" id="30257"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30257"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30258" active="1">
+			<conditions>
+				<item value="1" id="30258"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30258"/>
+				<additem value="2" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30302" active="1">
+			<conditions>
+				<item value="1" id="30302"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30302"/>
+				<additem value="1" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30303" active="1">
+			<conditions>
+				<item value="1" id="30303"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30303"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30304" active="1">
+			<conditions>
+				<item value="1" id="30304"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30304"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30305" active="1">
+			<conditions>
+				<item value="1" id="30305"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30305"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30306" active="1">
+			<conditions>
+				<item value="1" id="30306"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30306"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30307" active="1">
+			<conditions>
+				<item value="1" id="30307"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30307"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30308" active="1">
+			<conditions>
+				<item value="1" id="30308"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30308"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30309" active="1">
+			<conditions>
+				<item value="1" id="30309"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30309"/>
+				<additem value="2" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30402" active="1">
+			<conditions>
+				<item value="1" id="30402"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30402"/>
+				<additem value="1" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30403" active="1">
+			<conditions>
+				<item value="1" id="30403"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30403"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30404" active="1">
+			<conditions>
+				<item value="1" id="30404"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30404"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30405" active="1">
+			<conditions>
+				<item value="1" id="30405"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30405"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30406" active="1">
+			<conditions>
+				<item value="1" id="30406"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30406"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30407" active="1">
+			<conditions>
+				<item value="1" id="30407"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30407"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30408" active="1">
+			<conditions>
+				<item value="1" id="30408"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30408"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30409" active="1">
+			<conditions>
+				<item value="1" id="30409"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30409"/>
+				<additem value="2" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30502" active="1">
+			<conditions>
+				<item value="1" id="30502"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30502"/>
+				<additem value="1" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30503" active="1">
+			<conditions>
+				<item value="1" id="30503"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30503"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30504" active="1">
+			<conditions>
+				<item value="1" id="30504"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30504"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30505" active="1">
+			<conditions>
+				<item value="1" id="30505"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30505"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30506" active="1">
+			<conditions>
+				<item value="1" id="30506"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30506"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30507" active="1">
+			<conditions>
+				<item value="1" id="30507"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30507"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30508" active="1">
+			<conditions>
+				<item value="1" id="30508"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30508"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30509" active="1">
+			<conditions>
+				<item value="1" id="30509"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30509"/>
+				<additem value="2" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30552" active="1">
+			<conditions>
+				<item value="1" id="30552"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30552"/>
+				<additem value="1" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30553" active="1">
+			<conditions>
+				<item value="1" id="30553"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30553"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30554" active="1">
+			<conditions>
+				<item value="1" id="30554"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30554"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30555" active="1">
+			<conditions>
+				<item value="1" id="30555"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30555"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30556" active="1">
+			<conditions>
+				<item value="1" id="30556"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30556"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30557" active="1">
+			<conditions>
+				<item value="1" id="30557"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30557"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30558" active="1">
+			<conditions>
+				<item value="1" id="30558"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30558"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30559" active="1">
+			<conditions>
+				<item value="1" id="30559"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30559"/>
+				<additem value="2" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30602" active="1">
+			<conditions>
+				<item value="1" id="30602"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30602"/>
+				<additem value="1" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30603" active="1">
+			<conditions>
+				<item value="1" id="30603"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30603"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30604" active="1">
+			<conditions>
+				<item value="1" id="30604"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30604"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30605" active="1">
+			<conditions>
+				<item value="1" id="30605"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30605"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30606" active="1">
+			<conditions>
+				<item value="1" id="30606"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30606"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30607" active="1">
+			<conditions>
+				<item value="1" id="30607"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30607"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30608" active="1">
+			<conditions>
+				<item value="1" id="30608"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30608"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30609" active="1">
+			<conditions>
+				<item value="1" id="30609"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30609"/>
+				<additem value="2" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30652" active="1">
+			<conditions>
+				<item value="1" id="30652"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30652"/>
+				<additem value="1" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30653" active="1">
+			<conditions>
+				<item value="1" id="30653"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30653"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30654" active="1">
+			<conditions>
+				<item value="1" id="30654"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30654"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30655" active="1">
+			<conditions>
+				<item value="1" id="30655"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30655"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30656" active="1">
+			<conditions>
+				<item value="1" id="30656"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30656"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30657" active="1">
+			<conditions>
+				<item value="1" id="30657"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30657"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30658" active="1">
+			<conditions>
+				<item value="1" id="30658"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30658"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30659" active="1">
+			<conditions>
+				<item value="1" id="30659"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30659"/>
+				<additem value="2" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30701" active="1">
+			<conditions>
+				<item value="1" id="30701"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30701"/>
+				<additem value="1" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30702" active="1">
+			<conditions>
+				<item value="1" id="30702"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30702"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30703" active="1">
+			<conditions>
+				<item value="1" id="30703"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30703"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30704" active="1">
+			<conditions>
+				<item value="1" id="30704"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30704"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30705" active="1">
+			<conditions>
+				<item value="1" id="30705"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30705"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30706" active="1">
+			<conditions>
+				<item value="1" id="30706"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30706"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30707" active="1">
+			<conditions>
+				<item value="1" id="30707"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30707"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30708" active="1">
+			<conditions>
+				<item value="1" id="30708"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30708"/>
+				<additem value="2" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30753" active="1">
+			<conditions>
+				<item value="1" id="30753"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30753"/>
+				<additem value="1" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30755" active="1">
+			<conditions>
+				<item value="1" id="30755"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30755"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30757" active="1">
+			<conditions>
+				<item value="1" id="30757"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30757"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30759" active="1">
+			<conditions>
+				<item value="1" id="30759"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30759"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30761" active="1">
+			<conditions>
+				<item value="1" id="30761"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30761"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30763" active="1">
+			<conditions>
+				<item value="1" id="30763"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30763"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30765" active="1">
+			<conditions>
+				<item value="1" id="30765"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30765"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30767" active="1">
+			<conditions>
+				<item value="1" id="30767"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30767"/>
+				<additem value="2" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30754" active="1">
+			<conditions>
+				<item value="1" id="30754"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30754"/>
+				<additem value="1" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30756" active="1">
+			<conditions>
+				<item value="1" id="30756"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30756"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30758" active="1">
+			<conditions>
+				<item value="1" id="30758"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30758"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30760" active="1">
+			<conditions>
+				<item value="1" id="30760"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30760"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30762" active="1">
+			<conditions>
+				<item value="1" id="30762"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30762"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30764" active="1">
+			<conditions>
+				<item value="1" id="30764"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30764"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30766" active="1">
+			<conditions>
+				<item value="1" id="30766"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30766"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30768" active="1">
+			<conditions>
+				<item value="1" id="30768"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30768"/>
+				<additem value="2" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30803" active="1">
+			<conditions>
+				<item value="1" id="30803"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30803"/>
+				<additem value="1" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30805" active="1">
+			<conditions>
+				<item value="1" id="30805"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30805"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30807" active="1">
+			<conditions>
+				<item value="1" id="30807"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30807"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30809" active="1">
+			<conditions>
+				<item value="1" id="30809"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30809"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30811" active="1">
+			<conditions>
+				<item value="1" id="30811"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30811"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30813" active="1">
+			<conditions>
+				<item value="1" id="30813"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30813"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30815" active="1">
+			<conditions>
+				<item value="1" id="30815"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30815"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30817" active="1">
+			<conditions>
+				<item value="1" id="30817"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30817"/>
+				<additem value="2" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30804" active="1">
+			<conditions>
+				<item value="1" id="30804"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30804"/>
+				<additem value="1" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30806" active="1">
+			<conditions>
+				<item value="1" id="30806"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30806"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30808" active="1">
+			<conditions>
+				<item value="1" id="30808"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30808"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30810" active="1">
+			<conditions>
+				<item value="1" id="30810"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30810"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30812" active="1">
+			<conditions>
+				<item value="1" id="30812"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30812"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30814" active="1">
+			<conditions>
+				<item value="1" id="30814"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30814"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30816" active="1">
+			<conditions>
+				<item value="1" id="30816"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30816"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30818" active="1">
+			<conditions>
+				<item value="1" id="30818"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30818"/>
+				<additem value="2" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30853" active="1">
+			<conditions>
+				<item value="1" id="30853"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30853"/>
+				<additem value="1" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30855" active="1">
+			<conditions>
+				<item value="1" id="30855"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30855"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30857" active="1">
+			<conditions>
+				<item value="1" id="30857"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30857"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30859" active="1">
+			<conditions>
+				<item value="1" id="30859"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30859"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30861" active="1">
+			<conditions>
+				<item value="1" id="30861"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30861"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30863" active="1">
+			<conditions>
+				<item value="1" id="30863"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30863"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30865" active="1">
+			<conditions>
+				<item value="1" id="30865"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30865"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30867" active="1">
+			<conditions>
+				<item value="1" id="30867"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30867"/>
+				<additem value="2" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30854" active="1">
+			<conditions>
+				<item value="1" id="30854"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30854"/>
+				<additem value="1" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30856" active="1">
+			<conditions>
+				<item value="1" id="30856"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30856"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30858" active="1">
+			<conditions>
+				<item value="1" id="30858"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30858"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30860" active="1">
+			<conditions>
+				<item value="1" id="30860"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30860"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30862" active="1">
+			<conditions>
+				<item value="1" id="30862"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30862"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30864" active="1">
+			<conditions>
+				<item value="1" id="30864"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30864"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30866" active="1">
+			<conditions>
+				<item value="1" id="30866"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30866"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30868" active="1">
+			<conditions>
+				<item value="1" id="30868"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30868"/>
+				<additem value="2" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30901" active="1">
+			<conditions>
+				<item value="1" id="30901"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30901"/>
+				<additem value="1" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30903" active="1">
+			<conditions>
+				<item value="1" id="30903"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30903"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30905" active="1">
+			<conditions>
+				<item value="1" id="30905"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30905"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30907" active="1">
+			<conditions>
+				<item value="1" id="30907"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30907"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30909" active="1">
+			<conditions>
+				<item value="1" id="30909"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30909"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30911" active="1">
+			<conditions>
+				<item value="1" id="30911"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30911"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30913" active="1">
+			<conditions>
+				<item value="1" id="30913"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30913"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30915" active="1">
+			<conditions>
+				<item value="1" id="30915"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30915"/>
+				<additem value="2" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30902" active="1">
+			<conditions>
+				<item value="1" id="30902"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30902"/>
+				<additem value="1" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30904" active="1">
+			<conditions>
+				<item value="1" id="30904"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30904"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30906" active="1">
+			<conditions>
+				<item value="1" id="30906"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30906"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30908" active="1">
+			<conditions>
+				<item value="1" id="30908"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30908"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30910" active="1">
+			<conditions>
+				<item value="1" id="30910"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30910"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30912" active="1">
+			<conditions>
+				<item value="1" id="30912"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30912"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30914" active="1">
+			<conditions>
+				<item value="1" id="30914"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30914"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30916" active="1">
+			<conditions>
+				<item value="1" id="30916"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30916"/>
+				<additem value="2" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30953" active="1">
+			<conditions>
+				<item value="1" id="30953"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30953"/>
+				<additem value="1" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30955" active="1">
+			<conditions>
+				<item value="1" id="30955"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30955"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30957" active="1">
+			<conditions>
+				<item value="1" id="30957"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30957"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30959" active="1">
+			<conditions>
+				<item value="1" id="30959"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30959"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30961" active="1">
+			<conditions>
+				<item value="1" id="30961"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30961"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30963" active="1">
+			<conditions>
+				<item value="1" id="30963"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30963"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30965" active="1">
+			<conditions>
+				<item value="1" id="30965"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30965"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30967" active="1">
+			<conditions>
+				<item value="1" id="30967"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30967"/>
+				<additem value="2" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30954" active="1">
+			<conditions>
+				<item value="1" id="30954"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30954"/>
+				<additem value="1" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30956" active="1">
+			<conditions>
+				<item value="1" id="30956"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30956"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30958" active="1">
+			<conditions>
+				<item value="1" id="30958"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30958"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30960" active="1">
+			<conditions>
+				<item value="1" id="30960"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30960"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30962" active="1">
+			<conditions>
+				<item value="1" id="30962"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30962"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30964" active="1">
+			<conditions>
+				<item value="1" id="30964"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30964"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30966" active="1">
+			<conditions>
+				<item value="1" id="30966"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30966"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="30968" active="1">
+			<conditions>
+				<item value="1" id="30968"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="30968"/>
+				<additem value="2" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31003" active="1">
+			<conditions>
+				<item value="1" id="31003"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31003"/>
+				<additem value="1" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31005" active="1">
+			<conditions>
+				<item value="1" id="31005"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31005"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31007" active="1">
+			<conditions>
+				<item value="1" id="31007"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31007"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31009" active="1">
+			<conditions>
+				<item value="1" id="31009"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31009"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31011" active="1">
+			<conditions>
+				<item value="1" id="31011"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31011"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31013" active="1">
+			<conditions>
+				<item value="1" id="31013"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31013"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31015" active="1">
+			<conditions>
+				<item value="1" id="31015"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31015"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31017" active="1">
+			<conditions>
+				<item value="1" id="31017"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31017"/>
+				<additem value="2" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31004" active="1">
+			<conditions>
+				<item value="1" id="31004"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31004"/>
+				<additem value="1" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31006" active="1">
+			<conditions>
+				<item value="1" id="31006"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31006"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31008" active="1">
+			<conditions>
+				<item value="1" id="31008"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31008"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31010" active="1">
+			<conditions>
+				<item value="1" id="31010"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31010"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31012" active="1">
+			<conditions>
+				<item value="1" id="31012"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31012"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31014" active="1">
+			<conditions>
+				<item value="1" id="31014"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31014"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31016" active="1">
+			<conditions>
+				<item value="1" id="31016"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31016"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31018" active="1">
+			<conditions>
+				<item value="1" id="31018"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31018"/>
+				<additem value="2" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31992" active="1">
+			<conditions>
+				<item value="1" id="31992"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31992"/>
+				<additem value="1" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31993" active="1">
+			<conditions>
+				<item value="1" id="31993"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31993"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31994" active="1">
+			<conditions>
+				<item value="1" id="31994"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31994"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31995" active="1">
+			<conditions>
+				<item value="1" id="31995"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31995"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31996" active="1">
+			<conditions>
+				<item value="1" id="31996"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31996"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31997" active="1">
+			<conditions>
+				<item value="1" id="31997"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31997"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31998" active="1">
+			<conditions>
+				<item value="1" id="31998"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31998"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31999" active="1">
+			<conditions>
+				<item value="1" id="31999"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31999"/>
+				<additem value="2" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31993" active="1">
+			<conditions>
+				<item value="1" id="31993"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31993"/>
+				<additem value="1" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31994" active="1">
+			<conditions>
+				<item value="1" id="31994"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31994"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31995" active="1">
+			<conditions>
+				<item value="1" id="31995"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31995"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31996" active="1">
+			<conditions>
+				<item value="1" id="31996"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31996"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31997" active="1">
+			<conditions>
+				<item value="1" id="31997"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31997"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31998" active="1">
+			<conditions>
+				<item value="1" id="31998"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31998"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="31999" active="1">
+			<conditions>
+				<item value="1" id="31999"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="31999"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="32000" active="1">
+			<conditions>
+				<item value="1" id="32000"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="32000"/>
+				<additem value="2" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="32492" active="1">
+			<conditions>
+				<item value="1" id="32492"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="32492"/>
+				<additem value="1" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="32493" active="1">
+			<conditions>
+				<item value="1" id="32493"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="32493"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="32494" active="1">
+			<conditions>
+				<item value="1" id="32494"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="32494"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="32495" active="1">
+			<conditions>
+				<item value="1" id="32495"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="32495"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="32496" active="1">
+			<conditions>
+				<item value="1" id="32496"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="32496"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="32497" active="1">
+			<conditions>
+				<item value="1" id="32497"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="32497"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="32498" active="1">
+			<conditions>
+				<item value="1" id="32498"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="32498"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="32499" active="1">
+			<conditions>
+				<item value="1" id="32499"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="32499"/>
+				<additem value="2" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="32493" active="1">
+			<conditions>
+				<item value="1" id="32493"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="32493"/>
+				<additem value="1" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="32494" active="1">
+			<conditions>
+				<item value="1" id="32494"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="32494"/>
+				<additem value="2" id="1507"/>
+			</actions>
+		</embranchment>
+		<embranchment id="32495" active="1">
+			<conditions>
+				<item value="1" id="32495"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="32495"/>
+				<additem value="1" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="32496" active="1">
+			<conditions>
+				<item value="1" id="32496"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="32496"/>
+				<additem value="2" id="1517"/>
+			</actions>
+		</embranchment>
+		<embranchment id="32497" active="1">
+			<conditions>
+				<item value="1" id="32497"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="32497"/>
+				<additem value="1" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="32498" active="1">
+			<conditions>
+				<item value="1" id="32498"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="32498"/>
+				<additem value="2" id="1527"/>
+			</actions>
+		</embranchment>
+		<embranchment id="32499" active="1">
+			<conditions>
+				<item value="1" id="32499"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="32499"/>
+				<additem value="1" id="1537"/>
+			</actions>
+		</embranchment>
+		<embranchment id="32500" active="1">
+			<conditions>
+				<item value="1" id="32500"/>
+			</conditions>
+			<actions>
+				<removeitem value="1" id="32500"/>
+				<additem value="2" id="1537"/>
 			</actions>
 		</embranchment>
 	</quest>
