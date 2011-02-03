@@ -25303,6 +25303,7 @@
 			<event type="on_visit" source="852.xml"/>
 			<event type="on_visit" source="838.xml"/>
 			<event type="on_visit" source="860.xml"/>
+			<event type="on_visit" source="884.xml"/>
 			<event type="on_visit" source="885.xml"/>
 			<event type="on_kill" source="16695.xml"/>
 			<event type="on_kill" source="16696.xml"/>
