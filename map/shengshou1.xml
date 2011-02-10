@@ -244,6 +244,44 @@
 	<npc id="16624" name="夜魔力士" width="10" height="12" x="66" y="125" num="30" interval="2"/>
 	<npc id="16625" name="月魔人" width="10" height="12" x="66" y="125" num="30" interval="2"/>
 	<!-- initstate表示Npc初始属性是否是隐藏的 -->
+	<npc id="3010" name="狼王" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="3008" name="兽王" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30002" name="山大王" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30008" name="异族头目" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30012" name="叛军大将" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30014" name="僵尸王" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30015" name="骷髅王" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30019" name="赤鳞蛟龙" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30020" name="火魔蛟龙(魔)" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30023" name="大块头" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30025" name="蚌精(魔)" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30027" name="混石力士(魔)" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30028" name="钢化巨灵" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30029" name="巨猿" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30030" name="血猿王" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30031" name="武夷王" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30032" name="石化魔人" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30033" name="滨海岛主" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30035" name="灵蛇(魔)" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30051" name="联军副将" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30052" name="联军中将(魔)" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30053" name="联军头目" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30054" name="联军副将" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30055" name="联军中将" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30056" name="联军头目（魔）" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30057" name="夜魔尊主（魔）" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30061" name="鸭" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30062" name="异族男巫(魔)" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30063" name="血魔教徒（魔）" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30064" name="夜魔教徒" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30065" name="小犬一狼" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30070" name="飞天猪" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30071" name="铁兽" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30072" name="大将灵王(魔)" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="30073" name="石怪(魔)" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="130001" name="僵尸王" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="130002" name="骷髅王" width="156" height="178" x="14" y="6" num="1" interval="600"/>
+	<npc id="150002" name="武夷王" width="156" height="178" x="14" y="6" num="1" interval="600"/>
 	<zonedef width="17" height="26" x="149" y="39" type="1" color="0,0,255,0"/>
 	<zonedef width="17" height="26" x="152" y="113" type="1" color="0,0,255,0"/>
 	<zonedef width="17" height="26" x="113" y="5" type="1" color="0,0,255,0"/>
