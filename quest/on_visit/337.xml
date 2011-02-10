@@ -4320,8 +4320,10 @@ end
 			</conditions>
 			<actions>
 				<notify1 content="完成国家任务，经验增加"/>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50001" name="selflevel"/>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50001" name="country_killl_selflevel"/>
 				<var type="Set" name="kill" value="0"/>
@@ -4555,8 +4557,10 @@ end
 			</conditions>
 			<actions>
 				<notify1 content="完成国家任务，经验增加"/>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50016" name="selflevel"/>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50016" name="country_killl_selflevel"/>
 				<var type="Set" name="state" value="-2"/>
@@ -4781,8 +4785,10 @@ end
 			</conditions>
 			<actions>
 				<notify1 content="完成国家任务，经验增加"/>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50017" name="selflevel"/>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50017" name="country_killl_selflevel"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5014,8 +5020,10 @@ end
 			</conditions>
 			<actions>
 				<notify1 content="完成国家任务，经验增加"/>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50018" name="selflevel"/>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50018" name="country_killl_selflevel"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5237,8 +5245,10 @@ end
 			</conditions>
 			<actions>
 				<notify1 content="完成国家任务，经验增加"/>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50019" name="selflevel"/>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50019" name="country_killl_selflevel"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5460,8 +5470,10 @@ end
 			</conditions>
 			<actions>
 				<notify1 content="完成国家任务，经验增加"/>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50020" name="selflevel"/>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50020" name="country_killl_selflevel"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5682,8 +5694,10 @@ end
 			</conditions>
 			<actions>
 				<notify1 content="完成国家任务，经验增加"/>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50023" name="selflevel"/>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50023" name="country_killl_selflevel"/>
 				<var type="Set" name="state" value="-2"/>
@@ -5905,8 +5919,10 @@ end
 			</conditions>
 			<actions>
 				<notify1 content="完成国家任务，经验增加"/>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50024" name="selflevel"/>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50024" name="country_killl_selflevel"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6130,8 +6146,10 @@ end
 			</conditions>
 			<actions>
 				<notify1 content="完成国家任务，经验增加"/>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50025" name="selflevel"/>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50025" name="country_killl_selflevel"/>
 				<var type="Set" name="state" value="-2"/>
@@ -6346,8 +6364,10 @@ end
 			</conditions>
 			<actions>
 				<notify1 content="完成国家任务，经验增加"/>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50026" name="selflevel"/>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="50026" name="country_killl_selflevel"/>
 				<var type="Set" name="state" value="-2"/>

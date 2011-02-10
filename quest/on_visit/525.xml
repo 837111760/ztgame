@@ -353,6 +353,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="16480"/>
 				<notify1 content="经验+16480"/>
@@ -380,6 +381,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="16480"/>
 				<notify1 content="经验+16480"/>
@@ -407,6 +409,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="16480"/>
 				<notify1 content="经验+16480"/>
@@ -454,6 +457,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="24720"/>
 				<notify1 content="经验+24720"/>
@@ -482,6 +486,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="24720"/>
 				<notify1 content="经验+24720"/>
@@ -510,6 +515,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="24720"/>
 				<notify1 content="经验+24720"/>
@@ -553,6 +559,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21201"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="18200"/>
 				<notify1 content="经验+18200"/>
@@ -578,6 +585,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21201"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="18200"/>
 				<notify1 content="经验+18200"/>
@@ -603,6 +611,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21201"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="18200"/>
 				<notify1 content="经验+18200"/>
@@ -989,6 +998,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="66780"/>
 				<notify1 content="经验+66780"/>
@@ -1016,6 +1026,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="66780"/>
 				<notify1 content="经验+66780"/>
@@ -1043,6 +1054,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="66780"/>
 				<notify1 content="经验+66780"/>
@@ -1090,6 +1102,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="96460"/>
 				<notify1 content="经验+96460"/>
@@ -1118,6 +1131,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="96460"/>
 				<notify1 content="经验+96460"/>
@@ -1146,6 +1160,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="96460"/>
 				<notify1 content="经验+96460"/>
@@ -1188,6 +1203,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21211"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="61400"/>
 				<notify1 content="经验+61400"/>
@@ -1213,6 +1229,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21211"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="61400"/>
 				<notify1 content="经验+61400"/>
@@ -1238,6 +1255,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21211"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="61400"/>
 				<notify1 content="经验+61400"/>
@@ -1627,6 +1645,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="148230"/>
 				<notify1 content="经验+148230"/>
@@ -1654,6 +1673,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="148230"/>
 				<notify1 content="经验+148230"/>
@@ -1681,6 +1701,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="148230"/>
 				<notify1 content="经验+148230"/>
@@ -1728,6 +1749,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="207522"/>
 				<notify1 content="经验+207522"/>
@@ -1756,6 +1778,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="207522"/>
 				<notify1 content="经验+207522"/>
@@ -1784,6 +1807,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="207522"/>
 				<notify1 content="经验+207522"/>
@@ -1826,6 +1850,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21221"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="125020"/>
 				<notify1 content="经验+125020"/>
@@ -1851,6 +1876,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21221"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="125020"/>
 				<notify1 content="经验+125020"/>
@@ -1876,6 +1902,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21221"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="125020"/>
 				<notify1 content="经验+125020"/>
@@ -2272,6 +2299,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="292171"/>
 				<notify1 content="经验+292171"/>
@@ -2299,6 +2327,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="292171"/>
 				<notify1 content="经验+292171"/>
@@ -2326,6 +2355,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="292171"/>
 				<notify1 content="经验+292171"/>
@@ -2373,6 +2403,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="398415"/>
 				<notify1 content="经验+398415"/>
@@ -2401,6 +2432,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="398415"/>
 				<notify1 content="经验+398415"/>
@@ -2429,6 +2461,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="398415"/>
 				<notify1 content="经验+398415"/>
@@ -2472,6 +2505,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21231"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="205100"/>
 				<notify1 content="经验+205100"/>
@@ -2497,6 +2531,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21231"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="205100"/>
 				<notify1 content="经验+205100"/>
@@ -2522,6 +2557,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21231"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="205100"/>
 				<notify1 content="经验+205100"/>
@@ -2927,6 +2963,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="472560"/>
 				<notify1 content="经验+472560"/>
@@ -2954,6 +2991,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="472560"/>
 				<notify1 content="经验+472560"/>
@@ -2981,6 +3019,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="472560"/>
 				<notify1 content="经验+472560"/>
@@ -3028,6 +3067,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="630080"/>
 				<notify1 content="经验+630080"/>
@@ -3056,6 +3096,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="630080"/>
 				<notify1 content="经验+630080"/>
@@ -3084,6 +3125,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="630080"/>
 				<notify1 content="经验+630080"/>
@@ -3127,6 +3169,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21241"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="300100"/>
 				<notify1 content="经验+300100"/>
@@ -3152,6 +3195,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21241"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="300100"/>
 				<notify1 content="经验+300100"/>
@@ -3177,6 +3221,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21241"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="300100"/>
 				<notify1 content="经验+300100"/>
@@ -3591,6 +3636,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="658125"/>
 				<notify1 content="经验+658125"/>
@@ -3618,6 +3664,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="658125"/>
 				<notify1 content="经验+658125"/>
@@ -3645,6 +3692,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="658125"/>
 				<notify1 content="经验+658125"/>
@@ -3692,6 +3740,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="860625"/>
 				<notify1 content="经验+860625"/>
@@ -3720,6 +3769,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="860625"/>
 				<notify1 content="经验+860625"/>
@@ -3748,6 +3798,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="860625"/>
 				<notify1 content="经验+860625"/>
@@ -3791,6 +3842,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21251"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="362500"/>
 				<notify1 content="经验+362500"/>
@@ -3816,6 +3868,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21251"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="362500"/>
 				<notify1 content="经验+362500"/>
@@ -3841,6 +3894,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21251"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="362500"/>
 				<notify1 content="经验+362500"/>
@@ -4263,6 +4317,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="879375"/>
 				<notify1 content="经验+879375"/>
@@ -4290,6 +4345,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="879375"/>
 				<notify1 content="经验+879375"/>
@@ -4317,6 +4373,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="879375"/>
 				<notify1 content="经验+879375"/>
@@ -4364,6 +4421,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="1130625"/>
 				<notify1 content="经验+1130625"/>
@@ -4392,6 +4450,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="1130625"/>
 				<notify1 content="经验+1130625"/>
@@ -4420,6 +4479,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="1130625"/>
 				<notify1 content="经验+1130625"/>
@@ -4463,6 +4523,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21261"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="468750"/>
 				<notify1 content="经验+468750"/>
@@ -4488,6 +4549,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21261"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="468750"/>
 				<notify1 content="经验+468750"/>
@@ -4513,6 +4575,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21261"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="468750"/>
 				<notify1 content="经验+468750"/>
@@ -4944,6 +5007,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="1127002"/>
 				<notify1 content="经验+1127002"/>
@@ -4971,6 +5035,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="1127002"/>
 				<notify1 content="经验+1127002"/>
@@ -4998,6 +5063,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="1127002"/>
 				<notify1 content="经验+1127002"/>
@@ -5045,6 +5111,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="1427536"/>
 				<notify1 content="经验+1427536"/>
@@ -5073,6 +5140,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="1427536"/>
 				<notify1 content="经验+1427536"/>
@@ -5101,6 +5169,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="1427536"/>
 				<notify1 content="经验+1427536"/>
@@ -5144,6 +5213,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21271"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="539000"/>
 				<notify1 content="经验+539000"/>
@@ -5169,6 +5239,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21271"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="539000"/>
 				<notify1 content="经验+539000"/>
@@ -5194,6 +5265,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21271"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="539000"/>
 				<notify1 content="经验+539000"/>
@@ -5634,6 +5706,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="1380000"/>
 				<notify1 content="经验+1380000"/>
@@ -5661,6 +5734,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="1380000"/>
 				<notify1 content="经验+1380000"/>
@@ -5688,6 +5762,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="1380000"/>
 				<notify1 content="经验+1380000"/>
@@ -5735,6 +5810,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="1725000"/>
 				<notify1 content="经验+1725000"/>
@@ -5763,6 +5839,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="1725000"/>
 				<notify1 content="经验+1725000"/>
@@ -5791,6 +5868,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="1725000"/>
 				<notify1 content="经验+1725000"/>
@@ -5834,6 +5912,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21281"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="612500"/>
 				<notify1 content="经验+612500"/>
@@ -5859,6 +5938,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21281"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="612500"/>
 				<notify1 content="经验+612500"/>
@@ -5884,6 +5964,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21281"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp value="612500"/>
 				<notify1 content="经验+612500"/>
@@ -6412,6 +6493,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21291" name="selflevel"/>
 				<notify content="增加了经验"/>
@@ -6439,6 +6521,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21291" name="selflevel"/>
 				<notify content="增加了经验"/>
@@ -6466,6 +6549,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21291" name="selflevel"/>
 				<notify content="增加了经验"/>
@@ -6528,6 +6612,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21291" name="selflevel"/>
 				<notify content="增加了经验"/>
@@ -6556,6 +6641,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21291" name="selflevel"/>
 				<notify content="增加了经验"/>
@@ -6584,6 +6670,7 @@ end
 				<uservar type="Less" name="get" value="2"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21291" name="selflevel"/>
 				<notify content="增加了经验"/>
@@ -6642,6 +6729,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21291"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21291" name="selflevel"/>
 				<notify content="增加了经验"/>
@@ -6667,6 +6755,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21291"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21291" name="selflevel"/>
 				<notify content="增加了经验"/>
@@ -6692,6 +6781,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21291"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21291" name="selflevel"/>
 				<notify content="增加了经验"/>
@@ -6753,6 +6843,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21291"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21291" name="selflevel"/>
 				<notify content="增加了经验"/>
@@ -6778,6 +6869,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21291"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21291" name="selflevel"/>
 				<notify content="增加了经验"/>
@@ -6803,6 +6895,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21291"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21291" name="selflevel"/>
 				<notify content="增加了经验"/>
@@ -6864,6 +6957,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21291"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21291" name="selflevel"/>
 				<notify content="增加了经验"/>
@@ -6889,6 +6983,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21291"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21291" name="selflevel"/>
 				<notify content="增加了经验"/>
@@ -6914,6 +7009,7 @@ end
 				<var type="Differ" name="state" value="-1" id="21291"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="21291" name="selflevel"/>
 				<notify content="增加了经验"/>

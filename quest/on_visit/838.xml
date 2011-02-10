@@ -27,6 +27,7 @@ end
 				<var type="Equal" name="state" value="-3" id="20107"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="20107" name="selflevel"/>
 				<notify1 content="任务完成，增加经验"/>
@@ -818,8 +819,10 @@ end
 				<var type="Equal" name="state" value="-3" id="20108"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="20108" name="selflevel"/>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="10000"/>
 				<exp1 value="100" id="20108" name="bread_selflevel"/>
 				<notify1 content="任务完成，增加经验"/>

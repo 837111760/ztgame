@@ -245,6 +245,7 @@ end
 				<grade value="1"/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="100000"/>
 			</actions>
 		</embranchment>
@@ -253,6 +254,7 @@ end
 				<caption/>
 			</conditions>
 			<actions>
+				<notify1 content="任务完成，得到金子"/>
 				<maxhonor type="Add" value="100000"/>
 			</actions>
 		</embranchment>
