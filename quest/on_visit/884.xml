@@ -9,9 +9,21 @@
 			<actions>
 				<menu>
 function TaskDialog()
+this:AddDialogItem("国王每天领取金子(0)", "Dialog71")
+this:AddDialogItem("城主每天领取金子(0)", "Dialog72")
+this:AddDialogItem("VIP材料换VIP材料(0)", "Dialog73")
 this:AddDialogItem("VIP装备换VIP材料(0)", "Dialog74")
-this:AddTaskCmdItem("国王每天领取金子(0)", "v884", 100901, 11)
-this:AddTaskCmdItem("城主每天领取金子(0)", "v884", 100901, 12)
+end
+function Dialog71()
+this:AddTalk("    国王每天领取金子。")
+this:AddTaskCmdItem("确定领取金子(0)", "v884", 100901, 11)
+end
+function Dialog72()
+this:AddTalk("    城主每天领取金子。")
+this:AddTaskCmdItem("确定领取金子(0)", "v884", 100901, 12)
+end
+function Dialog73()
+this:AddTalk("    VIP材料换VIP材料。")
 this:AddTaskCmdItem("2个丝绸-VIP换取1个银-VIP(0)", "v884", 100901, 13)
 this:AddTaskCmdItem("2个银-VIP换取1个水晶-VIP(0)", "v884", 100901, 14)
 this:AddTaskCmdItem("2个水晶-VIP换取1个乌木-VIP(0)", "v884", 100901, 15)
@@ -222,7 +234,6 @@ this:AddTaskCmdItem("圣者戒指(魔)+5换取1个水晶（VIP）(0)", "v884", 100901, 216)
 this:AddTaskCmdItem("圣者戒指(魔)+6换取2个水晶（VIP）(0)", "v884", 100901, 217)
 this:AddTaskCmdItem("圣者戒指(魔)+7换取1个乌木（VIP）(0)", "v884", 100901, 218)
 this:AddTaskCmdItem("圣者戒指(魔)+8换取2个乌木（VIP）(0)", "v884", 100901, 219)
-this:AddCloseItem("离开")
 end
 				</menu>
 			</actions>
@@ -231,7 +242,7 @@ end
 	<quest id="100901" new="1">
 		<embranchment id="11" active="1">
 			<conditions>
-				
+				<grade value="1"/>
 			</conditions>
 			<actions>
 				<maxhonor type="Add" value="100000"/>
@@ -252,6 +263,18 @@ end
 			<actions>
 				<removeitem value="2" level="5" id="1507"/>
 				<additem value="1" level="5" id="1517"/>
+				<menu>
+function TaskDialog()
+this:AddTalk("    VIP材料换VIP材料。")
+this:AddTaskCmdItem("2个丝绸-VIP换取1个银-VIP(0)", "v884", 100901, 13)
+this:AddTaskCmdItem("2个银-VIP换取1个水晶-VIP(0)", "v884", 100901, 14)
+this:AddTaskCmdItem("2个水晶-VIP换取1个乌木-VIP(0)", "v884", 100901, 15)
+this:AddTaskCmdItem("1个银-VIP换取2个丝绸-VIP(0)", "v884", 100901, 16)
+this:AddTaskCmdItem("1个水晶-VIP换取2个银-VIP(0)", "v884", 100901, 17)
+this:AddTaskCmdItem("1个乌木-VIP换取2个水晶-VIP(0)", "v884", 100901, 18)
+this:AddCloseItem("离开")
+end
+				</menu>
 			</actions>
 		</embranchment>
 		<embranchment id="14" active="1">
@@ -261,6 +284,18 @@ end
 			<actions>
 				<removeitem value="2" level="5" id="1517"/>
 				<additem value="1" level="5" id="1527"/>
+				<menu>
+function TaskDialog()
+this:AddTalk("    VIP材料换VIP材料。")
+this:AddTaskCmdItem("2个丝绸-VIP换取1个银-VIP(0)", "v884", 100901, 13)
+this:AddTaskCmdItem("2个银-VIP换取1个水晶-VIP(0)", "v884", 100901, 14)
+this:AddTaskCmdItem("2个水晶-VIP换取1个乌木-VIP(0)", "v884", 100901, 15)
+this:AddTaskCmdItem("1个银-VIP换取2个丝绸-VIP(0)", "v884", 100901, 16)
+this:AddTaskCmdItem("1个水晶-VIP换取2个银-VIP(0)", "v884", 100901, 17)
+this:AddTaskCmdItem("1个乌木-VIP换取2个水晶-VIP(0)", "v884", 100901, 18)
+this:AddCloseItem("离开")
+end
+				</menu>
 			</actions>
 		</embranchment>
 		<embranchment id="15" active="1">
@@ -270,6 +305,18 @@ end
 			<actions>
 				<removeitem value="2" level="5" id="1527"/>
 				<additem value="1" level="5" id="1537"/>
+				<menu>
+function TaskDialog()
+this:AddTalk("    VIP材料换VIP材料。")
+this:AddTaskCmdItem("2个丝绸-VIP换取1个银-VIP(0)", "v884", 100901, 13)
+this:AddTaskCmdItem("2个银-VIP换取1个水晶-VIP(0)", "v884", 100901, 14)
+this:AddTaskCmdItem("2个水晶-VIP换取1个乌木-VIP(0)", "v884", 100901, 15)
+this:AddTaskCmdItem("1个银-VIP换取2个丝绸-VIP(0)", "v884", 100901, 16)
+this:AddTaskCmdItem("1个水晶-VIP换取2个银-VIP(0)", "v884", 100901, 17)
+this:AddTaskCmdItem("1个乌木-VIP换取2个水晶-VIP(0)", "v884", 100901, 18)
+this:AddCloseItem("离开")
+end
+				</menu>
 			</actions>
 		</embranchment>
 		<embranchment id="16" active="1">
@@ -279,6 +326,18 @@ end
 			<actions>
 				<removeitem value="1" level="5" id="1517"/>
 				<additem value="2" level="5" id="1507"/>
+				<menu>
+function TaskDialog()
+this:AddTalk("    VIP材料换VIP材料。")
+this:AddTaskCmdItem("2个丝绸-VIP换取1个银-VIP(0)", "v884", 100901, 13)
+this:AddTaskCmdItem("2个银-VIP换取1个水晶-VIP(0)", "v884", 100901, 14)
+this:AddTaskCmdItem("2个水晶-VIP换取1个乌木-VIP(0)", "v884", 100901, 15)
+this:AddTaskCmdItem("1个银-VIP换取2个丝绸-VIP(0)", "v884", 100901, 16)
+this:AddTaskCmdItem("1个水晶-VIP换取2个银-VIP(0)", "v884", 100901, 17)
+this:AddTaskCmdItem("1个乌木-VIP换取2个水晶-VIP(0)", "v884", 100901, 18)
+this:AddCloseItem("离开")
+end
+				</menu>
 			</actions>
 		</embranchment>
 		<embranchment id="17" active="1">
@@ -288,6 +347,18 @@ end
 			<actions>
 				<removeitem value="1" level="5" id="1527"/>
 				<additem value="2" level="5" id="1517"/>
+				<menu>
+function TaskDialog()
+this:AddTalk("    VIP材料换VIP材料。")
+this:AddTaskCmdItem("2个丝绸-VIP换取1个银-VIP(0)", "v884", 100901, 13)
+this:AddTaskCmdItem("2个银-VIP换取1个水晶-VIP(0)", "v884", 100901, 14)
+this:AddTaskCmdItem("2个水晶-VIP换取1个乌木-VIP(0)", "v884", 100901, 15)
+this:AddTaskCmdItem("1个银-VIP换取2个丝绸-VIP(0)", "v884", 100901, 16)
+this:AddTaskCmdItem("1个水晶-VIP换取2个银-VIP(0)", "v884", 100901, 17)
+this:AddTaskCmdItem("1个乌木-VIP换取2个水晶-VIP(0)", "v884", 100901, 18)
+this:AddCloseItem("离开")
+end
+				</menu>
 			</actions>
 		</embranchment>
 		<embranchment id="18" active="1">
@@ -297,6 +368,18 @@ end
 			<actions>
 				<removeitem value="1" level="5" id="1537"/>
 				<additem value="2" level="5" id="1527"/>
+				<menu>
+function TaskDialog()
+this:AddTalk("    VIP材料换VIP材料。")
+this:AddTaskCmdItem("2个丝绸-VIP换取1个银-VIP(0)", "v884", 100901, 13)
+this:AddTaskCmdItem("2个银-VIP换取1个水晶-VIP(0)", "v884", 100901, 14)
+this:AddTaskCmdItem("2个水晶-VIP换取1个乌木-VIP(0)", "v884", 100901, 15)
+this:AddTaskCmdItem("1个银-VIP换取2个丝绸-VIP(0)", "v884", 100901, 16)
+this:AddTaskCmdItem("1个水晶-VIP换取2个银-VIP(0)", "v884", 100901, 17)
+this:AddTaskCmdItem("1个乌木-VIP换取2个水晶-VIP(0)", "v884", 100901, 18)
+this:AddCloseItem("离开")
+end
+				</menu>
 			</actions>
 		</embranchment>
 		<embranchment id="20" active="1">
