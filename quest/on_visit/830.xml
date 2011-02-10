@@ -28,7 +28,7 @@ end
 			</conditions>
 			<actions>
 				<exp value="92392"/>
-                                <maxhonor type="Add" value="10000"/>
+                                <gold type="Add" value="10000"/>
 				<notify1 content="经验+92392；银子+1锭"/>
 				<notify content="恭喜你完成了“地保”任务"/>
 				<var type="Set" name="state" value="-1" id="371"/>

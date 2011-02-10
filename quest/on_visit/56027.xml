@@ -62,7 +62,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="6两押金退还了"/>
-				<maxhonor type="Add" value="600"/>
+				<gold type="Add" value="600"/>
 				<exp value="5000"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<notify1 content="经验+5000"/>
@@ -75,7 +75,7 @@ end
 			</conditions>
 			<actions>
 				<notify content="由于你超过规定时间，所以只退给你3两押金"/>
-				<maxhonor type="Add" value="300"/>
+				<gold type="Add" value="300"/>
 				<exp value="5000"/>
 				<notify content="你完成了运镖，增加了经验"/>
 				<notify1 content="经验+5000"/>

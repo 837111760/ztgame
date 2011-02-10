@@ -91,7 +91,7 @@ end
 			</conditions>
 			<actions>
 				<exp value="85000"/>
-                                <maxhonor type="Add" value="20000"/>
+                                <gold type="Add" value="20000"/>
 				<notify1 content="经验+85000；银子+2锭"/>
 				<notify content="恭喜你完成了“禁术”任务"/>
 				<var type="Set" name="state" value="-1" id="385"/>

@@ -134,7 +134,7 @@ end
 			</conditions>
 			<actions>
 				<exp value="158472"/>
-				<maxhonor type="Add" value="40000"/>
+				<gold type="Add" value="40000"/>
 				<notify1 content="经验+158472；银子+4锭"/>
 				<notify content="恭喜你完成了“犬戎”任务"/>
 				<var type="Set" name="state" value="-1" id="437"/>
@@ -275,7 +275,7 @@ end
 			</conditions>
 			<actions>
 				<exp value="236400"/>
-				<maxhonor type="Add" value="40000"/>
+				<gold type="Add" value="40000"/>
 				<notify1 content="经验+236400；银子+4锭"/>
 				<notify content="恭喜你完成了“借问”任务"/>
 				<var type="Set" name="state" value="-1" id="445"/>
